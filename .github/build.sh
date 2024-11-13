@@ -51,3 +51,6 @@ python .github/scripts/toc/her_toc.py
 
 echo "Table of contents generated successfully!"
 
+python .github/scripts/file/gen_search_index.py
+python .github/scripts/file/analysis_search_index.py
+echo "Search index generated successfully!"
