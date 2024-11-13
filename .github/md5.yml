@@ -5940,8 +5940,8 @@ news_香港有逾百人完成变性手术其中“女变男”占多.md:
   md5: 9581549f1576689315317090fc87ca2f
 news_马斯克收购推特背后故事：因变性女儿断绝关系而痛恨觉醒主义.md:
   name: news_马斯克收购推特背后故事：因变性女儿断绝关系而痛恨觉醒主义.md
-  path: news-website/腾讯新闻/news_马斯克收购推特背后故事：因变性女儿断绝关系而痛恨觉醒主义.md
-  md5: 207bab4c059e56394450826200e6be94
+  path: news-website/凤凰网/news_马斯克收购推特背后故事：因变性女儿断绝关系而痛恨觉醒主义.md
+  md5: 384b1c734b06be0a0bae01798b32d1b7
 news_马斯克点赞的“反变性”电影遭限流后，推特安全主管辞职.md:
   name: news_马斯克点赞的“反变性”电影遭限流后，推特安全主管辞职.md
   path: news-website/凤凰网/news_马斯克点赞的“反变性”电影遭限流后，推特安全主管辞职.md
@@ -5972,8 +5972,8 @@ oneamongus.pdf:
   md5: ce307faaf10e3e5b5c2722c84787b897
 page.yml:
   name: page.yml
-  path: news-website/新浪新闻/page.yml
-  md5: d509f8edf3563f3c8681696ab71f2680
+  path: news-website/网易新闻/page.yml
+  md5: 9f8888000efec1e1cb2e623a5edf80ab
 phtv_变性女艺人自杀获救后的幕后故事_-_凤凰卫视.md:
   name: phtv_变性女艺人自杀获救后的幕后故事_-_凤凰卫视.md
   path: news-website/凤凰网/phtv_变性女艺人自杀获救后的幕后故事_-_凤凰卫视.md
@@ -9298,6 +9298,10 @@ zx_调查：社会夹缝与边缘的“药娘”群体_-_新浪.md:
   name: 女性生殖器整形美容_陈敏亮_主译_徐潇_副主译_Z_Library.pdf
   path: 学术文献/医学/女性生殖器整形美容_陈敏亮_主译_徐潇_副主译_Z_Library.pdf
   md5: 3a9c25b5800d3afafe82fb0e7a4f2941
+女装入门到精通.pdf:
+  name: 女装入门到精通.pdf
+  path: 社群及NGO文件/手册指南/女装入门到精通.pdf
+  md5: c00f239331c6379cacc76e9c40c6b35f
 好想做个女孩子-伪娘养成手册.pdf:
   name: 好想做个女孩子-伪娘养成手册.pdf
   path: 社群及NGO文件/手册指南/好想做个女孩子-伪娘养成手册.pdf
