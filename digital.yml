@@ -1,0 +1,13 @@
+independence:
+  - name: 新闻网页存档与资料库
+    path: news-website/README.md
+    url: https://news.transchinese.org/
+
+ignore:
+  - '.*news-website.*'
+  - '.*webpage_archive.*'
+  - '.*\.github.*'
+  - '.*\.git.*'
+  - '.*CODE_OF_CONDUCT\.md.*'
+  - '.*LICENSE.*'
+  - 'digital\.yml'
