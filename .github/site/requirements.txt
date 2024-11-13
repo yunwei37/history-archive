@@ -1,0 +1,10 @@
+mkdocs-material
+mkdocs-material[imaging]
+mkdocs-git-authors-plugin
+mkdocs-git-revision-date-localized-plugin
+mkdocs-rss-plugin
+mkdocs-static-i18n[material]
+python-dotenv
+openai
+pdfplumber
+python-docx

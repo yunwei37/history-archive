@@ -1,0 +1,140 @@
+name: NGO
+description: 这一目录包含关于跨性别群体的统计报告和资料指南，旨在提供有效的资源和数据支持，帮助人们更好地理解和关注跨性别群体的需求与现状。
+curator: ''
+source: ''
+tags:
+- 跨性别
+- 统计报告
+- 资料指南
+- 资源支持
+- 社群
+- NGO
+license: ''
+files:
+- name: CareOregon_性別確認照護
+  filename: CareOregon_性別確認照護.pdf
+  type: document
+  format: PDF Document
+  size: 512757
+  md5: b4870f25fb1f2c61c5d7c0a7ecb10981
+  page: CareOregon_性別確認照護_page.md
+- name: CareOregon_性别认定护理
+  filename: CareOregon_性别认定护理.pdf
+  type: document
+  format: PDF Document
+  size: 505511
+  md5: 2b1bfef5b6e90b083013e76d91a6a905
+  page: CareOregon_性别认定护理_page.md
+- name: PDF_LGBTQ_History_and_Culture_Since_1940_-_Gale
+  filename: PDF_LGBTQ_History_and_Culture_Since_1940_-_Gale.pdf
+  type: document
+  format: PDF Document
+  size: 3187617
+  md5: bd6ca4045bbc71c8fa81b67e3e7b0087
+  page: PDF_LGBTQ_History_and_Culture_Since_1940_-_Gale_page.md
+- name: PDF_中意综合保障团体医疗保险条款
+  filename: PDF_中意综合保障团体医疗保险条款.pdf
+  type: document
+  format: PDF Document
+  size: 357379
+  md5: bed6affb9bc2d53410bf0d3ee708898b
+  page: PDF_中意综合保障团体医疗保险条款_page.md
+- name: PDF_为青年跨性别女权运动筹措资源并参与其中
+  filename: PDF_为青年跨性别女权运动筹措资源并参与其中.pdf
+  type: document
+  format: PDF Document
+  size: 473222
+  md5: 72ad822af2806d695d182099f8bc085b
+  page: PDF_为青年跨性别女权运动筹措资源并参与其中_page.md
+- name: PDF_国内LGBTQ社区建设经验分享
+  filename: PDF_国内LGBTQ社区建设经验分享.pdf
+  type: document
+  format: PDF Document
+  size: 2596598
+  md5: cae5cd7d07fb67042e5753ac90489a13
+  page: PDF_国内LGBTQ社区建设经验分享_page.md
+- name: PDF_国华华宝无忧个人税收优惠型健康保险万能型B款产品说明书
+  filename: PDF_国华华宝无忧个人税收优惠型健康保险万能型B款产品说明书.pdf
+  type: document
+  format: PDF Document
+  size: 345874
+  md5: 10bfda14c2ad7313d32e8b320bd6a414
+  page: PDF_国华华宝无忧个人税收优惠型健康保险万能型B款产品说明书_page.md
+- name: PDF_招商信诺附加家庭住院手术医疗保险条款阅读指引
+  filename: PDF_招商信诺附加家庭住院手术医疗保险条款阅读指引.pdf
+  type: document
+  format: PDF Document
+  size: 372027
+  md5: aaae17c1b87e997663f35fcb0df84d66
+  page: PDF_招商信诺附加家庭住院手术医疗保险条款阅读指引_page.md
+- name: PDF_环球尊尚医疗计划指南_-_永诚保险
+  filename: PDF_环球尊尚医疗计划指南_-_永诚保险.pdf
+  type: document
+  format: PDF Document
+  size: 3989242
+  md5: 1888b0b81c928be8ee7e37183c40c6cf
+  page: PDF_环球尊尚医疗计划指南_-_永诚保险_page.md
+- name: PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間
+  filename: PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間.pdf
+  type: document
+  format: PDF Document
+  size: 5188006
+  md5: 1c1659f911bc572c19beab4b1dd979b8
+  page: PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間_page.md
+- name: oneamongus
+  filename: oneamongus.pdf
+  type: document
+  format: PDF Document
+  size: 308210
+  md5: ce307faaf10e3e5b5c2722c84787b897
+  page: oneamongus_page.md
+- name: 中国跨性别口述史项目计划书-20240122
+  filename: 中国跨性别口述史项目计划书-20240122.pdf
+  type: document
+  format: PDF Document
+  size: 327455
+  md5: 5e64367296446e251d0d5fd4f6d5cc1d
+  page: 中国跨性别口述史项目计划书-20240122_page.md
+- name: 全国心理援助热线机构联系信息心理服务与援助机构
+  filename: 全国心理援助热线机构联系信息心理服务与援助机构.pdf
+  type: document
+  format: PDF Document
+  size: 311496
+  md5: 0ba65b9d7a6e24147eb7e5a5a3ec3e06
+  page: 全国心理援助热线机构联系信息心理服务与援助机构_page.md
+- name: 寒涟漪庇护所介绍第一版
+  filename: 寒涟漪庇护所介绍第一版.pdf
+  type: document
+  format: PDF Document
+  size: 381122
+  md5: 097c484a15b0423e75d3e29aec5e1ae3
+  page: 寒涟漪庇护所介绍第一版_page.md
+- name: 我骄傲我奉献真色彩_麦肯锡
+  filename: 我骄傲我奉献真色彩_麦肯锡.pdf
+  type: document
+  format: PDF Document
+  size: 511412
+  md5: 7c786689aac42bfe912165d5491556bd
+  page: 我骄傲我奉献真色彩_麦肯锡_page.md
+- name: 种族平等和多元化声明
+  filename: 种族平等和多元化声明.pdf
+  type: document
+  format: PDF Document
+  size: 222239
+  md5: 5049427b19f13ba2f59e6ef5a76ed2c1
+  page: 种族平等和多元化声明_page.md
+- name: 迈瑞_多元化平等与包容性政策
+  filename: 迈瑞_多元化平等与包容性政策.pdf
+  type: document
+  format: PDF Document
+  size: 281716
+  md5: 5ce7c4f06b5d1401da94fe6afa84ecc9
+  page: 迈瑞_多元化平等与包容性政策_page.md
+- name: 项目名项目合作协议
+  filename: 项目名项目合作协议.pdf
+  type: document
+  format: PDF Document
+  size: 370430
+  md5: fcddc4a8880b95757340a539023f2345
+  page: 项目名项目合作协议_page.md
+subdirs: []

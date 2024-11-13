@@ -1,0 +1,70 @@
+name: 中国大陆
+description: 这一目录包含了有关中国大陆的跨性别社群及非政府组织（NGO）的信息和资源，旨在为跨性别者提供一个互助与支持的平台。
+curator: ''
+source: ''
+tags:
+- 社群
+- NGO
+- 跨性别
+- 中国大陆
+- 支持
+- 互助
+license: ''
+files:
+- name: 2017秋季泰国法政大学交流心得
+  filename: 2017秋季泰国法政大学交流心得.pdf
+  type: document
+  format: PDF Document
+  size: 123399
+  md5: 4cdb65d30c36ecc8d3a3a9b7624fa6ae
+  page: 2017秋季泰国法政大学交流心得_page.md
+- name: TERF问答
+  filename: TERF问答.docx
+  type: document
+  format: Microsoft Word Document (OpenXML)
+  size: 18424
+  md5: 59704420f23c08dada7d4e148c0d0876
+  page: TERF问答_page.md
+- name: 不知道哪里来的课件_第四章变态心理
+  filename: 不知道哪里来的课件_第四章变态心理.pdf
+  type: document
+  format: PDF Document
+  size: 746859
+  md5: 1ccb435c8790fc6700e5405197929114
+  page: 不知道哪里来的课件_第四章变态心理_page.md
+- name: 关于在住院期间某位患者的言论情况整理
+  filename: 关于在住院期间某位患者的言论情况整理.pdf
+  type: document
+  format: PDF Document
+  size: 1583138
+  md5: 424b25553fb65896b0b7b17fb0f04452
+  page: 关于在住院期间某位患者的言论情况整理_page.md
+- name: 完全变装手册最后5章部分翻译
+  filename: 完全变装手册最后5章部分翻译.pdf
+  type: document
+  format: PDF Document
+  size: 612359
+  md5: a9628752ee15481d1729762af49ed2fd
+  page: 完全变装手册最后5章部分翻译_page.md
+- name: 搞事情
+  filename: 搞事情.pdf
+  type: document
+  format: PDF Document
+  size: 2152009
+  md5: 69514b89b8a81a1897550192051c09fd
+  page: 搞事情_page.md
+- name: 第四章变态心理教案授课时间
+  filename: 第四章变态心理教案授课时间.pdf
+  type: document
+  format: PDF Document
+  size: 229237
+  md5: 2f69a22553f7be3b20062eddf60e9498
+  page: 第四章变态心理教案授课时间_page.md
+- name: 致函于贵院，关于一位患者在贵院西城院区住院期间的举报_北京友谊医院
+  filename: 致函于贵院，关于一位患者在贵院西城院区住院期间的举报_北京友谊医院.pdf
+  type: document
+  format: PDF Document
+  size: 2995594
+  md5: 80357de3013a5d74362851ad6c7a0283
+  page: 致函于贵院，关于一位患者在贵院西城院区住院期间的举报_北京友谊医院_page.md
+subdirs: []

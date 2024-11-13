@@ -1,0 +1,27 @@
+name: 其他地区
+description: 该目录包含与跨性别政策和法律相关的政府及官方组织文件，旨在为跨性别者提供合法权益方面的指导和支持，特别是在其他地区的实施情况和伴侣制度的适用性。
+curator: ''
+source: ''
+tags:
+- 政策法规
+- 法律支持
+- 跨性别权益
+- 伴侣制度
+- 政府文件
+license: ''
+files:
+- name: PDF_心智能力法令_-_被授权人指南_-_MSF
+  filename: PDF_心智能力法令_-_被授权人指南_-_MSF.pdf
+  type: document
+  format: PDF Document
+  size: 1100302
+  md5: 4b00d39ee5a01042e08ae2ef50be4b5e
+  page: PDF_心智能力法令_-_被授权人指南_-_MSF_page.md
+- name: PDF_港区伴侣制度_适用手册（第１版）
+  filename: PDF_港区伴侣制度_适用手册（第１版）.pdf
+  type: document
+  format: PDF Document
+  size: 1048906
+  md5: 36364306eaa5a93db5de40325c6d51b6
+  page: PDF_港区伴侣制度_适用手册（第１版）_page.md
+subdirs: []

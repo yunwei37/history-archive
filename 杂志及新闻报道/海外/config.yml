@@ -1,0 +1,21 @@
+name: 海外
+description: 此目录包含与跨性别相关的国际杂志和新闻报道，旨在分享海外跨性别群体的生活、挑战和成就。这些报道和文章提供了宝贵的视角，加深公众对跨性别议题的理解，促进社会包容。
+curator: ''
+source: ''
+tags:
+- 跨性别
+- 海外报道
+- 国际新闻
+- 生存现状
+- 公共理解
+- 社会包容
+license: ''
+files:
+- name: PDF_看见性别_观察家
+  filename: PDF_看见性别_观察家.pdf
+  type: document
+  format: PDF Document
+  size: 5395633
+  md5: c168cd101f84ed7499aa51685f36a7d2
+  page: PDF_看见性别_观察家_page.md
+subdirs: []

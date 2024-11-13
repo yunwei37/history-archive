@@ -1,0 +1,49 @@
+name: 港澳台
+description: 本目录收录与港澳台地区相关的跨性别报道与杂志内容，包括对跨性别者的生活、法律、医疗等多方面的报道，旨在宣传和提高社会对跨性别问题的认知与理解。
+curator: ''
+source: ''
+tags:
+- 跨性别
+- 港澳台
+- 新闻报道
+- 社会意识
+- 生命故事
+- 医疗资源
+license: ''
+files:
+- name: 变性人的法理情_明光社
+  filename: 变性人的法理情_明光社.pdf
+  type: document
+  format: PDF Document
+  size: 1271265
+  md5: 911c720808804eaf7e942aabff32d23b
+  page: 变性人的法理情_明光社_page.md
+- name: 多元性別_楓城書訊
+  filename: 多元性別_楓城書訊.pdf
+  type: document
+  format: PDF Document
+  size: 818893
+  md5: 083a85c992f32720759685b128746f17
+  page: 多元性別_楓城書訊_page.md
+- name: 為兒童和青少年保留選擇權
+  filename: 為兒童和青少年保留選擇權.pdf
+  type: document
+  format: PDF Document
+  size: 183431
+  md5: 6fa05772eb0bb6808faff873216c9cde
+  page: 為兒童和青少年保留選擇權_page.md
+- name: 衛生部規範變性手術_申請人須易性逾兩年_大公报
+  filename: 衛生部規範變性手術_申請人須易性逾兩年_大公报.pdf
+  type: document
+  format: PDF Document
+  size: 864346
+  md5: 472d0304cf16cef30fef5528b564a33a
+  page: 衛生部規範變性手術_申請人須易性逾兩年_大公报_page.md
+- name: 認定自己生錯了性別_大公报
+  filename: 認定自己生錯了性別_大公报.pdf
+  type: document
+  format: PDF Document
+  size: 1228159
+  md5: 651093630c662350235f1522b8c6b980
+  page: 認定自己生錯了性別_大公报_page.md
+subdirs: []

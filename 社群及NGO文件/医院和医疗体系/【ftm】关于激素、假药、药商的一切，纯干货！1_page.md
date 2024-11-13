@@ -1,0 +1,30 @@
+# 【ftm】关于激素、假药、药商的一切，纯干货！1
+
+<!-- tcd_download_link -->
+Download: [【ftm】关于激素、假药、药商的一切，纯干货！1.docx](【ftm】关于激素、假药、药商的一切，纯干货！1.docx)
+<!-- tcd_download_link_end -->
+
+## 摘要
+
+<!-- tcd_abstract -->
+该文件名为《【ftm】关于激素、假药、药商的一切，纯干货！》，由匿名作者G0SSIP撰写，重点讨论了关于跨性别男性（ftm）所用激素的具体信息。内容主要分为三个部分：第一部分详细介绍了适合ftm（激素替代疗法，HRT）使用的药物，包括庚酸、环戊丙酸和十一酸，强调这些药物与健身用的混合睾酮的区别，说明正常的用药剂量及其效果。第二部分则集中于假药问题，分析国内激素市场的现状，讨论了假冒药品的危险性及如何辨别；同时列出了一些曾经被质疑或曝光的药品案例。最后一部分提供了药商的价格对比，指出隐含的商业利益及其对跨性别群体的影响，揭示了一些药商的实际操作手法和价格标准。整篇文章意在帮助跨性别群体更好地了解相关医疗信息，减少在选择激素和药商时的误区和风险。
+
+<!-- tcd_abstract_end -->
+
+## 其他信息
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | 【ftm】关于激素、假药、药商的一切，纯干货！1.docx                             |
+| Type            | document                                 |
+| Format          | Microsoft Word Document (OpenXML)                               |
+| Size            | 4037217 bytes                           |
+| MD5             | 096bd675e51a91555979d1bead7f6d51                                  |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Author          | G0SSIP                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 激素替代疗法, HRT, 医疗资源, 假药问题, 药商价格对比, ftm, 生命故事与过渡经历                                 |
+
+本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。

@@ -1,0 +1,29 @@
+name: 小说
+description: 本目录收录与跨性别相关的小说作品，涵盖了跨性别者的生活经历、情感纠葛及自我认同等主题。作品通过文学的方式，表达了跨性别者的独特声音与故事，旨在提高社会对这一群体的理解与关注。
+curator: ''
+source: ''
+tags:
+- 跨性别
+- 文学作品
+- 小说
+- 艺术创作
+- 自我认同
+- 生命故事
+license: ''
+files:
+- name: 王安黛-中篇严肃悬疑-缺耳女_二稿修正版
+  filename: 王安黛-中篇严肃悬疑-缺耳女_二稿修正版.docx
+  type: document
+  format: Microsoft Word Document (OpenXML)
+  size: 220567
+  md5: 26de3327da3eb924a70d89054d69d11a
+  page: 王安黛-中篇严肃悬疑-缺耳女_二稿修正版_page.md
+- name: 药娘的天空
+  filename: 药娘的天空.pdf
+  type: document
+  format: PDF Document
+  size: 22571390
+  md5: 068ef1ef592f2ae5ef1561778550e40f
+  page: 药娘的天空_page.md
+subdirs:
+- 《银荆的告白》1-5卷

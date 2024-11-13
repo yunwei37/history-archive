@@ -1,0 +1,181 @@
+name: 统计报告
+description: 此目录包含与跨性别群体相关的统计报告，为研究人员和政策制定者提供有关跨性别者生存现状和需求的数据支持。这些报告致力于反映跨性别者在社会中的真实情况，包括人口统计、健康状况和社会接纳度等方面的信息。
+curator: ''
+source: ''
+tags:
+- 跨性别
+- 统计报告
+- 社会研究
+- 生存现状
+- 数据分析
+license: ''
+files:
+- name: 2020年《跨性別就業與職場調查》報告.docx
+  filename: 2020年《跨性別就業與職場調查》報告.docx.pdf
+  type: document
+  format: PDF Document
+  size: 5866512
+  md5: 37db8372bff54bb6ef632ae2044a047c
+  page: 2020年《跨性別就業與職場調查》報告.docx_page.md
+- name: 2021全国跨性别健康调研报告
+  filename: 2021全国跨性别健康调研报告.pdf
+  type: document
+  format: PDF Document
+  size: 54388250
+  md5: 70205e5cbe4ff8c2aac5afc1b299fb62
+  page: 2021全国跨性别健康调研报告_page.md
+- name: LGBTQ+_老年人调查报告
+  filename: LGBTQ+_老年人调查报告.pdf
+  type: document
+  format: PDF Document
+  size: 1249632
+  md5: a2643014e16c9681d5393afbe4391ac0
+  page: LGBTQ+_老年人调查报告_page.md
+- name: PDF_中国大陆对LGBTQ_群体的正面态度
+  filename: PDF_中国大陆对LGBTQ_群体的正面态度.pdf
+  type: document
+  format: PDF Document
+  size: 2486026
+  md5: a39d4c4b234ef1f2353f03f118c4ebf2
+  page: PDF_中国大陆对LGBTQ_群体的正面态度_page.md
+- name: PDF_中国彩虹媒体奖2018-2019_年度彩虹媒体监测报告
+  filename: PDF_中国彩虹媒体奖2018-2019_年度彩虹媒体监测报告.pdf
+  type: document
+  format: PDF Document
+  size: 1321201
+  md5: ff42c0be8ef901e8f28507f3eeff3f36
+  page: PDF_中国彩虹媒体奖2018-2019_年度彩虹媒体监测报告_page.md
+- name: PDF_中国跨性别者受教育权状况研究报告_201903_v10pdf
+  filename: PDF_中国跨性别者受教育权状况研究报告_201903_v10pdf.pdf
+  type: document
+  format: PDF Document
+  size: 14509659
+  md5: eff36a88720b73e83258dab4f09b826c
+  page: PDF_中国跨性别者受教育权状况研究报告_201903_v10pdf_page.md
+- name: PDF_反人权运动对性工作者的影响简报
+  filename: PDF_反人权运动对性工作者的影响简报.pdf
+  type: document
+  format: PDF Document
+  size: 741930
+  md5: 65eb3ddd8e2a5ec7d08c33c58ff3fbe6
+  page: PDF_反人权运动对性工作者的影响简报_page.md
+- name: PDF_性工作者经济赋权简报
+  filename: PDF_性工作者经济赋权简报.pdf
+  type: document
+  format: PDF Document
+  size: 799987
+  md5: 73327cd4c3ac942762d42748f8c645ce
+  page: PDF_性工作者经济赋权简报_page.md
+- name: PDF_我想保留天生的模样_美国双性儿童遭受的非医疗必要手术
+  filename: PDF_我想保留天生的模样_美国双性儿童遭受的非医疗必要手术.pdf
+  type: document
+  format: PDF Document
+  size: 636197
+  md5: 99dc3b9d438d928a227182b60f6bee85
+  page: PDF_我想保留天生的模样_美国双性儿童遭受的非医疗必要手术_page.md
+- name: PDF_让我们谈谈性工作_全球性工作项目网络
+  filename: PDF_让我们谈谈性工作_全球性工作项目网络.pdf
+  type: document
+  format: PDF Document
+  size: 1398268
+  md5: 4aad64fb917f7e0d5b13d4fe7a71e382
+  page: PDF_让我们谈谈性工作_全球性工作项目网络_page.md
+- name: PDF_跨性別人士在保安部門遇到的性騷擾
+  filename: PDF_跨性別人士在保安部門遇到的性騷擾.pdf
+  type: document
+  format: PDF Document
+  size: 1154085
+  md5: 964c094039849746efa76fe8cbcef854
+  page: PDF_跨性別人士在保安部門遇到的性騷擾_page.md
+- name: PDF_阴阳人双性人间性人组织现状1
+  filename: PDF_阴阳人双性人间性人组织现状1.pdf
+  type: document
+  format: PDF Document
+  size: 559276
+  md5: dfd58f68607fc1a4ef007158e8b49267
+  page: PDF_阴阳人双性人间性人组织现状1_page.md
+- name: T_S_W简报09_跨性别性工作者的需求与权利
+  filename: T_S_W简报09_跨性别性工作者的需求与权利.pdf
+  type: document
+  format: PDF Document
+  size: 1038667
+  md5: 2004caf351b12a012481a3f7f286c176
+  page: T_S_W简报09_跨性别性工作者的需求与权利_page.md
+- name: 中国多元性别女性的生活与权益_研究报告（2023_年_第一版）
+  filename: 中国多元性别女性的生活与权益_研究报告（2023_年_第一版）.pdf
+  type: document
+  format: PDF Document
+  size: 1488577
+  md5: fe5f433ae92780b6fa86a457bd33563d
+  page: 中国多元性别女性的生活与权益_研究报告（2023_年_第一版）_page.md
+- name: 中国多元性别未成年人的生活与权益
+  filename: 中国多元性别未成年人的生活与权益.pdf
+  type: document
+  format: PDF Document
+  size: 1699501
+  md5: 360a28e036fe757d79252beff4e639b2
+  page: 中国多元性别未成年人的生活与权益_page.md
+- name: 中国跨性别群体-_生存现状调查报告
+  filename: 中国跨性别群体-_生存现状调查报告.pdf
+  type: document
+  format: PDF Document
+  size: 4173788
+  md5: 3c793d4f6a8d8cf227c1dfcfac08a0e8
+  page: 中国跨性别群体-_生存现状调查报告_page.md
+- name: 中国跨性别者寻求性别确认医疗程序时遇到的障碍_国际特赦组织
+  filename: 中国跨性别者寻求性别确认医疗程序时遇到的障碍_国际特赦组织.pdf
+  type: document
+  format: PDF Document
+  size: 1809600
+  md5: 92cfd90e74f4d6bf06ab5b92e76d6e06
+  page: 中国跨性别者寻求性别确认医疗程序时遇到的障碍_国际特赦组织_page.md
+- name: 全球跨性别健康与幸福指数议题
+  filename: 全球跨性别健康与幸福指数议题.pdf
+  type: document
+  format: PDF Document
+  size: 7325864
+  md5: 94e6a0b3ff97dab9f9a2e3c253528523
+  page: 全球跨性别健康与幸福指数议题_page.md
+- name: 公众对变性人士权利的看法_中国_-_Williams_Institute
+  filename: 公众对变性人士权利的看法_中国_-_Williams_Institute.pdf
+  type: document
+  format: PDF Document
+  size: 3488751
+  md5: bbb721dc39941ff0a6c0f14153e07645
+  page: 公众对变性人士权利的看法_中国_-_Williams_Institute_page.md
+- name: 北京上海跨性别女性性工作者生存状况调查
+  filename: 北京上海跨性别女性性工作者生存状况调查.pdf
+  type: document
+  format: PDF Document
+  size: 4038854
+  md5: 7049c4f41b8b6c70e17e14234e5eb88e
+  page: 北京上海跨性别女性性工作者生存状况调查_page.md
+- name: 探讨LGBT群体的权_利_骄傲与偏见
+  filename: 探讨LGBT群体的权_利_骄傲与偏见.pdf
+  type: document
+  format: PDF Document
+  size: 1372857
+  md5: 7c7e6e6e896c59606a573ad5aab3c081
+  page: 探讨LGBT群体的权_利_骄傲与偏见_page.md
+- name: 跨性别组织现状第二版
+  filename: 跨性别组织现状第二版.pdf
+  type: document
+  format: PDF Document
+  size: 532701
+  md5: d5d474bf581eeb2eb9b30ac38b8f9233
+  page: 跨性别组织现状第二版_page.md
+- name: 跨性别者性别认同的法律承认_中国相关法律和政策的评估报告
+  filename: 跨性别者性别认同的法律承认_中国相关法律和政策的评估报告.pdf
+  type: document
+  format: PDF Document
+  size: 1834064
+  md5: 0df297220bb53afd9a54834e50a71710
+  page: 跨性别者性别认同的法律承认_中国相关法律和政策的评估报告_page.md
+- name: 香港男跨女跨性別人士愛滋病風險及流行情況調查2017
+  filename: 香港男跨女跨性別人士愛滋病風險及流行情況調查2017.pdf
+  type: document
+  format: PDF Document
+  size: 268695
+  md5: 978592b854a59eed4260f00ee98d1f76
+  page: 香港男跨女跨性別人士愛滋病風險及流行情況調查2017_page.md
+subdirs: []

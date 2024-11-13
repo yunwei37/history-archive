@@ -1,0 +1,77 @@
+name: 自传
+description: 该目录收录与跨性别相关的自传性文学作品，展示跨性别者的生命故事与过渡经历。自传不仅反映个人的成长与探索，还记录了在社会环境中的真实挑战与心路历程，具有重要的文学价值和社会意义。
+curator: ''
+source: ''
+tags:
+- 跨性别
+- 自传
+- 文学
+- 生命故事
+- 过渡经历
+license: ''
+files:
+- name: PDF_我的雙性人生_-_OII_Europe_歐洲雙性人自我敘說
+  filename: PDF_我的雙性人生_-_OII_Europe_歐洲雙性人自我敘說.pdf
+  type: document
+  format: PDF Document
+  size: 9066765
+  md5: bb61fd329620b1377545be31ed479542
+  page: PDF_我的雙性人生_-_OII_Europe_歐洲雙性人自我敘說_page.md
+- name: PDF_跨性別學生母親的心路歷程與對性平教育的期許
+  filename: PDF_跨性別學生母親的心路歷程與對性平教育的期許.pdf
+  type: document
+  format: PDF Document
+  size: 888496
+  md5: cc990b1faa8a8aa504dd4ae66d448265
+  page: PDF_跨性別學生母親的心路歷程與對性平教育的期許_page.md
+- name: 一个阉人的真实故事
+  filename: 一个阉人的真实故事.pdf
+  type: document
+  format: PDF Document
+  size: 14866511
+  md5: a539d7e7d3d0fc876d00f06ae13a0e37
+  page: 一个阉人的真实故事_page.md
+- name: 从变装到变性_-_他（她）的真实自述
+  filename: 从变装到变性_-_他（她）的真实自述.txt
+  type: document
+  format: Plain Text
+  size: 29100
+  md5: a3b5784e055742edc39f694fff16a9e3
+  page: 从变装到变性_-_他（她）的真实自述_page.md
+- name: 女人梦——中国变性第一人
+  filename: 女人梦——中国变性第一人.pdf
+  type: document
+  format: PDF Document
+  size: 63952472
+  md5: 420882df1ea11f08490be296c1467d2c
+  page: 女人梦——中国变性第一人_page.md
+- name: 我在泰国做“人妖”_尼莎
+  filename: 我在泰国做“人妖”_尼莎.pdf
+  type: document
+  format: PDF Document
+  size: 235626
+  md5: 839f7c0a62dbc921301e9b537b3b9def
+  page: 我在泰国做“人妖”_尼莎_page.md
+- name: 我的一生_刘培麟日记_-_刘培麟_唐冠华_-_2019
+  filename: 我的一生_刘培麟日记_-_刘培麟_唐冠华_-_2019.pdf
+  type: document
+  format: PDF Document
+  size: 12471353
+  md5: 76c60b0a18a36865f4ff6ae4592b3210
+  page: 我的一生_刘培麟日记_-_刘培麟_唐冠华_-_2019_page.md
+- name: 我认为我可能会是跨性别者
+  filename: 我认为我可能会是跨性别者.pdf
+  type: document
+  format: PDF Document
+  size: 1094512
+  md5: e5362a445ea9473840448370527aad34
+  page: 我认为我可能会是跨性别者_page.md
+- name: 泰国“人妖”是这样“炼”成_子——一名广西男青年的自述_杜启荣
+  filename: 泰国“人妖”是这样“炼”成_子——一名广西男青年的自述_杜启荣.pdf
+  type: document
+  format: PDF Document
+  size: 3392142
+  md5: db01be0b858b55c31a645048835e6f1b
+  page: 泰国“人妖”是这样“炼”成_子——一名广西男青年的自述_杜启荣_page.md
+subdirs:
+- 一个阉人的真实故事
