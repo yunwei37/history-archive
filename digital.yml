@@ -1,6 +1,6 @@
 independence:
   - name: 新闻网页存档与资料库
-    path: news-website/README.md
+    path: https://raw.githubusercontent.com/transTerminus/news-website/refs/heads/main/README.md
     url: https://news.transchinese.org/
 
 ignore:

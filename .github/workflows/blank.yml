@@ -4,11 +4,15 @@ on:
     branches:
       - master 
       - main
-permissions:
-  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write      # Add permission for GitHub Pages
+      id-token: write   # Add permission for GitHub Pages deployment
+
     steps:
       - uses: actions/checkout@v4
         with:
@@ -49,3 +53,16 @@ jobs:
       #     PUBLISH_AS_DRAFT: 'true'  # Or 'false' if you want to publish directly
       #   run: |
       #     python .github/manage/publish.py
+      
+
+      - name: Create docs directory
+        run: |
+          mkdir -p docs
+          cp -r .github docs/
+          cp README.md docs/
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'docs'
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
