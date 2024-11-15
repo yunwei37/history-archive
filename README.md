@@ -1,4 +1,4 @@
-# 跨性别中文数字档案馆
+# 跨性别中文数字图书馆
 
 在这个信息快速流动但又易逝的时代，我们希望成为泛中文社区跨性别历史的见证者与守护者。
 
@@ -9,28 +9,34 @@
 
 ## 网站
 
-- [主站点与文档存档库: digital.transchinese.org](https://digital.transchinese.org)
+- [主站点与精品文档存档库: digital.transchinese.org](https://digital.transchinese.org)
 - [新闻网页存档与资料库: news.transchinese.org](https://news.transchinese.org)
+- [性转相关漫画存档库: comic.transchinese.org](https://comic.transchinese.org)
+- [变身文学与小说存档库（剧情向，非限制级）: novel.transchinese.org](https://novel.transchinese.org)
+- [变身文学与小说存档库（限制级）: snovel.transchinese.org](https://snovel.transchinese.org)
 
 ## 目录
 
 根目录，按照内容与来源分类
 
 
-总计 2805 篇内容
+总计 8480 篇内容
 
 
 ### 📁 子目录
 
 - [学术文献](学术文献) (229 篇内容)
 - [政府及官方组织文件](政府及官方组织文件) (105 篇内容)
-- [文学作品和艺术创作](文学作品和艺术创作) (162 篇内容)
+- [文学作品和艺术创作](文学作品和艺术创作) (163 篇内容)
 - [杂志及新闻报道](杂志及新闻报道) (36 篇内容)
-- [社群及NGO文件](社群及NGO文件) (251 篇内容)
+- [社群及NGO文件](社群及NGO文件) (265 篇内容)
 
 ### 📚 独立档案库
 
-- [新闻网页存档与资料库](https://news.transchinese.org/) (2022 篇内容)
+- [新闻网页存档与资料库](https://news.transchinese.org/) (2015 篇内容)
+- [性转相关漫画存档库](https://comic.transchinese.org/) (2682 篇内容)
+- [变身文学与小说存档库（剧情向，非限制级）](https://novel.transchinese.org) (924 篇内容)
+- [变身文学与小说存档库（限制级）](https://snovel.transchinese.org) (2061 篇内容)
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

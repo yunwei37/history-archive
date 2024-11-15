@@ -3,6 +3,18 @@ independence:
     path: https://raw.githubusercontent.com/transTerminus/news-website/refs/heads/main/README.md
     url: https://news.transchinese.org/
 
+  - name: 性转相关漫画存档库
+    path: https://comic.transchinese.org/
+    url: https://comic.transchinese.org/
+  
+  - name: 变身文学与小说存档库（剧情向，非限制级）
+    path: https://novel.transchinese.org
+    url: https://novel.transchinese.org
+
+  - name: 变身文学与小说存档库（限制级）
+    path: https://snovel.transchinese.org
+    url: https://snovel.transchinese.org
+
 ignore:
   - '.*news-website.*'
   - '.*webpage_archive.*'
@@ -11,3 +23,4 @@ ignore:
   - '.*CODE_OF_CONDUCT\.md.*'
   - '.*LICENSE.*'
   - 'digital\.yml'
+  - 'search_index\.yml'

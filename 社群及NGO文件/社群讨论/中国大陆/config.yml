@@ -25,6 +25,13 @@ files:
   size: 18424
   md5: 59704420f23c08dada7d4e148c0d0876
   page: TERF问答_page.md
+- name: mtf.wiki_上面的导语被移除了
+  filename: mtf.wiki_上面的导语被移除了.jpg
+  type: image
+  format: JPEG Image
+  size: 118210
+  md5: 242d646123fc3ef7ebc3183b6dea6c4a
+  page: mtf.wiki_上面的导语被移除了.jpg
 - name: 不知道哪里来的课件_第四章变态心理
   filename: 不知道哪里来的课件_第四章变态心理.pdf
   type: document
@@ -46,6 +53,13 @@ files:
   size: 612359
   md5: a9628752ee15481d1729762af49ed2fd
   page: 完全变装手册最后5章部分翻译_page.md
+- name: 手术恢复
+  filename: 手术恢复.jpg
+  type: image
+  format: JPEG Image
+  size: 176832
+  md5: 41b20b8ea98b641c71755ad9817cc0bd
+  page: 手术恢复.jpg
 - name: 搞事情
   filename: 搞事情.pdf
   type: document
@@ -67,4 +81,5 @@ files:
   size: 2995594
   md5: 80357de3013a5d74362851ad6c7a0283
   page: 致函于贵院，关于一位患者在贵院西城院区住院期间的举报_北京友谊医院_page.md
-subdirs: []
+subdirs:
+- 伪娘分级（来自推）
