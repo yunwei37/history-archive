@@ -37,10 +37,10 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
-  language: en
+  language: zh
 plugins:
   - search
-  - social
+  # - social
   - rss:
       match_path: ".*"
       date_from_meta:

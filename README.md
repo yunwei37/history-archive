@@ -9,7 +9,7 @@
 
 ## 网站
 
-- [主站点与精品文档存档库: digital.transchinese.org](https://digital.transchinese.org)
+- [文档与精品资源主存档库: digital.transchinese.org](https://digital.transchinese.org)
 - [新闻网页存档与资料库: news.transchinese.org](https://news.transchinese.org)
 - [性转相关漫画存档库: comic.transchinese.org](https://comic.transchinese.org)
 - [变身文学与小说存档库（剧情向，非限制级）: novel.transchinese.org](https://novel.transchinese.org)
@@ -19,9 +19,7 @@
 
 根目录，按照内容与来源分类
 
-
 总计 8480 篇内容
-
 
 ### 📁 子目录
 
@@ -38,9 +36,7 @@
 - [变身文学与小说存档库（剧情向，非限制级）](https://novel.transchinese.org) (924 篇内容)
 - [变身文学与小说存档库（限制级）](https://snovel.transchinese.org) (2061 篇内容)
 
-
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板
-
 
 ## 为什么我们要这样做？
 
