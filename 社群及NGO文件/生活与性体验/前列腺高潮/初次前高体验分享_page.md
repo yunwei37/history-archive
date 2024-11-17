@@ -1,0 +1,30 @@
+# 初次前高体验分享
+
+<!-- tcd_download_link -->
+Download: [初次前高体验分享.docx](初次前高体验分享.docx)
+<!-- tcd_download_link_end -->
+
+## 摘要
+
+<!-- tcd_abstract -->
+该文档记录了一个人初次体验前列腺高潮（前高）的详细过程与感受。作者在文中分享了自己从2024年初次接触高岛、Aneros及无接触高潮的经历开始，经历了多个尝试的阶段，描述了心跳加速、全身出汗等身体反应以及高潮体验的过程。作者提到，在初次尝试中虽然没有达到前高，但通过对群里资料的信任与不断的尝试，逐渐靠近了这一体验。文中详细描述了每次尝试的时间、方法与感受，尤其强调了放松、强大的PC肌、安静环境及适当的心态对体验的影响。最终，作者分享了在2024年3月27日达成前高的瞬间，描述了高潮的生理感受并反思了这些体验。
+
+<!-- tcd_abstract_end -->
+
+## 其他信息
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | 初次前高体验分享.docx                             |
+| Type            | document                                 |
+| Format          | Microsoft Word Document (OpenXML)                               |
+| Size            | 15656 bytes                           |
+| MD5             | 08760159600946cb00e65d80c01a2612                                  |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2024-03-27                                 |
+| Tags            | 前列腺高潮, 生理体验, 性健康, 个人经验, 性教育, 跨性别                                 |
+
+本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
