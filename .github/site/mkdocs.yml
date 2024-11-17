@@ -40,7 +40,9 @@ theme:
   language: zh
 plugins:
   - search
-  # - social
+  - social:
+      cards_layout_options:
+        font_family: Noto Sans SC
   - rss:
       match_path: ".*"
       date_from_meta:
