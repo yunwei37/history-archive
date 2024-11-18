@@ -1,6 +1,6 @@
 independence:
   - name: 新闻网页存档与资料库
-    path: https://raw.githubusercontent.com/transTerminus/news-website/refs/heads/main/README.md
+    path: https://news.transchinese.org/
     url: https://news.transchinese.org/
 
   - name: 性转相关漫画存档库

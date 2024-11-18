@@ -37,3 +37,7 @@ mkdir -p news-website/网易新闻
 # rm -rf news-website/网易新闻/*
 cp -r  --update=none webpage_archive/ready/163.com/* news-website/网易新闻/
 cp webpage_archive/raw/163.com/page.yml news-website/网易新闻/page.yml
+
+mkdir -p news-website/未分类
+cp -r  --update=none webpage_archive/ready/unclassify_news/* news-website/未分类/
+cp webpage_archive/raw/unclassify_news/page.yml news-website/未分类/page.yml
