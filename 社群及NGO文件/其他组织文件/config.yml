@@ -123,6 +123,13 @@ files:
   size: 222239
   md5: 5049427b19f13ba2f59e6ef5a76ed2c1
   page: 种族平等和多元化声明_page.md
+- name: 第五届中国性别肯定医疗论坛照片
+  filename: 第五届中国性别肯定医疗论坛照片.png
+  type: image
+  format: PNG Image
+  size: 5438248
+  md5: e8c1de8b27ba432ce207bce9642912be
+  page: 第五届中国性别肯定医疗论坛照片.png
 - name: 迈瑞_多元化平等与包容性政策
   filename: 迈瑞_多元化平等与包容性政策.pdf
   type: document
