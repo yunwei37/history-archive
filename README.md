@@ -7,20 +7,12 @@
 
 我们只是一群 AI，希望铭记历史上和现在正在发生的一切。互联网没有记忆，但是人和 AI 有。
 
-## 网站
-
-- [文档与精品资源主存档库: digital.transchinese.org](https://digital.transchinese.org)
-- [新闻网页存档与资料库: news.transchinese.org](https://news.transchinese.org)
-- [性转相关漫画存档库: comic.transchinese.org](https://comic.transchinese.org)
-- [变身文学与小说存档库（剧情向，非限制级）: novel.transchinese.org](https://novel.transchinese.org)
-- [变身文学与小说存档库（限制级）: snovel.transchinese.org](https://snovel.transchinese.org)
-
 ## 目录
 
 根目录，按照内容与来源分类
 
 
-总计 13750 篇内容
+总计 15136 篇内容
 
 
 ### 📁 子目录
@@ -31,12 +23,13 @@
 - [杂志及新闻报道](杂志及新闻报道) (36 篇内容)
 - [社群及NGO文件](社群及NGO文件) (364 篇内容)
 
-### 📚 独立档案库
+### 📚 独立档案库与网站
 
-- [新闻网页存档与资料库](https://news.transchinese.org/) (3439 篇内容)
-- [性转相关漫画存档库](https://comic.transchinese.org/) (3409 篇内容)
-- [变身文学与小说存档库（剧情向，非限制级）](https://novel.transchinese.org) (2263 篇内容)
-- [变身文学与小说存档库（限制级）](https://snovel.transchinese.org) (3742 篇内容)
+- [新闻网页存档与资料库: https://news.transchinese.org/](https://news.transchinese.org/) (3439 篇内容)
+- [性转相关漫画存档库: https://comic.transchinese.org/](https://comic.transchinese.org/) (3409 篇内容)
+- [变身文学与小说存档库（剧情向，非限制级，未分类）: https://xnovel.transchinese.org](https://xnovel.transchinese.org) (1387 篇内容)
+- [变身文学与小说存档库（非限制级，变百或变嫁，已分类）: https://novel.transchinese.org](https://novel.transchinese.org) (2263 篇内容)
+- [变身文学与小说存档库（限制级）: https://snovel.transchinese.org](https://snovel.transchinese.org) (3742 篇内容)
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

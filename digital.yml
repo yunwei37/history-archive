@@ -1,4 +1,5 @@
 independence:
+
   - name: 新闻网页存档与资料库
     path: https://news.transchinese.org/
     url: https://news.transchinese.org/
@@ -7,7 +8,11 @@ independence:
     path: https://comic.transchinese.org/
     url: https://comic.transchinese.org/
   
-  - name: 变身文学与小说存档库（剧情向，非限制级）
+  - name: 变身文学与小说存档库（剧情向，非限制级，未分类）
+    path: https://xnovel.transchinese.org
+    url: https://xnovel.transchinese.org
+
+  - name: 变身文学与小说存档库（非限制级，变百或变嫁，已分类）
     path: https://novel.transchinese.org
     url: https://novel.transchinese.org
 

@@ -46,6 +46,10 @@ python .github/scripts/file/add_config.py
 
 echo "Metadata added successfully!"
 
+python .github/scripts/toc/independence_info.py
+
+echo "Independence info generated successfully!"
+
 # Generate table of contents
 python .github/scripts/toc/her_toc.py
 
@@ -53,4 +57,5 @@ echo "Table of contents generated successfully!"
 
 python .github/scripts/file/gen_search_index.py
 python .github/scripts/file/analysis_search_index.py
+
 echo "Search index generated successfully!"
