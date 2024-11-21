@@ -1,9 +1,6 @@
 [submodule ".github/scripts"]
 	path = .github/scripts
 	url = https://github.com/yunwei37/scripts
-[submodule "webpage_archive"]
-	path = webpage_archive
-	url = https://github.com/transTerminus/webpage_archive
 [submodule "news-website"]
 	path = news-website
 	url = https://github.com/transTerminus/news-website
