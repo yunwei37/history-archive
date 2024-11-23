@@ -22,3 +22,4 @@ res.txt
 /requirements.txt
 /prepare_site.sh
 independence_repo.json
+.search_index
