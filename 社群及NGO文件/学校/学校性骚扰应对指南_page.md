@@ -23,7 +23,7 @@ Download: [学校性骚扰应对指南.pdf](学校性骚扰应对指南.pdf)
 | Size            | 312717 bytes                           |
 | MD5             | 3087d36c33dde51a7c7771ffde0331d8                                  |
 | Archived Date   | 2024-11-23 04:54:29                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://stopsexualassaultinschools.org/wp-content/uploads/2021/04/know-what-to-do-colorCN.pdf](https://stopsexualassaultinschools.org/wp-content/uploads/2021/04/know-what-to-do-colorCN.pdf)                         |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

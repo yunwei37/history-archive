@@ -21,7 +21,7 @@ Download: [澳大利亚LGBTIQ社区家庭暴力报告.pdf](澳大利亚LGBTIQ社
 | Size            | 193568 bytes                           |
 | MD5             | 37e4f56fe135a1c84ace652a830e029e                                  |
 | Archived Date   | 2024-11-23 05:47:47                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.dss.gov.au/sites/default/files/documents/02_2019/lgbtiq-relationships_0.pdf](https://www.dss.gov.au/sites/default/files/documents/02_2019/lgbtiq-relationships_0.pdf)                         |
 | Author          | 澳大利亚政府                               |
 | Region          | 澳大利亚                               |
 | Date            | 未知                                 |

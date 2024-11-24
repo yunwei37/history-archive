@@ -21,7 +21,7 @@ Download: [El_Dorado县健康教育课程.pdf](El_Dorado县健康教育课程.pd
 | Size            | 371692 bytes                           |
 | MD5             | cde722fdf287cfdbcc6dd8883ba55dc2                                  |
 | Archived Date   | 2024-11-23 05:57:28                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.hpsj.com/wp-content/uploads/2024/02/Health-Education-Classes-EL-DORADO-CHINESE.pdf](https://www.hpsj.com/wp-content/uploads/2024/02/Health-Education-Classes-EL-DORADO-CHINESE.pdf)                         |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

@@ -21,7 +21,7 @@ Download: [Laurel_Ridge小学社区利益相关者论坛倡议.pdf](Laurel_Ridge
 | Size            | 103394 bytes                           |
 | MD5             | 789574c0592288f3d967ce4559c83d11                                  |
 | Archived Date   | 2024-11-23 04:11:26                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://laurelridgees.fcps.edu/sites/default/files/media/inline-files/Schools-Laurel%20Ridge%20ES-Community%20Outreach-Chinese.pdf](https://laurelridgees.fcps.edu/sites/default/files/media/inline-files/Schools-Laurel%20Ridge%20ES-Community%20Outreach-Chinese.pdf)                         |
 | Author          | Laurel Ridge小学公平团队                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

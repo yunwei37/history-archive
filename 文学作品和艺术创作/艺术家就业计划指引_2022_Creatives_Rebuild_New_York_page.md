@@ -21,7 +21,7 @@ Download: [艺术家就业计划指引_2022_Creatives_Rebuild_New_York.pdf](艺�
 | Size            | 962343 bytes                           |
 | MD5             | 138abc3e7e4144cbc2695fbb2238a7e0                                  |
 | Archived Date   | 2024-11-23 05:44:04                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.creativesrebuildny.org/wp-content/uploads/2022/03/AEP-Guidelines-Chinese.pdf](https://www.creativesrebuildny.org/wp-content/uploads/2022/03/AEP-Guidelines-Chinese.pdf)                         |
 | Author          | Creatives Rebuild New York (CRNY)                               |
 | Region          | 美国                               |
 | Date            | 2022-02-14                                 |

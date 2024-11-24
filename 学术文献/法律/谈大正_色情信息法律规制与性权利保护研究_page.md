@@ -21,7 +21,7 @@ Download: [谈大正_色情信息法律规制与性权利保护研究.pdf](谈�
 | Size            | 171904 bytes                           |
 | MD5             | 1b234b9b2610c78f1bc083b15662de1d                                  |
 | Archived Date   | 2024-11-23 04:49:08                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://sls.org.cn/webfile/upload/2018/06-04/15-20-48069954747235.pdf](https://sls.org.cn/webfile/upload/2018/06-04/15-20-48069954747235.pdf)                         |
 | Author          | 谈大正                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

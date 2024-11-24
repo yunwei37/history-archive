@@ -21,7 +21,7 @@ Download: [安吉拉·卡特_作品分析_女性与性别视角.pdf](安吉拉·
 | Size            | 181542 bytes                           |
 | MD5             | 6036cdc9d91cac77c2e026dca56c0363                                  |
 | Archived Date   | 2024-11-23 03:24:34                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://core.ac.uk/download/41456896.pdf](https://core.ac.uk/download/41456896.pdf)                         |
 | Author          | 刘凯芳                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

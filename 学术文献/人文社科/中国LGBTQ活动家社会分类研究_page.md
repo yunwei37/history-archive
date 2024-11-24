@@ -21,7 +21,7 @@ Download: [中国LGBTQ活动家社会分类研究.pdf](中国LGBTQ活动家社�
 | Size            | 5416458 bytes                           |
 | MD5             | 5aa174675e079fb3d11e677882f683db                                  |
 | Archived Date   | 2024-11-23 04:39:00                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://researchoutput.csu.edu.au/files/498114315/392787194_published_article.pdf](https://researchoutput.csu.edu.au/files/498114315/392787194_published_article.pdf)                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

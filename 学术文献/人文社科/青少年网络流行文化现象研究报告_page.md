@@ -21,7 +21,7 @@ Download: [青少年网络流行文化现象研究报告.pdf](青少年网络流
 | Size            | 4550549 bytes                           |
 | MD5             | feb556f2220c977765a09a45bb4d5495                                  |
 | Archived Date   | 2024-11-23 02:49:33                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [http://www.tup.com.cn/upload/books/yz/071004-01.pdf](http://www.tup.com.cn/upload/books/yz/071004-01.pdf)                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

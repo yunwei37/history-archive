@@ -21,7 +21,7 @@ Download: [2022年DEIA与健康公平报告.pdf](2022年DEIA与健康公平报�
 | Size            | 3413576 bytes                           |
 | MD5             | 21a5630716918ef6954cecd09fbd4091                                  |
 | Archived Date   | 2024-11-23 06:20:44                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.point32health.org/wp-content/uploads/2023/06/P32_DEIAReport_PH3_Chinese.pdf](https://www.point32health.org/wp-content/uploads/2023/06/P32_DEIAReport_PH3_Chinese.pdf)                         |
 | Author          | Point32Health                               |
 | Region          | 美国                               |
 | Date            | 2023-06-01                                 |

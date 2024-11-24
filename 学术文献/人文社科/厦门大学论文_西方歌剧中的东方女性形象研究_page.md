@@ -21,7 +21,7 @@ Download: [厦门大学论文_西方歌剧中的东方女性形象研究.pdf](�
 | Size            | 263695 bytes                           |
 | MD5             | ad7aec4a22efaf6beffd7771047804e6                                  |
 | Archived Date   | 2024-11-23 03:23:02                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://core.ac.uk/download/41375550.pdf](https://core.ac.uk/download/41375550.pdf)                         |
 | Author          | 孙惠柱                               |
 | Region          | 中国大陆                               |
 | Date            | 2004-06-01                                 |

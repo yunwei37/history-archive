@@ -21,7 +21,7 @@ Download: [超长与微短_互联网时代的文学形态_王小英.pdf](超长�
 | Size            | 345752 bytes                           |
 | MD5             | de781abd8596526412371827237f9747                                  |
 | Archived Date   | 2024-11-23 02:46:42                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [http://www.semiotics.net.cn/userfiles/images/504630087d54229321a21e11da018695.pdf](http://www.semiotics.net.cn/userfiles/images/504630087d54229321a21e11da018695.pdf)                         |
 | Author          | 王小英                               |
 | Region          | 中国大陆                               |
 | Date            | 2015-10-01                                 |

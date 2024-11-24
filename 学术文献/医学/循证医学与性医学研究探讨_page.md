@@ -22,7 +22,7 @@ Download: [循证医学与性医学研究探讨.pdf](循证医学与性医学研
 | Size            | 5035293 bytes                           |
 | MD5             | 9e372615bd36fb792a33ec4743845cce                                  |
 | Archived Date   | 2024-11-23 02:52:33                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [http://www.zgxkxzzs.com/uploadfile/zgxkx/20180418/%E4%B8%AD%E5%9B%BD%E6%80%A7%E7%A7%91%E5%AD%A614-1.pdf](http://www.zgxkxzzs.com/uploadfile/zgxkx/20180418/%E4%B8%AD%E5%9B%BD%E6%80%A7%E7%A7%91%E5%AD%A614-1.pdf)                         |
 | Author          | 方俊，秦雪英                               |
 | Region          | 中国大陆                               |
 | Date            | 2014-01-01                                 |

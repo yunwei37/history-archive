@@ -21,7 +21,7 @@ Download: [跨性别教育的必要性与意义.pdf](跨性别教育的必要性
 | Size            | 1716555 bytes                           |
 | MD5             | d6833ba7502a489d39d28e30550cbc4c                                  |
 | Archived Date   | 2024-11-23 05:00:17                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://tpl.ncl.edu.tw/NclService/pdfdownload?filePath=lV8OirTfsslWcCxIpLbUfhQHstx_oOBL3eBVmgJDqmk-cHJ6TCXlfvsxgJXR66er&imgType=Bn5sH4BGpJw=&key=Xx6OF-BFrDPNDoGgh9CgQceJhk4TcCcBF9_2mVYOC58eVVU9OyINO4qBZJhLTxWd&xmlId=0006677286](https://tpl.ncl.edu.tw/NclService/pdfdownload?filePath=lV8OirTfsslWcCxIpLbUfhQHstx_oOBL3eBVmgJDqmk-cHJ6TCXlfvsxgJXR66er&imgType=Bn5sH4BGpJw=&key=Xx6OF-BFrDPNDoGgh9CgQceJhk4TcCcBF9_2mVYOC58eVVU9OyINO4qBZJhLTxWd&xmlId=0006677286)                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

@@ -21,7 +21,7 @@ Download: [英汉文化词汇探讨_徐东林.pdf](英汉文化词汇探讨_徐�
 | Size            | 167479 bytes                           |
 | MD5             | 08c3d62ed987f4a6c0c2252a882f9329                                  |
 | Archived Date   | 2024-11-23 02:35:48                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [http://www.hongbaoshu.com/admin/upload/%5C%E8%8B%B1%E6%B1%89%E8%AF%8D%E6%B1%87%E7%9A%84%E7%A4%BE%E4%BC%9A%E6%96%87%E5%8C%96%E5%86%85%E6%B6%B5%E6%BC%AB%E8%B0%88.pdf](http://www.hongbaoshu.com/admin/upload/%5C%E8%8B%B1%E6%B1%89%E8%AF%8D%E6%B1%87%E7%9A%84%E7%A4%BE%E4%BC%9A%E6%96%87%E5%8C%96%E5%86%85%E6%B6%B5%E6%BC%AB%E8%B0%88.pdf)                         |
 | Author          | 徐东林                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

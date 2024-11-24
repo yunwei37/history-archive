@@ -21,7 +21,7 @@ Download: [性别友善语言与服务关系建立指导.pdf](性别友善语言
 | Size            | 664026 bytes                           |
 | MD5             | fe43707c1a4b2c812114f5991c0ead48                                  |
 | Archived Date   | 2024-11-23 06:36:58                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.transcarebc.ca/sites/default/files/2024-03/Gender_inclusive_language_general_CH-Simplified.pdf](https://www.transcarebc.ca/sites/default/files/2024-03/Gender_inclusive_language_general_CH-Simplified.pdf)                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2024-03-01                                 |

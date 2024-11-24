@@ -21,7 +21,7 @@ Download: [上海拉拉：中國都市女同志社群與政治.pdf](上海拉拉
 | Size            | 4075612 bytes                           |
 | MD5             | e9a82c1246a6b9919ca174f60a9b6ec4                                  |
 | Archived Date   | 2024-11-23 04:26:04                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://openbookshongkong.com/wp-content/uploads/2024/08/9789888208609.pdf](https://openbookshongkong.com/wp-content/uploads/2024/08/9789888208609.pdf)                         |
 | Author          | 金曄路                               |
 | Region          | 中国大陆                               |
 | Date            | 2014-05-10                                 |

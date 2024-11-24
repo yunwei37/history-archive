@@ -21,7 +21,7 @@ Download: [难民与庇护：LGBTIQ+身份面临的挑战与应对.pdf](难民�
 | Size            | 1276057 bytes                           |
 | MD5             | 0b12d860fb2c5919f7f05ef34130a607                                  |
 | Archived Date   | 2024-11-23 06:39:07                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.unfe.org/sites/default/files/download/Refuge%20and%20asylum%202023%2C%20CH.pdf](https://www.unfe.org/sites/default/files/download/Refuge%20and%20asylum%202023%2C%20CH.pdf)                         |
 | Author          | 联合国自由和平等                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

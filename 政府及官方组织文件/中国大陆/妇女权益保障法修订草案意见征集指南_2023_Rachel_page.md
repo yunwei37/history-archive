@@ -21,7 +21,7 @@ Download: [妇女权益保障法修订草案意见征集指南_2023_Rachel.pdf](
 | Size            | 8510911 bytes                           |
 | MD5             | 59a5097048e76eb9b45540176ad5eed0                                  |
 | Archived Date   | 2024-11-23 03:20:00                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://commonlanguage.github.io/TYarchives2022/20220112_1%E6%94%B9%E5%8F%98%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A%E4%BF%9D%E9%9A%9C%E6%B3%95%E4%BF%AE%E8%AE%A2%E8%8D%89%E6%A1%88%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%EF%BC%81%E5%8F%91%E5%87%BA%E4%BD%A0%E7%9A%84%E5%A3%B0%E9%9F%B3.pdf](https://commonlanguage.github.io/TYarchives2022/20220112_1%E6%94%B9%E5%8F%98%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A%E4%BF%9D%E9%9A%9C%E6%B3%95%E4%BF%AE%E8%AE%A2%E8%8D%89%E6%A1%88%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%EF%BC%81%E5%8F%91%E5%87%BA%E4%BD%A0%E7%9A%84%E5%A3%B0%E9%9F%B3.pdf)                         |
 | Author          | 全国人大常委会                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-01-22                                 |

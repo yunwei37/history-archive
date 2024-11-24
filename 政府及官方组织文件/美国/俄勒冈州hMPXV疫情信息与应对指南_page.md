@@ -21,7 +21,7 @@ Download: [俄勒冈州hMPXV疫情信息与应对指南.pdf](俄勒冈州hMPXV�
 | Size            | 508633 bytes                           |
 | MD5             | 7a5307c532fd4faa4df1813f98a83712                                  |
 | Archived Date   | 2024-11-23 04:45:03                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ln4314.pdf](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ln4314.pdf)                         |
 | Author          | 俄勒冈州公共卫生局                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

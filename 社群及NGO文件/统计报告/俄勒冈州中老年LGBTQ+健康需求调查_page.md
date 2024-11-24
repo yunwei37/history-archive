@@ -21,7 +21,7 @@ Download: [俄勒冈州中老年LGBTQ+健康需求调查.pdf](俄勒冈州中老
 | Size            | 162880 bytes                           |
 | MD5             | 8e5deececc5230a5b287569a999329e6                                  |
 | Archived Date   | 2024-11-23 03:54:31                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://goldseninstitute.org/wp-content/uploads/2021/05/OR-postcard-text-5.5x4.25-SCH.pdf](https://goldseninstitute.org/wp-content/uploads/2021/05/OR-postcard-text-5.5x4.25-SCH.pdf)                         |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

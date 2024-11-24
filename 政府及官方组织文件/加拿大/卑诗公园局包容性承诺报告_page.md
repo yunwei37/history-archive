@@ -21,7 +21,7 @@ Download: [卑诗公园局包容性承诺报告.pdf](卑诗公园局包容性承
 | Size            | 653489 bytes                           |
 | MD5             | 63056f1c09a7f9fbf0c820e6faeeae3f                                  |
 | Archived Date   | 2024-11-23 04:23:32                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://nrs.objectstore.gov.bc.ca/kuwyyf/bcparks_commitment_to_inclusion_simplified_chinese_25a4e0f25f.pdf](https://nrs.objectstore.gov.bc.ca/kuwyyf/bcparks_commitment_to_inclusion_simplified_chinese_25a4e0f25f.pdf)                         |
 | Author          | 卑诗公园局                               |
 | Region          | 加拿大卑诗省                               |
 | Date            | 未知                                 |

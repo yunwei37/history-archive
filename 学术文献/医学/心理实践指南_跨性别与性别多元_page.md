@@ -21,7 +21,7 @@ Download: [心理实践指南_跨性别与性别多元.pdf](心理实践指南_�
 | Size            | 1014 bytes                           |
 | MD5             | 726cd8ed3abeca22924e18419e399548                                  |
 | Archived Date   | 2024-11-23 05:35:52                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.apa.org/practice/guidelines/transgender.pdf](https://www.apa.org/practice/guidelines/transgender.pdf)                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

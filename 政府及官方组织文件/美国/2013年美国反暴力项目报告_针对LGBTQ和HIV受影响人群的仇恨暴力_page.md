@@ -21,7 +21,7 @@ Download: [2013年美国反暴力项目报告_针对LGBTQ和HIV受影响人群�
 | Size            | 3303791 bytes                           |
 | MD5             | 272f568ca4682aa9b4948c7a1f674bd0                                  |
 | Archived Date   | 2024-11-23 03:05:07                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://avp.org/wp-content/uploads/2017/04/2013_ncavp_hvreport_final.pdf](https://avp.org/wp-content/uploads/2017/04/2013_ncavp_hvreport_final.pdf)                         |
 | Author          | 全国反暴力项目联盟(NCAVP)                               |
 | Region          | 美国                               |
 | Date            | 2014-01-01                                 |

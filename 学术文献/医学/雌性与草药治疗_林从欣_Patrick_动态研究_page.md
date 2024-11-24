@@ -21,7 +21,7 @@ Download: [雌性与草药治疗_林从欣_Patrick_动态研究.pdf](雌性与�
 | Size            | 213957 bytes                           |
 | MD5             | a86053d9f9bf2c423f1691c7ffb7a5b0                                  |
 | Archived Date   | 2024-11-23 05:46:26                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.datocms-assets.com/13009/1599889967-reading-and-smoking-chinese.pdf](https://www.datocms-assets.com/13009/1599889967-reading-and-smoking-chinese.pdf)                         |
 | Author          | 林从欣, Patrick Staff                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

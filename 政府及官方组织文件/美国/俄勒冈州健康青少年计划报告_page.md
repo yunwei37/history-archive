@@ -21,7 +21,7 @@ Download: [俄勒冈州健康青少年计划报告.pdf](俄勒冈州健康青少
 | Size            | 708745 bytes                           |
 | MD5             | 5c35450b51d5eb96c24d2e20bb5a769d                                  |
 | Archived Date   | 2024-11-23 06:18:58                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.oregon.gov/oha/PH/ABOUT/Documents/ship/2020-2024/HTO_One_Pager_Simplified_Chinese_4.pdf](https://www.oregon.gov/oha/PH/ABOUT/Documents/ship/2020-2024/HTO_One_Pager_Simplified_Chinese_4.pdf)                         |
 | Author          | 俄勒冈州健康部门                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

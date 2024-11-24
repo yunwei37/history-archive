@@ -21,7 +21,7 @@ Download: [巫俊锋影片中酷儿化的家庭研究_刘思娴.pdf](巫俊锋�
 | Size            | 181768 bytes                           |
 | MD5             | a67592f153c0ae17c10f5645a3f8be00                                  |
 | Archived Date   | 2024-11-23 05:45:15                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.csat.org.tw/userfiles/%E5%88%98%E6%80%9D%E5%A8%B4%EF%BC%BF%E6%91%98%E8%A6%81%EF%BC%BF%E4%B8%80%E7%94%9F%E7%9A%84%E7%88%B1%E5%94%AF%E6%9C%89%E5%AE%B6%20(1).pdf](https://www.csat.org.tw/userfiles/%E5%88%98%E6%80%9D%E5%A8%B4%EF%BC%BF%E6%91%98%E8%A6%81%EF%BC%BF%E4%B8%80%E7%94%9F%E7%9A%84%E7%88%B1%E5%94%AF%E6%9C%89%E5%AE%B6%20(1).pdf)                         |
 | Author          | 刘思娴                               |
 | Region          | 新加坡                               |
 | Date            | 未知                                 |

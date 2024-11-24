@@ -21,7 +21,7 @@ Download: [坦荡出柜_亚太裔LGBTQ人群生活指南.pdf](坦荡出柜_亚�
 | Size            | 1547208 bytes                           |
 | MD5             | 08db40c00e3ddee696fe6a27365532f9                                  |
 | Archived Date   | 2024-11-23 02:14:09                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [http://assets2.hrc.org/files/assets/resources/APIComingOut-Chinese.pdf](http://assets2.hrc.org/files/assets/resources/APIComingOut-Chinese.pdf)                         |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

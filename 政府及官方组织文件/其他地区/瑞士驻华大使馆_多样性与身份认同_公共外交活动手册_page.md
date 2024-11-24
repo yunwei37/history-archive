@@ -21,7 +21,7 @@ Download: [瑞士驻华大使馆_多样性与身份认同_公共外交活动手�
 | Size            | 13358313 bytes                           |
 | MD5             | 21fe98b794097ab1ab431e0284befaf6                                  |
 | Archived Date   | 2024-11-23 05:47:03                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.dfae.admin.ch/content/dam/countries/countries-content/china/zh/diversity-and-me-brochure_CN.pdf](https://www.dfae.admin.ch/content/dam/countries/countries-content/china/zh/diversity-and-me-brochure_CN.pdf)                         |
 | Author          | 瑞士驻华大使馆                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-01-01                                 |

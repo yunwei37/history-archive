@@ -21,7 +21,7 @@ Download: [男性性别认同与心理健康研究_Pink_Therapy.pdf](男性性�
 | Size            | 492436 bytes                           |
 | MD5             | 97239217623f32838bfac4d9ab661d12                                  |
 | Archived Date   | 2024-11-23 04:33:56                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://pinktherapy.org/wp-content/uploads/2022/03/Simplified-Chinese-1.pdf](https://pinktherapy.org/wp-content/uploads/2022/03/Simplified-Chinese-1.pdf)                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

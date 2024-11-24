@@ -21,7 +21,7 @@ Download: [全球移民政策与女性工作负担分析报告.pdf](全球移民
 | Size            | 104868 bytes                           |
 | MD5             | 8e55816debbcde765f20eb12bf4af192                                  |
 | Archived Date   | 2024-11-23 05:25:12                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://womeninmigration.org/wp-content/uploads/2018/11/Backgrounder-Manifesto-Mandarin.pdf](https://womeninmigration.org/wp-content/uploads/2018/11/Backgrounder-Manifesto-Mandarin.pdf)                         |
 | Author          | Oxfam International, Women in Migration Network                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

@@ -21,7 +21,7 @@ Download: [變性人與非二元性別者姓名性別變更常見問題_NYCgov_2
 | Size            | 295652 bytes                           |
 | MD5             | 66735bc7b01b0db96b4fd5e88602a973                                  |
 | Archived Date   | 2024-11-23 06:16:12                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.nyc.gov/assets/hra/downloads/pdf/services/lgbtqi/HRA-138b-TC.pdf](https://www.nyc.gov/assets/hra/downloads/pdf/services/lgbtqi/HRA-138b-TC.pdf)                         |
 | Author          | 纽约市人力资源管理局（HRA）                               |
 | Region          | 美国                               |
 | Date            | 2019-04-02                                 |

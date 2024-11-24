@@ -21,7 +21,7 @@ Download: [PridePlace_西雅图LGBTQIA+年长者住房信息_2023.pdf](PridePlac
 | Size            | 3518051 bytes                           |
 | MD5             | 007b3e5220bb29fd51a2f1067e76c16e                                  |
 | Archived Date   | 2024-11-23 03:49:00                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://genprideseattle.org/wp-content/uploads/2023/07/PridePlaceLeasingPacket-AllDocs-OpenJune15_Simplified-Chinese_Final.pdf](https://genprideseattle.org/wp-content/uploads/2023/07/PridePlaceLeasingPacket-AllDocs-OpenJune15_Simplified-Chinese_Final.pdf)                         |
 | Author          | Community Roots Housing                               |
 | Region          | 美国                               |
 | Date            | 2023-06-01                                 |

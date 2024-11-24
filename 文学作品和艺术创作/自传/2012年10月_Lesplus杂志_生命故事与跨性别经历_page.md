@@ -21,7 +21,7 @@ Download: [2012年10月_Lesplus杂志_生命故事与跨性别经历.pdf](2012�
 | Size            | 4549424 bytes                           |
 | MD5             | b09fe55913ffce86e18904717a235385                                  |
 | Archived Date   | 2024-11-23 03:17:12                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://cnlgbtdata.com/files/uploads/2021/07/no.28.pdf](https://cnlgbtdata.com/files/uploads/2021/07/no.28.pdf)                         |
 | Author          | 陈叁等                               |
 | Region          | 中国大陆                               |
 | Date            | 2012-10-28                                 |

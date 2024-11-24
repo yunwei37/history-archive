@@ -21,7 +21,7 @@ Download: [LGBTQI+抗争中的双语表达_2023_ANU_Press.pdf](LGBTQI+抗争中�
 | Size            | 579642 bytes                           |
 | MD5             | ac904f27a881886d5fbae9614ad089bb                                  |
 | Archived Date   | 2024-11-23 04:35:12                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://press-files.anu.edu.au/downloads/press/n10904/pdf/04A_bernot.pdf](https://press-files.anu.edu.au/downloads/press/n10904/pdf/04A_bernot.pdf)                         |
 | Author          | 奥斯玛·贝尔诺特（Ausma Bernot）                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-01-01                                 |

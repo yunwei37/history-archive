@@ -21,7 +21,7 @@ Download: [医生与跨性别患者沟通的十个建议.pdf](医生与跨性别
 | Size            | 197794 bytes                           |
 | MD5             | 030239c232ea7834ce2cf94d8459cb32                                  |
 | Archived Date   | 2024-11-23 02:28:20                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [http://transgenderlawcenter.org/wp-content/uploads/2011/12/01.28.2016-tips-healthcare.pdf](http://transgenderlawcenter.org/wp-content/uploads/2011/12/01.28.2016-tips-healthcare.pdf)                         |
 | Author          | 跨性别法律中心                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

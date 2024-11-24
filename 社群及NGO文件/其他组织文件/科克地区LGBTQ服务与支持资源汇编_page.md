@@ -21,7 +21,7 @@ Download: [科克地区LGBTQ服务与支持资源汇编.pdf](科克地区LGBTQ�
 | Size            | 1091946 bytes                           |
 | MD5             | bf09b4a32054d55f21fc86b7db87a8d7                                  |
 | Archived Date   | 2024-11-23 03:47:56                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://gayproject.ie/wp-content/uploads/2023/03/S02-Ref-GPR012-%E2%80%93-Leaflet-2023_simplified-Chinese.pdf](https://gayproject.ie/wp-content/uploads/2023/03/S02-Ref-GPR012-%E2%80%93-Leaflet-2023_simplified-Chinese.pdf)                         |
 | Author          | 未知                               |
 | Region          | 爱尔兰                               |
 | Date            | 未知                                 |

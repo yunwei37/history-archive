@@ -21,7 +21,7 @@ Download: [远大医药集团人权与多元化政策报告.pdf](远大医药集
 | Size            | 148269 bytes                           |
 | MD5             | 84751d995c2db101cd3230e947e99197                                  |
 | Archived Date   | 2024-11-23 05:55:32                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.grandpharm.com/assets/uploads/2024/05/%E8%BF%9C%E5%A4%A7%E5%8C%BB%E8%8D%AF%E3%80%8A%E4%BA%BA%E6%9D%83%E4%B8%8E%E5%A4%9A%E5%85%83%E5%8C%96%E6%94%BF%E7%AD%96%E3%80%8B.pdf](https://www.grandpharm.com/assets/uploads/2024/05/%E8%BF%9C%E5%A4%A7%E5%8C%BB%E8%8D%AF%E3%80%8A%E4%BA%BA%E6%9D%83%E4%B8%8E%E5%A4%9A%E5%85%83%E5%8C%96%E6%94%BF%E7%AD%96%E3%80%8B.pdf)                         |
 | Author          | 远大医药集团有限公司                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

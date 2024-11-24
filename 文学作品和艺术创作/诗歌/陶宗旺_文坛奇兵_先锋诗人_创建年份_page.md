@@ -21,7 +21,7 @@ Download: [陶宗旺_文坛奇兵_先锋诗人_创建年份.pdf](陶宗旺_文�
 | Size            | 3557785 bytes                           |
 | MD5             | faa58cf94ff643cc50fffa1c63c9798f                                  |
 | Archived Date   | 2024-11-23 03:25:07                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://cyrilwong.wordpress.com/wp-content/uploads/2016/07/whynot.pdf](https://cyrilwong.wordpress.com/wp-content/uploads/2016/07/whynot.pdf)                         |
 | Author          | 陶宗旺                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

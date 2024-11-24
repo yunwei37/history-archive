@@ -21,7 +21,7 @@ Download: [住房歧视保护与LGBTQ+权益.pdf](住房歧视保护与LGBTQ+权
 | Size            | 1107022 bytes                           |
 | MD5             | afba9039023e1681ab275adb74864ba4                                  |
 | Archived Date   | 2024-11-23 03:41:18                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://fairhousingjustice.org/wp-content/uploads/2024/02/CHINESE_LGBTQ_final-1.pdf](https://fairhousingjustice.org/wp-content/uploads/2024/02/CHINESE_LGBTQ_final-1.pdf)                         |
 | Author          | 美国住房和城市发展部（HUD）                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

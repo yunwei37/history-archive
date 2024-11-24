@@ -21,7 +21,7 @@ Download: [校园性别暴力预防教学手册.pdf](校园性别暴力预防教
 | Size            | 4099848 bytes                           |
 | MD5             | 927483e6e1e7ff88acb7a5a75acc5e55                                  |
 | Archived Date   | 2024-11-23 06:40:23                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.ungei.org/sites/default/files/Connect-with-Respect-Preventing-gender-based-violence-in-schools-Classroom-Programme-for-Students-in-Early-Secondary-School-%28ages-11-14%29-%28chi%29-2018-chi.pdf](https://www.ungei.org/sites/default/files/Connect-with-Respect-Preventing-gender-based-violence-in-schools-Classroom-Programme-for-Students-in-Early-Secondary-School-%28ages-11-14%29-%28chi%29-2018-chi.pdf)                         |
 | Author          | 联合国教育、科学及文化组织 (UNESCO)                               |
 | Region          | 未知                               |
 | Date            | 2018-01-01                                 |

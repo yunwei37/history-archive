@@ -21,7 +21,7 @@ Download: [Les+双月刊2007年09月.pdf](Les+双月刊2007年09月.pdf)
 | Size            | 3063011 bytes                           |
 | MD5             | d73aff9a0356a77ccab8af1a014dcdc3                                  |
 | Archived Date   | 2024-11-23 03:17:55                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://cnlgbtdata.com/files/uploads/2021/08/NO.11.pdf](https://cnlgbtdata.com/files/uploads/2021/08/NO.11.pdf)                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2007-09-01                                 |

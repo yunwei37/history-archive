@@ -23,7 +23,7 @@ Download: [跨性别_【性／別研究】丛書.pdf](跨性别_【性／別研�
 | Size            | 12236983 bytes                           |
 | MD5             | 02d7610f70064f32f8c5280e875ce333                                  |
 | Archived Date   | 2024-11-23 04:43:56                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://sex.ncu.edu.tw/publication_cn/2003/transgender/pdf/%E8%B7%A8%E6%80%A7%E5%88%AB.pdf](https://sex.ncu.edu.tw/publication_cn/2003/transgender/pdf/%E8%B7%A8%E6%80%A7%E5%88%AB.pdf)                         |
 | Author          | 何春蕤                               |
 | Region          | 台湾                               |
 | Date            | 2003-11-00                                 |

@@ -21,7 +21,7 @@ Download: [省属公立医院医疗服务项目价格一览表.pdf](省属公立
 | Size            | 140339 bytes                           |
 | MD5             | d2ae97e1a2e9a37b3fab4f819f6d9905                                  |
 | Archived Date   | 2024-11-23 02:56:56                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [http://ybj.fujian.gov.cn/zwgk/gsgg/201911/P020191227322945643485.pdf](http://ybj.fujian.gov.cn/zwgk/gsgg/201911/P020191227322945643485.pdf)                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

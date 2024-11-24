@@ -21,7 +21,7 @@ Download: [翻译的公共_爱滋_同志_酷儿_纪大伟_台湾文学学报.pdf
 | Size            | 2761111 bytes                           |
 | MD5             | 37b23931ae3c8f9f77766c90ff65eeae                                  |
 | Archived Date   | 2024-11-23 04:56:05                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://tailit.nccu.edu.tw/upload/36/doc/3739/026-03-%E7%B4%80%E5%A4%A7%E5%81%89.pdf](https://tailit.nccu.edu.tw/upload/36/doc/3739/026-03-%E7%B4%80%E5%A4%A7%E5%81%89.pdf)                         |
 | Author          | 纪大伟（Chi, Ta-wei）                               |
 | Region          | 台湾                               |
 | Date            | 2015-06-19                                 |

@@ -21,7 +21,7 @@ Download: [白蛇主题的多维视角研究_罗靓_现代华文文学.pdf](白�
 | Size            | 1933768 bytes                           |
 | MD5             | b5901b71e27dedf6ee680615892dd698                                  |
 | Archived Date   | 2024-11-23 04:01:25                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://icscc.fudan.edu.cn/_upload/article/files/c2/49/025d0ee14314a4895599dd3f0e5e/11a6a6b8-62e2-4988-9390-c60c90f64ba0.pdf](https://icscc.fudan.edu.cn/_upload/article/files/c2/49/025d0ee14314a4895599dd3f0e5e/11a6a6b8-62e2-4988-9390-c60c90f64ba0.pdf)                         |
 | Author          | 罗靓                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

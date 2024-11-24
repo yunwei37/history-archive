@@ -21,7 +21,7 @@ Download: [中文教学中的性别与性取向微歧视研究_陆琳.pdf](中�
 | Size            | 472405 bytes                           |
 | MD5             | bca6c594c6a4a4f3f84f3bb994db8924                                  |
 | Archived Date   | 2024-11-23 05:42:25                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.chunghwabook.com.hk/upload/files/2021/09_07/c2d4877101ffd0ec148938c630eab511.pdf](https://www.chunghwabook.com.hk/upload/files/2021/09_07/c2d4877101ffd0ec148938c630eab511.pdf)                         |
 | Author          | 陆琳                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

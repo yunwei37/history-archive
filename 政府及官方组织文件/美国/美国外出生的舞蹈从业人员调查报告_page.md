@@ -21,7 +21,7 @@ Download: [美国外出生的舞蹈从业人员调查报告.pdf](美国外出生
 | Size            | 220995 bytes                           |
 | MD5             | 8e52f9d58c159e8bd7d5973437c25235                                  |
 | Archived Date   | 2024-11-23 05:45:48                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.dance.nyc/uploads/DanceNYC-ImmigrantDance-Highlights%20Chinese%20(Mandarin).pdf](https://www.dance.nyc/uploads/DanceNYC-ImmigrantDance-Highlights%20Chinese%20(Mandarin).pdf)                         |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

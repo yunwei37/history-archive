@@ -21,7 +21,7 @@ Download: [第39届飞天奖颁奖典礼分析与报道.pdf](第39届飞天奖�
 | Size            | 311575 bytes                           |
 | MD5             | ec04069151a46c9c6c4ab8a205962c89                                  |
 | Archived Date   | 2024-11-23 02:23:00                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [http://qbwb.hebiw.com/old/page/2/2007-08-27/A06/46751188151982911.pdf](http://qbwb.hebiw.com/old/page/2/2007-08-27/A06/46751188151982911.pdf)                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

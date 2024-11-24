@@ -21,7 +21,7 @@ Download: [如果一个人_陈思安_短篇小说.PDF](如果一个人_陈思安
 | Size            | 1486284 bytes                           |
 | MD5             | edf2d4bc387e3899bc284ada189d6da8                                  |
 | Archived Date   | 2024-11-23 05:08:40                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://uploads.strikinglycdn.com/files/e4992a44-7eb5-4327-8c24-8f00db3eab26/%E8%B0%9C%C2%B7%E8%97%8F.PDF](https://uploads.strikinglycdn.com/files/e4992a44-7eb5-4327-8c24-8f00db3eab26/%E8%B0%9C%C2%B7%E8%97%8F.PDF)                         |
 | Author          | 陈思安                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

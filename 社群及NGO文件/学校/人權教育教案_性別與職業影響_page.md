@@ -21,7 +21,7 @@ Download: [人權教育教案_性別與職業影響.pdf](人權教育教案_性�
 | Size            | 3108142 bytes                           |
 | MD5             | 9518d9bcce996ceeefbe671d1c2cb93b                                  |
 | Archived Date   | 2024-11-23 05:27:05                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://ws.moe.edu.tw/Download.ashx?u=C099358C81D4876CC76BC3215266429636451107508E67F5F6999D6A2D816017DF38D0224E04E5832488CA04388A232733CE2619C3ADE1A8EF685881E23B9FE48D712E9BC61B813139ACDBAA66E198D2&n=75ED0058258CE553AAD5875C057FE8F0CF39B2702D36DEC0B52599448AE0BC5635F9BFAE74034B7FC170FB41B5597478857453A395067FB536D43F9D6B2CD965&icon=..pdf](https://ws.moe.edu.tw/Download.ashx?u=C099358C81D4876CC76BC3215266429636451107508E67F5F6999D6A2D816017DF38D0224E04E5832488CA04388A232733CE2619C3ADE1A8EF685881E23B9FE48D712E9BC61B813139ACDBAA66E198D2&n=75ED0058258CE553AAD5875C057FE8F0CF39B2702D36DEC0B52599448AE0BC5635F9BFAE74034B7FC170FB41B5597478857453A395067FB536D43F9D6B2CD965&icon=..pdf)                         |
 | Author          | 国立高雄师范大学 劉昶佑、方筠筑、王誠誌                               |
 | Region          | 台湾                               |
 | Date            | 未知                                 |

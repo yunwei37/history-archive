@@ -21,7 +21,7 @@ Download: [孟加拉跨性别者权益捍卫者修哈兹•曼南讲话记录.pd
 | Size            | 176232 bytes                           |
 | MD5             | 16feb924115e94449ac45b7b0c75042e                                  |
 | Archived Date   | 2024-11-23 05:35:11                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.amnesty.org/en/wp-content/uploads/2021/05/ASA1368062017CHINESE.pdf](https://www.amnesty.org/en/wp-content/uploads/2021/05/ASA1368062017CHINESE.pdf)                         |
 | Author          | 修哈兹•曼南 (Xulhaz Mannan)                               |
 | Region          | 孟加拉                               |
 | Date            | 未知                                 |

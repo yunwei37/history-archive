@@ -21,7 +21,7 @@ Download: [新泽西州反歧视法指南.pdf](新泽西州反歧视法指南.pd
 | Size            | 1218159 bytes                           |
 | MD5             | 169f44a5f686d3898c4190d1cb6943f0                                  |
 | Archived Date   | 2024-11-23 06:13:22                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.nj.gov/oag/dcr/downloads/chinese-simplified/fact_LGBTQI_General_SCH.pdf](https://www.nj.gov/oag/dcr/downloads/chinese-simplified/fact_LGBTQI_General_SCH.pdf)                         |
 | Author          | 新泽西州政府                               |
 | Region          | 美国新泽西州                               |
 | Date            | 未知                                 |

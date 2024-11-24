@@ -21,7 +21,7 @@ Download: [多元化及包容性补助金申请指南.pdf](多元化及包容性
 | Size            | 347489 bytes                           |
 | MD5             | 15f0bd9e18d1e9d69fc55a2118b3ae74                                  |
 | Archived Date   | 2024-11-23 06:42:10                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.whitehorse.vic.gov.au/sites/whitehorse.vic.gov.au/files/assets/documents/Fact%20Sheets%20-%20Diversity%20and%20Inclusion%20Simplified%20Chinese.pdf](https://www.whitehorse.vic.gov.au/sites/whitehorse.vic.gov.au/files/assets/documents/Fact%20Sheets%20-%20Diversity%20and%20Inclusion%20Simplified%20Chinese.pdf)                         |
 | Author          | Whitehorse 市政府                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

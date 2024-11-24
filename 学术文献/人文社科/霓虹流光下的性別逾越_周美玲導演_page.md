@@ -21,7 +21,7 @@ Download: [霓虹流光下的性別逾越_周美玲導演.pdf](霓虹流光下�
 | Size            | 559436 bytes                           |
 | MD5             | 6b37e7773db3f057dee7257ab4960229                                  |
 | Archived Date   | 2024-11-23 02:13:37                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [http://art.ncu.edu.tw/artConf/main/public/10/%E5%8D%81%E4%B8%89_%E7%B4%80%E5%AD%9F%E5%9D%87_.pdf](http://art.ncu.edu.tw/artConf/main/public/10/%E5%8D%81%E4%B8%89_%E7%B4%80%E5%AD%9F%E5%9D%87_.pdf)                         |
 | Author          | 纪孟均                               |
 | Region          | 台湾                               |
 | Date            | 2004-01-01                                 |

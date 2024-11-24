@@ -21,7 +21,7 @@ Download: [我们内心的偏见展览脚本.pdf](我们内心的偏见展览脚
 | Size            | 6531353 bytes                           |
 | MD5             | 8d06178e8309c5549ba5466c5b123ff0                                  |
 | Archived Date   | 2024-11-23 03:07:57                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://biasinsideus.si.edu/sites/default/files/2022-01/The%20Bias%20Inside%20Us%20Script%20for%20translation_zh-CN_Final.pdf](https://biasinsideus.si.edu/sites/default/files/2022-01/The%20Bias%20Inside%20Us%20Script%20for%20translation_zh-CN_Final.pdf)                         |
 | Author          | 史密森尼学会旅行展览服务                               |
 | Region          | 美国                               |
 | Date            | 2017-01-01                                 |

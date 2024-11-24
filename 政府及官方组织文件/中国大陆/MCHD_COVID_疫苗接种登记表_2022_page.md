@@ -21,7 +21,7 @@ Download: [MCHD_COVID_疫苗接种登记表_2022.pdf](MCHD_COVID_疫苗接种登
 | Size            | 160252 bytes                           |
 | MD5             | acbac8f3611950620ef3977ba19ec43b                                  |
 | Archived Date   | 2024-11-23 04:19:52                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/HSF%20adult%205.13.2022_Chinese-Simplified.pdf](https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/HSF%20adult%205.13.2022_Chinese-Simplified.pdf)                         |
 | Author          | MCHD（密尔沃基县卫生部）                               |
 | Region          | 中国大陆                               |
 | Date            | 2022-05-13                                 |

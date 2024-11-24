@@ -21,7 +21,7 @@ Download: [打造健康圣地亚哥LGBTQ+精神健康挑战报告.pdf](打造健
 | Size            | 690361 bytes                           |
 | MD5             | df40c67234d36522495936ddb402118c                                  |
 | Archived Date   | 2024-11-23 05:08:07                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://up2sd.org/bulletins/IU2U-bulletin39_Chinese(Simplified).pdf](https://up2sd.org/bulletins/IU2U-bulletin39_Chinese(Simplified).pdf)                         |
 | Author          | 圣地亚哥县卫生与公众服务局                               |
 | Region          | 美国                               |
 | Date            | 2022-01-01                                 |

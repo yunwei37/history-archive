@@ -21,7 +21,7 @@ Download: [《守望初心》余艳长篇报告文学.pdf](《守望初心》余
 | Size            | 765713 bytes                           |
 | MD5             | b56fad3d3c178e957bacb18f3d819324                                  |
 | Archived Date   | 2024-11-23 02:22:17                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [http://paper.people.com.cn/rmrbhwb/page/2018-05/16/07/rmrbhwb2018051607.pdf](http://paper.people.com.cn/rmrbhwb/page/2018-05/16/07/rmrbhwb2018051607.pdf)                         |
 | Author          | 余艳                               |
 | Region          | 中国大陆                               |
 | Date            | 2018-05-16                                 |

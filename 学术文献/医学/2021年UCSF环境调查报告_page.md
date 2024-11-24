@@ -21,7 +21,7 @@ Download: [2021年UCSF环境调查报告.pdf](2021年UCSF环境调查报告.pdf)
 | Size            | 349295 bytes                           |
 | MD5             | 4cb08539cec0243fa78b189b2b0d8c1a                                  |
 | Archived Date   | 2024-11-23 05:07:24                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://ucsfclimate.ucsf.edu/sites/g/files/tkssra7426/f/UCSF-2021-Climate-Survey-Report-Executive-Summary-Chinese-v1.pdf](https://ucsfclimate.ucsf.edu/sites/g/files/tkssra7426/f/UCSF-2021-Climate-Survey-Report-Executive-Summary-Chinese-v1.pdf)                         |
 | Author          | Emma White Research                               |
 | Region          | 美国                               |
 | Date            | 2022-07-01                                 |

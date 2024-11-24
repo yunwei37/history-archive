@@ -21,7 +21,7 @@ Download: [捕捉香港酷儿地景中的女性访谈_马兰清著.pdf](捕捉�
 | Size            | 1030495 bytes                           |
 | MD5             | 8ea505f412f4bc1b983350ef99e99097                                  |
 | Archived Date   | 2024-11-23 02:56:13                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [http://yauching.com/wp-content/uploads/2017/05/%E9%A6%AC%E8%98%AD%E6%B8%85.pdf](http://yauching.com/wp-content/uploads/2017/05/%E9%A6%AC%E8%98%AD%E6%B8%85.pdf)                         |
 | Author          | 马兰清                               |
 | Region          | 香港                               |
 | Date            | 未知                                 |

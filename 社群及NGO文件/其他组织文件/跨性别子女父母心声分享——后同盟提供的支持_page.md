@@ -21,7 +21,7 @@ Download: [跨性别子女父母心声分享——后同盟提供的支持.pdf](
 | Size            | 1794915 bytes                           |
 | MD5             | f1e70f28c65387427946f98c052c15ac                                  |
 | Archived Date   | 2024-11-23 03:58:53                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://hkpea.org/wp-content/uploads/2022/10/%E6%9C%89%E4%B8%80%E7%A8%AE%E7%97%9B%E9%96%8B%E4%B8%8D%E4%BA%86%E5%8F%A3.pdf](https://hkpea.org/wp-content/uploads/2022/10/%E6%9C%89%E4%B8%80%E7%A8%AE%E7%97%9B%E9%96%8B%E4%B8%8D%E4%BA%86%E5%8F%A3.pdf)                         |
 | Author          | 后同盟                               |
 | Region          | 香港                               |
 | Date            | 未知                                 |

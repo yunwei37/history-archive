@@ -23,7 +23,7 @@ Download: [2020年迈克尔·尤因印度尼西亚LGBT应用影响研究.pdf](20
 | Size            | 303701 bytes                           |
 | MD5             | 9b25895264eb388a474a982022a154b0                                  |
 | Archived Date   | 2024-11-23 04:16:53                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://melbourneasiareview.edu.au/wp-content/uploads/2020/10/Ewing-Chinese-translation.edited.pdf](https://melbourneasiareview.edu.au/wp-content/uploads/2020/10/Ewing-Chinese-translation.edited.pdf)                         |
 | Author          | 迈克尔·尤因 (Michael Ewing)                               |
 | Region          | 印度尼西亚                               |
 | Date            | 2020-05-06                                 |

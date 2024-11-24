@@ -21,7 +21,7 @@ Download: [艾滋病疟疾与公共健康对策报告.pdf](艾滋病疟疾与公
 | Size            | 919 bytes                           |
 | MD5             | b033bb8571aaea1bee5ba4434a82cb89                                  |
 | Archived Date   | 2024-11-23 06:37:56                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.un.org/zh/millenniumgoals/pdf/Goal_6_fs.pdf](https://www.un.org/zh/millenniumgoals/pdf/Goal_6_fs.pdf)                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

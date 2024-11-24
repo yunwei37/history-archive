@@ -21,7 +21,7 @@ Download: [加泰罗尼亚政府关于2024年国际LGBTI骄傲日的声明.pdf](
 | Size            | 286161 bytes                           |
 | MD5             | b7723702b7df5e4ccdf459283ffbd5b0                                  |
 | Archived Date   | 2024-11-23 04:01:53                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://igualtat.gencat.cat/web/.content/Actualitat/campanyes/igualdediferents-28j-2024/Declaracio-institucional-28J-2024_XINES.pdf](https://igualtat.gencat.cat/web/.content/Actualitat/campanyes/igualdediferents-28j-2024/Declaracio-institucional-28J-2024_XINES.pdf)                         |
 | Author          | 加泰罗尼亚政府                               |
 | Region          | 加泰罗尼亚                               |
 | Date            | 2024-06-28                                 |

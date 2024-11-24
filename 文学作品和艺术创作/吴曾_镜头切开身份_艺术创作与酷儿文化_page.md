@@ -21,7 +21,7 @@ Download: [吴曾_镜头切开身份_艺术创作与酷儿文化.pdf](吴曾_镜
 | Size            | 740565 bytes                           |
 | MD5             | 916560cc15b3e25646a104869fdf351c                                  |
 | Archived Date   | 2024-11-23 06:31:47                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.springworkshop.org/wp-content/uploads/2012/08/201603-The-Good-Life-Wu-Tsang-F-pg280.pdf](https://www.springworkshop.org/wp-content/uploads/2012/08/201603-The-Good-Life-Wu-Tsang-F-pg280.pdf)                         |
 | Author          | 吴曾                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

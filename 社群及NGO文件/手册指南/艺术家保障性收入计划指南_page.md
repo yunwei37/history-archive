@@ -21,7 +21,7 @@ Download: [艺术家保障性收入计划指南.pdf](艺术家保障性收入计
 | Size            | 806510 bytes                           |
 | MD5             | aa845850c59a54752e11361b74de8a91                                  |
 | Archived Date   | 2024-11-23 05:44:42                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.creativesrebuildny.org/wp-content/uploads/2022/03/GI-Guidelines-Chinese.pdf](https://www.creativesrebuildny.org/wp-content/uploads/2022/03/GI-Guidelines-Chinese.pdf)                         |
 | Author          | Creatives Rebuild New York（CRNY）                               |
 | Region          | 美国                               |
 | Date            | 2022-02-14                                 |

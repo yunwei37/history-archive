@@ -21,7 +21,7 @@ Download: [对歧视骚扰零容忍政策报告.pdf](对歧视骚扰零容忍政
 | Size            | 285216 bytes                           |
 | MD5             | 83c96a3b6987780b70f3882f01e013a8                                  |
 | Archived Date   | 2024-11-23 03:40:13                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://ethics.gxo.com/wp-content/uploads/2021/10/GXO-Zero-Tolerance-Discrimination-harassment-and-retaliation-Policy-v1.0_zh-CN.pdf](https://ethics.gxo.com/wp-content/uploads/2021/10/GXO-Zero-Tolerance-Discrimination-harassment-and-retaliation-Policy-v1.0_zh-CN.pdf)                         |
 | Author          | GXO                               |
 | Region          | 中国大陆                               |
 | Date            | 2021-01-01                                 |

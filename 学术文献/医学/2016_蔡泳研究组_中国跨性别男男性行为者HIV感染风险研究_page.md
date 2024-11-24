@@ -21,7 +21,7 @@ Download: [2016_蔡泳研究组_中国跨性别男男性行为者HIV感染风险
 | Size            | 853097 bytes                           |
 | MD5             | a7c4008f9fdf7d57370bb96641151a87                                  |
 | Archived Date   | 2024-11-23 06:47:20                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://xuebao.shsmu.edu.cn/EN/article/downloadArticleFile.do?attachType=PDF&id=11339](https://xuebao.shsmu.edu.cn/EN/article/downloadArticleFile.do?attachType=PDF&id=11339)                         |
 | Author          | 蔡泳研究组，上海交通大学公共卫生学院，香港中文大学公共卫生学院                               |
 | Region          | 中国                               |
 | Date            | 2016-07-01                                 |

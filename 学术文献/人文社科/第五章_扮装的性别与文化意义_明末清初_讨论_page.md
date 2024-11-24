@@ -21,7 +21,7 @@ Download: [第五章_扮装的性别与文化意义_明末清初_讨论.pdf](第
 | Size            | 340271 bytes                           |
 | MD5             | f07a49192d1d7d2b0846b01c950e0b7e                                  |
 | Archived Date   | 2024-11-23 04:23:05                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://nhuir.nhu.edu.tw/retrieve/26918/089NHU00076016-005.pdf](https://nhuir.nhu.edu.tw/retrieve/26918/089NHU00076016-005.pdf)                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

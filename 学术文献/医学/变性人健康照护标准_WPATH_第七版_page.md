@@ -21,7 +21,7 @@ Download: [变性人健康照护标准_WPATH_第七版.pdf](变性人健康照�
 | Size            | 1747210 bytes                           |
 | MD5             | c15dc2950c395e8eb5637ac30c31b4b0                                  |
 | Archived Date   | 2024-11-23 06:42:41                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.wpath.org/media/cms/Documents/SOC%20v7/SOC%20V7_English.pdf](https://www.wpath.org/media/cms/Documents/SOC%20v7/SOC%20V7_English.pdf)                         |
 | Author          | 国际跨性别健康专业协会（WPATH）                               |
 | Region          | 未知                               |
 | Date            | 2011-09-20                                 |

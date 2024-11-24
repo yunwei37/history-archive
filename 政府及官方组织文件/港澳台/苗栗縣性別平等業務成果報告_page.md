@@ -21,7 +21,7 @@ Download: [苗栗縣性別平等業務成果報告.pdf](苗栗縣性別平等業
 | Size            | 930772 bytes                           |
 | MD5             | dd4b817df10ce2f91dc1ac19e7aa47e6                                  |
 | Archived Date   | 2024-11-23 05:23:57                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://webws.miaoli.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDE2L3JlbGZpbGUvMTMxNTEvMjk3NTQ2Lzk5ZmIyNDE4LWRhNDAtNDY0NC1iMGQ0LTIxZjJkYzlhZGFjMy5wZGY%3D&n=6Zuj5pKV55qE5qiZ57GkLei3qOaAp%2BWIpeWuo%2BWwji5wZGY%3D&icon=.pdf](https://webws.miaoli.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDE2L3JlbGZpbGUvMTMxNTEvMjk3NTQ2Lzk5ZmIyNDE4LWRhNDAtNDY0NC1iMGQ0LTIxZjJkYzlhZGFjMy5wZGY%3D&n=6Zuj5pKV55qE5qiZ57GkLei3qOaAp%2BWIpeWuo%2BWwji5wZGY%3D&icon=.pdf)                         |
 | Author          | 苗栗县政风处                               |
 | Region          | 台湾                               |
 | Date            | 2019-01-01                                 |

@@ -21,7 +21,7 @@ Download: [现代中国文学中的酷儿中国课程大纲.pdf](现代中国文
 | Size            | 191197 bytes                           |
 | MD5             | e4e42d160abc397e5257f5af15b0e9fd                                  |
 | Archived Date   | 2024-11-23 04:36:26                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://queeranthro.org/wp-content/uploads/2016/11/Miller-Bryn-Mawr-2016.pdf](https://queeranthro.org/wp-content/uploads/2016/11/Miller-Bryn-Mawr-2016.pdf)                         |
 | Author          | Dr. Casey J. Miller                               |
 | Region          | 美国                               |
 | Date            | 2016-01-19                                 |

@@ -21,7 +21,7 @@ Download: [Les+双月刊_2007年5月_果米的苦乐生活.pdf](Les+双月刊_20
 | Size            | 2669249 bytes                           |
 | MD5             | 93a9cdffdc1c4802342b3fbb67b436b5                                  |
 | Archived Date   | 2024-11-23 03:16:28                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://cnlgbtdata.com/files/uploads/2021/07/NO.9.pdf](https://cnlgbtdata.com/files/uploads/2021/07/NO.9.pdf)                         |
 | Author          | 果米 / 《Les+》编辑部                               |
 | Region          | 中国大陆                               |
 | Date            | 2007-05-01                                 |

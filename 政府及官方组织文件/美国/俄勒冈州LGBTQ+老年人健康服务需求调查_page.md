@@ -21,7 +21,7 @@ Download: [俄勒冈州LGBTQ+老年人健康服务需求调查.pdf](俄勒冈州
 | Size            | 86126 bytes                           |
 | MD5             | 75ab37004e6201970e848a162c5b1ac8                                  |
 | Archived Date   | 2024-11-23 03:54:00                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://goldseninstitute.org/wp-content/uploads/2021/05/OR-flyer-text-8.5x11-SCH.pdf](https://goldseninstitute.org/wp-content/uploads/2021/05/OR-flyer-text-8.5x11-SCH.pdf)                         |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

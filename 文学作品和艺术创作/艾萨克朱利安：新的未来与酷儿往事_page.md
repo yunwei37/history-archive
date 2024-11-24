@@ -21,7 +21,7 @@ Download: [艾萨克朱利安：新的未来与酷儿往事.pdf](艾萨克朱利
 | Size            | 2640939 bytes                           |
 | MD5             | 9fdbe417c32d69b09f84914c26f011c1                                  |
 | Archived Date   | 2024-11-23 04:53:51                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://static1.squarespace.com/static/5dc2a59496161954582167f9/t/64cba47bcd021b2550c2b48a/1691067518829/ARC+Prince+Shakur.pdf](https://static1.squarespace.com/static/5dc2a59496161954582167f9/t/64cba47bcd021b2550c2b48a/1691067518829/ARC+Prince+Shakur.pdf)                         |
 | Author          | 普林斯·沙库                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

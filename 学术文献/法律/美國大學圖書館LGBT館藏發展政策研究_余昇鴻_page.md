@@ -21,7 +21,7 @@ Download: [美國大學圖書館LGBT館藏發展政策研究_余昇鴻.pdf](美�
 | Size            | 1089674 bytes                           |
 | MD5             | ff600e0d8a1c14e2f40290b5a3741d89                                  |
 | Archived Date   | 2024-11-23 05:28:27                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www-ws.gov.taipei/001/Upload/430/relfile/37525/8323573/66c96e52-2d75-4013-a749-2f7edc36fba7.pdf](https://www-ws.gov.taipei/001/Upload/430/relfile/37525/8323573/66c96e52-2d75-4013-a749-2f7edc36fba7.pdf)                         |
 | Author          | 余昇鴻                               |
 | Region          | 台湾                               |
 | Date            | 未知                                 |

@@ -21,7 +21,7 @@ Download: [关于LGBTQ群体的倡导与支持建议.pdf](关于LGBTQ群体的�
 | Size            | 919 bytes                           |
 | MD5             | 47595f8f76cc073b81e425256eff8405                                  |
 | Archived Date   | 2024-11-23 04:53:20                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://static.igem.wiki/teams/4156/wiki/lgbtq/proposal.pdf](https://static.igem.wiki/teams/4156/wiki/lgbtq/proposal.pdf)                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

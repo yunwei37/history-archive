@@ -21,7 +21,7 @@ Download: [大陆与台湾近代同志运动探讨.pdf](大陆与台湾近代同
 | Size            | 84298 bytes                           |
 | MD5             | f05147930430dbf906e5cd203abb67ba                                  |
 | Archived Date   | 2024-11-23 04:24:14                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://nyshalong.com/public/archive/20150207/20150207_slides_1.pdf](https://nyshalong.com/public/archive/20150207/20150207_slides_1.pdf)                         |
 | Author          | 未知                               |
 | Region          | 中国大陆与台湾                               |
 | Date            | 未知                                 |

@@ -21,7 +21,7 @@ Download: [多元性别与艺术界动态.pdf](多元性别与艺术界动态.pd
 | Size            | 9119114 bytes                           |
 | MD5             | 0880adc239f6214909692e74548af1fc                                  |
 | Archived Date   | 2024-11-23 06:31:17                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.springworkshop.org/wp-content/uploads/2012/08/201603-LEAP-Wu-Tsang-A-Life-in-Process-F.pdf](https://www.springworkshop.org/wp-content/uploads/2012/08/201603-LEAP-Wu-Tsang-A-Life-in-Process-F.pdf)                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

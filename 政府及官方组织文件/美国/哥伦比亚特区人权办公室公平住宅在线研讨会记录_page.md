@@ -21,7 +21,7 @@ Download: [哥伦比亚特区人权办公室公平住宅在线研讨会记录.pd
 | Size            | 399338 bytes                           |
 | MD5             | a9fb2a7c252511386e47c868e13b45cb                                  |
 | Archived Date   | 2024-11-23 04:24:50                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://ohr.dc.gov/sites/default/files/dc/sites/ohr/publication/attachments/FairAndInclusiveWebinarScript_Chinese.pdf](https://ohr.dc.gov/sites/default/files/dc/sites/ohr/publication/attachments/FairAndInclusiveWebinarScript_Chinese.pdf)                         |
 | Author          | 哥伦比亚特区人权办公室                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

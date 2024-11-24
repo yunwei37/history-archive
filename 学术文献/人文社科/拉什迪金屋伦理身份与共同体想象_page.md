@@ -21,7 +21,7 @@ Download: [拉什迪金屋伦理身份与共同体想象.pdf](拉什迪金屋伦
 | Size            | 3021645 bytes                           |
 | MD5             | fd83c58d74f1906c154bebf0e7d6ac8d                                  |
 | Archived Date   | 2024-11-23 03:45:23                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://fsc.hunnu.edu.cn/__local/F/D8/3C/58D74F1906C154BEBF0E7D6AC8D_D08A73C3_2E1B4D.pdf](https://fsc.hunnu.edu.cn/__local/F/D8/3C/58D74F1906C154BEBF0E7D6AC8D_D08A73C3_2E1B4D.pdf)                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

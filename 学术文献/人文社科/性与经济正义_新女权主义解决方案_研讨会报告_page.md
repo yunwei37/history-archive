@@ -21,7 +21,7 @@ Download: [性与经济正义_新女权主义解决方案_研讨会报告.pdf](�
 | Size            | 902734 bytes                           |
 | MD5             | 1fc68056168f984a123d6a701c9311c6                                  |
 | Archived Date   | 2024-11-23 03:06:06                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://bcrw.barnard.edu/wp-content/nfs/reports/NFS4-Chinese.pdf](https://bcrw.barnard.edu/wp-content/nfs/reports/NFS4-Chinese.pdf)                         |
 | Author          | Kate Bedford，Janet R. Jakobsen                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

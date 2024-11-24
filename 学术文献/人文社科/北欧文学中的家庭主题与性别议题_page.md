@@ -21,7 +21,7 @@ Download: [北欧文学中的家庭主题与性别议题.pdf](北欧文学中的
 | Size            | 1738488 bytes                           |
 | MD5             | fc764ffdfc1e7719bb339c5eadb27a8c                                  |
 | Archived Date   | 2024-11-23 02:45:50                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [http://www.pkujccs.cn/uploads/attachments/20191206/997fe7345d3034b96fdf253c28150ef8.pdf](http://www.pkujccs.cn/uploads/attachments/20191206/997fe7345d3034b96fdf253c28150ef8.pdf)                         |
 | Author          | 吴爽                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

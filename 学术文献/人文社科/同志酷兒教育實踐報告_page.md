@@ -21,7 +21,7 @@ Download: [同志酷兒教育實踐報告.pdf](同志酷兒教育實踐報告.pd
 | Size            | 462084 bytes                           |
 | MD5             | d11a05dfe58a4001323326ce7c4c65f7                                  |
 | Archived Date   | 2024-11-23 05:02:18                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://tpl.ncl.edu.tw/NclService/pdfdownload?filePath=lV8OirTfsslWcCxIpLbUfhQHstx_oOBL3eBVmgJDqmnn6rpnsLSU_5xzFjBu1X1A&imgType=Bn5sH4BGpJw=&key=7xrniGgKFFv52sFejVAGtS_zKYDFH-hLCeZbU10-9mweVVU9OyINO4qBZJhLTxWd&xmlId=0006744268](https://tpl.ncl.edu.tw/NclService/pdfdownload?filePath=lV8OirTfsslWcCxIpLbUfhQHstx_oOBL3eBVmgJDqmnn6rpnsLSU_5xzFjBu1X1A&imgType=Bn5sH4BGpJw=&key=7xrniGgKFFv52sFejVAGtS_zKYDFH-hLCeZbU10-9mweVVU9OyINO4qBZJhLTxWd&xmlId=0006744268)                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

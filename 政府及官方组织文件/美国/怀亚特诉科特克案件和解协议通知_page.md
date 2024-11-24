@@ -21,7 +21,7 @@ Download: [怀亚特诉科特克案件和解协议通知.pdf](怀亚特诉科特
 | Size            | 231365 bytes                           |
 | MD5             | 69c3e512a2c5a0d4adf60d5ef914817c                                  |
 | Archived Date   | 2024-11-23 03:37:50                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://dro.squarespace.com/s/SIMPLIFIED-CHINESE_Wyatt-v-Kotek-Stipulated-Proposed-Class-Notice-kted.pdf](https://dro.squarespace.com/s/SIMPLIFIED-CHINESE_Wyatt-v-Kotek-Stipulated-Proposed-Class-Notice-kted.pdf)                         |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 2024-04-16                                 |

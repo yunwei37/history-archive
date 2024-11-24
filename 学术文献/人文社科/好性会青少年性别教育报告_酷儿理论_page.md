@@ -21,7 +21,7 @@ Download: [好性会青少年性别教育报告_酷儿理论.pdf](好性会青�
 | Size            | 2186558 bytes                           |
 | MD5             | 3dd80ed3900db482f7b7566ea5a3a9fc                                  |
 | Archived Date   | 2024-11-23 02:27:14                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [http://tas.bravo.org.tw/2015tc/0325y2014.pdf](http://tas.bravo.org.tw/2015tc/0325y2014.pdf)                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

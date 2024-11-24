@@ -21,7 +21,7 @@ Download: [城市空间与同性恋关系研究_魏伟_富晓星.pdf](城市空�
 | Size            | 1448136 bytes                           |
 | MD5             | 6592f1ad91857ea4bb9268fced09e55c                                  |
 | Archived Date   | 2024-11-23 03:46:10                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://g-city.sass.org.cn/_upload/article/files/84/58/e564f19d46d0830bc1a7b40ab0cf/6bb87139-5d05-4464-a7b4-58eb291d9186.pdf](https://g-city.sass.org.cn/_upload/article/files/84/58/e564f19d46d0830bc1a7b40ab0cf/6bb87139-5d05-4464-a7b4-58eb291d9186.pdf)                         |
 | Author          | 魏伟、富晓星                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

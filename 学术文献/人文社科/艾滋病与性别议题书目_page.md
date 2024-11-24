@@ -21,7 +21,7 @@ Download: [艾滋病与性别议题书目.pdf](艾滋病与性别议题书目.pd
 | Size            | 689471 bytes                           |
 | MD5             | 393c96230ea94d9e49b05391e7994ba3                                  |
 | Archived Date   | 2024-11-23 04:12:51                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://library.sc.edu.my/files/ThemedExhibitions/AIDS/AIDSbookslist.pdf](https://library.sc.edu.my/files/ThemedExhibitions/AIDS/AIDSbookslist.pdf)                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

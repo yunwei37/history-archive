@@ -21,7 +21,7 @@ Download: [女同性恋与双性恋女性健康议题报告_国际同性恋者�
 | Size            | 623120 bytes                           |
 | MD5             | 072223d1353c2f6f11259937df866ab8                                  |
 | Archived Date   | 2024-11-23 02:29:29                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [http://www.aizhi.org/UploadSoft/2006926194414810.pdf](http://www.aizhi.org/UploadSoft/2006926194414810.pdf)                         |
 | Author          | 国际同性恋者协会（ILGA）                               |
 | Region          | 国际                               |
 | Date            | 未知                                 |

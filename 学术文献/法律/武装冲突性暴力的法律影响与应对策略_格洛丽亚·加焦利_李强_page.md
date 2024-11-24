@@ -21,7 +21,7 @@ Download: [武装冲突性暴力的法律影响与应对策略_格洛丽亚·加
 | Size            | 1237504 bytes                           |
 | MD5             | d703f40d4580cc105d2acf411abd3d09                                  |
 | Archived Date   | 2024-11-23 04:04:13                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://international-review.icrc.org/sites/default/files/cn_irrc-894-gaggioli_final.pdf](https://international-review.icrc.org/sites/default/files/cn_irrc-894-gaggioli_final.pdf)                         |
 | Author          | 格洛丽亚·加焦利                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

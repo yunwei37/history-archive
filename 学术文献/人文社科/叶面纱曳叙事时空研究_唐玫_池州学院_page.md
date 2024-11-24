@@ -21,7 +21,7 @@ Download: [叶面纱曳叙事时空研究_唐玫_池州学院.pdf](叶面纱曳�
 | Size            | 1225465 bytes                           |
 | MD5             | 93a177864ed8db04ba4a47fbf3bf9e30                                  |
 | Archived Date   | 2024-11-23 02:54:13                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [http://xb.chu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=321](http://xb.chu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=321)                         |
 | Author          | 唐玫，胡琴                               |
 | Region          | 中国大陆                               |
 | Date            | 2019-11-15                                 |

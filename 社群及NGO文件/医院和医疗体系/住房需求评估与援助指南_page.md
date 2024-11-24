@@ -21,7 +21,7 @@ Download: [住房需求评估与援助指南.pdf](住房需求评估与援助指
 | Size            | 456436 bytes                           |
 | MD5             | 2610c0c5cccc91056d11bdc0ca8f74a5                                  |
 | Archived Date   | 2024-11-23 06:06:35                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.kcsinc.org/wp-content/uploads/2023/07/HOUSING-INTAKE-PACKET_SC-1.pdf](https://www.kcsinc.org/wp-content/uploads/2023/07/HOUSING-INTAKE-PACKET_SC-1.pdf)                         |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

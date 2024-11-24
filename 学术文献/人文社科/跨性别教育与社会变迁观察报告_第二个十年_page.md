@@ -27,7 +27,7 @@ Download: [跨性别教育与社会变迁观察报告_第二个十年.pdf](跨�
 | Size            | 15765351 bytes                           |
 | MD5             | 3155566dc899a73aeac74f5998726671                                  |
 | Archived Date   | 2024-11-23 04:29:46                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://osa.mitust.edu.tw/var/file/5/1005/img/240/655971989.pdf](https://osa.mitust.edu.tw/var/file/5/1005/img/240/655971989.pdf)                         |
 | Author          | 未知                               |
 | Region          | 台湾                               |
 | Date            | 2019-01-01                                 |

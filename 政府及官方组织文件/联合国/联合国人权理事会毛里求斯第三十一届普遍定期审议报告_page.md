@@ -21,7 +21,7 @@ Download: [联合国人权理事会毛里求斯第三十一届普遍定期审议
 | Size            | 489781 bytes                           |
 | MD5             | b588920560084184fd6011c26500498e                                  |
 | Archived Date   | 2024-11-23 05:16:23                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://upr-info.org/sites/default/files/documents/2018-10/a_hrc_wg.6_31_mus_3_c.pdf](https://upr-info.org/sites/default/files/documents/2018-10/a_hrc_wg.6_31_mus_3_c.pdf)                         |
 | Author          | 联合国人权事务高级专员办事处                               |
 | Region          | 毛里求斯                               |
 | Date            | 2018-08-27                                 |

@@ -23,7 +23,7 @@ Download: [旧金山安全住房社区需求评估报告.pdf](旧金山安全住
 | Size            | 3278250 bytes                           |
 | MD5             | e26cf4d3a9ab7b56d6b9a14de9631715                                  |
 | Archived Date   | 2024-11-23 04:00:40                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://hsh.sfgov.org/wp-content/uploads/2023/02/Safe-Housing-Community-Needs-Assessment-Report_-Chinese.pdf](https://hsh.sfgov.org/wp-content/uploads/2023/02/Safe-Housing-Community-Needs-Assessment-Report_-Chinese.pdf)                         |
 | Author          | 安全住房联盟 (SHA)                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

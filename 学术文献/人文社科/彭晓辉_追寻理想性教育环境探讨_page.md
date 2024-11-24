@@ -21,7 +21,7 @@ Download: [彭晓辉_追寻理想性教育环境探讨.pdf](彭晓辉_追寻理�
 | Size            | 12081458 bytes                           |
 | MD5             | ae9c07883a6d80d828da0c7f43592d2c                                  |
 | Archived Date   | 2024-11-23 04:42:01                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://s3.us-west-1.wasabisys.com/p-library/books/ae9c07883a6d80d828da0c7f43592d2c.pdf](https://s3.us-west-1.wasabisys.com/p-library/books/ae9c07883a6d80d828da0c7f43592d2c.pdf)                         |
 | Author          | 彭晓辉                               |
 | Region          | 中国大陆                               |
 | Date            | 2011-04-01                                 |

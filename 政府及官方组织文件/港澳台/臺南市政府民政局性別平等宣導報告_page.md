@@ -21,7 +21,7 @@ Download: [臺南市政府民政局性別平等宣導報告.pdf](臺南市政府
 | Size            | 13346962 bytes                           |
 | MD5             | aca2a7e21cb7cd16c6b62e25c3b356ed                                  |
 | Archived Date   | 2024-11-23 05:20:03                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTk0L3JlbGZpbGUvMjA4NjkvNzczOTM3MS9mMzY1NzE2ZS0zZGI2LTRhZWYtODU1Yy05N2FhNDE2YjlkZTgucGRm&n=5rCR5pS%2F5bGAMTA55bm056ysMS005a2j5YW25LuW5oCn5Yil5bmz562J5a6j5bCO5oiQ5p6c5aCx5ZGKLnBkZg%3D%3D&icon=.pdf](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTk0L3JlbGZpbGUvMjA4NjkvNzczOTM3MS9mMzY1NzE2ZS0zZGI2LTRhZWYtODU1Yy05N2FhNDE2YjlkZTgucGRm&n=5rCR5pS%2F5bGAMTA55bm056ysMS005a2j5YW25LuW5oCn5Yil5bmz562J5a6j5bCO5oiQ5p6c5aCx5ZGKLnBkZg%3D%3D&icon=.pdf)                         |
 | Author          | 臺南市政府民政局                               |
 | Region          | 台湾                               |
 | Date            | 2020-01-07                                 |

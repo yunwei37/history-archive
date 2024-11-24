@@ -21,7 +21,7 @@ Download: [出柜指南_来自UCSB_RCSGD_2023.pdf](出柜指南_来自UCSB_RCSGD
 | Size            | 5897200 bytes                           |
 | MD5             | bfff59f9937798d7e5185813381dcc38                                  |
 | Archived Date   | 2024-11-23 04:37:51                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://rcsgd.sa.ucsb.edu/sites/default/files/2023-08/%E5%87%BA%E6%AB%83%E6%8C%87%E5%8D%97coming-out-guide-docx.pdf](https://rcsgd.sa.ucsb.edu/sites/default/files/2023-08/%E5%87%BA%E6%AB%83%E6%8C%87%E5%8D%97coming-out-guide-docx.pdf)                         |
 | Author          | 加州大学圣巴巴拉分校RCSGD                               |
 | Region          | 美国                               |
 | Date            | 2023-01-01                                 |

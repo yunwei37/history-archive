@@ -21,7 +21,7 @@ Download: [男旦艺术文化心理研究_福建师范大学_徐蔚.pdf](男旦�
 | Size            | 94936 bytes                           |
 | MD5             | 6b7d857fd28869af7f93e4c7b55a1103                                  |
 | Archived Date   | 2024-11-23 02:08:50                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [http://106.37.81.211:8082/images/sjsimages/pdf/qk/fjsfdxxb-zx/fjsf2003/0306pdf/030614.pdf](http://106.37.81.211:8082/images/sjsimages/pdf/qk/fjsfdxxb-zx/fjsf2003/0306pdf/030614.pdf)                         |
 | Author          | 徐蔚（福建师范大学文学院，福建福州）                               |
 | Region          | 中国                               |
 | Date            | 未知                                 |

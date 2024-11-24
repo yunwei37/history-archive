@@ -21,7 +21,7 @@ Download: [联合国自由和平等_LGBTIQ+女性基本知识与现状报告.pdf
 | Size            | 1443096 bytes                           |
 | MD5             | cca28f4ecb453e029bcf2bc83afe453d                                  |
 | Archived Date   | 2024-11-23 06:39:38                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.unfe.org/sites/default/files/download/UNFE%20LGBTIQ%2B%20Women%20Factsheet-%20CH.pdf](https://www.unfe.org/sites/default/files/download/UNFE%20LGBTIQ%2B%20Women%20Factsheet-%20CH.pdf)                         |
 | Author          | 联合国                               |
 | Region          | 全球                               |
 | Date            | 未知                                 |

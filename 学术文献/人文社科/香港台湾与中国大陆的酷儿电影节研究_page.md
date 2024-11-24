@@ -21,7 +21,7 @@ Download: [香港台湾与中国大陆的酷儿电影节研究.pdf](香港台湾
 | Size            | 1598665 bytes                           |
 | MD5             | b22ce60d3ee2d3eaaf89dbf76f40446e                                  |
 | Archived Date   | 2024-11-23 06:05:54                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.jstage.jst.go.jp/article/easoc/2016/8/2016_207/_pdf/-char/ja](https://www.jstage.jst.go.jp/article/easoc/2016/8/2016_207/_pdf/-char/ja)                         |
 | Author          | 未知                               |
 | Region          | 香港、台湾、中国大陆                               |
 | Date            | 未知                                 |

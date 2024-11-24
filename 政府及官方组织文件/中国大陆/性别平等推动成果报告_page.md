@@ -21,7 +21,7 @@ Download: [性别平等推动成果报告.pdf](性别平等推动成果报告.pd
 | Size            | 7395351 bytes                           |
 | MD5             | e469c5ef7d05e07d441e192a8f52f332                                  |
 | Archived Date   | 2024-11-23 05:21:52                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTk2L3JlbGZpbGUvMjE5NTMvNzkwMzgzMC9iYTVmNDhkZS0yMTkxLTQwMDgtOGUxNi0wYTY2OWNlZjUzMTEucGRm&n=5YW25LuW5oCn5Yil5bmz562J5a6j5bCO5oiQ5p6c5aCx5ZGK6KGoLnBkZg%3D%3D&icon=.pdf](https://w3fs.tainan.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTk2L3JlbGZpbGUvMjE5NTMvNzkwMzgzMC9iYTVmNDhkZS0yMTkxLTQwMDgtOGUxNi0wYTY2OWNlZjUzMTEucGRm&n=5YW25LuW5oCn5Yil5bmz562J5a6j5bCO5oiQ5p6c5aCx5ZGK6KGoLnBkZg%3D%3D&icon=.pdf)                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

@@ -21,7 +21,7 @@ Download: [纽约健康医院LGBTQ+医疗中心宣传.pdf](纽约健康医院LGB
 | Size            | 3244310 bytes                           |
 | MD5             | 436ecf51bd037d02ef2e1e1536b9a70b                                  |
 | Archived Date   | 2024-11-23 03:57:42                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://hhinternet.blob.core.windows.net/uploads/2023/03/LGBTQ-Trifold_web-brochure-final_SCH.pdf](https://hhinternet.blob.core.windows.net/uploads/2023/03/LGBTQ-Trifold_web-brochure-final_SCH.pdf)                         |
 | Author          | NYC Health + Hospitals                               |
 | Region          | 美国                               |
 | Date            | 2022-05-22                                 |

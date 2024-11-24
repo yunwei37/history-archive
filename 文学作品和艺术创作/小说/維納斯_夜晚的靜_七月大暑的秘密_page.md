@@ -21,7 +21,7 @@ Download: [維納斯_夜晚的靜_七月大暑的秘密.pdf](維納斯_夜晚的
 | Size            | 474123 bytes                           |
 | MD5             | 80c8c64af22b93bab517b9423d26ed25                                  |
 | Archived Date   | 2024-11-23 03:03:03                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://archive.ncafroc.org.tw/upload/result/1573-F1008/%E7%B6%AD%E7%B4%8D%E6%96%AF_1698128964313.pdf](https://archive.ncafroc.org.tw/upload/result/1573-F1008/%E7%B6%AD%E7%B4%8D%E6%96%AF_1698128964313.pdf)                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

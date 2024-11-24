@@ -21,7 +21,7 @@ Download: [青少年性别确认护理研究报告.pdf](青少年性别确认护
 | Size            | 118 bytes                           |
 | MD5             | bad2e8579dcdb79399aac2064216a37d                                  |
 | Archived Date   | 2024-11-23 04:25:23                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://opa.hhs.gov/sites/default/files/2023-08/gender-affirming-care-young-people.pdf](https://opa.hhs.gov/sites/default/files/2023-08/gender-affirming-care-young-people.pdf)                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

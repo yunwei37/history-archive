@@ -21,7 +21,7 @@ Download: [大学生性健康教育_江剑平_第二版.pdf](大学生性健康�
 | Size            | 1564253 bytes                           |
 | MD5             | 96f8d7c50737e428fcf86692c55e288b                                  |
 | Archived Date   | 2024-11-23 05:48:39                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.ecsponline.com/yz/B9E28E23FD96E469FB1DDA83B9D74EBBF000.pdf](https://www.ecsponline.com/yz/B9E28E23FD96E469FB1DDA83B9D74EBBF000.pdf)                         |
 | Author          | 江剑平                               |
 | Region          | 中国大陆                               |
 | Date            | 2011-07-01                                 |

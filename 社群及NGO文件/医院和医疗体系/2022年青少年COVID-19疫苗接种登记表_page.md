@@ -21,7 +21,7 @@ Download: [2022年青少年COVID-19疫苗接种登记表.pdf](2022年青少年CO
 | Size            | 176821 bytes                           |
 | MD5             | c921b1c75ba9974b1e33001364fed0c2                                  |
 | Archived Date   | 2024-11-23 04:20:23                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/HSF%20pediatric%205.13.2022_Chinese-Sim.pdf](https://multco-web7-psh-files-usw2.s3-us-west-2.amazonaws.com/s3fs-public/HSF%20pediatric%205.13.2022_Chinese-Sim.pdf)                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2022-05-13                                 |

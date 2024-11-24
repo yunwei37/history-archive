@@ -21,7 +21,7 @@ Download: [温哥华跨性别政策反思报告.pdf](温哥华跨性别政策反
 | Size            | 482880 bytes                           |
 | MD5             | 282280739c3dc458907acc51fa6c8a68                                  |
 | Archived Date   | 2024-11-23 06:26:53                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.sfu.ca/~hhl/resources/mingpao14817.pdf](https://www.sfu.ca/~hhl/resources/mingpao14817.pdf)                         |
 | Author          | 未知                               |
 | Region          | 加拿大                               |
 | Date            | 未知                                 |

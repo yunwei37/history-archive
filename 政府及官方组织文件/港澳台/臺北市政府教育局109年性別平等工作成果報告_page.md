@@ -21,7 +21,7 @@ Download: [臺北市政府教育局109年性別平等工作成果報告.pdf](臺
 | Size            | 5667466 bytes                           |
 | MD5             | afbee4694bc07eb2152337b5fe58d15d                                  |
 | Archived Date   | 2024-11-23 05:29:10                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzQyL3JlbGZpbGUvMzY5NjcvODM3NDg1My9jODU1YTQ4Mi0zMWIxLTQ0YWMtYjBkOC1kMjc0YzkxZTkwYWYucGRm&n=5pWZ6IKy5bGAMTA55bm05o6o5YuV5oCn5Yil5bmz562J5bel5L2c5oiQ5p6c5aCx5ZGKLnBkZg%3D%3D&icon=..pdf](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzQyL3JlbGZpbGUvMzY5NjcvODM3NDg1My9jODU1YTQ4Mi0zMWIxLTQ0YWMtYjBkOC1kMjc0YzkxZTkwYWYucGRm&n=5pWZ6IKy5bGAMTA55bm05o6o5YuV5oCn5Yil5bmz562J5bel5L2c5oiQ5p6c5aCx5ZGKLnBkZg%3D%3D&icon=..pdf)                         |
 | Author          | 臺北市政府教育局                               |
 | Region          | 台湾                               |
 | Date            | 2020-03-05                                 |

@@ -21,7 +21,7 @@ Download: [商業道德政策_對歧視騷擾零容忍.pdf](商業道德政策_�
 | Size            | 306678 bytes                           |
 | MD5             | 997105fcdb6d5b4aedd7b066c8993468                                  |
 | Archived Date   | 2024-11-23 03:40:40                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://ethics.gxo.com/wp-content/uploads/2021/10/GXO-Zero-Tolerance-Discrimination-harassment-and-retaliation-Policy-v1.0_zh-TW.pdf](https://ethics.gxo.com/wp-content/uploads/2021/10/GXO-Zero-Tolerance-Discrimination-harassment-and-retaliation-Policy-v1.0_zh-TW.pdf)                         |
 | Author          | GXO公司                               |
 | Region          | 未知                               |
 | Date            | 2021-01-01                                 |

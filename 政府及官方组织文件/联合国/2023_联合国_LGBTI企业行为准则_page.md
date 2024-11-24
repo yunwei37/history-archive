@@ -21,7 +21,7 @@ Download: [2023_联合国_LGBTI企业行为准则.pdf](2023_联合国_LGBTI企�
 | Size            | 1793597 bytes                           |
 | MD5             | e2dd09a24aadd299979461339905c64f                                  |
 | Archived Date   | 2024-11-23 06:17:54                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.ohchr.org/sites/default/files/documents/issues/discrimination/lgbt/UN-Standards-of-Conduct-Summary-Chinese.pdf](https://www.ohchr.org/sites/default/files/documents/issues/discrimination/lgbt/UN-Standards-of-Conduct-Summary-Chinese.pdf)                         |
 | Author          | 联合国人权办公室                               |
 | Region          | 全球                               |
 | Date            | 2023-01-01                                 |

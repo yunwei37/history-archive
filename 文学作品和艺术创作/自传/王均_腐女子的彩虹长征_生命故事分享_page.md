@@ -21,7 +21,7 @@ Download: [王均_腐女子的彩虹长征_生命故事分享.pdf](王均_腐女
 | Size            | 1697265 bytes                           |
 | MD5             | e360d95b3114d85d0ac7395f46dd3bdc                                  |
 | Archived Date   | 2024-11-23 02:21:35                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [http://lawdata.com.tw/File/DC/Journal/J1364/A07350095_078.pdf](http://lawdata.com.tw/File/DC/Journal/J1364/A07350095_078.pdf)                         |
 | Author          | 王均                               |
 | Region          | 台湾                               |
 | Date            | 未知                                 |

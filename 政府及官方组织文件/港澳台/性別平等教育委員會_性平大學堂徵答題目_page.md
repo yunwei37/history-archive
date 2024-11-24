@@ -21,7 +21,7 @@ Download: [性別平等教育委員會_性平大學堂徵答題目.pdf](性別�
 | Size            | 173774 bytes                           |
 | MD5             | cd5eb20fe191bd0f0517aa1395852137                                  |
 | Archived Date   | 2024-11-23 03:48:26                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://gender-equality.cmu.edu.tw/sites/default/files/%E3%80%8C%E6%80%A7%E5%B9%B3%E5%A4%A7%E5%AD%B8%E5%A0%82%E6%9C%89%E7%8D%8E%E5%BE%B5%E7%AD%94%E3%80%8D%E5%A4%A7%E8%A3%9C%E5%B8%96.pdf](https://gender-equality.cmu.edu.tw/sites/default/files/%E3%80%8C%E6%80%A7%E5%B9%B3%E5%A4%A7%E5%AD%B8%E5%A0%82%E6%9C%89%E7%8D%8E%E5%BE%B5%E7%AD%94%E3%80%8D%E5%A4%A7%E8%A3%9C%E5%B8%96.pdf)                         |
 | Author          | 性别平等教育委员会                               |
 | Region          | 台湾                               |
 | Date            | 未知                                 |

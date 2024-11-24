@@ -21,7 +21,7 @@ Download: [拉拉的故事与经历.pdf](拉拉的故事与经历.pdf)
 | Size            | 54830080 bytes                           |
 | MD5             | 8dae726d027069aacd373a2b620c7a63                                  |
 | Archived Date   | 2024-11-23 03:18:44                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://cnlgbtdata.com/files/uploads/2021/08/No.17_op.pdf](https://cnlgbtdata.com/files/uploads/2021/08/No.17_op.pdf)                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

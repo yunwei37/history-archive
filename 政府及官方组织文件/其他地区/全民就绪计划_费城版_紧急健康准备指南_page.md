@@ -21,7 +21,7 @@ Download: [全民就绪计划_费城版_紧急健康准备指南.pdf](全民就�
 | Size            | 919 bytes                           |
 | MD5             | 8e0d22b43dbd5e9d46166040bca31504                                  |
 | Archived Date   | 2024-11-23 06:20:06                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.phila.gov/media/20190701114436/EverybodyReadyPhilaEd_SimplChinese.pdf](https://www.phila.gov/media/20190701114436/EverybodyReadyPhilaEd_SimplChinese.pdf)                         |
 | Author          | 未知                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

@@ -21,7 +21,7 @@ Download: [双性恋人群的生存现状与挑战.pdf](双性恋人群的生存
 | Size            | 265661 bytes                           |
 | MD5             | 5b76ee85aff0d69363fecfbb9c097829                                  |
 | Archived Date   | 2024-11-23 06:16:45                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.ohchr.org/sites/default/files/Documents/Issues/Discrimination/LGBT/FactSheets/UNFE_FactSheet_Bisexual_CH.pdf](https://www.ohchr.org/sites/default/files/Documents/Issues/Discrimination/LGBT/FactSheets/UNFE_FactSheet_Bisexual_CH.pdf)                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

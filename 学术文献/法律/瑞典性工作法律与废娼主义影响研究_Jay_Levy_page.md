@@ -21,7 +21,7 @@ Download: [瑞典性工作法律与废娼主义影响研究_Jay_Levy.pdf](瑞典
 | Size            | 828017 bytes                           |
 | MD5             | dcba096f615b832f9f8072141a677a34                                  |
 | Archived Date   | 2024-11-23 06:14:00                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.nswp.org/sites/default/files/1._rui_dian_de_fei_chang_zhu_yi_zhe_li_nian_nswp_-_2015.pdf](https://www.nswp.org/sites/default/files/1._rui_dian_de_fei_chang_zhu_yi_zhe_li_nian_nswp_-_2015.pdf)                         |
 | Author          | Jay Levy                               |
 | Region          | 瑞典                               |
 | Date            | 未知                                 |

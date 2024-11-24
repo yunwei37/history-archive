@@ -21,7 +21,7 @@ Download: [巴特勒作品集.pdf](巴特勒作品集.pdf)
 | Size            | 6957144 bytes                           |
 | MD5             | ee4c6ce5299761688ff36b76b19b855e                                  |
 | Archived Date   | 2024-11-23 06:02:28                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.immurseyourself.com/kyguanwangmanbetx/__local/E/E4/C6/CE5299761688FF36B76B19B855E_F0D78D98_6A2858.pdf](https://www.immurseyourself.com/kyguanwangmanbetx/__local/E/E4/C6/CE5299761688FF36B76B19B855E_F0D78D98_6A2858.pdf)                         |
 | Author          | 朱迪斯·巴特勒                               |
 | Region          | 美国                               |
 | Date            | 未知                                 |

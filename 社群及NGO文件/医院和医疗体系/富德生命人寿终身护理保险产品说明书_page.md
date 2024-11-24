@@ -21,7 +21,7 @@ Download: [富德生命人寿终身护理保险产品说明书.pdf](富德生命
 | Size            | 316605 bytes                           |
 | MD5             | de7a0fa4c9ea0404984ff93471ba797f                                  |
 | Archived Date   | 2024-11-23 06:28:56                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.sino-life.com/upload/clause/hlbx_2024022_cpsms.pdf](https://www.sino-life.com/upload/clause/hlbx_2024022_cpsms.pdf)                         |
 | Author          | 富德生命人寿保险股份有限公司                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

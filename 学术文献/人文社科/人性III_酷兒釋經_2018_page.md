@@ -21,7 +21,7 @@ Download: [人性III_酷兒釋經_2018.pdf](人性III_酷兒釋經_2018.pdf)
 | Size            | 303650 bytes                           |
 | MD5             | 533eae7c24190720776c436b28faddae                                  |
 | Archived Date   | 2024-11-23 03:58:10                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://hkci.org.hk/wp-content/uploads/%E4%BA%BA%E6%80%A7III.pdf](https://hkci.org.hk/wp-content/uploads/%E4%BA%BA%E6%80%A7III.pdf)                         |
 | Author          | 胡露茜、曾景恒，香港基督徒学会、性神学社                               |
 | Region          | 香港                               |
 | Date            | 2018-04-01                                 |

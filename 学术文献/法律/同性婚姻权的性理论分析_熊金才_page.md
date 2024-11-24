@@ -21,7 +21,7 @@ Download: [同性婚姻权的性理论分析_熊金才.pdf](同性婚姻权的�
 | Size            | 204201 bytes                           |
 | MD5             | c01fbc667c188253bf077ed13f57b30b                                  |
 | Archived Date   | 2024-11-23 04:48:38                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://sls.org.cn/webfile/upload/2018/06-04/10-55-330625-1004084254.pdf](https://sls.org.cn/webfile/upload/2018/06-04/10-55-330625-1004084254.pdf)                         |
 | Author          | 熊金才                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

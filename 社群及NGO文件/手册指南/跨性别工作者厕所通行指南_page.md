@@ -21,7 +21,7 @@ Download: [跨性别工作者厕所通行指南.pdf](跨性别工作者厕所通
 | Size            | 429 bytes                           |
 | MD5             | 5943a736d5eb21f04dfc752cd6a5c63c                                  |
 | Archived Date   | 2024-11-23 06:19:36                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.osha.gov/sites/default/files/publications/OSHA3795.pdf](https://www.osha.gov/sites/default/files/publications/OSHA3795.pdf)                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

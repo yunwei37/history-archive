@@ -21,7 +21,7 @@ Download: [医学教育中的跨性别健康政策与实践研究-汤米·哈纳
 | Size            | 942641 bytes                           |
 | MD5             | 4419b23b7ded43ce4e2fca14569dfb2d                                  |
 | Archived Date   | 2024-11-23 04:33:16                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://pdfs.semanticscholar.org/c679/48a3d39ab7d2781f976b9e7d59c5b56fb88b.pdf](https://pdfs.semanticscholar.org/c679/48a3d39ab7d2781f976b9e7d59c5b56fb88b.pdf)                         |
 | Author          | 汤米·哈纳, Kat Butler, L Trevor Young, Gerardo Zamorab, June Sing Hong Lam                               |
 | Region          | 加拿大                               |
 | Date            | 2021-01-21                                 |

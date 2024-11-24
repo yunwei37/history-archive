@@ -21,7 +21,7 @@ Download: [跨性别资源中心-港澳地区信息汇总.pdf](跨性别资源�
 | Size            | 4281256 bytes                           |
 | MD5             | e79a7204a124e22e2f11d1cd589c823a                                  |
 | Archived Date   | 2024-11-23 06:34:32                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.tgr.org.hk/attachments/article/380/20160915_S-Mega_S.pdf](https://www.tgr.org.hk/attachments/article/380/20160915_S-Mega_S.pdf)                         |
 | Author          | 未知                               |
 | Region          | 港澳地区                               |
 | Date            | 未知                                 |

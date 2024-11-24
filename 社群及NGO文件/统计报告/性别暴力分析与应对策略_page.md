@@ -21,7 +21,7 @@ Download: [性别暴力分析与应对策略.pdf](性别暴力分析与应对策
 | Size            | 123879 bytes                           |
 | MD5             | f3913f7277977c8759fb837af3e8378f                                  |
 | Archived Date   | 2024-11-23 05:38:51                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.canada.ca/content/dam/wage-fegc/documents/gbv/8362_WAGE_factsheets_19-24_Chinese_Simplified_LR.pdf](https://www.canada.ca/content/dam/wage-fegc/documents/gbv/8362_WAGE_factsheets_19-24_Chinese_Simplified_LR.pdf)                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

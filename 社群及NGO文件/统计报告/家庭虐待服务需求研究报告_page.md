@@ -21,7 +21,7 @@ Download: [家庭虐待服务需求研究报告.pdf](家庭虐待服务需求研
 | Size            | 761714 bytes                           |
 | MD5             | 0de8ac971331063fc9cfa7cfa041ca12                                  |
 | Archived Date   | 2024-11-23 03:36:29                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://domesticabusecommissioner.uk/wp-content/uploads/2023/01/A-Patchwork-of-Provision-Final-summary-report-for-translation-Chinese-Simplified-1.pdf](https://domesticabusecommissioner.uk/wp-content/uploads/2023/01/A-Patchwork-of-Provision-Final-summary-report-for-translation-Chinese-Simplified-1.pdf)                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

@@ -21,7 +21,7 @@ Download: [国际人权法与性别认同研究报告.pdf](国际人权法与性
 | Size            | 369233 bytes                           |
 | MD5             | 556dc722f2c1cae514113a2570557e78                                  |
 | Archived Date   | 2024-11-23 06:38:35                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://www.unfe.org/sites/default/files/download/International%20Human%20Rights%20...%20Factsheet%20-%20CH.pdf](https://www.unfe.org/sites/default/files/download/International%20Human%20Rights%20...%20Factsheet%20-%20CH.pdf)                         |
 | Author          | 联合国人权事务高级专员办事处                               |
 | Region          | 国际                               |
 | Date            | 2011-12-01                                 |
