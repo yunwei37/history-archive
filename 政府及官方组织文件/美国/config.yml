@@ -9,6 +9,48 @@ tags:
 - 美国
 license: ''
 files:
+- name: 2013年美国反暴力项目报告_针对LGBTQ和HIV受影响人群的仇恨暴力
+  filename: 2013年美国反暴力项目报告_针对LGBTQ和HIV受影响人群的仇恨暴力.pdf
+  type: document
+  format: PDF Document
+  size: 3303791
+  md5: 272f568ca4682aa9b4948c7a1f674bd0
+  page: 2013年美国反暴力项目报告_针对LGBTQ和HIV受影响人群的仇恨暴力_page.md
+- name: 2015年美国跨性别调查报告执行摘要
+  filename: 2015年美国跨性别调查报告执行摘要.pdf
+  type: document
+  format: PDF Document
+  size: 208901
+  md5: 2f5c3368690469e5c0bbc97085cd8f5f
+  page: 2015年美国跨性别调查报告执行摘要_page.md
+- name: 2016年5月13日_美国教育部和司法部_跨性别学生支持政策指导信函
+  filename: 2016年5月13日_美国教育部和司法部_跨性别学生支持政策指导信函.pdf
+  type: document
+  format: PDF Document
+  size: 1405524
+  md5: d7a2fd49b5ae330472e6c84f5616f7d7
+  page: 2016年5月13日_美国教育部和司法部_跨性别学生支持政策指导信函_page.md
+- name: 2016年美国教育部关于跨性别学生的同事信函
+  filename: 2016年美国教育部关于跨性别学生的同事信函.pdf
+  type: document
+  format: PDF Document
+  size: 3118187
+  md5: 7e3c81226acf1e6e663165c3e7994c4b
+  page: 2016年美国教育部关于跨性别学生的同事信函_page.md
+- name: 2020学生自杀预防计划与实施指南
+  filename: 2020学生自杀预防计划与实施指南.pdf
+  type: document
+  format: PDF Document
+  size: 191787
+  md5: 7d3a7d75ad9e4ffa6dde308655f789be
+  page: 2020学生自杀预防计划与实施指南_page.md
+- name: 2024年波士顿老年人需求评估报告
+  filename: 2024年波士顿老年人需求评估报告.pdf
+  type: document
+  format: PDF Document
+  size: 362484
+  md5: 2eec7aadb44fa83338de3a6c1b150699
+  page: 2024年波士顿老年人需求评估报告_page.md
 - name: Advocate__Aurora__Health_有关提供服务时严禁歧视的通知
   filename: Advocate__Aurora__Health_有关提供服务时严禁歧视的通知.pdf
   type: document
@@ -79,6 +121,13 @@ files:
   size: 577047
   md5: fd06b19ec1093842153e96ccb2e5bb09
   page: PDF_雇员的权利谁是跨性别者或非性别常规者_-_Civil_Rights_Department_page.md
+- name: PridePlace_西雅图LGBTQIA+年长者住房信息_2023
+  filename: PridePlace_西雅图LGBTQIA+年长者住房信息_2023.pdf
+  type: document
+  format: PDF Document
+  size: 3518051
+  md5: 007b3e5220bb29fd51a2f1067e76c16e
+  page: PridePlace_西雅图LGBTQIA+年长者住房信息_2023_page.md
 - name: 《哥伦比亚特区人权法案》按执法领域划分的受保护特征
   filename: 《哥伦比亚特区人权法案》按执法领域划分的受保护特征.pdf
   type: document
@@ -93,6 +142,34 @@ files:
   size: 357475
   md5: 3b0afca0dcb52c6baa9a6287a91af8b9
   page: 伊利诺伊州医疗服务非歧视指南_2020年6月26日简介_page.md
+- name: 住房歧视保护与LGBTQ+权益
+  filename: 住房歧视保护与LGBTQ+权益.pdf
+  type: document
+  format: PDF Document
+  size: 1107022
+  md5: afba9039023e1681ab275adb74864ba4
+  page: 住房歧视保护与LGBTQ+权益_page.md
+- name: 俄勒冈州LGBTQ+老年人健康服务需求调查
+  filename: 俄勒冈州LGBTQ+老年人健康服务需求调查.pdf
+  type: document
+  format: PDF Document
+  size: 86126
+  md5: 75ab37004e6201970e848a162c5b1ac8
+  page: 俄勒冈州LGBTQ+老年人健康服务需求调查_page.md
+- name: 俄勒冈州hMPXV疫情信息与应对指南
+  filename: 俄勒冈州hMPXV疫情信息与应对指南.pdf
+  type: document
+  format: PDF Document
+  size: 508633
+  md5: 7a5307c532fd4faa4df1813f98a83712
+  page: 俄勒冈州hMPXV疫情信息与应对指南_page.md
+- name: 俄勒冈州健康青少年计划报告
+  filename: 俄勒冈州健康青少年计划报告.pdf
+  type: document
+  format: PDF Document
+  size: 708745
+  md5: 5c35450b51d5eb96c24d2e20bb5a769d
+  page: 俄勒冈州健康青少年计划报告_page.md
 - name: 加州_个人权利通知
   filename: 加州_个人权利通知.pdf
   type: document
@@ -121,6 +198,20 @@ files:
   size: 509358
   md5: 287c376dc8765b6b747ed2269d596e0d
   page: 华盛顿州公平和民权办公室_性别表达和性别认同_page.md
+- name: 反对住房歧视_女同性恋经历与法律信息_2023
+  filename: 反对住房歧视_女同性恋经历与法律信息_2023.pdf
+  type: document
+  format: PDF Document
+  size: 532588
+  md5: ebae18d0820b0b81a132596f1eb9486b
+  page: 反对住房歧视_女同性恋经历与法律信息_2023_page.md
+- name: 哥伦比亚特区人权办公室公平住宅在线研讨会记录
+  filename: 哥伦比亚特区人权办公室公平住宅在线研讨会记录.pdf
+  type: document
+  format: PDF Document
+  size: 399338
+  md5: a9fb2a7c252511386e47c868e13b45cb
+  page: 哥伦比亚特区人权办公室公平住宅在线研讨会记录_page.md
 - name: 夏威夷州教育署Hawaii_State_Department_of_Education不
   filename: 夏威夷州教育署Hawaii_State_Department_of_Education不.pdf
   type: document
@@ -149,6 +240,41 @@ files:
   size: 112653
   md5: 3c4fd1bcab996a11b4e149a868017402
   page: 州長CUOMO_宣佈擬議法規以讓醫療補助覆蓋對跨性別者的__-_NYgov_page.md
+- name: 康涅狄格州教育委员会性别认同反歧视决议_2022
+  filename: 康涅狄格州教育委员会性别认同反歧视决议_2022.pdf
+  type: document
+  format: PDF Document
+  size: 565217
+  md5: 52d4a68ed4b5dd45e6be6d85a70888a2
+  page: 康涅狄格州教育委员会性别认同反歧视决议_2022_page.md
+- name: 康涅狄格州教育部_多元性别学生权利保护指南_2024
+  filename: 康涅狄格州教育部_多元性别学生权利保护指南_2024.pdf
+  type: document
+  format: PDF Document
+  size: 384542
+  md5: f3d7c87981b5654fbe62ad305fa18a8d
+  page: 康涅狄格州教育部_多元性别学生权利保护指南_2024_page.md
+- name: 怀亚特诉科特克案件和解协议通知
+  filename: 怀亚特诉科特克案件和解协议通知.pdf
+  type: document
+  format: PDF Document
+  size: 231365
+  md5: 69c3e512a2c5a0d4adf60d5ef914817c
+  page: 怀亚特诉科特克案件和解协议通知_page.md
+- name: 新泽西州反歧视法指南
+  filename: 新泽西州反歧视法指南.pdf
+  type: document
+  format: PDF Document
+  size: 1218159
+  md5: 169f44a5f686d3898c4190d1cb6943f0
+  page: 新泽西州反歧视法指南_page.md
+- name: 旧金山安全住房社区需求评估报告
+  filename: 旧金山安全住房社区需求评估报告.pdf
+  type: document
+  format: PDF Document
+  size: 3278250
+  md5: e26cf4d3a9ab7b56d6b9a14de9631715
+  page: 旧金山安全住房社区需求评估报告_page.md
 - name: 民权办公室_–_美国卫生与公众服务_非歧视公告
   filename: 民权办公室_–_美国卫生与公众服务_非歧视公告.pdf
   type: document
@@ -156,6 +282,20 @@ files:
   size: 315866
   md5: 2fa1d7abd4b91f9c9a5dea14521b5dbd
   page: 民权办公室_–_美国卫生与公众服务_非歧视公告_page.md
+- name: 波特兰公立学校_学生自杀预防政策_2019
+  filename: 波特兰公立学校_学生自杀预防政策_2019.pdf
+  type: document
+  format: PDF Document
+  size: 371936
+  md5: a7d36e7731fda0cf402ddcf5e2caa858
+  page: 波特兰公立学校_学生自杀预防政策_2019_page.md
+- name: 波特兰公立学校学生登记表_2018
+  filename: 波特兰公立学校学生登记表_2018.pdf
+  type: document
+  format: PDF Document
+  size: 856285
+  md5: dce6dfd9ffd6b22a9c730490d5926f25
+  page: 波特兰公立学校学生登记表_2018_page.md
 - name: 纽约市__(NYC)_LGBT健康提示
   filename: 纽约市__(NYC)_LGBT健康提示.pdf
   type: document
@@ -170,6 +310,13 @@ files:
   size: 464
   md5: a1cde4874ad84582f5084d544ddc7ebf
   page: 美国卫生与公众服务部-_机构公平行动计划_page.md
+- name: 美国外出生的舞蹈从业人员调查报告
+  filename: 美国外出生的舞蹈从业人员调查报告.pdf
+  type: document
+  format: PDF Document
+  size: 220995
+  md5: 8e52f9d58c159e8bd7d5973437c25235
+  page: 美国外出生的舞蹈从业人员调查报告_page.md
 - name: 美国平等就业机会委员会_职场歧视是违法的
   filename: 美国平等就业机会委员会_职场歧视是违法的.pdf
   type: document
@@ -177,6 +324,13 @@ files:
   size: 430360
   md5: a99a78a86facdd085b472548a41c9d54
   page: 美国平等就业机会委员会_职场歧视是违法的_page.md
+- name: 老龄化总体规划公众调查报告_纽约州_2023
+  filename: 老龄化总体规划公众调查报告_纽约州_2023.pdf
+  type: document
+  format: PDF Document
+  size: 568643
+  md5: b377ef8dd58be3fa90db5dc8ab7de9d0
+  page: 老龄化总体规划公众调查报告_纽约州_2023_page.md
 - name: 联邦合同遵循项目办公室_性取向及性别认同歧视
   filename: 联邦合同遵循项目办公室_性取向及性别认同歧视.pdf
   type: document
@@ -198,6 +352,13 @@ files:
   size: 182180
   md5: be4ad6343a4a9661dad89c5623ded0d1
   page: 芝加哥_性别认同歧视_page.md
+- name: 變性人與非二元性別者姓名性別變更常見問題_NYCgov_2019
+  filename: 變性人與非二元性別者姓名性別變更常見問題_NYCgov_2019.pdf
+  type: document
+  format: PDF Document
+  size: 295652
+  md5: 66735bc7b01b0db96b4fd5e88602a973
+  page: 變性人與非二元性別者姓名性別變更常見問題_NYCgov_2019_page.md
 - name: 道格拉斯县学区-_教育公平
   filename: 道格拉斯县学区-_教育公平.pdf
   type: document

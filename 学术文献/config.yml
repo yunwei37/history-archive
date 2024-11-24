@@ -10,7 +10,28 @@ tags:
 - 法律
 - 社会科学
 license: ''
-files: []
+files:
+- name: 2023_多元性别与媒体再现
+  filename: 2023_多元性别与媒体再现.pdf
+  type: document
+  format: PDF Document
+  size: 4514
+  md5: e94162284dd1358d987ada6abc7444de
+  page: 2023_多元性别与媒体再现_page.md
+- name: GALE精选图书目录_2023-2024
+  filename: GALE精选图书目录_2023-2024.pdf
+  type: document
+  format: PDF Document
+  size: 4517425
+  md5: 026edddc2b4ffecff7d30199b3909238
+  page: GALE精选图书目录_2023-2024_page.md
+- name: 关于现代汉语中‘族’与‘党’的演变研究_索非亚·巴雷托_2016
+  filename: 关于现代汉语中‘族’与‘党’的演变研究_索非亚·巴雷托_2016.pdf
+  type: document
+  format: PDF Document
+  size: 3690508
+  md5: bbf612e06862b19aa27474167f6e261a
+  page: 关于现代汉语中‘族’与‘党’的演变研究_索非亚·巴雷托_2016_page.md
 subdirs:
 - 人文社科
 - 医学

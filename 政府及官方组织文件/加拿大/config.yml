@@ -39,6 +39,20 @@ files:
   size: 1267328
   md5: 2dea442d250d74a1cb9434cee9a1e9cb
   page: 不列颠哥伦比亚省跨性别护理提供的服务_page.md
+- name: 卑诗公园局包容性承诺报告
+  filename: 卑诗公园局包容性承诺报告.pdf
+  type: document
+  format: PDF Document
+  size: 653489
+  md5: 63056f1c09a7f9fbf0c820e6faeeae3f
+  page: 卑诗公园局包容性承诺报告_page.md
+- name: 年长妇女生活改善策略报告_2017
+  filename: 年长妇女生活改善策略报告_2017.pdf
+  type: document
+  format: PDF Document
+  size: 318428
+  md5: e80866ba41f7db992000c019040dd515
+  page: 年长妇女生活改善策略报告_2017_page.md
 - name: 性别变异和跨性别青少年父母和家人的疑问解答_-_VSB_BLOGS
   filename: 性别变异和跨性别青少年父母和家人的疑问解答_-_VSB_BLOGS.pdf
   type: document
@@ -53,4 +67,11 @@ files:
   size: 343350
   md5: 15318a93152c43d0aa5064cfdcb01377
   page: 术语表_–_性取向、性别认同与表达以及性别特征_page.md
+- name: 温哥华跨性别政策反思报告
+  filename: 温哥华跨性别政策反思报告.pdf
+  type: document
+  format: PDF Document
+  size: 482880
+  md5: 282280739c3dc458907acc51fa6c8a68
+  page: 温哥华跨性别政策反思报告_page.md
 subdirs: []

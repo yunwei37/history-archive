@@ -10,6 +10,20 @@ tags:
 - 医疗政策
 license: ''
 files:
+- name: 2022年青少年COVID-19疫苗接种登记表
+  filename: 2022年青少年COVID-19疫苗接种登记表.pdf
+  type: document
+  format: PDF Document
+  size: 176821
+  md5: c921b1c75ba9974b1e33001364fed0c2
+  page: 2022年青少年COVID-19疫苗接种登记表_page.md
+- name: El_Dorado县健康教育课程
+  filename: El_Dorado县健康教育课程.pdf
+  type: document
+  format: PDF Document
+  size: 371692
+  md5: cde722fdf287cfdbcc6dd8883ba55dc2
+  page: El_Dorado县健康教育课程_page.md
 - name: FtM超处方用药现状-国外正规药物
   filename: FtM超处方用药现状-国外正规药物.pdf
   type: document
@@ -80,6 +94,20 @@ files:
   size: 4037217
   md5: 096bd675e51a91555979d1bead7f6d51
   page: 【ftm】关于激素、假药、药商的一切，纯干货！1_page.md
+- name: 住房需求评估与援助指南
+  filename: 住房需求评估与援助指南.pdf
+  type: document
+  format: PDF Document
+  size: 456436
+  md5: 2610c0c5cccc91056d11bdc0ca8f74a5
+  page: 住房需求评估与援助指南_page.md
+- name: 健康风险评估与会员资料_2023
+  filename: 健康风险评估与会员资料_2023.pdf
+  type: document
+  format: PDF Document
+  size: 338377
+  md5: 09126b76944cc1a7898b4e9c85266a29
+  page: 健康风险评估与会员资料_2023_page.md
 - name: 北京大学第三医院-_跨性别序列医疗
   filename: 北京大学第三医院-_跨性别序列医疗.pdf
   type: document
@@ -101,6 +129,20 @@ files:
   size: 37888
   md5: d2d09d69df973015a230757902ac5e27
   page: 变性手术资料(1)_page.md
+- name: 家庭咨询服务会面记录
+  filename: 家庭咨询服务会面记录.pdf
+  type: document
+  format: PDF Document
+  size: 621762
+  md5: 1d3dd295a95d10857642cef45e876aa6
+  page: 家庭咨询服务会面记录_page.md
+- name: 富德生命人寿终身护理保险产品说明书
+  filename: 富德生命人寿终身护理保险产品说明书.pdf
+  type: document
+  format: PDF Document
+  size: 316605
+  md5: de7a0fa4c9ea0404984ff93471ba797f
+  page: 富德生命人寿终身护理保险产品说明书_page.md
 - name: 常见假药
   filename: 常见假药.pdf
   type: document
@@ -108,6 +150,20 @@ files:
   size: 437436
   md5: c0434cec27aa1332729def38b10cec4c
   page: 常见假药_page.md
+- name: 患者登记表_2019年7月
+  filename: 患者登记表_2019年7月.pdf
+  type: document
+  format: PDF Document
+  size: 301382
+  md5: 7dc3641bc16e1f9c1196e73b1bba102c
+  page: 患者登记表_2019年7月_page.md
+- name: 打造健康圣地亚哥LGBTQ+精神健康挑战报告
+  filename: 打造健康圣地亚哥LGBTQ+精神健康挑战报告.pdf
+  type: document
+  format: PDF Document
+  size: 690361
+  md5: df40c67234d36522495936ddb402118c
+  page: 打造健康圣地亚哥LGBTQ+精神健康挑战报告_page.md
 - name: 支持性别多样化儿童和跨性别青少年_-_Trans_Care_BC
   filename: 支持性别多样化儿童和跨性别青少年_-_Trans_Care_BC.pdf
   type: document
@@ -129,6 +185,20 @@ files:
   size: 6991389
   md5: cb2d0195a6d2b1bc5840856bc55d9c90
   page: 曼谷雨变性医生简介_page.md
+- name: 省属公立医院医疗服务项目价格一览表
+  filename: 省属公立医院医疗服务项目价格一览表.pdf
+  type: document
+  format: PDF Document
+  size: 140339
+  md5: d2ae97e1a2e9a37b3fab4f819f6d9905
+  page: 省属公立医院医疗服务项目价格一览表_page.md
+- name: 纽约健康医院LGBTQ+医疗中心宣传
+  filename: 纽约健康医院LGBTQ+医疗中心宣传.pdf
+  type: document
+  format: PDF Document
+  size: 3244310
+  md5: 436ecf51bd037d02ef2e1e1536b9a70b
+  page: 纽约健康医院LGBTQ+医疗中心宣传_page.md
 - name: 艾滋病防治社会组织大有作为
   filename: 艾滋病防治社会组织大有作为.pdf
   type: document

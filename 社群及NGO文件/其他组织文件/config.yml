@@ -11,6 +11,13 @@ tags:
 - NGO
 license: ''
 files:
+- name: 2023_陪伴支持与多元文化社区服务报告
+  filename: 2023_陪伴支持与多元文化社区服务报告.pdf
+  type: document
+  format: PDF Document
+  size: 597347
+  md5: 83a27f2e2cf27c35bef1c5bf455153d5
+  page: 2023_陪伴支持与多元文化社区服务报告_page.md
 - name: CareOregon_性別確認照護
   filename: CareOregon_性別確認照護.pdf
   type: document
@@ -95,6 +102,13 @@ files:
   size: 327455
   md5: 5e64367296446e251d0d5fd4f6d5cc1d
   page: 中国跨性别口述史项目计划书-20240122_page.md
+- name: 了解多元化家庭_资源书籍_2023_威利和伊莱恩奥利弗
+  filename: 了解多元化家庭_资源书籍_2023_威利和伊莱恩奥利弗.pdf
+  type: document
+  format: PDF Document
+  size: 29959704
+  md5: 01294e4b3b90a3f9713a4c1b13a5b35f
+  page: 了解多元化家庭_资源书籍_2023_威利和伊莱恩奥利弗_page.md
 - name: 全国心理援助热线机构联系信息心理服务与援助机构
   filename: 全国心理援助热线机构联系信息心理服务与援助机构.pdf
   type: document
@@ -102,6 +116,13 @@ files:
   size: 311496
   md5: 0ba65b9d7a6e24147eb7e5a5a3ec3e06
   page: 全国心理援助热线机构联系信息心理服务与援助机构_page.md
+- name: 团体咨询服务会面记录_多元性别支持_2023
+  filename: 团体咨询服务会面记录_多元性别支持_2023.pdf
+  type: document
+  format: PDF Document
+  size: 783975
+  md5: 5d2f3c7b6311e00ebe18e46c1a5704ce
+  page: 团体咨询服务会面记录_多元性别支持_2023_page.md
 - name: 寒涟漪庇护所介绍第一版
   filename: 寒涟漪庇护所介绍第一版.pdf
   type: document
@@ -123,6 +144,13 @@ files:
   size: 222239
   md5: 5049427b19f13ba2f59e6ef5a76ed2c1
   page: 种族平等和多元化声明_page.md
+- name: 科克地区LGBTQ服务与支持资源汇编
+  filename: 科克地区LGBTQ服务与支持资源汇编.pdf
+  type: document
+  format: PDF Document
+  size: 1091946
+  md5: bf09b4a32054d55f21fc86b7db87a8d7
+  page: 科克地区LGBTQ服务与支持资源汇编_page.md
 - name: 第五届中国性别肯定医疗论坛照片
   filename: 第五届中国性别肯定医疗论坛照片.png
   type: image
@@ -130,6 +158,20 @@ files:
   size: 5438248
   md5: e8c1de8b27ba432ce207bce9642912be
   page: 第五届中国性别肯定医疗论坛照片.png
+- name: 药明生物员工多元化政策_2023
+  filename: 药明生物员工多元化政策_2023.pdf
+  type: document
+  format: PDF Document
+  size: 274287
+  md5: 7821fc43dd5ef4560ad4f241c9075df9
+  page: 药明生物员工多元化政策_2023_page.md
+- name: 跨性别子女父母心声分享——后同盟提供的支持
+  filename: 跨性别子女父母心声分享——后同盟提供的支持.pdf
+  type: document
+  format: PDF Document
+  size: 1794915
+  md5: f1e70f28c65387427946f98c052c15ac
+  page: 跨性别子女父母心声分享——后同盟提供的支持_page.md
 - name: 迈瑞_多元化平等与包容性政策
   filename: 迈瑞_多元化平等与包容性政策.pdf
   type: document
@@ -137,6 +179,13 @@ files:
   size: 281716
   md5: 5ce7c4f06b5d1401da94fe6afa84ecc9
   page: 迈瑞_多元化平等与包容性政策_page.md
+- name: 远大医药集团人权与多元化政策报告
+  filename: 远大医药集团人权与多元化政策报告.pdf
+  type: document
+  format: PDF Document
+  size: 148269
+  md5: 84751d995c2db101cd3230e947e99197
+  page: 远大医药集团人权与多元化政策报告_page.md
 - name: 项目名项目合作协议
   filename: 项目名项目合作协议.pdf
   type: document

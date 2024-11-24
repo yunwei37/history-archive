@@ -11,6 +11,20 @@ tags:
 - 医疗资源
 license: ''
 files:
+- name: 公視2023年性別平權節目紀錄
+  filename: 公視2023年性別平權節目紀錄.pdf
+  type: document
+  format: PDF Document
+  size: 523128
+  md5: 08e39ba744a6e252fa9ae957f3699659
+  page: 公視2023年性別平權節目紀錄_page.md
+- name: 公視2024_性別平權節目_4到6月
+  filename: 公視2024_性別平權節目_4到6月.pdf
+  type: document
+  format: PDF Document
+  size: 472804
+  md5: 46c5fa588d591ebb8114f8cad5044f6e
+  page: 公視2024_性別平權節目_4到6月_page.md
 - name: 变性人的法理情_明光社
   filename: 变性人的法理情_明光社.pdf
   type: document
@@ -25,6 +39,13 @@ files:
   size: 818893
   md5: 083a85c992f32720759685b128746f17
   page: 多元性別_楓城書訊_page.md
+- name: 性文化通訊_第三十八期_2021年
+  filename: 性文化通訊_第三十八期_2021年.pdf
+  type: document
+  format: PDF Document
+  size: 1345874
+  md5: 4cb44a6137b05b1dd1ee2d3438ee5119
+  page: 性文化通訊_第三十八期_2021年_page.md
 - name: 為兒童和青少年保留選擇權
   filename: 為兒童和青少年保留選擇權.pdf
   type: document

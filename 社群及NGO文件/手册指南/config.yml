@@ -100,6 +100,13 @@ files:
   size: 18705720
   md5: b35dcebc987983a703784091f2914fa6
   page: 伴您同行_专为跨性别儿童的父母准备的指南(SG出柜指南_原版)_page.md
+- name: 关于LGBTQ群体的倡导与支持建议
+  filename: 关于LGBTQ群体的倡导与支持建议.pdf
+  type: document
+  format: PDF Document
+  size: 919
+  md5: 47595f8f76cc073b81e425256eff8405
+  page: 关于LGBTQ群体的倡导与支持建议_page.md
 - name: 关于跨性别者和性别非二元_人群的初级和性别肯定护理_指南_UCSF
   filename: 关于跨性别者和性别非二元_人群的初级和性别肯定护理_指南_UCSF.pdf
   type: document
@@ -107,6 +114,13 @@ files:
   size: 2805105
   md5: b554645b8db93ce1555d79da01860e60
   page: 关于跨性别者和性别非二元_人群的初级和性别肯定护理_指南_UCSF_page.md
+- name: 出柜指南_来自UCSB_RCSGD_2023
+  filename: 出柜指南_来自UCSB_RCSGD_2023.pdf
+  type: document
+  format: PDF Document
+  size: 5897200
+  md5: bfff59f9937798d7e5185813381dcc38
+  page: 出柜指南_来自UCSB_RCSGD_2023_page.md
 - name: 北同跨性别医疗照护手册
   filename: 北同跨性别医疗照护手册.pdf
   type: document
@@ -114,6 +128,13 @@ files:
   size: 14257055
   md5: 7b341a89b6f1a00c440f113844b336b9
   page: 北同跨性别医疗照护手册_page.md
+- name: 坦荡出柜_亚太裔LGBTQ人群生活指南
+  filename: 坦荡出柜_亚太裔LGBTQ人群生活指南.pdf
+  type: document
+  format: PDF Document
+  size: 1547208
+  md5: 08db40c00e3ddee696fe6a27365532f9
+  page: 坦荡出柜_亚太裔LGBTQ人群生活指南_page.md
 - name: 幫助家裡有同志_（女同性戀、男同性戀、雙性戀、跨性別）成員的家庭指南
   filename: 幫助家裡有同志_（女同性戀、男同性戀、雙性戀、跨性別）成員的家庭指南.pdf
   type: document
@@ -142,6 +163,13 @@ files:
   size: 627276
   md5: 7acea747293f919d220691cf2c9ed24d
   page: 性侵害幸存者自助手册2.0_page.md
+- name: 性别友善语言与服务关系建立指导
+  filename: 性别友善语言与服务关系建立指导.pdf
+  type: document
+  format: PDF Document
+  size: 664026
+  md5: fe43707c1a4b2c812114f5991c0ead48
+  page: 性别友善语言与服务关系建立指导_page.md
 - name: 我的跨性别孩子-_父母手册上册
   filename: 我的跨性别孩子-_父母手册上册.pdf
   type: document
@@ -198,6 +226,13 @@ files:
   size: 2834944
   md5: b3b99eef3b83e7bb214b8bbaec7545fb
   page: 自切教程萱酱版_page.md
+- name: 艺术家保障性收入计划指南
+  filename: 艺术家保障性收入计划指南.pdf
+  type: document
+  format: PDF Document
+  size: 806510
+  md5: aa845850c59a54752e11361b74de8a91
+  page: 艺术家保障性收入计划指南_page.md
 - name: 跨儿的性别困惑与身份认同
   filename: 跨儿的性别困惑与身份认同.pdf
   type: document
@@ -254,6 +289,13 @@ files:
   size: 1665453
   md5: b04710ff9e2b7ae6c2300c8f87c34460
   page: 跨性别安全指南_page.md
+- name: 跨性别工作者厕所通行指南
+  filename: 跨性别工作者厕所通行指南.pdf
+  type: document
+  format: PDF Document
+  size: 429
+  md5: 5943a736d5eb21f04dfc752cd6a5c63c
+  page: 跨性别工作者厕所通行指南_page.md
 - name: 跨性别证件修改手册
   filename: 跨性别证件修改手册.pdf
   type: document

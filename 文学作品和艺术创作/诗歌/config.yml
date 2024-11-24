@@ -10,6 +10,13 @@ tags:
 - 情感表达
 license: ''
 files:
+- name: 2024年8月田小野文集
+  filename: 2024年8月田小野文集.pdf
+  type: document
+  format: PDF Document
+  size: 14513526
+  md5: fe2f4b3b9a91c34d791f463bcf623f83
+  page: 2024年8月田小野文集_page.md
 - name: PDF_T婆的跨性別藍調詩
   filename: PDF_T婆的跨性別藍調詩.pdf
   type: document
@@ -17,4 +24,11 @@ files:
   size: 2706557
   md5: a6a7d1a551609aec9990ebea52ee9a09
   page: PDF_T婆的跨性別藍調詩_page.md
+- name: 陶宗旺_文坛奇兵_先锋诗人_创建年份
+  filename: 陶宗旺_文坛奇兵_先锋诗人_创建年份.pdf
+  type: document
+  format: PDF Document
+  size: 3557785
+  md5: faa58cf94ff643cc50fffa1c63c9798f
+  page: 陶宗旺_文坛奇兵_先锋诗人_创建年份_page.md
 subdirs: []

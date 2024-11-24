@@ -11,6 +11,13 @@ tags:
 - 非政府组织
 license: ''
 files:
+- name: Laurel_Ridge小学社区利益相关者论坛倡议
+  filename: Laurel_Ridge小学社区利益相关者论坛倡议.pdf
+  type: document
+  format: PDF Document
+  size: 103394
+  md5: 789574c0592288f3d967ce4559c83d11
+  page: Laurel_Ridge小学社区利益相关者论坛倡议_page.md
 - name: PDF_Cover_Page_校长致辞作为学校的家人保持联系_-_Mason_Families
   filename: PDF_Cover_Page_校长致辞作为学校的家人保持联系_-_Mason_Families.pdf
   type: document
@@ -109,6 +116,20 @@ files:
   size: 498569
   md5: a464ec18c1accf51de0c9c5fc4105fe6
   page: 主题变性学生支持指南_关键术语定义_page.md
+- name: 人權教育教案_性別與職業影響
+  filename: 人權教育教案_性別與職業影響.pdf
+  type: document
+  format: PDF Document
+  size: 3108142
+  md5: 9518d9bcce996ceeefbe671d1c2cb93b
+  page: 人權教育教案_性別與職業影響_page.md
+- name: 学校性骚扰应对指南
+  filename: 学校性骚扰应对指南.pdf
+  type: document
+  format: PDF Document
+  size: 312717
+  md5: 3087d36c33dde51a7c7771ffde0331d8
+  page: 学校性骚扰应对指南_page.md
 - name: 密歇根州立大学禁止歧视反骚扰和禁止报复通知
   filename: 密歇根州立大学禁止歧视反骚扰和禁止报复通知.pdf
   type: document
@@ -137,6 +158,27 @@ files:
   size: 1718066
   md5: 3d420749d25335c4e728e5979fb637e5
   page: 性别手册教职员工版关怀和应对_中央大学多元化中心_page.md
+- name: 校园性别暴力预防教学手册
+  filename: 校园性别暴力预防教学手册.pdf
+  type: document
+  format: PDF Document
+  size: 4099848
+  md5: 927483e6e1e7ff88acb7a5a75acc5e55
+  page: 校园性别暴力预防教学手册_page.md
+- name: 海华郡公立学校学生与家长手册_2018-2019
+  filename: 海华郡公立学校学生与家长手册_2018-2019.pdf
+  type: document
+  format: PDF Document
+  size: 5263772
+  md5: e3215d520ac402c67676e73bcf8a0364
+  page: 海华郡公立学校学生与家长手册_2018-2019_page.md
+- name: 社会性别与社会_复旦密西根大学课程概况_2007
+  filename: 社会性别与社会_复旦密西根大学课程概况_2007.pdf
+  type: document
+  format: PDF Document
+  size: 271362
+  md5: 9c0e75643cccaefad5fbc6cfd5013ef4
+  page: 社会性别与社会_复旦密西根大学课程概况_2007_page.md
 - name: 跨性別和性別多樣化青少年父母和照顧者的
   filename: 跨性別和性別多樣化青少年父母和照顧者的.pdf
   type: document

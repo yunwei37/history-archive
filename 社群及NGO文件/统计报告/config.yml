@@ -10,6 +10,20 @@ tags:
 - 数据分析
 license: ''
 files:
+- name: 2015年亚太催化剂-北京上海跨性别女性性工作者生活状况调查
+  filename: 2015年亚太催化剂-北京上海跨性别女性性工作者生活状况调查.pdf
+  type: document
+  format: PDF Document
+  size: 2065585
+  md5: b0dc4bcd88552eed0da695f78a375de5
+  page: 2015年亚太催化剂-北京上海跨性别女性性工作者生活状况调查_page.md
+- name: 2016年愛滋病預防項目指標調查報告-男跨女跨性別人士
+  filename: 2016年愛滋病預防項目指標調查報告-男跨女跨性別人士.pdf
+  type: document
+  format: PDF Document
+  size: 148828
+  md5: 28b99b9253c0aff72065e755d0fcf746
+  page: 2016年愛滋病預防項目指標調查報告-男跨女跨性別人士_page.md
 - name: 2020年《跨性別就業與職場調查》報告.docx
   filename: 2020年《跨性別就業與職場調查》報告.docx.pdf
   type: document
@@ -129,6 +143,27 @@ files:
   size: 1809600
   md5: 92cfd90e74f4d6bf06ab5b92e76d6e06
   page: 中国跨性别者寻求性别确认医疗程序时遇到的障碍_国际特赦组织_page.md
+- name: 俄勒冈州中老年LGBTQ+健康需求调查
+  filename: 俄勒冈州中老年LGBTQ+健康需求调查.pdf
+  type: document
+  format: PDF Document
+  size: 162880
+  md5: 8e5deececc5230a5b287569a999329e6
+  page: 俄勒冈州中老年LGBTQ+健康需求调查_page.md
+- name: 全球性工作项目网络2012年度报告
+  filename: 全球性工作项目网络2012年度报告.pdf
+  type: document
+  format: PDF Document
+  size: 358216
+  md5: 1c0d6e98de204a1f8aa2ca5cc817cae6
+  page: 全球性工作项目网络2012年度报告_page.md
+- name: 全球移民政策与女性工作负担分析报告
+  filename: 全球移民政策与女性工作负担分析报告.pdf
+  type: document
+  format: PDF Document
+  size: 104868
+  md5: 8e55816debbcde765f20eb12bf4af192
+  page: 全球移民政策与女性工作负担分析报告_page.md
 - name: 全球跨性别健康与幸福指数议题
   filename: 全球跨性别健康与幸福指数议题.pdf
   type: document
@@ -150,6 +185,34 @@ files:
   size: 4038854
   md5: 7049c4f41b8b6c70e17e14234e5eb88e
   page: 北京上海跨性别女性性工作者生存状况调查_page.md
+- name: 双性恋人群的生存现状与挑战
+  filename: 双性恋人群的生存现状与挑战.pdf
+  type: document
+  format: PDF Document
+  size: 265661
+  md5: 5b76ee85aff0d69363fecfbb9c097829
+  page: 双性恋人群的生存现状与挑战_page.md
+- name: 多元性別統計報告_澳洲與加拿大人口普查_2022
+  filename: 多元性別統計報告_澳洲與加拿大人口普查_2022.pdf
+  type: document
+  format: PDF Document
+  size: 1907391
+  md5: 1e3e180c0e848bd653a9d04f9571344d
+  page: 多元性別統計報告_澳洲與加拿大人口普查_2022_page.md
+- name: 家庭虐待服务需求研究报告
+  filename: 家庭虐待服务需求研究报告.pdf
+  type: document
+  format: PDF Document
+  size: 761714
+  md5: 0de8ac971331063fc9cfa7cfa041ca12
+  page: 家庭虐待服务需求研究报告_page.md
+- name: 性别暴力分析与应对策略
+  filename: 性别暴力分析与应对策略.pdf
+  type: document
+  format: PDF Document
+  size: 123879
+  md5: f3913f7277977c8759fb837af3e8378f
+  page: 性别暴力分析与应对策略_page.md
 - name: 探讨LGBT群体的权_利_骄傲与偏见
   filename: 探讨LGBT群体的权_利_骄傲与偏见.pdf
   type: document
@@ -157,6 +220,20 @@ files:
   size: 1372857
   md5: 7c7e6e6e896c59606a573ad5aab3c081
   page: 探讨LGBT群体的权_利_骄傲与偏见_page.md
+- name: 犹他州药物滥用治疗系统健康差异报告_2021
+  filename: 犹他州药物滥用治疗系统健康差异报告_2021.pdf
+  type: document
+  format: PDF Document
+  size: 1073144
+  md5: 132fcde273647deae4e9cf894c8f6333
+  page: 犹他州药物滥用治疗系统健康差异报告_2021_page.md
+- name: 统计结果调查报告
+  filename: 统计结果调查报告.json
+  type: other
+  format: Unknown Format
+  size: 6497673
+  md5: de528d29d69d1856c28cb9fb3a18be6c
+  page: 统计结果调查报告.json
 - name: 跨性别组织现状第二版
   filename: 跨性别组织现状第二版.pdf
   type: document

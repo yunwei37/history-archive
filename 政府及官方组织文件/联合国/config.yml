@@ -10,6 +10,76 @@ tags:
 - 政府文件
 license: ''
 files:
+- name: 2013年联合国人权事务高级专员报告-生而自由一律平等
+  filename: 2013年联合国人权事务高级专员报告-生而自由一律平等.pdf
+  type: document
+  format: PDF Document
+  size: 4375384
+  md5: 07b6a01be2109a56412e2dca2df9774a
+  page: 2013年联合国人权事务高级专员报告-生而自由一律平等_page.md
+- name: 2014年圭亚那普遍定期审议报告
+  filename: 2014年圭亚那普遍定期审议报告.pdf
+  type: document
+  format: PDF Document
+  size: 435605
+  md5: efb2cf21270b4797e1fb987fd86d5ca3
+  page: 2014年圭亚那普遍定期审议报告_page.md
+- name: 2015年联合国人权理事会蒙古普遍定期审议报告
+  filename: 2015年联合国人权理事会蒙古普遍定期审议报告.pdf
+  type: document
+  format: PDF Document
+  size: 460898
+  md5: 6f8ce5e8deb1e20bed0604e59b324850
+  page: 2015年联合国人权理事会蒙古普遍定期审议报告_page.md
+- name: 2016年联合国人权理事会新加坡普遍定期审议报告
+  filename: 2016年联合国人权理事会新加坡普遍定期审议报告.pdf
+  type: document
+  format: PDF Document
+  size: 544314
+  md5: 77d84c692f71ed5b6edcd774450f62b4
+  page: 2016年联合国人权理事会新加坡普遍定期审议报告_page.md
+- name: 2016年联合国人权理事会特立尼达和多巴哥普遍定期审议报告
+  filename: 2016年联合国人权理事会特立尼达和多巴哥普遍定期审议报告.pdf
+  type: document
+  format: PDF Document
+  size: 376192
+  md5: 47a9b713e7950aaed1786922bcd08870
+  page: 2016年联合国人权理事会特立尼达和多巴哥普遍定期审议报告_page.md
+- name: 2016年联合国艾滋病问题高级别会议正式记录
+  filename: 2016年联合国艾滋病问题高级别会议正式记录.pdf
+  type: document
+  format: PDF Document
+  size: 629454
+  md5: cdb6b31a24445ab7dd8647141f390cbe
+  page: 2016年联合国艾滋病问题高级别会议正式记录_page.md
+- name: 2017全球教育监测报告-教育问责：履行我们的承诺
+  filename: 2017全球教育监测报告-教育问责：履行我们的承诺.pdf
+  type: document
+  format: PDF Document
+  size: 11494815
+  md5: dd0727ce1e1c793b1460420dfd86bd57
+  page: 2017全球教育监测报告-教育问责：履行我们的承诺_page.md
+- name: 2017年俄罗斯联邦经济社会权利委员会第六次报告结论性意见
+  filename: 2017年俄罗斯联邦经济社会权利委员会第六次报告结论性意见.pdf
+  type: document
+  format: PDF Document
+  size: 380876
+  md5: 6e5edc02b2ed3313d58762889ad29b5a
+  page: 2017年俄罗斯联邦经济社会权利委员会第六次报告结论性意见_page.md
+- name: 2017年南非人权理事会普遍定期审议报告
+  filename: 2017年南非人权理事会普遍定期审议报告.pdf
+  type: document
+  format: PDF Document
+  size: 1449316
+  md5: fc97fff69977ddae871b444232e87b4a
+  page: 2017年南非人权理事会普遍定期审议报告_page.md
+- name: 2017年联合国人权理事会第三十六届会议增编报告
+  filename: 2017年联合国人权理事会第三十六届会议增编报告.pdf
+  type: document
+  format: PDF Document
+  size: 177320
+  md5: 70ad09d843d4806e12ed37d4add63c6e
+  page: 2017年联合国人权理事会第三十六届会议增编报告_page.md
 - name: 2019_年社会概览_OECD经合组织社会指标
   filename: 2019_年社会概览_OECD经合组织社会指标.pdf
   type: document
@@ -24,6 +94,13 @@ files:
   size: 214303
   md5: 2fa6eb2989b4d2d26e0f8e47fd4dfbc2
   page: 2022_世界艾滋病大会强调科学创新与合作吉利德为终结HIV_全球_page.md
+- name: 2023_联合国_LGBTI企业行为准则
+  filename: 2023_联合国_LGBTI企业行为准则.pdf
+  type: document
+  format: PDF Document
+  size: 1793597
+  md5: e2dd09a24aadd299979461339905c64f
+  page: 2023_联合国_LGBTI企业行为准则_page.md
 - name: PDF_20112015_年世界卫生组织艾滋病毒战略草案
   filename: PDF_20112015_年世界卫生组织艾滋病毒战略草案.pdf
   type: document
@@ -185,6 +262,13 @@ files:
   size: 1547451
   md5: 50b23a73cb867d608b52d26b0b0f7f95
   page: 中国性少数群体生存状况调查报告_2016_page.md
+- name: 厄瓜多尔人权状况国家报告_2008
+  filename: 厄瓜多尔人权状况国家报告_2008.pdf
+  type: document
+  format: PDF Document
+  size: 508833
+  md5: 57a66ad082d600fabc3a0d6676f83d6d
+  page: 厄瓜多尔人权状况国家报告_2008_page.md
 - name: 国际劳工组织_跨性别者间性人和酷儿LGBTIQ融入劳动世界
   filename: 国际劳工组织_跨性别者间性人和酷儿LGBTIQ融入劳动世界.pdf
   type: document
@@ -192,6 +276,20 @@ files:
   size: 2574613
   md5: 647a1b770c2bb6d5e3c65a1ac79db52c
   page: 国际劳工组织_跨性别者间性人和酷儿LGBTIQ融入劳动世界_page.md
+- name: 土耳其人权状况报告_联合国人权理事会_2010年
+  filename: 土耳其人权状况报告_联合国人权理事会_2010年.pdf
+  type: document
+  format: PDF Document
+  size: 640503
+  md5: 9b567aa4371411d913c69e210020227b
+  page: 土耳其人权状况报告_联合国人权理事会_2010年_page.md
+- name: 德国人权报告2013
+  filename: 德国人权报告2013.pdf
+  type: document
+  format: PDF Document
+  size: 674139
+  md5: 4dbbda1dd21f790f5452bea70fbf907e
+  page: 德国人权报告2013_page.md
 - name: 民间报告_基于性倾向和性别认同的歧视普遍存在
   filename: 民间报告_基于性倾向和性别认同的歧视普遍存在.pdf
   type: document
@@ -220,6 +318,13 @@ files:
   size: 742962
   md5: 0d8d1ebe2d7ffb18db799894a5151935
   page: 联合国_防止基于性取向和性别认同的暴力和歧视与表达自由、和平_集会和结社自由等人权的关系_page.md
+- name: 联合国人口基金社会性别项目词汇中英文对照表_2012
+  filename: 联合国人口基金社会性别项目词汇中英文对照表_2012.pdf
+  type: document
+  format: PDF Document
+  size: 3567167
+  md5: 690a11e280f22bddaf8d711979a6e74c
+  page: 联合国人口基金社会性别项目词汇中英文对照表_2012_page.md
 - name: 联合国人权_跨性别以及间性LGBTI人群的问题企业行为准则
   filename: 联合国人权_跨性别以及间性LGBTI人群的问题企业行为准则.pdf
   type: document
@@ -248,6 +353,13 @@ files:
   size: 508182
   md5: b286b0587794286a16ab3b5a5949d3df
   page: 联合国人权理事会_普遍定期审议工作组报告_2021_page.md
+- name: 联合国人权理事会关于巴巴多斯的普遍定期审议材料概述_2017
+  filename: 联合国人权理事会关于巴巴多斯的普遍定期审议材料概述_2017.pdf
+  type: document
+  format: PDF Document
+  size: 468324
+  md5: c80acce66676773347051c07be4a7076
+  page: 联合国人权理事会关于巴巴多斯的普遍定期审议材料概述_2017_page.md
 - name: 联合国人权理事会国家报告_葡萄牙_2014
   filename: 联合国人权理事会国家报告_葡萄牙_2014.pdf
   type: document
@@ -255,6 +367,41 @@ files:
   size: 884662
   md5: cdd982d9ec2512eda732d6d4fc261d5a
   page: 联合国人权理事会国家报告_葡萄牙_2014_page.md
+- name: 联合国人权理事会普遍定期审议关于日本的报告_2017
+  filename: 联合国人权理事会普遍定期审议关于日本的报告_2017.pdf
+  type: document
+  format: PDF Document
+  size: 506352
+  md5: 6632a0afdb542031b29ddd9136aac91a
+  page: 联合国人权理事会普遍定期审议关于日本的报告_2017_page.md
+- name: 联合国人权理事会毛里求斯第三十一届普遍定期审议报告
+  filename: 联合国人权理事会毛里求斯第三十一届普遍定期审议报告.pdf
+  type: document
+  format: PDF Document
+  size: 489781
+  md5: b588920560084184fd6011c26500498e
+  page: 联合国人权理事会毛里求斯第三十一届普遍定期审议报告_page.md
+- name: 联合国人权理事会洪都拉斯审议报告_2015
+  filename: 联合国人权理事会洪都拉斯审议报告_2015.pdf
+  type: document
+  format: PDF Document
+  size: 522729
+  md5: f14b1ecf7d168da1d06988e66b5a77e8
+  page: 联合国人权理事会洪都拉斯审议报告_2015_page.md
+- name: 联合国人权理事会赤贫与人权问题特别报告员访华报告_2017
+  filename: 联合国人权理事会赤贫与人权问题特别报告员访华报告_2017.pdf
+  type: document
+  format: PDF Document
+  size: 598233
+  md5: 5a38a3c2c064e5e8731f93216c08f067
+  page: 联合国人权理事会赤贫与人权问题特别报告员访华报告_2017_page.md
+- name: 联合国任意拘留问题工作组概况介绍_修订版_2024
+  filename: 联合国任意拘留问题工作组概况介绍_修订版_2024.pdf
+  type: document
+  format: PDF Document
+  size: 874769
+  md5: 25f8e1b7ee8bc4ec46831a902daa0c14
+  page: 联合国任意拘留问题工作组概况介绍_修订版_2024_page.md
 - name: 联合国全球契约组织_加速前进_推进性别平等行动指南
   filename: 联合国全球契约组织_加速前进_推进性别平等行动指南.pdf
   type: document
@@ -283,6 +430,13 @@ files:
   size: 6309941
   md5: 6d522deb26c8d91cf7fdb12bf088b3fc
   page: 联合国秘书长报告_应对不平等现象，重新走上到2030_年消除艾滋病的轨道_page.md
+- name: 联合国第63届大会第三委员会会议记录_2009年1月
+  filename: 联合国第63届大会第三委员会会议记录_2009年1月.pdf
+  type: document
+  format: PDF Document
+  size: 248330
+  md5: 2885703b8d47eb6629300094e5b4b752
+  page: 联合国第63届大会第三委员会会议记录_2009年1月_page.md
 - name: 联合国经济及社会理事会_关于儿基会《2018-2021年性别平等行动计划》执行情况的_年度报告
   filename: 联合国经济及社会理事会_关于儿基会《2018-2021年性别平等行动计划》执行情况的_年度报告.pdf
   type: document
@@ -290,6 +444,13 @@ files:
   size: 1194019
   md5: 359e3326e458e43281ac16e150d7860e
   page: 联合国经济及社会理事会_关于儿基会《2018-2021年性别平等行动计划》执行情况的_年度报告_page.md
+- name: 联合国自由和平等_LGBTIQ+女性基本知识与现状报告
+  filename: 联合国自由和平等_LGBTIQ+女性基本知识与现状报告.pdf
+  type: document
+  format: PDF Document
+  size: 1443096
+  md5: cca28f4ecb453e029bcf2bc83afe453d
+  page: 联合国自由和平等_LGBTIQ+女性基本知识与现状报告_page.md
 - name: 联合国自由和平等_LGBTIQ青少年_学校中的欺凌与暴力
   filename: 联合国自由和平等_LGBTIQ青少年_学校中的欺凌与暴力.pdf
   type: document
@@ -311,6 +472,20 @@ files:
   size: 258511
   md5: 44b2dc09e2b2b36c5c836b77761c8498
   page: 联合国难民署男同性恋双性恋变性人间性人和酷儿LGBTIQ_page.md
+- name: 菲律宾人权理事会普遍定期审议报告-2017
+  filename: 菲律宾人权理事会普遍定期审议报告-2017.pdf
+  type: document
+  format: PDF Document
+  size: 468509
+  md5: f7d718d594d445619d9282a16f6ac878
+  page: 菲律宾人权理事会普遍定期审议报告-2017_page.md
+- name: 难民与庇护：LGBTIQ+身份面临的挑战与应对
+  filename: 难民与庇护：LGBTIQ+身份面临的挑战与应对.pdf
+  type: document
+  format: PDF Document
+  size: 1276057
+  md5: 0b12d860fb2c5919f7f05ef34130a607
+  page: 难民与庇护：LGBTIQ+身份面临的挑战与应对_page.md
 - name: 面向性别不平等的举措全球城市将团结临时的翻译
   filename: 面向性别不平等的举措全球城市将团结临时的翻译.pdf
   type: document

@@ -10,6 +10,34 @@ tags:
 - 学术文献
 license: ''
 files:
+- name: 2007年4月_陆俊杰_性别选择与法律的回应
+  filename: 2007年4月_陆俊杰_性别选择与法律的回应.pdf
+  type: document
+  format: PDF Document
+  size: 89360
+  md5: a265ff8361560eff7ed4979761f45450
+  page: 2007年4月_陆俊杰_性别选择与法律的回应_page.md
+- name: 2019中研院法學期刊特刊_臺灣民主化後同志人權保障之變遷_官曉薇
+  filename: 2019中研院法學期刊特刊_臺灣民主化後同志人權保障之變遷_官曉薇.pdf
+  type: document
+  format: PDF Document
+  size: 1082346
+  md5: effd2b3fea3d83dfef45d1d4a59c3b53
+  page: 2019中研院法學期刊特刊_臺灣民主化後同志人權保障之變遷_官曉薇_page.md
+- name: 2021年中国跨性别权利公众舆论报告
+  filename: 2021年中国跨性别权利公众舆论报告.pdf
+  type: document
+  format: PDF Document
+  size: 3120548
+  md5: a1e82a1c7df9f780ebeae3ef1ce06a8f
+  page: 2021年中国跨性别权利公众舆论报告_page.md
+- name: 2023_行政院多元性别生活状况调查研究报告
+  filename: 2023_行政院多元性别生活状况调查研究报告.pdf
+  type: document
+  format: PDF Document
+  size: 4170258
+  md5: 71fbf28943fcdc5eb4b1db3273960235
+  page: 2023_行政院多元性别生活状况调查研究报告_page.md
 - name: PDF_三個不利跨性身分的迷思_-_Dean_Spade
   filename: PDF_三個不利跨性身分的迷思_-_Dean_Spade.pdf
   type: document
@@ -80,6 +108,13 @@ files:
   size: 1653583
   md5: aa6fedd94a7b163d1286943917cc700b
   page: 从刻板印象到关系型歧视_page.md
+- name: 保障性少数群体平等就业权法律政策研究报告_刘明辉_2019.pdf
+  filename: 保障性少数群体平等就业权法律政策研究报告_刘明辉_2019.pdf.pdf
+  type: document
+  format: PDF Document
+  size: 789310
+  md5: ea294345f6265f1b26c8e49fa868f017
+  page: 保障性少数群体平等就业权法律政策研究报告_刘明辉_2019.pdf_page.md
 - name: 关于代孕爸爸事件的生命伦理与法律问题思考
   filename: 关于代孕爸爸事件的生命伦理与法律问题思考.pdf
   type: document
@@ -101,6 +136,13 @@ files:
   size: 316588
   md5: 3e3d6fe2c9a5dfe23757539272240c57
   page: 变性手术算病假_整容手术算病假吗_page.md
+- name: 同性婚姻权的性理论分析_熊金才
+  filename: 同性婚姻权的性理论分析_熊金才.pdf
+  type: document
+  format: PDF Document
+  size: 204201
+  md5: c01fbc667c188253bf077ed13f57b30b
+  page: 同性婚姻权的性理论分析_熊金才_page.md
 - name: 器官鹤植硇人身权问题研夯
   filename: 器官鹤植硇人身权问题研夯.pdf
   type: document
@@ -108,6 +150,20 @@ files:
   size: 456427
   md5: d02042e96c89e15f850e725796ced18e
   page: 器官鹤植硇人身权问题研夯_page.md
+- name: 国际人权法与性别认同研究报告
+  filename: 国际人权法与性别认同研究报告.pdf
+  type: document
+  format: PDF Document
+  size: 369233
+  md5: 556dc722f2c1cae514113a2570557e78
+  page: 国际人权法与性别认同研究报告_page.md
+- name: 多元与包容倡议报告_高博金_2015
+  filename: 多元与包容倡议报告_高博金_2015.pdf
+  type: document
+  format: PDF Document
+  size: 250749
+  md5: 352909341041828b51c1158e6cce5a51
+  page: 多元与包容倡议报告_高博金_2015_page.md
 - name: 实施变性手术应以法定程序的审理为前提_汤啸天
   filename: 实施变性手术应以法定程序的审理为前提_汤啸天.pdf
   type: document
@@ -122,6 +178,13 @@ files:
   size: 35768581
   md5: 05ac76d0961e4fda724367f32f699d2a
   page: 性_别少数群体平等保护研究_14533241_page.md
+- name: 性別承認制度的影響與隱憂_龍笑娟_2017
+  filename: 性別承認制度的影響與隱憂_龍笑娟_2017.pdf
+  type: document
+  format: PDF Document
+  size: 130415
+  md5: 0621af6855593b106ec203823d553980
+  page: 性別承認制度的影響與隱憂_龍笑娟_2017_page.md
 - name: 性別認同及雙性人身份歧視的研究報告
   filename: 性別認同及雙性人身份歧視的研究報告.pdf
   type: document
@@ -150,6 +213,13 @@ files:
   size: 7652397
   md5: 3c3581350f8f2370b64bdcce5f22bc93
   page: 有關立法禁止性傾向性別認同及雙性人身份歧視的研究報告_page.md
+- name: 武装冲突性暴力的法律影响与应对策略_格洛丽亚·加焦利_李强
+  filename: 武装冲突性暴力的法律影响与应对策略_格洛丽亚·加焦利_李强.pdf
+  type: document
+  format: PDF Document
+  size: 1237504
+  md5: d703f40d4580cc105d2acf411abd3d09
+  page: 武装冲突性暴力的法律影响与应对策略_格洛丽亚·加焦利_李强_page.md
 - name: 法律对“变性”的回应_《我国现行法律中性法律的理论与现实盲点研究》课题组
   filename: 法律对“变性”的回应_《我国现行法律中性法律的理论与现实盲点研究》课题组.pdf
   type: document
@@ -157,6 +227,13 @@ files:
   size: 274601
   md5: 9f8bb50b7825564a97ec99f3b2c5c540
   page: 法律对“变性”的回应_《我国现行法律中性法律的理论与现实盲点研究》课题组_page.md
+- name: 瑞典性工作法律与废娼主义影响研究_Jay_Levy
+  filename: 瑞典性工作法律与废娼主义影响研究_Jay_Levy.pdf
+  type: document
+  format: PDF Document
+  size: 828017
+  md5: dcba096f615b832f9f8072141a677a34
+  page: 瑞典性工作法律与废娼主义影响研究_Jay_Levy_page.md
 - name: 经济与法律学院
   filename: 经济与法律学院.pdf
   type: document
@@ -171,6 +248,20 @@ files:
   size: 512066
   md5: abba31a8d03987c51e26191c30978bb1
   page: 罪犯变性了怎么办_贾振华_page.md
+- name: 美國大學圖書館LGBT館藏發展政策研究_余昇鴻
+  filename: 美國大學圖書館LGBT館藏發展政策研究_余昇鴻.pdf
+  type: document
+  format: PDF Document
+  size: 1089674
+  md5: ff600e0d8a1c14e2f40290b5a3741d89
+  page: 美國大學圖書館LGBT館藏發展政策研究_余昇鴻_page.md
+- name: 聖經對同性戀的立場分析_護教與宣教_2023
+  filename: 聖經對同性戀的立場分析_護教與宣教_2023.pdf
+  type: document
+  format: PDF Document
+  size: 8312731
+  md5: 80da86a35debba00de2539eec10bd234
+  page: 聖經對同性戀的立場分析_護教與宣教_2023_page.md
 - name: 英国反就业歧视法与我国立法之完善
   filename: 英国反就业歧视法与我国立法之完善.pdf
   type: document
@@ -206,4 +297,11 @@ files:
   size: 763528
   md5: 57dee6b6b20296545004ebf9eb4e0407
   page: 评估职场中LGBTQI_的包容性_page.md
+- name: 谈大正_色情信息法律规制与性权利保护研究
+  filename: 谈大正_色情信息法律规制与性权利保护研究.pdf
+  type: document
+  format: PDF Document
+  size: 171904
+  md5: 1b234b9b2610c78f1bc083b15662de1d
+  page: 谈大正_色情信息法律规制与性权利保护研究_page.md
 subdirs: []

@@ -22,7 +22,7 @@ Download: [跨性别_【性／別研究】丛書.pdf](跨性别_【性／別研�
 | Format          | PDF Document                               |
 | Size            | 12236983 bytes                           |
 | MD5             | 02d7610f70064f32f8c5280e875ce333                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-11-23 04:43:56                             |
 | Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
 | Author          | 何春蕤                               |
 | Region          | 台湾                               |

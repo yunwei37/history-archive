@@ -10,6 +10,34 @@ tags:
 - 过渡经历
 license: ''
 files:
+- name: 2012年10月_Lesplus杂志_生命故事与跨性别经历
+  filename: 2012年10月_Lesplus杂志_生命故事与跨性别经历.pdf
+  type: document
+  format: PDF Document
+  size: 4549424
+  md5: b09fe55913ffce86e18904717a235385
+  page: 2012年10月_Lesplus杂志_生命故事与跨性别经历_page.md
+- name: 2017_林可欣_孤獨平權路：還雙性孩子自主性別權
+  filename: 2017_林可欣_孤獨平權路：還雙性孩子自主性別權.pdf
+  type: document
+  format: PDF Document
+  size: 527143
+  md5: 27844e06069d222e22b29728a47e2add
+  page: 2017_林可欣_孤獨平權路：還雙性孩子自主性別權_page.md
+- name: 2023_多元性别_性别小熊_故事分享
+  filename: 2023_多元性别_性别小熊_故事分享.pdf
+  type: document
+  format: PDF Document
+  size: 1947237
+  md5: 92420ecf110efa3e5ef2550202b1d0b2
+  page: 2023_多元性别_性别小熊_故事分享_page.md
+- name: 2023年5月多元性别生命故事与过渡经历
+  filename: 2023年5月多元性别生命故事与过渡经历.pdf
+  type: document
+  format: PDF Document
+  size: 754095
+  md5: 18362d4475bdb23f7d0ee1e64e51c5ce
+  page: 2023年5月多元性别生命故事与过渡经历_page.md
 - name: AG手术后悔-网络害人
   filename: AG手术后悔-网络害人.jpg
   type: image
@@ -73,6 +101,13 @@ files:
   size: 1094512
   md5: e5362a445ea9473840448370527aad34
   page: 我认为我可能会是跨性别者_page.md
+- name: 拉拉的故事与经历
+  filename: 拉拉的故事与经历.pdf
+  type: document
+  format: PDF Document
+  size: 54830080
+  md5: 8dae726d027069aacd373a2b620c7a63
+  page: 拉拉的故事与经历_page.md
 - name: 泰国“人妖”是这样“炼”成_子——一名广西男青年的自述_杜启荣
   filename: 泰国“人妖”是这样“炼”成_子——一名广西男青年的自述_杜启荣.pdf
   type: document
@@ -80,5 +115,12 @@ files:
   size: 3392142
   md5: db01be0b858b55c31a645048835e6f1b
   page: 泰国“人妖”是这样“炼”成_子——一名广西男青年的自述_杜启荣_page.md
+- name: 王均_腐女子的彩虹长征_生命故事分享
+  filename: 王均_腐女子的彩虹长征_生命故事分享.pdf
+  type: document
+  format: PDF Document
+  size: 1697265
+  md5: e360d95b3114d85d0ac7395f46dd3bdc
+  page: 王均_腐女子的彩虹长征_生命故事分享_page.md
 subdirs:
 - 一个阉人的真实故事

@@ -10,6 +10,27 @@ tags:
 - 社会环境
 license: ''
 files:
+- name: 1997_關注婦女性暴力協會_性別承認諮詢意見書
+  filename: 1997_關注婦女性暴力協會_性別承認諮詢意見書.pdf
+  type: document
+  format: PDF Document
+  size: 2086783
+  md5: aebcccd72f55aa1d6f24b3ddc28d3298
+  page: 1997_關注婦女性暴力協會_性別承認諮詢意見書_page.md
+- name: 2014年婚姻修訂條例草案公聽會關於變性手術的意見摘要
+  filename: 2014年婚姻修訂條例草案公聽會關於變性手術的意見摘要.pdf
+  type: document
+  format: PDF Document
+  size: 1178754
+  md5: f8064eae0c26a636e4bbde1138e40927
+  page: 2014年婚姻修訂條例草案公聽會關於變性手術的意見摘要_page.md
+- name: 2024_全國大專校院運動會_跨性別學生運動員參與政策
+  filename: 2024_全國大專校院運動會_跨性別學生運動員參與政策.pdf
+  type: document
+  format: PDF Document
+  size: 250092
+  md5: f359d900a01d6fbcf25b0697d0594571
+  page: 2024_全國大專校院運動會_跨性別學生運動員參與政策_page.md
 - name: LGBTQIA性少数族群+咨询代表会问答_警察改革工作组
   filename: LGBTQIA性少数族群+咨询代表会问答_警察改革工作组.pdf
   type: document
@@ -108,6 +129,13 @@ files:
   size: 2019808
   md5: 8b0617cf0a6358de0cb4929aaf7b2d9d
   page: 各國跨性別登記制度_中华民国內政部委託研究報告_page.md
+- name: 性別平等教育委員會_性平大學堂徵答題目
+  filename: 性別平等教育委員會_性平大學堂徵答題目.pdf
+  type: document
+  format: PDF Document
+  size: 173774
+  md5: cd5eb20fe191bd0f0517aa1395852137
+  page: 性別平等教育委員會_性平大學堂徵答題目_page.md
 - name: 性別承認跨部門工作小組諮詢文件_香港
   filename: 性別承認跨部門工作小組諮詢文件_香港.pdf
   type: document
@@ -115,4 +143,60 @@ files:
   size: 4861655
   md5: ff2ce95a467f83433b0c1309ad7db74d
   page: 性別承認跨部門工作小組諮詢文件_香港_page.md
+- name: 澳门大学法医学教程进度（2015-2016学年度）
+  filename: 澳门大学法医学教程进度（2015-2016学年度）.pdf
+  type: document
+  format: PDF Document
+  size: 1237252
+  md5: faf54d5ccf303fb371b6313b0313fa25
+  page: 澳门大学法医学教程进度（2015-2016学年度）_page.md
+- name: 臺北市政府教育局109年性別平等工作成果報告
+  filename: 臺北市政府教育局109年性別平等工作成果報告.pdf
+  type: document
+  format: PDF Document
+  size: 5667466
+  md5: afbee4694bc07eb2152337b5fe58d15d
+  page: 臺北市政府教育局109年性別平等工作成果報告_page.md
+- name: 臺北榮民總醫院多元性別友善就醫環境作業指導書_2022
+  filename: 臺北榮民總醫院多元性別友善就醫環境作業指導書_2022.pdf
+  type: document
+  format: PDF Document
+  size: 198489
+  md5: 66483fd36b17527ed8f698cdbda4c77a
+  page: 臺北榮民總醫院多元性別友善就醫環境作業指導書_2022_page.md
+- name: 臺南市政府民政局性別平等宣導報告
+  filename: 臺南市政府民政局性別平等宣導報告.pdf
+  type: document
+  format: PDF Document
+  size: 13346962
+  md5: aca2a7e21cb7cd16c6b62e25c3b356ed
+  page: 臺南市政府民政局性別平等宣導報告_page.md
+- name: 苗栗縣性別平等業務成果報告
+  filename: 苗栗縣性別平等業務成果報告.pdf
+  type: document
+  format: PDF Document
+  size: 930772
+  md5: dd4b817df10ce2f91dc1ac19e7aa47e6
+  page: 苗栗縣性別平等業務成果報告_page.md
+- name: 跨性别资源中心-港澳地区信息汇总
+  filename: 跨性别资源中心-港澳地区信息汇总.pdf
+  type: document
+  format: PDF Document
+  size: 4281256
+  md5: e79a7204a124e22e2f11d1cd589c823a
+  page: 跨性别资源中心-港澳地区信息汇总_page.md
+- name: 香港性教育現狀與挑戰報告_2021
+  filename: 香港性教育現狀與挑戰報告_2021.pdf
+  type: document
+  format: PDF Document
+  size: 1385188
+  md5: 396371f64bc55c6b3df3cfc468e3a6b0
+  page: 香港性教育現狀與挑戰報告_2021_page.md
+- name: 高雄市性別友善觀光報告_2023
+  filename: 高雄市性別友善觀光報告_2023.pdf
+  type: document
+  format: PDF Document
+  size: 3189052
+  md5: 79ee86bc43e88becc0e2d3c7d6d3fa61
+  page: 高雄市性別友善觀光報告_2023_page.md
 subdirs: []
