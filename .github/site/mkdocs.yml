@@ -1,7 +1,10 @@
-site_name: TransDigitalCN
+site_name: 跨与多元性别档案
 repo_url: https://transchinese.org/
 site_url: https://digital.transchinese.org/
-edit_uri: /edit/main/
+edit_uri: https://github.com/project-polymorph/trans-digital-cn/edit/main/
+site_description: '本存档库包含各类跨性别、多元性别、酷儿相关的文档，包括学术文献、社群报告、文学作品、杂志与报纸、政府文件等。'
+site_author: 多元性别中文数字图书馆
+copyright: '多元性别中文数字图书馆 2024'
 theme:
   name: material
   custom_dir: overrides
