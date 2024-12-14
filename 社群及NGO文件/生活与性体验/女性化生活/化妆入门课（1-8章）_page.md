@@ -20,8 +20,8 @@ Download: [化妆入门课（1-8章）.pdf](化妆入门课（1-8章）.pdf)
 | Format          | PDF Document                               |
 | Size            | 7044454 bytes                           |
 | MD5             | c14202ed650828ade38730cb89ad97c8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

@@ -20,8 +20,8 @@ Download: [论正义和关怀伦理，以及团结纽带，兼论跨性别女性
 | Format          | PDF Document                               |
 | Size            | 405055 bytes                           |
 | MD5             | bf4496deb26c6282c4b0a5dfd187ac3f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

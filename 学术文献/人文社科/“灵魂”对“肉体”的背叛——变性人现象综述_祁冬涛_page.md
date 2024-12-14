@@ -20,8 +20,8 @@ Download: [“灵魂”对“肉体”的背叛——变性人现象综述_祁�
 | Format          | PDF Document                               |
 | Size            | 309104 bytes                           |
 | MD5             | b73d65fab7187372ac1e789f5a0ef37d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 祁冬涛                               |
 | Region          | 中国大陆                               |
 | Date            | 2002-04-27                                 |

@@ -20,8 +20,8 @@ Download: [中国跨性别者受教育权实现状况及法律对策_刘小楠.p
 | Format          | PDF Document                               |
 | Size            | 4545883 bytes                           |
 | MD5             | ce3aca9bced688f644c9199552ae2d81                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 刘小楠                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

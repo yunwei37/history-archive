@@ -20,8 +20,8 @@ Download: [患者满意度测评问题与治理路径思考.pdf](患者满意度
 | Format          | PDF Document                               |
 | Size            | 1617583 bytes                           |
 | MD5             | 0943e7375e9a70ef353aed0c69e91e24                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

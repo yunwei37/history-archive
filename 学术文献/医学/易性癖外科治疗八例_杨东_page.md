@@ -20,8 +20,8 @@ Download: [易性癖外科治疗八例_杨东.pdf](易性癖外科治疗八例_�
 | Format          | PDF Document                               |
 | Size            | 99555 bytes                           |
 | MD5             | 6313d521e561b440f713fdbb74030e84                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 杨东                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

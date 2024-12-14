@@ -20,8 +20,8 @@ Download: [性别互动论：基于“做性别”视角的探讨.pdf](性别互
 | Format          | PDF Document                               |
 | Size            | 369949 bytes                           |
 | MD5             | 2e56fdc98776e90c1b1731452bb5e896                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 王晴锋                               |
 | Region          | 中国大陆                               |
 | Date            | 2020-01-01                                 |

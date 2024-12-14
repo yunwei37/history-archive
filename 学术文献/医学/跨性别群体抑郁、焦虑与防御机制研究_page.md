@@ -20,8 +20,8 @@ Download: [跨性别群体抑郁、焦虑与防御机制研究.pdf](跨性别群
 | Format          | PDF Document                               |
 | Size            | 805923 bytes                           |
 | MD5             | e25aaf68316f0304e85fde02e061e8eb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 王占强，董瀚文，邸晓兰，杨可冰，牛雅娟                               |
 | Region          | 中国                               |
 | Date            | 2023-05-01                                 |

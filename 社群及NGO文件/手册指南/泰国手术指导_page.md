@@ -20,8 +20,8 @@ Download: [泰国手术指导.pdf](泰国手术指导.pdf)
 | Format          | PDF Document                               |
 | Size            | 214124 bytes                           |
 | MD5             | d4d9dbdc8eb4f5dc0f04143daebe0afc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 未知                                 |

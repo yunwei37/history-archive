@@ -20,8 +20,8 @@ Download: [办理一则特殊公证的心得_陆岗松.pdf](办理一则特殊�
 | Format          | PDF Document                               |
 | Size            | 118247 bytes                           |
 | MD5             | 4823e5ccf25fd084df145c72fa435c86                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 陆岗松                               |
 | Region          | 浙江省宁波市                               |
 | Date            | 2009-03-27                                 |

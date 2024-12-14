@@ -20,8 +20,8 @@ Download: [論邦斯的性別形上學與性別詞理論_(2).pdf](論邦斯的�
 | Format          | PDF Document                               |
 | Size            | 1136052 bytes                           |
 | MD5             | 83192da4e502c40267060b4f42718a93                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 陈湘韵，颜均萍                               |
 | Region          | 台湾                               |
 | Date            | 民国111年3月21日                                 |

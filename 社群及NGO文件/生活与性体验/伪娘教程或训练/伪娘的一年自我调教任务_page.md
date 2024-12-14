@@ -20,8 +20,8 @@ Download: [伪娘的一年自我调教任务.txt](伪娘的一年自我调教任
 | Format          | Plain Text                               |
 | Size            | 76627 bytes                           |
 | MD5             | 15aaddc5aff572d0277d4ce505dd0dfc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

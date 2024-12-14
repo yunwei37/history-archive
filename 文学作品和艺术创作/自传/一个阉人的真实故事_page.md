@@ -20,8 +20,8 @@ Download: [一个阉人的真实故事.pdf](一个阉人的真实故事.pdf)
 | Format          | PDF Document                               |
 | Size            | 14866511 bytes                           |
 | MD5             | a539d7e7d3d0fc876d00f06ae13a0e37                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2024-11-10                                 |

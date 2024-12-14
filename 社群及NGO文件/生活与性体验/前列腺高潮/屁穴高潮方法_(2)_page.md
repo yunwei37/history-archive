@@ -20,8 +20,8 @@ Download: [屁穴高潮方法_(2).pdf](屁穴高潮方法_(2).pdf)
 | Format          | PDF Document                               |
 | Size            | 4970 bytes                           |
 | MD5             | 35b9d66c30a5639de65f7a53000b915b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

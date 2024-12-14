@@ -20,8 +20,8 @@ Download: [易性癖的外科治疗进展_章建林.pdf](易性癖的外科治�
 | Format          | PDF Document                               |
 | Size            | 102237 bytes                           |
 | MD5             | 5b029398d273c58e55f93f145567eebd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 章建林                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

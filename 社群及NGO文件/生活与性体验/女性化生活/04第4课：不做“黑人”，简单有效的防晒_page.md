@@ -20,8 +20,8 @@ Download: [04第4课：不做“黑人”，简单有效的防晒.pdf](04第4课
 | Format          | PDF Document                               |
 | Size            | 3007245 bytes                           |
 | MD5             | f4342b1eb3a682010e91a6e9be8048eb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

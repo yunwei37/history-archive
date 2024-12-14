@@ -20,8 +20,8 @@ Download: [谁是中国首例变性人_谷雨生.pdf](谁是中国首例变性�
 | Format          | PDF Document                               |
 | Size            | 1143144 bytes                           |
 | MD5             | 7fca112a0832ee2a0620995d0585cfc0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

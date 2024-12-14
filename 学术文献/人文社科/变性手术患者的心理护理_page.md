@@ -20,8 +20,8 @@ Download: [变性手术患者的心理护理.pdf](变性手术患者的心理护
 | Format          | PDF Document                               |
 | Size            | 259056 bytes                           |
 | MD5             | f6b09478cb9fecdcac349aab2472847b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 王大方, 曹艳, 扬国荣                               |
 | Region          | 中国大陆                               |
 | Date            | 2002-06-01                                 |

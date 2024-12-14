@@ -20,8 +20,8 @@ Download: [TERF问答.docx](TERF问答.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18424 bytes                           |
 | MD5             | 59704420f23c08dada7d4e148c0d0876                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

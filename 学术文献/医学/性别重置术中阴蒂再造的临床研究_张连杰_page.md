@@ -20,8 +20,8 @@ Download: [性别重置术中阴蒂再造的临床研究_张连杰.pdf](性别�
 | Format          | PDF Document                               |
 | Size            | 1620936 bytes                           |
 | MD5             | 5485053c798795ca2eed849e5cb09537                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 张连杰，赵烨德，唐乙，周强，陈祥云                               |
 | Region          | 中国                               |
 | Date            | 2018-11-01                                 |

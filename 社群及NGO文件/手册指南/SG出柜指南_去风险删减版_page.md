@@ -20,8 +20,8 @@ Download: [SG出柜指南_去风险删减版.pdf](SG出柜指南_去风险删减
 | Format          | PDF Document                               |
 | Size            | 18701734 bytes                           |
 | MD5             | 4227a50527ff344e76700e2c0b5ecc55                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | Oogachaga、X计划、T计划与新加坡跨性别小组                               |
 | Region          | 新加坡                               |
 | Date            | 2022-01-01                                 |

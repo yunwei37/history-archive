@@ -20,8 +20,8 @@ Download: [阴茎阴囊皮瓣在男变女变性术中的应用.pdf](阴茎阴囊
 | Format          | PDF Document                               |
 | Size            | 732738 bytes                           |
 | MD5             | 4b2b84d90acc980ab84d77152a9840fe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 赵玉斌, 赵少华, 牟少春, 杨彪炳, 唐胜建                               |
 | Region          | 中国大陆                               |
 | Date            | 2012-10-01                                 |

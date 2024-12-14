@@ -20,8 +20,8 @@ Download: [性别治理_性／別研究丛書.pdf](性别治理_性／別研究�
 | Format          | PDF Document                               |
 | Size            | 15128683 bytes                           |
 | MD5             | 7f575cc2b8a01ba35dee128ab670cfeb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 何春蕤                               |
 | Region          | 台湾                               |
 | Date            | 2017-09-01                                 |

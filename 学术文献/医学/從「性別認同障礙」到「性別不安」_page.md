@@ -20,8 +20,8 @@ Download: [從「性別認同障礙」到「性別不安」.pdf](從「性別認
 | Format          | PDF Document                               |
 | Size            | 1053324 bytes                           |
 | MD5             | 89f771669a22ee003e70cbe9bc0192a6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 黄璨瑜 醫師                               |
 | Region          | 台湾                               |
 | Date            | 2013-01-01                                 |

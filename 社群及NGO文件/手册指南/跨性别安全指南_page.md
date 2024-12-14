@@ -20,8 +20,8 @@ Download: [跨性别安全指南.pdf](跨性别安全指南.pdf)
 | Format          | PDF Document                               |
 | Size            | 1665453 bytes                           |
 | MD5             | b04710ff9e2b7ae6c2300c8f87c34460                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

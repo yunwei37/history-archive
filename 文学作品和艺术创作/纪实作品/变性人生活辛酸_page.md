@@ -20,8 +20,8 @@ Download: [变性人生活辛酸.pdf](变性人生活辛酸.pdf)
 | Format          | PDF Document                               |
 | Size            | 143480 bytes                           |
 | MD5             | 608cf0e40e3ccff01a4f56b18d73c8fe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

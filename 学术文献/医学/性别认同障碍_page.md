@@ -20,8 +20,8 @@ Download: [性别认同障碍.doc](性别认同障碍.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | 23f82f61eae1cbdc3478b0a43eec791a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

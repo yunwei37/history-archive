@@ -20,8 +20,8 @@ Download: [男女变性手术的护理15例.pdf](男女变性手术的护理15�
 | Format          | PDF Document                               |
 | Size            | 208956 bytes                           |
 | MD5             | b8987f9be75068b7c08b3f541e00c47b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 王大方，杨国荣                               |
 | Region          | 中国                               |
 | Date            | 未知                                 |

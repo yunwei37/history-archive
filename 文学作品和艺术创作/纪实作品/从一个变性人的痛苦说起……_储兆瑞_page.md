@@ -20,8 +20,8 @@ Download: [从一个变性人的痛苦说起……_储兆瑞.pdf](从一个变�
 | Format          | PDF Document                               |
 | Size            | 1359629 bytes                           |
 | MD5             | 99e725a1da9a00f10a3c826e95c0259c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 储兆瑞                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

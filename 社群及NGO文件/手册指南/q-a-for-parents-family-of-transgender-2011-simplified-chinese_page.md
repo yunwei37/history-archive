@@ -20,8 +20,8 @@ Download: [q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf](q-
 | Format          | PDF Document                               |
 | Size            | 2292264 bytes                           |
 | MD5             | e9be2c03c19045694b75d77cf720decc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 温哥华教育局                               |
 | Region          | 加拿大                               |
 | Date            | 2011-01-01                                 |

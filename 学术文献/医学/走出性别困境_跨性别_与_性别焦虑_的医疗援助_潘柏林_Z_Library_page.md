@@ -20,8 +20,8 @@ Download: [走出性别困境_跨性别_与_性别焦虑_的医疗援助_潘柏�
 | Format          | PDF Document                               |
 | Size            | 6491180 bytes                           |
 | MD5             | 316baeb18418346b2df22c676a31f9fe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 潘柏林                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

@@ -20,8 +20,8 @@ Download: [中华帝国晚期的性_法律与社会_文字版_苏成捷_Z_Librar
 | Format          | PDF Document                               |
 | Size            | 11971477 bytes                           |
 | MD5             | 3d56a36dc06b31759dfc2a06a7234ef7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 苏成捷                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-05-18                                 |

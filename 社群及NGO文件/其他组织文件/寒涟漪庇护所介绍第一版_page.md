@@ -20,8 +20,8 @@ Download: [寒涟漪庇护所介绍第一版.pdf](寒涟漪庇护所介绍第一
 | Format          | PDF Document                               |
 | Size            | 381122 bytes                           |
 | MD5             | 097c484a15b0423e75d3e29aec5e1ae3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 寒涟漪                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

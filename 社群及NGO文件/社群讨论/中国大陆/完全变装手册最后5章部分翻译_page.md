@@ -20,8 +20,8 @@ Download: [完全变装手册最后5章部分翻译.pdf](完全变装手册最�
 | Format          | PDF Document                               |
 | Size            | 612359 bytes                           |
 | MD5             | a9628752ee15481d1729762af49ed2fd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | @shiiny_kitty                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

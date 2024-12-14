@@ -20,8 +20,8 @@ Download: [第9课：远离“斑点狗”，不当“黄脸婆”.pdf](第9课�
 | Format          | PDF Document                               |
 | Size            | 1787103 bytes                           |
 | MD5             | e74e273a0ce389d05eb411f9082e4eac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

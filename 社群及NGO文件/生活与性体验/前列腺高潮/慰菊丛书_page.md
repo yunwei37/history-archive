@@ -20,8 +20,8 @@ Download: [慰菊丛书.pdf](慰菊丛书.pdf)
 | Format          | PDF Document                               |
 | Size            | 40355058 bytes                           |
 | MD5             | 25fb33f43b9ccfc96b3dd3d897390c96                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

@@ -20,8 +20,8 @@ Download: [天津市跨性别女性新型毒品使用现状与影响因素分析
 | Format          | PDF Document                               |
 | Size            | 907303 bytes                           |
 | MD5             | 0485502db81ac87938050cf6d463c60c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 龚卉                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-05-01                                 |

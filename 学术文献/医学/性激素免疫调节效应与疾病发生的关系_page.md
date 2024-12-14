@@ -20,8 +20,8 @@ Download: [性激素免疫调节效应与疾病发生的关系.pdf](性激素免
 | Format          | PDF Document                               |
 | Size            | 66153 bytes                           |
 | MD5             | 8e06f294d977e14da472b3d529416137                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 孙凯，冯琦，窦科峰                               |
 | Region          | 中国                               |
 | Date            | 未知                                 |

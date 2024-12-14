@@ -20,8 +20,8 @@ Download: [走进性别重塑中心重新认识性别——访中国医学科学
 | Format          | PDF Document                               |
 | Size            | 1133665 bytes                           |
 | MD5             | fdbe9d47b7c7b5efe311480409dc1ac5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

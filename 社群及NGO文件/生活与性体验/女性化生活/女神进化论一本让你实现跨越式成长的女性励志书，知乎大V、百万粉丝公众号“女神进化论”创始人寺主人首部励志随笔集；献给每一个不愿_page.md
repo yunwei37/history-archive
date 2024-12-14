@@ -20,8 +20,8 @@ Download: [女神进化论一本让你实现跨越式成长的女性励志书，
 | Format          | PDF Document                               |
 | Size            | 2880071 bytes                           |
 | MD5             | 43dda5be21ee715b0188a1c8a7a131b2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 寺主人                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

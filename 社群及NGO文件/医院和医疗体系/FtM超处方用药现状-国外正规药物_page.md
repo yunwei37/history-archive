@@ -20,8 +20,8 @@ Download: [FtM超处方用药现状-国外正规药物.pdf](FtM超处方用药�
 | Format          | PDF Document                               |
 | Size            | 341703 bytes                           |
 | MD5             | 9d3b154ddb5dbf22300ed1833930d45a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

@@ -20,8 +20,8 @@ Download: [变性手术道德三思_冯泽永.pdf](变性手术道德三思_冯�
 | Format          | PDF Document                               |
 | Size            | 286800 bytes                           |
 | MD5             | f2e2f5fd1abc84fe3632ef0bebc50247                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 冯泽永                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

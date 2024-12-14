@@ -20,8 +20,8 @@ Download: [一个变性手术专家的手记.pdf](一个变性手术专家的手
 | Format          | PDF Document                               |
 | Size            | 1534779 bytes                           |
 | MD5             | 8b3f3bf112a5c23df62bc36a0103d48f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 何清旅                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

@@ -20,8 +20,8 @@ Download: [跨性别者的嗓音调整.pdf](跨性别者的嗓音调整.pdf)
 | Format          | PDF Document                               |
 | Size            | 731485 bytes                           |
 | MD5             | 4eaca9051a1843b0e20b19df333c0672                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 刘恒鑫, 郝建萍, 高立群                               |
 | Region          | 中国                               |
 | Date            | 2019-06-01                                 |

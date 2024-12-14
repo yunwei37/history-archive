@@ -20,8 +20,8 @@ Download: [跨性别者被电击治疗_医院否认有过错_中华网.pdf](跨�
 | Format          | PDF Document                               |
 | Size            | 5716693 bytes                           |
 | MD5             | 048c036c08200cfb3975b7720a5fba67                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 中华网                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-08-13                                 |

@@ -20,8 +20,8 @@ Download: [负责任的药物使用_-_PsychonautWiki.pdf](负责任的药物使�
 | Format          | PDF Document                               |
 | Size            | 1318991 bytes                           |
 | MD5             | d70149530855e157592626a49a847fc3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

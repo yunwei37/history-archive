@@ -20,8 +20,8 @@ Download: [真正的伪娘开发教程哦.txt](真正的伪娘开发教程哦.tx
 | Format          | Plain Text                               |
 | Size            | 8040 bytes                           |
 | MD5             | 1688b1f32c450bd6a1bb4866fef724cf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

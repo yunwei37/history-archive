@@ -20,8 +20,8 @@ Download: [阴蒂成形术11例报告_邢新.pdf](阴蒂成形术11例报告_邢
 | Format          | PDF Document                               |
 | Size            | 144333 bytes                           |
 | MD5             | 97b8d23cb965b900c4440ff66ca12115                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 邢新, 欧阳天祥, 李军辉, 季正伦, 宋建星, 陈江萍, 郭恩覃                               |
 | Region          | 中国                               |
 | Date            | 2001-05-01                                 |

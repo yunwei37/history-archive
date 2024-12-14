@@ -20,8 +20,8 @@ Download: [“伪娘”亚文化现象的美学解读_高妍.pdf](“伪娘”�
 | Format          | PDF Document                               |
 | Size            | 2086306 bytes                           |
 | MD5             | 64f0b80c7e76e77bb04a304d3bd1f1bf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 高妍                               |
 | Region          | 中国大陆                               |
 | Date            | 2020-06-13                                 |

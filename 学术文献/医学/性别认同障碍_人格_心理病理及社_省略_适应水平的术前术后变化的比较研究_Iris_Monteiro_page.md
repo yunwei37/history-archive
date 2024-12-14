@@ -20,8 +20,8 @@ Download: [性别认同障碍_人格_心理病理及社_省略_适应水平的�
 | Format          | PDF Document                               |
 | Size            | 490637 bytes                           |
 | MD5             | 1aee369e2e71d46ba36f8283c0fa497b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | Iris Monteiro（美国埃加斯·莫尼兹医学院，MSc，PhD）                               |
 | Region          | 未知                               |
 | Date            | 2012-01-01                                 |

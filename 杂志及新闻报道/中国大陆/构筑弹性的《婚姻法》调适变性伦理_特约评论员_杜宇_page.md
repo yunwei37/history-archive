@@ -20,8 +20,8 @@ Download: [构筑弹性的《婚姻法》调适变性伦理_特约评论员_杜�
 | Format          | PDF Document                               |
 | Size            | 22098 bytes                           |
 | MD5             | c6f263e699ce769269a20e0cf38a9be2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 杜宇                               |
 | Region          | 中国大陆                               |
 | Date            | 2009-11-25                                 |

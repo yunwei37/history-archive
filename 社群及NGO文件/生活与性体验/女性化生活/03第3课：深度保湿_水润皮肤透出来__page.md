@@ -20,8 +20,8 @@ Download: [03第3课：深度保湿_水润皮肤透出来_.pdf](03第3课：深�
 | Format          | PDF Document                               |
 | Size            | 4644830 bytes                           |
 | MD5             | a7adde8652557519e88337e54ea7b9d4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

@@ -20,8 +20,8 @@ Download: [同聲同氣_香港年長女同志口述史_鄧芝珊_伍詠欣Chines
 | Format          | PDF Document                               |
 | Size            | 34999911 bytes                           |
 | MD5             | fb8b70df0dc26d2c5688e4c98f873874                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 鄧芝珊, 伍詠欣                               |
 | Region          | 香港                               |
 | Date            | 未知                                 |

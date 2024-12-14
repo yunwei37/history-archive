@@ -20,8 +20,8 @@ Download: [跨性别女性性别确认激素治疗策略_高绿芬.pdf](跨性�
 | Format          | PDF Document                               |
 | Size            | 952967 bytes                           |
 | MD5             | 990c6c8c7adb9ef7d33fb25eb46afb13                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 高绿芬、谢杏美、王晓玉等                               |
 | Region          | 中国大陆                               |
 | Date            | 2022-12-01                                 |

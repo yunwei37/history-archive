@@ -20,8 +20,8 @@ Download: [第10课：告别“熊猫眼”，年轻态的小秘诀.pdf](第10�
 | Format          | PDF Document                               |
 | Size            | 4507914 bytes                           |
 | MD5             | bad185a2d40bed581c29a987b64bee93                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

@@ -20,8 +20,8 @@ Download: [性激素对创伤-失血性休克后机体免疫功能的影响.pdf]
 | Format          | PDF Document                               |
 | Size            | 188547 bytes                           |
 | MD5             | 554f43bd72438469ef9ab3b3d764e913                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 刘晓东，王静，周其全                               |
 | Region          | 中国大陆                               |
 | Date            | 2010-01-01                                 |

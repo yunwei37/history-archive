@@ -20,8 +20,8 @@ Download: [第6课：拯救大毛孔，光滑蛋肌亮出来.pdf](第6课：拯�
 | Format          | PDF Document                               |
 | Size            | 4458463 bytes                           |
 | MD5             | 19af2c62e271ea568444ac03ac53a412                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

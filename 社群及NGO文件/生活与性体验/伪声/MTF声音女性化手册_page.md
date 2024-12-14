@@ -20,8 +20,8 @@ Download: [MTF声音女性化手册.pdf](MTF声音女性化手册.pdf)
 | Format          | PDF Document                               |
 | Size            | 1661302 bytes                           |
 | MD5             | ec92a49e2a32626b918591a35121af00                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | Aoi                               |
 | Region          | 未知                               |
 | Date            | 2021-07-01                                 |

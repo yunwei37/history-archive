@@ -20,8 +20,8 @@ Download: [男_女易性癖外科治疗中具有性感觉功能的阴蒂再造_�
 | Format          | PDF Document                               |
 | Size            | 347724 bytes                           |
 | MD5             | 4cf32b5a5b5ff2035555c44ebd3974f5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 陈焕然, 陈宗基                               |
 | Region          | 中国                               |
 | Date            | 未知                                 |

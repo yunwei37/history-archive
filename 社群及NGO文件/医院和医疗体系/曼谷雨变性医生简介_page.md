@@ -20,8 +20,8 @@ Download: [曼谷雨变性医生简介.docx](曼谷雨变性医生简介.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 1367600 bytes                           |
 | MD5             | fb5d4a384cc5a4221212cba29ccf6885                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 小雨                               |
 | Region          | 泰国                               |
 | Date            | 未知                                 |

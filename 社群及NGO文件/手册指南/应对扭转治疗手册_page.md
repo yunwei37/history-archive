@@ -20,8 +20,8 @@ Download: [应对扭转治疗手册.pdf](应对扭转治疗手册.pdf)
 | Format          | PDF Document                               |
 | Size            | 1436635 bytes                           |
 | MD5             | df49d0a676cee9f83254c56b80be856f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 同志亦凡人; 匡匡等                               |
 | Region          | 中国                               |
 | Date            | 未知                                 |

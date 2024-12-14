@@ -20,8 +20,8 @@ Download: [從當代電影看亞洲跨性別人士的困局.pdf](從當代電影
 | Format          | PDF Document                               |
 | Size            | 1848239 bytes                           |
 | MD5             | 322501ab894fe574d4be4b29f14aa9b7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 王雅雯                               |
 | Region          | 香港                               |
 | Date            | 2022-04-11                                 |

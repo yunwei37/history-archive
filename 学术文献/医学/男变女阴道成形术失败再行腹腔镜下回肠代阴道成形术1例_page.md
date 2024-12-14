@@ -20,8 +20,8 @@ Download: [男变女阴道成形术失败再行腹腔镜下回肠代阴道成形
 | Format          | PDF Document                               |
 | Size            | 2007095 bytes                           |
 | MD5             | 3b9230024ac2afe2186e484040430d0f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 曹芹然，李晓敏                               |
 | Region          | 中国大陆                               |
 | Date            | 2011-07-01                                 |

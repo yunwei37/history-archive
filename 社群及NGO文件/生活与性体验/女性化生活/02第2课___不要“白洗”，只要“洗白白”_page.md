@@ -20,8 +20,8 @@ Download: [02第2课___不要“白洗”，只要“洗白白”.pdf](02第2课
 | Format          | PDF Document                               |
 | Size            | 4852388 bytes                           |
 | MD5             | 8ea148d58129dbcb573cfc1212c6b0ee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

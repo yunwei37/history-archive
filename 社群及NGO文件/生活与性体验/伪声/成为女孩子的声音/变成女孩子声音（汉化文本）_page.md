@@ -24,8 +24,8 @@ Download: [变成女孩子声音（汉化文本）.txt](变成女孩子声音（
 | Format          | Plain Text                               |
 | Size            | 34908 bytes                           |
 | MD5             | cc34982b9b20e8a4dc11a6644749a8f0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

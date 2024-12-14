@@ -20,8 +20,8 @@ Download: [个人前高经历.txt](个人前高经历.txt)
 | Format          | Plain Text                               |
 | Size            | 10214 bytes                           |
 | MD5             | 969b7c97910f20c5216e8c19054d6d24                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

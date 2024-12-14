@@ -20,8 +20,8 @@ Download: [西方的变性热_王克强.pdf](西方的变性热_王克强.pdf)
 | Format          | PDF Document                               |
 | Size            | 73066 bytes                           |
 | MD5             | 3366131a1785efee8612229e92aec724                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 王克强                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

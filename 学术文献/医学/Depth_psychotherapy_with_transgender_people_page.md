@@ -20,8 +20,8 @@ Download: [Depth_psychotherapy_with_transgender_people.pdf](Depth_psychotherapy_
 | Format          | PDF Document                               |
 | Size            | 249774 bytes                           |
 | MD5             | 9d934b398276fdf6b83547bdd8ce83e3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lin Fraser                               |
 | Region          | 美国                               |
 | Date            | 2009-10-19                                 |

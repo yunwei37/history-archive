@@ -20,8 +20,8 @@ Download: [实施变性手术应以法定程序的审理为前提_汤啸天.pdf]
 | Format          | PDF Document                               |
 | Size            | 1082794 bytes                           |
 | MD5             | 7b585517f8a86d0d5f5a7b1122e775d0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 汤啸天                               |
 | Region          | 中国                               |
 | Date            | 未知                                 |

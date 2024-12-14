@@ -20,8 +20,8 @@ Download: [前高.pdf](前高.pdf)
 | Format          | PDF Document                               |
 | Size            | 312659 bytes                           |
 | MD5             | 5127dc69241c020274321bc0ae3d8702                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | u/gvnephios                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

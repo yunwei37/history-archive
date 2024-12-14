@@ -20,8 +20,8 @@ Download: [中国首位变性人状告医院始末_李玉林.pdf](中国首位�
 | Format          | PDF Document                               |
 | Size            | 728924 bytes                           |
 | MD5             | 32dc3f16aebe8788fbade96cc7294f31                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 李玉林                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

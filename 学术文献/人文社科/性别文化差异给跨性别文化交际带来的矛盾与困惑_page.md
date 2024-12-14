@@ -20,8 +20,8 @@ Download: [性别文化差异给跨性别文化交际带来的矛盾与困惑.pd
 | Format          | PDF Document                               |
 | Size            | 263823 bytes                           |
 | MD5             | 4df60d60e595b84041aa3a90b3f4f35e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

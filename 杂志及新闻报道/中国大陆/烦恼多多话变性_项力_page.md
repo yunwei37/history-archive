@@ -20,8 +20,8 @@ Download: [烦恼多多话变性_项力.pdf](烦恼多多话变性_项力.pdf)
 | Format          | PDF Document                               |
 | Size            | 884971 bytes                           |
 | MD5             | 5e9d3c9d91418594f09b2d4388c00782                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 项力                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

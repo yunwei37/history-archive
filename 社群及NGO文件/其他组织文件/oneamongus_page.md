@@ -20,8 +20,8 @@ Download: [oneamongus.pdf](oneamongus.pdf)
 | Format          | PDF Document                               |
 | Size            | 308210 bytes                           |
 | MD5             | ce307faaf10e3e5b5c2722c84787b897                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国                               |
 | Date            | 未知                                 |

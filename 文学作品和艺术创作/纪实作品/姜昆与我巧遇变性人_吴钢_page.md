@@ -20,8 +20,8 @@ Download: [姜昆与我巧遇变性人_吴钢.pdf](姜昆与我巧遇变性人_�
 | Format          | PDF Document                               |
 | Size            | 310036 bytes                           |
 | MD5             | 29e01be09fa6aa77479ef1611ad741aa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 吴钢                               |
 | Region          | 新加坡                               |
 | Date            | 未知                                 |

@@ -20,8 +20,8 @@ Download: [女性生殖器整形美容_陈敏亮_主译_徐潇_副主译_Z_Libra
 | Format          | PDF Document                               |
 | Size            | 62746100 bytes                           |
 | MD5             | 3a9c25b5800d3afafe82fb0e7a4f2941                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 陈敏亮，徐潇                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

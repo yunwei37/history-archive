@@ -20,8 +20,8 @@ Download: [跨性別者的從軍觀察.pdf](跨性別者的從軍觀察.pdf)
 | Format          | PDF Document                               |
 | Size            | 1043625 bytes                           |
 | MD5             | 14f6682aebdf97a329b764cef7236f8a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 黄琴爱                               |
 | Region          | 台湾                               |
 | Date            | 未知                                 |

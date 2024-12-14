@@ -27,8 +27,8 @@ Alternative name: 女装入门到精通
 | Format          | PDF Document                               |
 | Size            | 1469096 bytes                           |
 | MD5             | c00f239331c6379cacc76e9c40c6b35f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 三叶（原作），南京大学一千零一夜COS剧社（翻译）                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

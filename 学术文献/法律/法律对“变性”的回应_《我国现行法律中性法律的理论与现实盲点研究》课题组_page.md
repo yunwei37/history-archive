@@ -20,8 +20,8 @@ Download: [法律对“变性”的回应_《我国现行法律中性法律的�
 | Format          | PDF Document                               |
 | Size            | 274601 bytes                           |
 | MD5             | 9f8bb50b7825564a97ec99f3b2c5c540                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 我国现行法律中性法律的理论与现实盲点研究课题组                               |
 | Region          | 中国大陆                               |
 | Date            | 2008-01-01                                 |

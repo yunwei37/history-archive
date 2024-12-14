@@ -20,8 +20,8 @@ Download: [论变性人的性别判定——附一例变性人离婚案件报告
 | Format          | PDF Document                               |
 | Size            | 169620 bytes                           |
 | MD5             | b82993e0178320ac7d8c8440ec2f2500                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 潘永久；江苏省高级人民法院                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

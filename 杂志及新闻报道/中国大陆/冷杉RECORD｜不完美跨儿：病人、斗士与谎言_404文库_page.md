@@ -20,8 +20,8 @@ Download: [冷杉RECORD｜不完美跨儿：病人、斗士与谎言_404文库.p
 | Format          | PDF Document                               |
 | Size            | 19334628 bytes                           |
 | MD5             | 21f4625b5ada1d7b9c9e173bbb99fa60                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 冷杉RECORD                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-10-09                                 |

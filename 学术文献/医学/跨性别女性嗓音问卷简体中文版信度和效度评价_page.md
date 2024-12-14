@@ -20,8 +20,8 @@ Download: [跨性别女性嗓音问卷简体中文版信度和效度评价.pdf](
 | Format          | PDF Document                               |
 | Size            | 1483642 bytes                           |
 | MD5             | 0c4ed5e57a5c691dae7f7dbdc0ebc8f8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 王路, 张嘉禾, 王晨希, 张祥, 丁惠君, 靳雨锟, 胡荣庆, 张庆丰, 陈臻                               |
 | Region          | 中国                               |
 | Date            | 2022-11-01                                 |

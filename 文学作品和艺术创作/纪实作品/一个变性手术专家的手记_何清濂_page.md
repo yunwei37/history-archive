@@ -20,8 +20,8 @@ Download: [一个变性手术专家的手记_何清濂.pdf](一个变性手术�
 | Format          | PDF Document                               |
 | Size            | 1298862 bytes                           |
 | MD5             | efdd890ac10ac2102593014f41a3d771                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 何清濂                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

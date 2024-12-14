@@ -22,8 +22,8 @@ Download: [秦惠英，你在哪里？_方刚.pdf](秦惠英，你在哪里？_�
 | Format          | PDF Document                               |
 | Size            | 454618 bytes                           |
 | MD5             | 6852615ed39f779f9ddb314ba9e00919                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 方刚                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

@@ -20,8 +20,8 @@ Download: [Super-O个人体验整理分享.docx](Super-O个人体验整理分享
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34229 bytes                           |
 | MD5             | 14d4f8e9113cb05b2d725729f2b1e708                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

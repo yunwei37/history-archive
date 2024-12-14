@@ -20,8 +20,8 @@ Download: [跨性别与顺性别大学生的心理健康状况.pdf](跨性别与
 | Format          | PDF Document                               |
 | Size            | 297028 bytes                           |
 | MD5             | 7a0a0654c1c20f8307fe3a1b13d2bd4b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

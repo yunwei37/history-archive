@@ -20,8 +20,8 @@ Download: [【ftm】关于激素、假药、药商的一切，纯干货！1.docx
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 4037217 bytes                           |
 | MD5             | 096bd675e51a91555979d1bead7f6d51                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | G0SSIP                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

@@ -20,8 +20,8 @@ Download: [前列腺高潮新方法1.pdf](前列腺高潮新方法1.pdf)
 | Format          | PDF Document                               |
 | Size            | 679439 bytes                           |
 | MD5             | 2a37f320ad27cb5befee30ff96fd89ea                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

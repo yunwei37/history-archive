@@ -20,8 +20,8 @@ Download: [MTF_流程.pdf](MTF_流程.pdf)
 | Format          | PDF Document                               |
 | Size            | 340955 bytes                           |
 | MD5             | c437b0c98fc4847073c1008331d75278                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

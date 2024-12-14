@@ -20,8 +20,8 @@ Download: [中国易性症多学科诊疗专家共识.pdf](中国易性症多学
 | Format          | PDF Document                               |
 | Size            | 605157 bytes                           |
 | MD5             | e35e072de45846913f3646911f837a98                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 中国心理卫生协会性心理健康专业委员会                               |
 | Region          | 中国大陆                               |
 | Date            | 2022-01-01                                 |

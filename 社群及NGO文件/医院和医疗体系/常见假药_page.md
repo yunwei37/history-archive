@@ -20,8 +20,8 @@ Download: [常见假药.pdf](常见假药.pdf)
 | Format          | PDF Document                               |
 | Size            | 437436 bytes                           |
 | MD5             | c0434cec27aa1332729def38b10cec4c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

@@ -20,8 +20,8 @@ Download: [肛门扩张_–_最有效的指南和练习（一）.pdf](肛门扩�
 | Format          | PDF Document                               |
 | Size            | 377935 bytes                           |
 | MD5             | b18293afdf559269c4ed652f6ff8fb50                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

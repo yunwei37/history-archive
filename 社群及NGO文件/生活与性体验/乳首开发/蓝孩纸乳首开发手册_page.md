@@ -20,8 +20,8 @@ Download: [蓝孩纸乳首开发手册.pdf](蓝孩纸乳首开发手册.pdf)
 | Format          | PDF Document                               |
 | Size            | 835371 bytes                           |
 | MD5             | c576b0cefa20651aea1cb4a9025e41d6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

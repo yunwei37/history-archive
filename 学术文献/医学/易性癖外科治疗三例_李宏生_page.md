@@ -20,8 +20,8 @@ Download: [易性癖外科治疗三例_李宏生.pdf](易性癖外科治疗三�
 | Format          | PDF Document                               |
 | Size            | 79792 bytes                           |
 | MD5             | cc93e5856fc47fb7432d1e2c4e18c424                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 李宏生                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

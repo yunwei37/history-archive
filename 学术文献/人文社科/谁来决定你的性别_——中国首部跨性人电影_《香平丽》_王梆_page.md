@@ -20,8 +20,8 @@ Download: [谁来决定你的性别_——中国首部跨性人电影_《香平�
 | Format          | PDF Document                               |
 | Size            | 381878 bytes                           |
 | MD5             | ac2861b8a3bea08a66a0a7e046ef66ef                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 王梆                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

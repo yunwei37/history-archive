@@ -20,8 +20,8 @@ Download: [药娘的天空.pdf](药娘的天空.pdf)
 | Format          | PDF Document                               |
 | Size            | 22571390 bytes                           |
 | MD5             | 068ef1ef592f2ae5ef1561778550e40f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 乱世银娘                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

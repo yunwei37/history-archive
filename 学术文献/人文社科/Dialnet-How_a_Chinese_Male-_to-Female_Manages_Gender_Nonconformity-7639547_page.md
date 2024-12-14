@@ -20,8 +20,8 @@ Download: [Dialnet-How_a_Chinese_Male-_to-Female_Manages_Gender_Nonconformity-76
 | Format          | PDF Document                               |
 | Size            | 520427 bytes                           |
 | MD5             | 0c92a6ef9c6f61dc1d38c9012b3d1278                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | Fung Kei Cheng                               |
 | Region          | 香港                               |
 | Date            | 2020-10-25                                 |

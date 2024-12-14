@@ -20,8 +20,8 @@ Download: [跨性别出柜手册.pdf](跨性别出柜手册.pdf)
 | Format          | PDF Document                               |
 | Size            | 161413 bytes                           |
 | MD5             | b8593f61a5458408ac369dd83b33bd0e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

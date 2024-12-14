@@ -20,8 +20,8 @@ Download: [性激素对机体免疫系统功能的影响.pdf](性激素对机体
 | Format          | PDF Document                               |
 | Size            | 87494 bytes                           |
 | MD5             | dbc7b7ea809f68017bbe4d935bd4795a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 牛建英, 刘志红                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

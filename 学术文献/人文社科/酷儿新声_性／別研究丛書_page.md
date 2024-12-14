@@ -20,8 +20,8 @@ Download: [酷儿新声_性／別研究丛書.pdf](酷儿新声_性／別研究�
 | Format          | PDF Document                               |
 | Size            | 16044816 bytes                           |
 | MD5             | 0db643cc6ffb44ea25a0db582037f159                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 酷儿新声编委会                               |
 | Region          | 台湾                               |
 | Date            | 2009-12-28                                 |

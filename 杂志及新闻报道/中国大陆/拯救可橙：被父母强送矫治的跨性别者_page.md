@@ -20,8 +20,8 @@ Download: [拯救可橙：被父母强送矫治的跨性别者.pdf](拯救可橙
 | Format          | PDF Document                               |
 | Size            | 2904100 bytes                           |
 | MD5             | cc18a34320ff30ec3b6bdaaf2b58ef62                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

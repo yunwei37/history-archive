@@ -20,8 +20,8 @@ Download: [西方国家变性人越来越多众法官束手无策_齐书学.pdf]
 | Format          | PDF Document                               |
 | Size            | 200720 bytes                           |
 | MD5             | bcd255f7cb3c8a21999a993370bb9803                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 齐书学                               |
 | Region          | 西方国家                               |
 | Date            | 未知                                 |

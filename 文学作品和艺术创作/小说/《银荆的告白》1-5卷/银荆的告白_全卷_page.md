@@ -20,8 +20,8 @@ Download: [银荆的告白_全卷.txt](银荆的告白_全卷.txt)
 | Format          | Plain Text                               |
 | Size            | 1667435 bytes                           |
 | MD5             | 56489cdb88f66ac79d80f3e68d6fc4f7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

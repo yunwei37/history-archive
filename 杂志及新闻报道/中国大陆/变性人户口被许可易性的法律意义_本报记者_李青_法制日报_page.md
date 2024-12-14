@@ -20,8 +20,8 @@ Download: [变性人户口被许可易性的法律意义_本报记者_李青_法
 | Format          | PDF Document                               |
 | Size            | 21437 bytes                           |
 | MD5             | e058de62be115bc24b3876dc299d4012                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 李青，法制日报                               |
 | Region          | 中国大陆                               |
 | Date            | 2008-12-04                                 |

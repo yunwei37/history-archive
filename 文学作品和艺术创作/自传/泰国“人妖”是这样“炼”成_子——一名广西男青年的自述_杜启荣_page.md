@@ -20,8 +20,8 @@ Download: [泰国“人妖”是这样“炼”成_子——一名广西男青�
 | Format          | PDF Document                               |
 | Size            | 3392142 bytes                           |
 | MD5             | db01be0b858b55c31a645048835e6f1b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 杜启荣                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

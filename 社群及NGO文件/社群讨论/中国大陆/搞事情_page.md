@@ -20,8 +20,8 @@ Download: [搞事情.pdf](搞事情.pdf)
 | Format          | PDF Document                               |
 | Size            | 2152009 bytes                           |
 | MD5             | 69514b89b8a81a1897550192051c09fd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

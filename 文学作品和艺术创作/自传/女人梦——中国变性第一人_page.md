@@ -20,8 +20,8 @@ Download: [女人梦——中国变性第一人.pdf](女人梦——中国变性
 | Format          | PDF Document                               |
 | Size            | 63952472 bytes                           |
 | MD5             | 420882df1ea11f08490be296c1467d2c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

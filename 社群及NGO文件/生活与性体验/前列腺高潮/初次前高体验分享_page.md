@@ -20,8 +20,8 @@ Download: [初次前高体验分享.docx](初次前高体验分享.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 15656 bytes                           |
 | MD5             | 08760159600946cb00e65d80c01a2612                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2024-03-27                                 |

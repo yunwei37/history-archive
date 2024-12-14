@@ -20,8 +20,8 @@ Download: [变性手术的术中配合与护理.pdf](变性手术的术中配合
 | Format          | PDF Document                               |
 | Size            | 236973 bytes                           |
 | MD5             | 78fc3772ee8c0081bbd753bedbc9a564                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 李秋明, 北京大学深圳医院手术室                               |
 | Region          | 中国大陆                               |
 | Date            | 2006-08-01                                 |

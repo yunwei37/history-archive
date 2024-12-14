@@ -20,8 +20,8 @@ Download: [压枪详细教程.pdf](压枪详细教程.pdf)
 | Format          | PDF Document                               |
 | Size            | 357901 bytes                           |
 | MD5             | 842d3d42e6c01e3cb9d848febaf52eb4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | yiketangyuan                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

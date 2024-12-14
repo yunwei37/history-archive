@@ -20,8 +20,8 @@ Download: [医护患对优质护理服务工作评价的调查研究.pdf](医护
 | Format          | PDF Document                               |
 | Size            | 1498776 bytes                           |
 | MD5             | 9e7fd1d89b4937cdc658eaceed4aa43e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 肖晓玲，张东华，胡秋秋，高建智，吴小红                               |
 | Region          | 中国大陆                               |
 | Date            | 2012-08-15                                 |

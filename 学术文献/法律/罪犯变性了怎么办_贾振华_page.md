@@ -20,8 +20,8 @@ Download: [罪犯变性了怎么办_贾振华.pdf](罪犯变性了怎么办_贾�
 | Format          | PDF Document                               |
 | Size            | 512066 bytes                           |
 | MD5             | abba31a8d03987c51e26191c30978bb1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 贾振华                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

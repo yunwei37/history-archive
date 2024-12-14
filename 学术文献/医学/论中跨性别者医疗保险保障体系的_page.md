@@ -22,8 +22,8 @@ Download: [论中跨性别者医疗保险保障体系的.pdf](论中跨性别者
 | Format          | PDF Document                               |
 | Size            | 1331932 bytes                           |
 | MD5             | ac90468e400b6524d7a599ef9cca69dc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 赵鹏举，郑华                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-04-01                                 |

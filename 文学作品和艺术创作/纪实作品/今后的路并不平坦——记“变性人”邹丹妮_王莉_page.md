@@ -20,8 +20,8 @@ Download: [今后的路并不平坦——记“变性人”邹丹妮_王莉.pdf]
 | Format          | PDF Document                               |
 | Size            | 644943 bytes                           |
 | MD5             | 6e614b08e2bdd54af5c046256b8c7161                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 王莉                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

@@ -20,8 +20,8 @@ Download: [中国跨性别出柜指南.pdf](中国跨性别出柜指南.pdf)
 | Format          | PDF Document                               |
 | Size            | 647858 bytes                           |
 | MD5             | 6b8bf6d9f0fcda0990195b7f86dc05fe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 一碗面皮                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

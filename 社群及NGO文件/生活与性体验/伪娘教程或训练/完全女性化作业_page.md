@@ -20,8 +20,8 @@ Download: [完全女性化作业.pdf](完全女性化作业.pdf)
 | Format          | PDF Document                               |
 | Size            | 675547 bytes                           |
 | MD5             | 3945122e1f8561181b312323871fc526                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

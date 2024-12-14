@@ -20,8 +20,8 @@ Download: [SM_手册_我的身体我的心.pdf](SM_手册_我的身体我的心.
 | Format          | PDF Document                               |
 | Size            | 7111939 bytes                           |
 | MD5             | c2efbb5451e8b77f07bf26cbdda8cba7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | galeki                               |
 | Region          | 未知                               |
 | Date            | 2010-04-19                                 |

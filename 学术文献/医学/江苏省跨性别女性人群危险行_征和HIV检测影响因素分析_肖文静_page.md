@@ -20,8 +20,8 @@ Download: [江苏省跨性别女性人群危险行_征和HIV检测影响因素�
 | Format          | PDF Document                               |
 | Size            | 1337225 bytes                           |
 | MD5             | 37b73fb819dcda690ac130b33bb99b84                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 肖文静等                               |
 | Region          | 中国大陆                               |
 | Date            | 2020-04-01                                 |

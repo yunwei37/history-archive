@@ -20,8 +20,8 @@ Download: [第11课：弹走“鱼尾纹”，冻龄你的少女感_看图王1.p
 | Format          | PDF Document                               |
 | Size            | 1943103 bytes                           |
 | MD5             | 04018b5a90ea44de90e55aa703dc19bf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

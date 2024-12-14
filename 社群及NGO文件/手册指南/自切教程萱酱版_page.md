@@ -20,8 +20,8 @@ Download: [自切教程萱酱版.doc](自切教程萱酱版.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 2834944 bytes                           |
 | MD5             | b3b99eef3b83e7bb214b8bbaec7545fb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

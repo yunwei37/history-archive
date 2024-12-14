@@ -21,8 +21,8 @@ Download: [性別二十_性／別研究丛書.pdf](性別二十_性／別研究�
 | Format          | PDF Document                               |
 | Size            | 9891121 bytes                           |
 | MD5             | 86dd2e6650d197c46aba05b4b1995f6f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 何春蕤、宁应斌                               |
 | Region          | 台湾                               |
 | Date            | 2016-11-01                                 |

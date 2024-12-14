@@ -22,8 +22,8 @@ Download: [PC肌收缩分解教程.pdf](PC肌收缩分解教程.pdf)
 | Format          | PDF Document                               |
 | Size            | 253821 bytes                           |
 | MD5             | 747573b6ebd6bbfd1729d8101eaff208                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

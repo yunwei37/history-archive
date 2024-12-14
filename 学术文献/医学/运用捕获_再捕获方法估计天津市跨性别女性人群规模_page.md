@@ -20,8 +20,8 @@ Download: [运用捕获_再捕获方法估计天津市跨性别女性人群规�
 | Format          | PDF Document                               |
 | Size            | 3844705 bytes                           |
 | MD5             | 6364dfa2580083c9937bf04fa2c3a9b7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 龚卉, 于茂河, 柳忠泉, 杨杰                               |
 | Region          | 天津，中国                               |
 | Date            | 2023-06-01                                 |

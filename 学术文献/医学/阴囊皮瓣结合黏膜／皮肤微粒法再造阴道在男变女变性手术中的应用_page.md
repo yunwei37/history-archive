@@ -20,8 +20,8 @@ Download: [阴囊皮瓣结合黏膜／皮肤微粒法再造阴道在男变女变
 | Format          | PDF Document                               |
 | Size            | 260246 bytes                           |
 | MD5             | 852711ac961b27e47f672f597531c6f3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2014-09-01                                 |

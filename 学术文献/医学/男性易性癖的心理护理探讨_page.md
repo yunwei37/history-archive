@@ -20,8 +20,8 @@ Download: [男性易性癖的心理护理探讨.pdf](男性易性癖的心理护
 | Format          | PDF Document                               |
 | Size            | 26823 bytes                           |
 | MD5             | f5894d0f5284e5641ab3a8469c852b20                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 唐志敏                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

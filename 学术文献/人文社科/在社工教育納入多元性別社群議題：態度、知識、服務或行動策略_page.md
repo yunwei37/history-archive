@@ -20,8 +20,8 @@ Download: [在社工教育納入多元性別社群議題：態度、知識、服
 | Format          | PDF Document                               |
 | Size            | 3011193 bytes                           |
 | MD5             | 48962ccce6aca5f31ddf793d805fca6f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 鍾道詮                               |
 | Region          | 台湾                               |
 | Date            | 2022-06-01                                 |

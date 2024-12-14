@@ -20,8 +20,8 @@ Download: [性激素与免疫系统关系的研究进展.pdf](性激素与免疫
 | Format          | PDF Document                               |
 | Size            | 80328 bytes                           |
 | MD5             | 480fdffaccbc02f0955693792c7e6cb3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 谭家余，黄汉卿                               |
 | Region          | 中国                               |
 | Date            | 未知                                 |

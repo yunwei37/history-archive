@@ -20,8 +20,8 @@ Download: [北同跨性别医疗照护手册.pdf](北同跨性别医疗照护手
 | Format          | PDF Document                               |
 | Size            | 14257055 bytes                           |
 | MD5             | 7b341a89b6f1a00c440f113844b336b9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 北同团队                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

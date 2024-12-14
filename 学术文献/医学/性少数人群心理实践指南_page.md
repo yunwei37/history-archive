@@ -22,8 +22,8 @@ Download: [性少数人群心理实践指南.pdf](性少数人群心理实践指
 | Format          | PDF Document                               |
 | Size            | 2618844 bytes                           |
 | MD5             | 94694a39850e7b52a6e501ecacb78f46                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 美国心理学会                               |
 | Region          | 美国                               |
 | Date            | 2022-08-01                                 |

@@ -20,8 +20,8 @@ Download: [伪娘的一年训练.pdf](伪娘的一年训练.pdf)
 | Format          | PDF Document                               |
 | Size            | 814764 bytes                           |
 | MD5             | 73fc4dd0fc15e1f190b41bffdc0b26f5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 小伪娘1373，翻译者 smallrain1993                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

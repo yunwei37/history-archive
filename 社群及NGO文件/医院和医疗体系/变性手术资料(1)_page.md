@@ -20,8 +20,8 @@ Download: [变性手术资料(1).doc](变性手术资料(1).doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 37888 bytes                           |
 | MD5             | d2d09d69df973015a230757902ac5e27                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

@@ -20,8 +20,8 @@ Download: [爽的极限（含目录）.docx](爽的极限（含目录）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 75185 bytes                           |
 | MD5             | 9b3667d48aacf74e4ff07107da573c01                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

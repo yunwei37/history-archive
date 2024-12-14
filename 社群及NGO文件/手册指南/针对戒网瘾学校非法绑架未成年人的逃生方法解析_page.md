@@ -20,8 +20,8 @@ Download: [针对戒网瘾学校非法绑架未成年人的逃生方法解析.pd
 | Format          | PDF Document                               |
 | Size            | 1655083 bytes                           |
 | MD5             | d5353b9094b1a5c38be45db573f1bb11                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 暮光计划全体成员 (Project Aurora Team)                               |
 | Region          | 未知                               |
 | Date            | 2023-06-30                                 |

@@ -20,8 +20,8 @@ Download: [论建立变性人婚姻家庭之特别制度_王正苍.pdf](论建�
 | Format          | PDF Document                               |
 | Size            | 253933 bytes                           |
 | MD5             | 4c9e4aa1158569743091ab73aa5f54f0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 王正苍                               |
 | Region          | 中国                               |
 | Date            | 未知                                 |

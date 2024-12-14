@@ -20,8 +20,8 @@ Download: [王安黛-中篇严肃悬疑-缺耳女_二稿修正版.docx](王安�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 220567 bytes                           |
 | MD5             | 26de3327da3eb924a70d89054d69d11a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 王安黛                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

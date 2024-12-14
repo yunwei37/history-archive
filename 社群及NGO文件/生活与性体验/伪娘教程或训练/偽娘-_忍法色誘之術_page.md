@@ -20,8 +20,8 @@ Download: [偽娘-_忍法色誘之術.pdf](偽娘-_忍法色誘之術.pdf)
 | Format          | PDF Document                               |
 | Size            | 2366542 bytes                           |
 | MD5             | 8235b8e892fc76785238213b39a97631                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 咪宝（傳說d̆̈ ĕ̈ 咪寶寶）                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

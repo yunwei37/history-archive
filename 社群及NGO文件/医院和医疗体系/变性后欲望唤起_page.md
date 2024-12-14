@@ -20,8 +20,8 @@ Download: [变性后欲望唤起.txt](变性后欲望唤起.txt)
 | Format          | Plain Text                               |
 | Size            | 22285 bytes                           |
 | MD5             | 0af4e8740e57eabd64fd3a1e398ecb03                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 2008-03-10                                 |

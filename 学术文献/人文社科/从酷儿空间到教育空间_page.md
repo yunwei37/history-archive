@@ -20,8 +20,8 @@ Download: [从酷儿空间到教育空间.pdf](从酷儿空间到教育空间.pd
 | Format          | PDF Document                               |
 | Size            | 3328691 bytes                           |
 | MD5             | 8b0ee2acdbf5e4e513bb2eb01409d660                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 何春蕤                               |
 | Region          | 台湾                               |
 | Date            | 2000-02-01                                 |

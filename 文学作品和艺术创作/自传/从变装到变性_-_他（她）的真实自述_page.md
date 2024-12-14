@@ -20,8 +20,8 @@ Download: [从变装到变性_-_他（她）的真实自述.txt](从变装到变
 | Format          | Plain Text                               |
 | Size            | 29100 bytes                           |
 | MD5             | a3b5784e055742edc39f694fff16a9e3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 香港                               |
 | Date            | 未知                                 |

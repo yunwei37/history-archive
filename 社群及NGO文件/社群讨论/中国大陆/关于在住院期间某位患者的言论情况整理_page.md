@@ -20,8 +20,8 @@ Download: [关于在住院期间某位患者的言论情况整理.pdf](关于在
 | Format          | PDF Document                               |
 | Size            | 1583138 bytes                           |
 | MD5             | 424b25553fb65896b0b7b17fb0f04452                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

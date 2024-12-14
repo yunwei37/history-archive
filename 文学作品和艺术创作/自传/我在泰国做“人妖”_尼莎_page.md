@@ -20,8 +20,8 @@ Download: [我在泰国做“人妖”_尼莎.pdf](我在泰国做“人妖”_�
 | Format          | PDF Document                               |
 | Size            | 235626 bytes                           |
 | MD5             | 839f7c0a62dbc921301e9b537b3b9def                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 泰国                               |
 | Date            | 未知                                 |

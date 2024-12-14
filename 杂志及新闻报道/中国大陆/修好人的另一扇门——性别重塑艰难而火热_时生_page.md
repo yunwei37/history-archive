@@ -20,8 +20,8 @@ Download: [修好人的另一扇门——性别重塑艰难而火热_时生.pdf]
 | Format          | PDF Document                               |
 | Size            | 481827 bytes                           |
 | MD5             | a31fb87e7d6095a9db042a8802d215fb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 麟载灰敏                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

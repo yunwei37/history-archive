@@ -20,8 +20,8 @@ Download: [致函于贵院，关于一位患者在贵院西城院区住院期间
 | Format          | PDF Document                               |
 | Size            | 2995594 bytes                           |
 | MD5             | 80357de3013a5d74362851ad6c7a0283                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Archived Date   | 2024-12-13 05:32:01                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
 | Date            | 2024-10-08                                 |
