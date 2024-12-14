@@ -33,7 +33,7 @@
 - [性转相关漫画存档库: https://comic.transchinese.org/](https://comic.transchinese.org/) (3409 篇内容)
 - [变身文学与小说存档库（剧情向，非限制级，未分类）: https://xnovel.transchinese.org](https://xnovel.transchinese.org) (1387 篇内容)
 - [变身文学与小说存档库（非限制级，变百或变嫁，已分类）: https://novel.transchinese.org](https://novel.transchinese.org) (2443 篇内容)
-- [变身文学与小说存档库（限制级）: https://snovel.transchinese.org](https://snovel.transchinese.org) (4536 篇内容)
+- [变身文学与小说存档库（限制级）: https://snovel.transchinese.org](https://snovel.transchinese.org) (4529 篇内容)
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板
