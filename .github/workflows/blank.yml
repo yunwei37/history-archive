@@ -56,14 +56,14 @@ jobs:
       #     python .github/manage/publish.py
       
 
-      - name: Create docs directory
-        run: |
-          mkdir -p docs
-          cp -r .github docs/
-          cp README.md docs/
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: 'docs'
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
+      # - name: Create docs directory
+      #   run: |
+      #     mkdir -p docs
+      #     cp -r .github docs/
+      #     cp README.md docs/
+      # - name: Upload artifact
+      #   uses: actions/upload-pages-artifact@v3
+      #   with:
+      #     path: 'docs'
+      # - name: Deploy to GitHub Pages
+      #   uses: actions/deploy-pages@v4
