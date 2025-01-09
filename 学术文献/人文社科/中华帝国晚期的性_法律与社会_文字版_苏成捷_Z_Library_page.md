@@ -1,7 +1,7 @@
 # 中华帝国晚期的性_法律与社会_文字版_苏成捷_Z_Library
 
 <!-- tcd_download_link -->
-Download: [中华帝国晚期的性_法律与社会_文字版_苏成捷_Z_Library.pdf](中华帝国晚期的性_法律与社会_文字版_苏成捷_Z_Library.pdf)
+下载: [中华帝国晚期的性_法律与社会_文字版_苏成捷_Z_Library.pdf](中华帝国晚期的性_法律与社会_文字版_苏成捷_Z_Library.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [中华帝国晚期的性_法律与社会_文字版_苏成捷_Z_Librar
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [中华帝国晚期的性_法律与社会_文字版_苏成捷_Z_Librar
 | Tags            | 清代法制, 性与法律, 社会性别, 鸡奸法, 女性贞节, 社会环境, 现代性研究, 历史案例分析                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../中华帝国晚期的性_法律与社会_文字版_苏成捷_Z_Library.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

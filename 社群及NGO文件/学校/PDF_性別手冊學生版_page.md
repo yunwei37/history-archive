@@ -1,7 +1,7 @@
 # PDF_性別手冊學生版
 
 <!-- tcd_download_link -->
-Download: [PDF_性別手冊學生版.pdf](PDF_性別手冊學生版.pdf)
+下载: [PDF_性別手冊學生版.pdf](PDF_性別手冊學生版.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_性別手冊學生版.pdf](PDF_性別手冊學生版.pdf)
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_性別手冊學生版.pdf](PDF_性別手冊學生版.pdf)
 | Tags            | 性别, 性取向, 多样性, 中央大学, 学生手册, 教育资源, LGBTQ                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_性別手冊學生版.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

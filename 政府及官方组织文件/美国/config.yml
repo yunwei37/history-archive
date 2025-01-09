@@ -296,13 +296,13 @@ files:
   size: 856285
   md5: dce6dfd9ffd6b22a9c730490d5926f25
   page: 波特兰公立学校学生登记表_2018_page.md
-- name: 纽约市__(NYC)_LGBT健康提示
-  filename: 纽约市__(NYC)_LGBT健康提示.pdf
+- name: 纽约市___NYC__LGBT健康提示
+  filename: 纽约市___NYC__LGBT健康提示.pdf
   type: document
   format: PDF Document
   size: 11242531
   md5: c85ad4157a8369142866c3a9900ae5f6
-  page: 纽约市__(NYC)_LGBT健康提示_page.md
+  page: 纽约市___NYC__LGBT健康提示_page.md
 - name: 美国卫生与公众服务部-_机构公平行动计划
   filename: 美国卫生与公众服务部-_机构公平行动计划.pdf
   type: document

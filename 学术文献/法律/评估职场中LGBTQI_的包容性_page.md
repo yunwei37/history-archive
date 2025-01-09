@@ -1,7 +1,7 @@
 # 评估职场中LGBTQI_的包容性
 
 <!-- tcd_download_link -->
-Download: [评估职场中LGBTQI_的包容性.pdf](评估职场中LGBTQI_的包容性.pdf)
+下载: [评估职场中LGBTQI_的包容性.pdf](评估职场中LGBTQI_的包容性.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [评估职场中LGBTQI_的包容性.pdf](评估职场中LGBTQI_的包�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [评估职场中LGBTQI_的包容性.pdf](评估职场中LGBTQI_的包�
 | Tags            | LGBTQI+, 职场包容性, 反歧视政策, 性别认同, 跨性别者权益, 社会变化, 医疗保障, 包容性文化, 企业责任                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../评估职场中LGBTQI_的包容性.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

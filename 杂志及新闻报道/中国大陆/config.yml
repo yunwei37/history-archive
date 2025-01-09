@@ -10,13 +10,6 @@ tags:
 - 社会现象
 license: ''
 files:
-- name: 14__使他从孝子变性为孝女
-  filename: 14__使他从孝子变性为孝女.pdf
-  type: document
-  format: PDF Document
-  size: 328847
-  md5: 2a9add42264f120759ecc495c2940d4d
-  page: 14__使他从孝子变性为孝女_page.md
 - name: 18岁男孩在快捷酒店里接受变性手术
   filename: 18岁男孩在快捷酒店里接受变性手术.pdf
   type: document
@@ -38,6 +31,13 @@ files:
   size: 599556
   md5: 0d0a0e4d71cd25e655ee2d59b9878c22
   page: 2013年上海骄傲节宣传稿_page.md
+- name: 2014__使他从孝子变性为孝女
+  filename: 2014__使他从孝子变性为孝女.pdf
+  type: document
+  format: PDF Document
+  size: 328847
+  md5: 2a9add42264f120759ecc495c2940d4d
+  page: 2014__使他从孝子变性为孝女_page.md
 - name: 2014_年第一版_酷拉时报
   filename: 2014_年第一版_酷拉时报.pdf
   type: document
@@ -45,6 +45,13 @@ files:
   size: 5473417
   md5: cd79024816609d7701c2a0e843a17b70
   page: 2014_年第一版_酷拉时报_page.md
+- name: 2017中国跨性别群体生存现状调查报告发布_北京同志中心
+  filename: 2017中国跨性别群体生存现状调查报告发布_北京同志中心.pdf
+  type: document
+  format: PDF Document
+  size: 776338
+  md5: 8990698524f50fae02c6d760a10bf9fe
+  page: 2017中国跨性别群体生存现状调查报告发布_北京同志中心_page.md
 - name: Les+双月刊2007年09月
   filename: Les+双月刊2007年09月.pdf
   type: document
@@ -52,6 +59,13 @@ files:
   size: 3063011
   md5: d73aff9a0356a77ccab8af1a014dcdc3
   page: Les+双月刊2007年09月_page.md
+- name: 一口吞下18粒右美沙芬，他瘫在床上青少年滥用药品现象调查_2023_
+  filename: 一口吞下18粒右美沙芬，他瘫在床上青少年滥用药品现象调查_2023_.pdf
+  type: document
+  format: PDF Document
+  size: 2740146
+  md5: 75839c68a331fa7ab206f6d7fa23f977
+  page: 一口吞下18粒右美沙芬，他瘫在床上青少年滥用药品现象调查_2023__page.md
 - name: 不想让男孩长成“伪娘”家庭教育要从娃娃抓起_晚报
   filename: 不想让男孩长成“伪娘”家庭教育要从娃娃抓起_晚报.pdf
   type: document
@@ -87,6 +101,20 @@ files:
   size: 2156104
   md5: 5a7142044488434c59a40ebd23386e8c
   page: 中國版河莉秀欲造子宮生子_page.md
+- name: 人民日报_1992_首例女变男变性手术成功
+  filename: 人民日报_1992_首例女变男变性手术成功.pdf
+  type: document
+  format: PDF Document
+  size: 1902043
+  md5: e76c1852dccd0515cced27e8d103af7b
+  page: 人民日报_1992_首例女变男变性手术成功_page.md
+- name: 人民日报_1993_我国变性手术达到世界先进水平
+  filename: 人民日报_1993_我国变性手术达到世界先进水平.pdf
+  type: document
+  format: PDF Document
+  size: 1848295
+  md5: 34eea651a3753f5fe651fdd566cfae59
+  page: 人民日报_1993_我国变性手术达到世界先进水平_page.md
 - name: 他们在家门口书写生命终章
   filename: 他们在家门口书写生命终章.pdf
   type: document
@@ -192,13 +220,13 @@ files:
   size: 22098
   md5: c6f263e699ce769269a20e0cf38a9be2
   page: 构筑弹性的《婚姻法》调适变性伦理_特约评论员_杜宇_page.md
-- name: 法治时空
-  filename: 法治时空.pdf
+- name: 法治时空_变性人先色诱再抢劫
+  filename: 法治时空_变性人先色诱再抢劫.pdf
   type: document
   format: PDF Document
   size: 842641
   md5: 2767d0d3ae0a123dfa9d2741e9e7a0b6
-  page: 法治时空_page.md
+  page: 法治时空_变性人先色诱再抢劫_page.md
 - name: 烦恼多多话变性_项力
   filename: 烦恼多多话变性_项力.pdf
   type: document

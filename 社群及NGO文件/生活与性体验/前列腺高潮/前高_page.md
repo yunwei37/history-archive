@@ -1,7 +1,7 @@
 # 前高
 
 <!-- tcd_download_link -->
-Download: [前高.pdf](前高.pdf)
+下载: [前高.pdf](前高.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [前高.pdf](前高.pdf)
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [前高.pdf](前高.pdf)
 | Tags            | 前列腺高潮, 性体验, 身体快感, 性教育, 肛门快感, PC肌肉, 精神放松, 快感训练                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../前高.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

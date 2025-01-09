@@ -1,7 +1,7 @@
 # PDF_LGBTQ_History_and_Culture_Since_1940_-_Gale
 
 <!-- tcd_download_link -->
-Download: [PDF_LGBTQ_History_and_Culture_Since_1940_-_Gale.pdf](PDF_LGBTQ_History_and_Culture_Since_1940_-_Gale.pdf)
+下载: [PDF_LGBTQ_History_and_Culture_Since_1940_-_Gale.pdf](PDF_LGBTQ_History_and_Culture_Since_1940_-_Gale.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_LGBTQ_History_and_Culture_Since_1940_-_Gale.pdf](PDF_LGBTQ_Histor
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_LGBTQ_History_and_Culture_Since_1940_-_Gale.pdf](PDF_LGBTQ_Histor
 | Tags            | LGBTQ, 历史, 性别研究, 文化, 权利运动, 档案资料, 医疗资源, 法律政策, 社会研究, 口述历史                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_LGBTQ_History_and_Culture_Since_1940_-_Gale.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

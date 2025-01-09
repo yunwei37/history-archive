@@ -1,7 +1,7 @@
 # PDF_指导简报-_性别简介_-_FHI_360
 
 <!-- tcd_download_link -->
-Download: [PDF_指导简报-_性别简介_-_FHI_360.pdf](PDF_指导简报-_性别简介_-_FHI_360.pdf)
+下载: [PDF_指导简报-_性别简介_-_FHI_360.pdf](PDF_指导简报-_性别简介_-_FHI_360.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_指导简报-_性别简介_-_FHI_360.pdf](PDF_指导简报-_性�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_指导简报-_性别简介_-_FHI_360.pdf](PDF_指导简报-_性�
 | Tags            | 性别研究, 跨性别, 女性赋权, 社会平等, 性别暴力, 性别认同, 性别表达, WiSTEM2D, 教育资源, 文化差异                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_指导简报-_性别简介_-_FHI_360.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

@@ -1,7 +1,7 @@
 # PDF_让我们谈谈性工作_全球性工作项目网络
 
 <!-- tcd_download_link -->
-Download: [PDF_让我们谈谈性工作_全球性工作项目网络.pdf](PDF_让我们谈谈性工作_全球性工作项目网络.pdf)
+下载: [PDF_让我们谈谈性工作_全球性工作项目网络.pdf](PDF_让我们谈谈性工作_全球性工作项目网络.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_让我们谈谈性工作_全球性工作项目网络.pdf](PDF_让
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_让我们谈谈性工作_全球性工作项目网络.pdf](PDF_让
 | Tags            | 性工作, 性工作者权利, 法律政策, 社会环境, 性别研究, 人权, 歧视与污名化, 跨性别                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_让我们谈谈性工作_全球性工作项目网络.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

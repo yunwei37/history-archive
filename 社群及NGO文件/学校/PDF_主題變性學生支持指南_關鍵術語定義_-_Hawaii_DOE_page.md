@@ -1,7 +1,7 @@
 # PDF_主題變性學生支持指南_關鍵術語定義_-_Hawaii_DOE
 
 <!-- tcd_download_link -->
-Download: [PDF_主題變性學生支持指南_關鍵術語定義_-_Hawaii_DOE.pdf](PDF_主題變性學生支持指南_關鍵術語定義_-_Hawaii_DOE.pdf)
+下载: [PDF_主題變性學生支持指南_關鍵術語定義_-_Hawaii_DOE.pdf](PDF_主題變性學生支持指南_關鍵術語定義_-_Hawaii_DOE.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_主題變性學生支持指南_關鍵術語定義_-_Hawaii_DOE.pd
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_主題變性學生支持指南_關鍵術語定義_-_Hawaii_DOE.pd
 | Tags            | 变性学生, 性别认同, 教育指导, 法律法规, 学校支持, 性别表达, 性别多元, 跨性别权益, 学生支持方案                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_主題變性學生支持指南_關鍵術語定義_-_Hawaii_DOE.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

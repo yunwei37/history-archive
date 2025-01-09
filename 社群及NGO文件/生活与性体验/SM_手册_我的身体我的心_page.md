@@ -1,7 +1,7 @@
 # SM_手册_我的身体我的心
 
 <!-- tcd_download_link -->
-Download: [SM_手册_我的身体我的心.pdf](SM_手册_我的身体我的心.pdf)
+下载: [SM_手册_我的身体我的心.pdf](SM_手册_我的身体我的心.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [SM_手册_我的身体我的心.pdf](SM_手册_我的身体我的心.
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [SM_手册_我的身体我的心.pdf](SM_手册_我的身体我的心.
 | Tags            | 跨性别, SM文化, 身体自主权, 恋爱关系, 文化指南, 心理研究, 安全措施, 轻度SM, 束缚, 语言虐待, 遮眼睛玩法                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../SM_手册_我的身体我的心.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

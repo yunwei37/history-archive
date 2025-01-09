@@ -1,7 +1,7 @@
 # 如果一个人_陈思安_短篇小说
 
 <!-- tcd_download_link -->
-Download: [如果一个人_陈思安_短篇小说.PDF](如果一个人_陈思安_短篇小说.PDF)
+下载: [如果一个人_陈思安_短篇小说.PDF](如果一个人_陈思安_短篇小说.PDF)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [如果一个人_陈思安_短篇小说.PDF](如果一个人_陈思安
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [如果一个人_陈思安_短篇小说.PDF](如果一个人_陈思安
 | Tags            | 短篇小说, 文学创作, 跨性别, 自我探索, 书籍与知识, 孤独, 人际关系                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../如果一个人_陈思安_短篇小说.PDF" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

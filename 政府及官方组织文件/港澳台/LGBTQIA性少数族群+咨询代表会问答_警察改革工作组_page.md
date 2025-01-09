@@ -1,7 +1,7 @@
 # LGBTQIA性少数族群+咨询代表会问答_警察改革工作组
 
 <!-- tcd_download_link -->
-Download: [LGBTQIA性少数族群+咨询代表会问答_警察改革工作组.pdf](LGBTQIA性少数族群+咨询代表会问答_警察改革工作组.pdf)
+下载: [LGBTQIA性少数族群+咨询代表会问答_警察改革工作组.pdf](LGBTQIA性少数族群+咨询代表会问答_警察改革工作组.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [LGBTQIA性少数族群+咨询代表会问答_警察改革工作组.pd
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [LGBTQIA性少数族群+咨询代表会问答_警察改革工作组.pd
 | Tags            | 跨性别, 警察改革, 性工作者, 社会环境, 法律政策, LGBTQIA, 性别认同培训, 社区互动                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../LGBTQIA性少数族群+咨询代表会问答_警察改革工作组.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

@@ -1,7 +1,7 @@
 # PDF_真两性畸形伴右侧睾丸异位一例
 
 <!-- tcd_download_link -->
-Download: [PDF_真两性畸形伴右侧睾丸异位一例.pdf](PDF_真两性畸形伴右侧睾丸异位一例.pdf)
+下载: [PDF_真两性畸形伴右侧睾丸异位一例.pdf](PDF_真两性畸形伴右侧睾丸异位一例.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_真两性畸形伴右侧睾丸异位一例.pdf](PDF_真两性畸�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_真两性畸形伴右侧睾丸异位一例.pdf](PDF_真两性畸�
 | Tags            | 两性畸形, 性别发育畸形, 真两性畸形, 医学案例, 影像学检查, 放射学, 病理分析, 医疗资源                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_真两性畸形伴右侧睾丸异位一例.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

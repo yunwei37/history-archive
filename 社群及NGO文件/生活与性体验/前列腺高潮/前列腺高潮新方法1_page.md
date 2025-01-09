@@ -1,7 +1,7 @@
 # 前列腺高潮新方法1
 
 <!-- tcd_download_link -->
-Download: [前列腺高潮新方法1.pdf](前列腺高潮新方法1.pdf)
+下载: [前列腺高潮新方法1.pdf](前列腺高潮新方法1.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [前列腺高潮新方法1.pdf](前列腺高潮新方法1.pdf)
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [前列腺高潮新方法1.pdf](前列腺高潮新方法1.pdf)
 | Tags            | 前列腺高潮, 男性健康, 性经验分享, 性教育, 快感开发, 医疗资源                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../前列腺高潮新方法1.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

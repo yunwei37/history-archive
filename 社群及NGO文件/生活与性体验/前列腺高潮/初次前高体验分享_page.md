@@ -1,7 +1,7 @@
 # 初次前高体验分享
 
 <!-- tcd_download_link -->
-Download: [初次前高体验分享.docx](初次前高体验分享.docx)
+下载: [初次前高体验分享.docx](初次前高体验分享.docx)
 <!-- tcd_download_link_end -->
 
 ## 摘要

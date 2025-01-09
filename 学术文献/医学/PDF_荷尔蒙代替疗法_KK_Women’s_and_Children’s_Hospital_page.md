@@ -1,7 +1,7 @@
 # PDF_荷尔蒙代替疗法_KK_Women’s_and_Children’s_Hospital
 
 <!-- tcd_download_link -->
-Download: [PDF_荷尔蒙代替疗法_KK_Women’s_and_Children’s_Hospital.pdf](PDF_荷尔蒙代替疗法_KK_Women’s_and_Children’s_Hospital.pdf)
+下载: [PDF_荷尔蒙代替疗法_KK_Women’s_and_Children’s_Hospital.pdf](PDF_荷尔蒙代替疗法_KK_Women’s_and_Children’s_Hospital.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_荷尔蒙代替疗法_KK_Women’s_and_Children’s_Hospital.pdf]
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_荷尔蒙代替疗法_KK_Women’s_and_Children’s_Hospital.pdf]
 | Tags            | 荷尔蒙替代疗法, 更年期, 医疗资源, 女性健康, 药物信息, 症状缓解, 医疗副作用, 健康指南                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_荷尔蒙代替疗法_KK_Women’s_and_Children’s_Hospital.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

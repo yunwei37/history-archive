@@ -1,7 +1,7 @@
 # PDF_專訪雙性人細細老師
 
 <!-- tcd_download_link -->
-Download: [PDF_專訪雙性人細細老師.pdf](PDF_專訪雙性人細細老師.pdf)
+下载: [PDF_專訪雙性人細細老師.pdf](PDF_專訪雙性人細細老師.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_專訪雙性人細細老師.pdf](PDF_專訪雙性人細細老師.
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_專訪雙性人細細老師.pdf](PDF_專訪雙性人細細老師.
 | Tags            | 双性人, 细细老师, 生命故事, 医疗经历, 身份认同, 社会支持, 性别平权, 法律政策, 反映生存现状                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_專訪雙性人細細老師.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

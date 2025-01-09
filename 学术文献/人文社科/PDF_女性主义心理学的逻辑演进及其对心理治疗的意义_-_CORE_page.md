@@ -1,7 +1,7 @@
 # PDF_女性主义心理学的逻辑演进及其对心理治疗的意义_-_CORE
 
 <!-- tcd_download_link -->
-Download: [PDF_女性主义心理学的逻辑演进及其对心理治疗的意义_-_CORE.pdf](PDF_女性主义心理学的逻辑演进及其对心理治疗的意义_-_CORE.pdf)
+下载: [PDF_女性主义心理学的逻辑演进及其对心理治疗的意义_-_CORE.pdf](PDF_女性主义心理学的逻辑演进及其对心理治疗的意义_-_CORE.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_女性主义心理学的逻辑演进及其对心理治疗的意�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_女性主义心理学的逻辑演进及其对心理治疗的意�
 | Tags            | 女性主义心理学, 心理治疗, 社会文化, 性别角色, 心理健康, 性别平等, 女性经历, 社会变革                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_女性主义心理学的逻辑演进及其对心理治疗的意义_-_CORE.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

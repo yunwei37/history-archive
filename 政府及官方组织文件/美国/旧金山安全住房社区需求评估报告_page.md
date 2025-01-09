@@ -1,7 +1,7 @@
 # 旧金山安全住房社区需求评估报告
 
 <!-- tcd_download_link -->
-Download: [旧金山安全住房社区需求评估报告.pdf](旧金山安全住房社区需求评估报告.pdf)
+下载: [旧金山安全住房社区需求评估报告.pdf](旧金山安全住房社区需求评估报告.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -13,7 +13,7 @@ Download: [旧金山安全住房社区需求评估报告.pdf](旧金山安全住
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -30,3 +30,13 @@ Download: [旧金山安全住房社区需求评估报告.pdf](旧金山安全住
 | Tags            | 旧金山, 安全住房, 社区需求评估, 家暴, 性侵害, 人口贩卖, 无家可归, LGBTQ+, 社会支持, 政策建议                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../旧金山安全住房社区需求评估报告.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

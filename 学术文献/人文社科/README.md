@@ -3,7 +3,7 @@
 该目录下收录了与跨性别相关的社会科学研究文献，包括对跨性别群体的社会分析、文化研究以及相关的理论探讨。这些文献旨在提升对跨性别群体生活现状的理解与关注。
 
 
-总计 198 篇内容
+总计 218 篇内容
 
 
 
@@ -28,6 +28,7 @@
 - [2020年迈克尔·尤因印度尼西亚LGBT应用影响研究](2020年迈克尔·尤因印度尼西亚LGBT应用影响研究_page.md)
 - [2021_卓芸萱_性別跨不跨_跨性別學生於友善校園成長的可能](2021_卓芸萱_性別跨不跨_跨性別學生於友善校園成長的可能_page.md)
 - [2021年卓芸萱_跨性別學生於友善校園成長的可能性](2021年卓芸萱_跨性別學生於友善校園成長的可能性_page.md)
+- [2023_多元性别与媒体再现](2023_多元性别与媒体再现_page.md)
 - [2023_廖昱凱_酷兒跨性別生態學與河川正義書評](2023_廖昱凱_酷兒跨性別生態學與河川正義書評_page.md)
 - [Dialnet-How_a_Chinese_Male-_to-Female_Manages_Gender_Nonconformity-7639547](Dialnet-How_a_Chinese_Male-_to-Female_Manages_Gender_Nonconformity-7639547_page.md)
 - [LGBTQI+抗争中的双语表达_2023_ANU_Press](LGBTQI+抗争中的双语表达_2023_ANU_Press_page.md)
@@ -63,14 +64,29 @@
 - [PDF_被消費的跨性別表達國內Bilibili_平臺上的變裝皇后](PDF_被消費的跨性別表達國內Bilibili_平臺上的變裝皇后_page.md)
 - [PDF_西方当代性别理论对传统理论的批判_-_CORE](PDF_西方当代性别理论对传统理论的批判_-_CORE_page.md)
 - [PDF_解讀台灣綜藝節目反串模仿秀_的性別文化_-_中央大學性別研究室](PDF_解讀台灣綜藝節目反串模仿秀_的性別文化_-_中央大學性別研究室_page.md)
-- [PDF_認識多元性別_分享人處王振圍(好性會秘書長)](PDF_認識多元性別_分享人處王振圍(好性會秘書長)_page.md)
+- [PDF_認識多元性別_分享人處王振圍_好性會秘書長_](PDF_認識多元性別_分享人處王振圍_好性會秘書長__page.md)
 - [PDF_認識多元性別打開性別的眼睛第183期](PDF_認識多元性別打開性別的眼睛第183期_page.md)
 - [PDF_跨性別_-_中央大學性別研究室](PDF_跨性別_-_中央大學性別研究室_page.md)
 - [PDF_跨性別學生受心理問題困擾的比例遠高於其他族群](PDF_跨性別學生受心理問題困擾的比例遠高於其他族群_page.md)
 - [PDF_跨性別學生更容易受心理問題所苦](PDF_跨性別學生更容易受心理問題所苦_page.md)
 - [PDF_軍隊助人者協助多元性別從軍者的輔導困境與挑戰性別觀點的分析](PDF_軍隊助人者協助多元性別從軍者的輔導困境與挑戰性別觀點的分析_page.md)
 - [PDF_香港跨性別社群發展與歧視個案研究](PDF_香港跨性別社群發展與歧視個案研究_page.md)
+- [Suicidal_ideation_and_attempted_suicide_amongst_Chinese_](Suicidal_ideation_and_attempted_suicide_amongst_Chinese__page.md)
+- [Supporting_Transgender_Children_New_Legal_Social_and_Medical_Approaches](Supporting_Transgender_Children_New_Legal_Social_and_Medical_Approaches_page.md)
+- [Supportive_Families,_Healthy_Children__-_FAP_English_Booklet_pst](Supportive_Families,_Healthy_Children__-_FAP_English_Booklet_pst_page.md)
+- [Synergies_in_health_and_human_rights_-_a_call_to_action_to_improve_transgender_health](Synergies_in_health_and_human_rights_-_a_call_to_action_to_improve_transgender_health_page.md)
+- [The__Slow__Depathologizing_of_Gender_Incongruence.11](The__Slow__Depathologizing_of_Gender_Incongruence.11_page.md)
+- [The_Bathroom_Case_Creating_a_Supportive_School__Environment_for_Transgender__and_Gender_Nonconforming__Students](The_Bathroom_Case_Creating_a_Supportive_School__Environment_for_Transgender__and_Gender_Nonconforming__Students_page.md)
 - [The_Case_Against_Autogynephilia_驳AG_论](The_Case_Against_Autogynephilia_驳AG_论_page.md)
+- [The_de_politicization_of_pronouns_implications_of_the_No_Big_Deal_Campaign_for_gender_expansive_educational_policy_and_practice](The_de_politicization_of_pronouns_implications_of_the_No_Big_Deal_Campaign_for_gender_expansive_educational_policy_and_practice_page.md)
+- [Transgender_health_-_an_opportunity_for_global_health_equity](Transgender_health_-_an_opportunity_for_global_health_equity_page.md)
+- [Transgender_Inmates_in_Prisons](Transgender_Inmates_in_Prisons_page.md)
+- [Transgender_Legal_Advocacy_-_What_Do_Feminist_Legal_Theories_Have_to_Offer?](Transgender_Legal_Advocacy_-_What_Do_Feminist_Legal_Theories_Have_to_Offer?_page.md)
+- [Transgender_Marriage_and_the_Legal_Obligation_to_Disclose_Gender_History](Transgender_Marriage_and_the_Legal_Obligation_to_Disclose_Gender_History_page.md)
+- [Transgender_patients_need_better_protection_in_China](Transgender_patients_need_better_protection_in_China_page.md)
+- [Transgender_people:_health_at_the_margins_of_society_-_Winter_et_al-2016](Transgender_people:_health_at_the_margins_of_society_-_Winter_et_al-2016_page.md)
+- [Transgender_People_in_the_Military](Transgender_People_in_the_Military_page.md)
+- [Transgender_Representation_by_the_People’s_Daily_Since_1949](Transgender_Representation_by_the_People’s_Daily_Since_1949_page.md)
 - [“伪娘”亚文化现象的美学解读_高妍](“伪娘”亚文化现象的美学解读_高妍_page.md)
 - [“灵魂”对“肉体”的背叛——变性人现象综述_祁冬涛](“灵魂”对“肉体”的背叛——变性人现象综述_祁冬涛_page.md)
 - [【书评】《谁在害怕性别？》当性别成为制造恐慌的鬼魂，巴特勒如何拆解](【书评】《谁在害怕性别？》当性别成为制造恐慌的鬼魂，巴特勒如何拆解_page.md)
@@ -98,6 +114,7 @@
 - [促进变革音乐行业中的性别平等](促进变革音乐行业中的性别平等_page.md)
 - [儿童性别恒常性发展](儿童性别恒常性发展_page.md)
 - [儿童文学研究新视野_彼得·亨特访谈_2022](儿童文学研究新视野_彼得·亨特访谈_2022_page.md)
+- [关于现代汉语中‘族’与‘党’的演变研究_索非亚·巴雷托_2016](关于现代汉语中‘族’与‘党’的演变研究_索非亚·巴雷托_2016_page.md)
 - [刘丽凤_后现代女权主义与酷儿理论_2010](刘丽凤_后现代女权主义与酷儿理论_2010_page.md)
 - [创伤与修复：华语女性酷儿电影表现研究（李春裔，2022）](创伤与修复：华语女性酷儿电影表现研究（李春裔，2022）_page.md)
 - [北欧文学中的家庭主题与性别议题](北欧文学中的家庭主题与性别议题_page.md)
@@ -105,7 +122,7 @@
 - [华人酷儿神学暑期工作坊2019_课程介绍](华人酷儿神学暑期工作坊2019_课程介绍_page.md)
 - [厦门大学论文_西方歌剧中的东方女性形象研究](厦门大学论文_西方歌剧中的东方女性形象研究_page.md)
 - [变性手术患者的心理护理](变性手术患者的心理护理_page.md)
-- [台湾酷儿小说中跨性别与父权的关系（一九九〇——一九九九)](台湾酷儿小说中跨性别与父权的关系（一九九〇——一九九九)_page.md)
+- [台湾酷儿小说中跨性别与父权的关系（一九九〇——一九九九_](台湾酷儿小说中跨性别与父权的关系（一九九〇——一九九九__page.md)
 - [叶面纱曳叙事时空研究_唐玫_池州学院](叶面纱曳叙事时空研究_唐玫_池州学院_page.md)
 - [同志酷兒教育實踐報告](同志酷兒教育實踐報告_page.md)
 - [后人类时代的非自然叙事与边界消弭_思想战线_舒凌鸿_2018](后人类时代的非自然叙事与边界消弭_思想战线_舒凌鸿_2018_page.md)
@@ -133,6 +150,7 @@
 - [性别形成和差异的社会认知理论述评](性别形成和差异的社会认知理论述评_page.md)
 - [性别文化差异给跨性别文化交际带来的矛盾与困惑](性别文化差异给跨性别文化交际带来的矛盾与困惑_page.md)
 - [性别治理_性／別研究丛書](性别治理_性／別研究丛書_page.md)
+- [性少数人群的心理健康_理论模型与研究取向_张静](性少数人群的心理健康_理论模型与研究取向_张静_page.md)
 - [性少数人群的心理健康理论模型与研究取向](性少数人群的心理健康理论模型与研究取向_page.md)
 - [性行为和性规范多样性研讨会的内容探讨](性行为和性规范多样性研讨会的内容探讨_page.md)
 - [成为安迪沃霍尔：性别与社会的对话_2022年2月19日](成为安迪沃霍尔：性别与社会的对话_2022年2月19日_page.md)
@@ -151,6 +169,7 @@
 - [热风学术网刊2020年6月第17期](热风学术网刊2020年6月第17期_page.md)
 - [现代中国文学中的酷儿中国课程大纲](现代中国文学中的酷儿中国课程大纲_page.md)
 - [男旦艺术文化心理研究_福建师范大学_徐蔚](男旦艺术文化心理研究_福建师范大学_徐蔚_page.md)
+- [白蛇主题的多维视角研究_罗靓_现代华文文学](白蛇主题的多维视角研究_罗靓_现代华文文学_page.md)
 - [研究报告_同性雙性戀及跨性別中學生在校園遇到的骚扰和歧视](研究报告_同性雙性戀及跨性別中學生在校園遇到的骚扰和歧视_page.md)
 - [社会语言学视阈下的英语性别语言差异研究](社会语言学视阈下的英语性别语言差异研究_page.md)
 - [科技社會與跨性別研究報告_林文靈_2009](科技社會與跨性別研究報告_林文靈_2009_page.md)
@@ -165,7 +184,7 @@
 - [萨克森女性主义论坛_多元交叉视角_2023年9月.pdf](萨克森女性主义论坛_多元交叉视角_2023年9月.pdf_page.md)
 - [虛實之間Cosplay_中的反串行為與性別認同](虛實之間Cosplay_中的反串行為與性別認同_page.md)
 - [西方大学生身份研究及其启示](西方大学生身份研究及其启示_page.md)
-- [論邦斯的性別形上學與性別詞理論_(2)](論邦斯的性別形上學與性別詞理論_(2)_page.md)
+- [論邦斯的性別形上學與性別詞理論__2_](論邦斯的性別形上學與性別詞理論__2__page.md)
 - [變性者電影評論_我就是我_趙庭輝_109年12月](變性者電影評論_我就是我_趙庭輝_109年12月_page.md)
 - [许建平_明清小说叙事的意味形式_社会科学2015年第1期](许建平_明清小说叙事的意味形式_社会科学2015年第1期_page.md)
 - [许通元同志小说研究_阮欣宁_2020](许通元同志小说研究_阮欣宁_2020_page.md)
@@ -207,5 +226,9 @@
 - [非西方酷兒理論與臺灣國族問題_劉文_2021.pdf](非西方酷兒理論與臺灣國族問題_劉文_2021.pdf_page.md)
 - [香港台湾与中国大陆的酷儿电影节研究](香港台湾与中国大陆的酷儿电影节研究_page.md)
 - [骄傲与偏见-变革的动力-经济学人智库报告-2018](骄傲与偏见-变革的动力-经济学人智库报告-2018_page.md)
+
+### 📎 其他
+
+- [跨性别心理咨询的理论与实践研究_吕娜](跨性别心理咨询的理论与实践研究_吕娜.caj)
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

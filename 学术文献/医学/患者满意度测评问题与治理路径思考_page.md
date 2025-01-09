@@ -1,7 +1,7 @@
 # 患者满意度测评问题与治理路径思考
 
 <!-- tcd_download_link -->
-Download: [患者满意度测评问题与治理路径思考.pdf](患者满意度测评问题与治理路径思考.pdf)
+下载: [患者满意度测评问题与治理路径思考.pdf](患者满意度测评问题与治理路径思考.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [患者满意度测评问题与治理路径思考.pdf](患者满意度
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [患者满意度测评问题与治理路径思考.pdf](患者满意度
 | Tags            | 跨性别, 患者满意度, 医疗资源, 医疗质量, 满意度测评, 社会环境                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../患者满意度测评问题与治理路径思考.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

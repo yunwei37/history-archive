@@ -1,7 +1,7 @@
 # PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND
 
 <!-- tcd_download_link -->
-Download: [PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND.pdf](PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND.pdf)
+下载: [PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND.pdf](PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND.pdf](PDF_HRT_激素替代�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND.pdf](PDF_HRT_激素替代�
 | Tags            | 激素替代疗法, HRT, 女性健康, 绝经症状, 医疗资源, 健康指南, 泌尿系统                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

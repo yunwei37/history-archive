@@ -1,7 +1,7 @@
 # PDF_真两性畸形1例_-_协和医学杂志
 
 <!-- tcd_download_link -->
-Download: [PDF_真两性畸形1例_-_协和医学杂志.pdf](PDF_真两性畸形1例_-_协和医学杂志.pdf)
+下载: [PDF_真两性畸形1例_-_协和医学杂志.pdf](PDF_真两性畸形1例_-_协和医学杂志.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_真两性畸形1例_-_协和医学杂志.pdf](PDF_真两性畸形
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_真两性畸形1例_-_协和医学杂志.pdf](PDF_真两性畸形
 | Tags            | 真两性畸形, 性发育异常, 病例报告, 医学研究, 女性健康, 协和医学杂志                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_真两性畸形1例_-_协和医学杂志.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

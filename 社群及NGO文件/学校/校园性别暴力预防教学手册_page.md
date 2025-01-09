@@ -1,7 +1,7 @@
 # 校园性别暴力预防教学手册
 
 <!-- tcd_download_link -->
-Download: [校园性别暴力预防教学手册.pdf](校园性别暴力预防教学手册.pdf)
+下载: [校园性别暴力预防教学手册.pdf](校园性别暴力预防教学手册.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [校园性别暴力预防教学手册.pdf](校园性别暴力预防教
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [校园性别暴力预防教学手册.pdf](校园性别暴力预防教
 | Tags            | 校园性别暴力, 性别教育, UNESCO, 预防暴力, 跨性别, 性别平等, 青少年教育, 教师指导                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../校园性别暴力预防教学手册.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

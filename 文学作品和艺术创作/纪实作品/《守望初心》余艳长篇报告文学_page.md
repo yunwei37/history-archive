@@ -1,7 +1,7 @@
 # 《守望初心》余艳长篇报告文学
 
 <!-- tcd_download_link -->
-Download: [《守望初心》余艳长篇报告文学.pdf](《守望初心》余艳长篇报告文学.pdf)
+下载: [《守望初心》余艳长篇报告文学.pdf](《守望初心》余艳长篇报告文学.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [《守望初心》余艳长篇报告文学.pdf](《守望初心》余
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [《守望初心》余艳长篇报告文学.pdf](《守望初心》余
 | Tags            | 报告文学, 跨性别, 女性故事, 革命历史, 社会历史, 文学作品, 感人故事                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../《守望初心》余艳长篇报告文学.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

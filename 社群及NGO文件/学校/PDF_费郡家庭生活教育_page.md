@@ -1,7 +1,7 @@
 # PDF_费郡家庭生活教育
 
 <!-- tcd_download_link -->
-Download: [PDF_费郡家庭生活教育.pdf](PDF_费郡家庭生活教育.pdf)
+下载: [PDF_费郡家庭生活教育.pdf](PDF_费郡家庭生活教育.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_费郡家庭生活教育.pdf](PDF_费郡家庭生活教育.pdf)
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_费郡家庭生活教育.pdf](PDF_费郡家庭生活教育.pdf)
 | Tags            | 家庭生活教育, 青少年发展, 健康教育, 性别认同, 社交健康, 课程信息, 美国教育政策                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_费郡家庭生活教育.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

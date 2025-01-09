@@ -19,6 +19,20 @@ files:
   size: 12055586
   md5: b8e4b2158c00825fcf480113707be0af
   page: 2023花地文学榜_page.md
+- name: _其他__说好的论文，论变身小说的两种流派
+  filename: _其他__说好的论文，论变身小说的两种流派.txt
+  type: document
+  format: Plain Text
+  size: 24281
+  md5: b18bd68300bc6a1b7cfc3040608f9f47
+  page: _其他__说好的论文，论变身小说的两种流派_page.md
+- name: 与夜共鸣-夜明珠书评
+  filename: 与夜共鸣-夜明珠书评.md
+  type: webpage
+  format: Markdown
+  size: 61771
+  md5: c97d8d686459ead612c570a3ec90f913
+  page: 与夜共鸣-夜明珠书评.md
 - name: 伟大小说的时间考量
   filename: 伟大小说的时间考量.pdf
   type: document
@@ -26,6 +40,13 @@ files:
   size: 4578282
   md5: 7bfaf624027b63116159d00b09b704d9
   page: 伟大小说的时间考量_page.md
+- name: 变文研究
+  filename: 变文研究.txt
+  type: document
+  format: Plain Text
+  size: 107999
+  md5: e6364d3bebdf939b9f6fc4b0e6790488
+  page: 变文研究_page.md
 - name: 如果一个人_陈思安_短篇小说
   filename: 如果一个人_陈思安_短篇小说.PDF
   type: document

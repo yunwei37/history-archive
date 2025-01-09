@@ -1,7 +1,7 @@
 # 性别认同的法律承认
 
 <!-- tcd_download_link -->
-Download: [性别认同的法律承认.pdf](性别认同的法律承认.pdf)
+下载: [性别认同的法律承认.pdf](性别认同的法律承认.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [性别认同的法律承认.pdf](性别认同的法律承认.pdf)
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [性别认同的法律承认.pdf](性别认同的法律承认.pdf)
 | Tags            | 性别认同, 法律承认, 跨性别者, 人权, 国际法, 立法, 医学标准, 自我认同, 性别差异, 社会环境                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../性别认同的法律承认.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

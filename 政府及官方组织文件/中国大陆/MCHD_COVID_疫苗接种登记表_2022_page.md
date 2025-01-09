@@ -1,7 +1,7 @@
 # MCHD_COVID_疫苗接种登记表_2022
 
 <!-- tcd_download_link -->
-Download: [MCHD_COVID_疫苗接种登记表_2022.pdf](MCHD_COVID_疫苗接种登记表_2022.pdf)
+下载: [MCHD_COVID_疫苗接种登记表_2022.pdf](MCHD_COVID_疫苗接种登记表_2022.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [MCHD_COVID_疫苗接种登记表_2022.pdf](MCHD_COVID_疫苗接种登
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [MCHD_COVID_疫苗接种登记表_2022.pdf](MCHD_COVID_疫苗接种登
 | Tags            | COVID-19疫苗, 疫苗接种, 跨性别, 非二元性别, 健康筛查, 公共健康, 个人信息收集, 二维性别认知                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../MCHD_COVID_疫苗接种登记表_2022.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

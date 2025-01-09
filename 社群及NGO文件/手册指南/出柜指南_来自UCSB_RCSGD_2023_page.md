@@ -1,7 +1,7 @@
 # 出柜指南_来自UCSB_RCSGD_2023
 
 <!-- tcd_download_link -->
-Download: [出柜指南_来自UCSB_RCSGD_2023.pdf](出柜指南_来自UCSB_RCSGD_2023.pdf)
+下载: [出柜指南_来自UCSB_RCSGD_2023.pdf](出柜指南_来自UCSB_RCSGD_2023.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [出柜指南_来自UCSB_RCSGD_2023.pdf](出柜指南_来自UCSB_RCSGD
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [出柜指南_来自UCSB_RCSGD_2023.pdf](出柜指南_来自UCSB_RCSGD
 | Tags            | 出柜, 跨性别, 多元性别, 性别身份, 性别表达, 情感倾向, 支持资源, LGBTQIA+                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../出柜指南_来自UCSB_RCSGD_2023.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

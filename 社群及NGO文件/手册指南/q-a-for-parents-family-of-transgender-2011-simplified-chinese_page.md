@@ -1,7 +1,7 @@
 # q-a-for-parents-family-of-transgender-2011-simplified-chinese
 
 <!-- tcd_download_link -->
-Download: [q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf](q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf)
+下载: [q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf](q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf](q-
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf](q-
 | Tags            | 跨性别, 性别变异, 家庭支持, 青少年, 教育资源, 父母指南                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../q-a-for-parents-family-of-transgender-2011-simplified-chinese.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

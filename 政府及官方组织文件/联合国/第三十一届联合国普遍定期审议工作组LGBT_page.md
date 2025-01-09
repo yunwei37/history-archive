@@ -1,7 +1,7 @@
 # 第三十一届联合国普遍定期审议工作组LGBT
 
 <!-- tcd_download_link -->
-Download: [第三十一届联合国普遍定期审议工作组LGBT.pdf](第三十一届联合国普遍定期审议工作组LGBT.pdf)
+下载: [第三十一届联合国普遍定期审议工作组LGBT.pdf](第三十一届联合国普遍定期审议工作组LGBT.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [第三十一届联合国普遍定期审议工作组LGBT.pdf](第三�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [第三十一届联合国普遍定期审议工作组LGBT.pdf](第三�
 | Tags            | LGBT权利, 法律政策, 反歧视建议, 人权, 报告, 中国, 跨性别, 同性恋, 家庭暴力, 校园暴力, 扭转治疗                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../第三十一届联合国普遍定期审议工作组LGBT.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

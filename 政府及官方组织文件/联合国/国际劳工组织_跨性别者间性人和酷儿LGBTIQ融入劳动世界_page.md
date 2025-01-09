@@ -1,7 +1,7 @@
 # 国际劳工组织_跨性别者间性人和酷儿LGBTIQ融入劳动世界
 
 <!-- tcd_download_link -->
-Download: [国际劳工组织_跨性别者间性人和酷儿LGBTIQ融入劳动世界.pdf](国际劳工组织_跨性别者间性人和酷儿LGBTIQ融入劳动世界.pdf)
+下载: [国际劳工组织_跨性别者间性人和酷儿LGBTIQ融入劳动世界.pdf](国际劳工组织_跨性别者间性人和酷儿LGBTIQ融入劳动世界.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -15,7 +15,7 @@ Download: [国际劳工组织_跨性别者间性人和酷儿LGBTIQ融入劳动�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -32,3 +32,13 @@ Download: [国际劳工组织_跨性别者间性人和酷儿LGBTIQ融入劳动�
 | Tags            | 跨性别, LGBTIQ+, 劳动权利, 非歧视政策, 社会正义, 工作场所包容性, 性别认同, 性倾向, 国际劳工组织                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../国际劳工组织_跨性别者间性人和酷儿LGBTIQ融入劳动世界.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

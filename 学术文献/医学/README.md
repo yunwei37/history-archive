@@ -3,7 +3,7 @@
 本目录收录了与跨性别相关的医学领域的学术文献，包括医疗资源、医学研究以及跨性别个体的医疗经验分享等内容。这些文献为探索和理解跨性别者在医疗过程中的需求和挑战提供了宝贵的资料。
 
 
-总计 121 篇内容
+总计 132 篇内容
 
 
 
@@ -24,8 +24,13 @@
 - [2023年鲁琳_双性人手术干预知情同意分析与后现代哲学思考](2023年鲁琳_双性人手术干预知情同意分析与后现代哲学思考_page.md)
 - [2024年医学与哲学_跨性别技术的伦理困境_俞玲玲](2024年医学与哲学_跨性别技术的伦理困境_俞玲玲_page.md)
 - [-最新的HIV_临床研发数据驱动新一轮针对治疗预防和治愈的创新](-最新的HIV_临床研发数据驱动新一轮针对治疗预防和治愈的创新_page.md)
+- [A_cross-sectional_study_of_associations_between_casual_partner,_friend_discrimination,_social_support_and_anxiety_symptoms_among_Chinese_transgender_women](A_cross-sectional_study_of_associations_between_casual_partner,_friend_discrimination,_social_support_and_anxiety_symptoms_among_Chinese_transgender_women_page.md)
+- [Acceptability_of_Daily_Use_of_Free_Oral_Pre-exposure_Prophylaxis__PrEP__Among_Transgender_Women_Sex_Workers_in_Shenyang,_China](Acceptability_of_Daily_Use_of_Free_Oral_Pre-exposure_Prophylaxis__PrEP__Among_Transgender_Women_Sex_Workers_in_Shenyang,_China_page.md)
+- [CCDM3_中国精神障碍分类及诊断标准_全文（易性症在74页）](CCDM3_中国精神障碍分类及诊断标准_全文（易性症在74页）_page.md)
 - [Depth_psychotherapy_with_transgender_people](Depth_psychotherapy_with_transgender_people_page.md)
+- [HIV_and_syphilis_among_men_who_have_sex_with_men_and_transgender_individuals_in_China](HIV_and_syphilis_among_men_who_have_sex_with_men_and_transgender_individuals_in_China_page.md)
 - [hormones_MTF](hormones_MTF_page.md)
+- [ICD_Gender_Incongruence_中文](ICD_Gender_Incongruence_中文_page.md)
 - [PDF_2018年男同性戀雙性戀及跨性別女性的精神健康](PDF_2018年男同性戀雙性戀及跨性別女性的精神健康_page.md)
 - [PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND](PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND_page.md)
 - [PDF_Medicare_和跨性别老年人](PDF_Medicare_和跨性别老年人_page.md)
@@ -50,6 +55,11 @@
 - [PDF_跨性別與教育社福醫療心理諮商的專業對話](PDF_跨性別與教育社福醫療心理諮商的專業對話_page.md)
 - [PDF_雌二醇凝胶临床应用指导建议](PDF_雌二醇凝胶临床应用指导建议_page.md)
 - [PDF_香港愛滋病情況概覽-跨性別人士](PDF_香港愛滋病情況概覽-跨性別人士_page.md)
+- [Puckett_et_al._-_2019_-_Mental_health_and_resilience_in_transgender_indivi](Puckett_et_al._-_2019_-_Mental_health_and_resilience_in_transgender_indivi_page.md)
+- [Recommendations_for_Revision_of_the_DSM_Diagnoses_of_Gender_Identity_Disorders_Consensus_Statement_of_the_World_Professional_Association_for](Recommendations_for_Revision_of_the_DSM_Diagnoses_of_Gender_Identity_Disorders_Consensus_Statement_of_the_World_Professional_Association_for_page.md)
+- [Reisner_-_Global_health_burden_and_needs_of_transgender_populations-_a_review](Reisner_-_Global_health_burden_and_needs_of_transgender_populations-_a_review_page.md)
+- [Response_of_the_World_Professional_Association_for_Transgender_Health_to_the_Proposed_DSM_5_Criteria_for_Gender_Incongruence](Response_of_the_World_Professional_Association_for_Transgender_Health_to_the_Proposed_DSM_5_Criteria_for_Gender_Incongruence_page.md)
+- [Russell_et_al._-_2018_-_Chosen_Name_Use_Is_Linked_to_Reduced_Depressive_Sy](Russell_et_al._-_2018_-_Chosen_Name_Use_Is_Linked_to_Reduced_Depressive_Sy_page.md)
 - [两性畸形的超声特征_-_中国医学影像技术](两性畸形的超声特征_-_中国医学影像技术_page.md)
 - [中国医患社会心态分问卷的跨性别测量等值性](中国医患社会心态分问卷的跨性别测量等值性_page.md)
 - [中国易性症多学科诊疗专家共识](中国易性症多学科诊疗专家共识_page.md)
@@ -77,6 +87,7 @@
 - [從「性別認同障礙」到「性別不安」](從「性別認同障礙」到「性別不安」_page.md)
 - [循证医学与性医学研究探讨](循证医学与性医学研究探讨_page.md)
 - [心理实践指南_跨性别与性别多元](心理实践指南_跨性别与性别多元_page.md)
+- [急性氯化钡中毒致恶性心律失常、反复心脏骤停一例](急性氯化钡中毒致恶性心律失常、反复心脏骤停一例_page.md)
 - [性别不一致去精神病化的思考](性别不一致去精神病化的思考_page.md)
 - [性别危机何去何从_自闭症AD__性别焦虑GD_的真相](性别危机何去何从_自闭症AD__性别焦虑GD_的真相_page.md)
 - [性别烦躁的诊断和治疗](性别烦躁的诊断和治疗_page.md)

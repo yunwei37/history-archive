@@ -1,7 +1,7 @@
 # 我骄傲我奉献真色彩_麦肯锡
 
 <!-- tcd_download_link -->
-Download: [我骄傲我奉献真色彩_麦肯锡.pdf](我骄傲我奉献真色彩_麦肯锡.pdf)
+下载: [我骄傲我奉献真色彩_麦肯锡.pdf](我骄傲我奉献真色彩_麦肯锡.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [我骄傲我奉献真色彩_麦肯锡.pdf](我骄傲我奉献真色�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [我骄傲我奉献真色彩_麦肯锡.pdf](我骄傲我奉献真色�
 | Tags            | LGBTQ, 骄傲庆典, 心理危机咨询, Trevor计划, 跨性别支持, 多元文化, 社会影响力                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../我骄傲我奉献真色彩_麦肯锡.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

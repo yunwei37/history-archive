@@ -1,7 +1,7 @@
 # 联合国人权_跨性别以及间性LGBTI人群的问题企业行为准则
 
 <!-- tcd_download_link -->
-Download: [联合国人权_跨性别以及间性LGBTI人群的问题企业行为准则.pdf](联合国人权_跨性别以及间性LGBTI人群的问题企业行为准则.pdf)
+下载: [联合国人权_跨性别以及间性LGBTI人群的问题企业行为准则.pdf](联合国人权_跨性别以及间性LGBTI人群的问题企业行为准则.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [联合国人权_跨性别以及间性LGBTI人群的问题企业行为
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [联合国人权_跨性别以及间性LGBTI人群的问题企业行为
 | Tags            | 跨性别, LGBTI, 人权, 企业行为准则, 歧视, 法律政策, 包容性, 社会变革                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../联合国人权_跨性别以及间性LGBTI人群的问题企业行为准则.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

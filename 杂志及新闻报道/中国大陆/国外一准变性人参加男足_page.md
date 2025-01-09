@@ -1,7 +1,7 @@
 # 国外一准变性人参加男足
 
 <!-- tcd_download_link -->
-Download: [国外一准变性人参加男足.PDF](国外一准变性人参加男足.PDF)
+下载: [国外一准变性人参加男足.PDF](国外一准变性人参加男足.PDF)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [国外一准变性人参加男足.PDF](国外一准变性人参加男
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [国外一准变性人参加男足.PDF](国外一准变性人参加男
 | Tags            | 跨性别, 足球, 纪录片, 美属萨摩亚, 佳雅·萨·埃鲁阿, 身份认同, 性别争议, 体育与性别, 性别过渡经历                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../国外一准变性人参加男足.PDF" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

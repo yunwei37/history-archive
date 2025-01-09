@@ -1,7 +1,7 @@
 # 现代中国文学中的酷儿中国课程大纲
 
 <!-- tcd_download_link -->
-Download: [现代中国文学中的酷儿中国课程大纲.pdf](现代中国文学中的酷儿中国课程大纲.pdf)
+下载: [现代中国文学中的酷儿中国课程大纲.pdf](现代中国文学中的酷儿中国课程大纲.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [现代中国文学中的酷儿中国课程大纲.pdf](现代中国文
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [现代中国文学中的酷儿中国课程大纲.pdf](现代中国文
 | Tags            | 现代中国文学, 酷儿文化, 性别研究, 跨性别, 同志历史, 课程大纲, 文学与电影                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../现代中国文学中的酷儿中国课程大纲.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

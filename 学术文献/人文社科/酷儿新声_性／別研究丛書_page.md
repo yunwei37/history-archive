@@ -1,7 +1,7 @@
 # 酷儿新声_性／別研究丛書
 
 <!-- tcd_download_link -->
-Download: [酷儿新声_性／別研究丛書.pdf](酷儿新声_性／別研究丛書.pdf)
+下载: [酷儿新声_性／別研究丛書.pdf](酷儿新声_性／別研究丛書.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [酷儿新声_性／別研究丛書.pdf](酷儿新声_性／別研究�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [酷儿新声_性／別研究丛書.pdf](酷儿新声_性／別研究�
 | Tags            | 跨性别研究, 性别流动性, 男同志文化, 性别角色, 哥弟分类, 酷儿理论, 台湾性别研究                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../酷儿新声_性／別研究丛書.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

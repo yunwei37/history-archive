@@ -1,7 +1,7 @@
 # PDF_罹患前列腺癌的LGBTIQA_人群
 
 <!-- tcd_download_link -->
-Download: [PDF_罹患前列腺癌的LGBTIQA_人群.pdf](PDF_罹患前列腺癌的LGBTIQA_人群.pdf)
+下载: [PDF_罹患前列腺癌的LGBTIQA_人群.pdf](PDF_罹患前列腺癌的LGBTIQA_人群.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_罹患前列腺癌的LGBTIQA_人群.pdf](PDF_罹患前列腺癌�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_罹患前列腺癌的LGBTIQA_人群.pdf](PDF_罹患前列腺癌�
 | Tags            | 前列腺癌, LGBTIQA+, 医疗资源, 跨性别女性, 支持团体, 健康指南, 性别认同, 心理健康, 为伴侣提供的信息                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_罹患前列腺癌的LGBTIQA_人群.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

@@ -1,7 +1,7 @@
 # PDF_性別意識與醫療現場
 
 <!-- tcd_download_link -->
-Download: [PDF_性別意識與醫療現場.pdf](PDF_性別意識與醫療現場.pdf)
+下载: [PDF_性別意識與醫療現場.pdf](PDF_性別意識與醫療現場.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -15,7 +15,7 @@ Download: [PDF_性別意識與醫療現場.pdf](PDF_性別意識與醫療現場.
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -32,3 +32,13 @@ Download: [PDF_性別意識與醫療現場.pdf](PDF_性別意識與醫療現場.
 | Tags            | 性别意识, 医疗实践, 性别平等, 性别主流化, 性别光谱理论, 医疗资源, 跨性别, LGBTQ, 社会环境                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_性別意識與醫療現場.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

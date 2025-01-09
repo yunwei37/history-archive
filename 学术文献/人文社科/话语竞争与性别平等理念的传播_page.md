@@ -1,7 +1,7 @@
 # 话语竞争与性别平等理念的传播
 
 <!-- tcd_download_link -->
-Download: [话语竞争与性别平等理念的传播.pdf](话语竞争与性别平等理念的传播.pdf)
+下载: [话语竞争与性别平等理念的传播.pdf](话语竞争与性别平等理念的传播.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [话语竞争与性别平等理念的传播.pdf](话语竞争与性别
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [话语竞争与性别平等理念的传播.pdf](话语竞争与性别
 | Tags            | 性别平等, 媒体研究, 女性形象, 社会思潮, 文化研究, 话语竞争, 反腐节目, 消费社会, 新媒体, 女性话语                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../话语竞争与性别平等理念的传播.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

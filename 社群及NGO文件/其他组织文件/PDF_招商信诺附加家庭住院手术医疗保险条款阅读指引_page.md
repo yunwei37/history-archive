@@ -1,7 +1,7 @@
 # PDF_招商信诺附加家庭住院手术医疗保险条款阅读指引
 
 <!-- tcd_download_link -->
-Download: [PDF_招商信诺附加家庭住院手术医疗保险条款阅读指引.pdf](PDF_招商信诺附加家庭住院手术医疗保险条款阅读指引.pdf)
+下载: [PDF_招商信诺附加家庭住院手术医疗保险条款阅读指引.pdf](PDF_招商信诺附加家庭住院手术医疗保险条款阅读指引.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_招商信诺附加家庭住院手术医疗保险条款阅读指�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_招商信诺附加家庭住院手术医疗保险条款阅读指�
 | Tags            | 医疗保险, 家庭住院手术, 保险条款, 投保人权益, 医疗资源                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_招商信诺附加家庭住院手术医疗保险条款阅读指引.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

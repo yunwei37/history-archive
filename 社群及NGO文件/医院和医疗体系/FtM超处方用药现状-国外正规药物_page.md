@@ -1,7 +1,7 @@
 # FtM超处方用药现状-国外正规药物
 
 <!-- tcd_download_link -->
-Download: [FtM超处方用药现状-国外正规药物.pdf](FtM超处方用药现状-国外正规药物.pdf)
+下载: [FtM超处方用药现状-国外正规药物.pdf](FtM超处方用药现状-国外正规药物.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [FtM超处方用药现状-国外正规药物.pdf](FtM超处方用药�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [FtM超处方用药现状-国外正规药物.pdf](FtM超处方用药�
 | Tags            | 跨性别, FtM, 超处方用药, 医疗资源, 药物安全, 社群现状, 法律与政策, 激素替代治疗                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../FtM超处方用药现状-国外正规药物.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

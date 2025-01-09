@@ -1,7 +1,7 @@
 # PDF_环球尊尚医疗计划指南_-_永诚保险
 
 <!-- tcd_download_link -->
-Download: [PDF_环球尊尚医疗计划指南_-_永诚保险.pdf](PDF_环球尊尚医疗计划指南_-_永诚保险.pdf)
+下载: [PDF_环球尊尚医疗计划指南_-_永诚保险.pdf](PDF_环球尊尚医疗计划指南_-_永诚保险.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_环球尊尚医疗计划指南_-_永诚保险.pdf](PDF_环球尊�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_环球尊尚医疗计划指南_-_永诚保险.pdf](PDF_环球尊�
 | Tags            | 跨性别医疗保险, 环球尊尚医疗计划, 医疗资源, 保险理赔, 医疗保障, 慢性病治疗, 重大疾病保障                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_环球尊尚医疗计划指南_-_永诚保险.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

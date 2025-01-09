@@ -1,7 +1,7 @@
 # 第39届飞天奖颁奖典礼分析与报道
 
 <!-- tcd_download_link -->
-Download: [第39届飞天奖颁奖典礼分析与报道.pdf](第39届飞天奖颁奖典礼分析与报道.pdf)
+下载: [第39届飞天奖颁奖典礼分析与报道.pdf](第39届飞天奖颁奖典礼分析与报道.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [第39届飞天奖颁奖典礼分析与报道.pdf](第39届飞天奖�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [第39届飞天奖颁奖典礼分析与报道.pdf](第39届飞天奖�
 | Tags            | 飞天奖, 电视剧, 颁奖典礼, 社会文化, 国家广电总局, 性别议题, 媒体监管, 整容节目                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../第39届飞天奖颁奖典礼分析与报道.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

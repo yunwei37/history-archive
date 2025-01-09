@@ -1,7 +1,7 @@
 # 成瘾_21_世纪的流行病
 
 <!-- tcd_download_link -->
-Download: [成瘾_21_世纪的流行病.pdf](成瘾_21_世纪的流行病.pdf)
+下载: [成瘾_21_世纪的流行病.pdf](成瘾_21_世纪的流行病.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [成瘾_21_世纪的流行病.pdf](成瘾_21_世纪的流行病.pdf)
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [成瘾_21_世纪的流行病.pdf](成瘾_21_世纪的流行病.pdf)
 | Tags            | 成瘾, 成瘾医学, 公共卫生, 药物成瘾, 网络成瘾, 社会政策, 心理健康, 戒瘾                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../成瘾_21_世纪的流行病.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

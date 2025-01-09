@@ -1,7 +1,7 @@
 # 跨儿的性别困惑与身份认同
 
 <!-- tcd_download_link -->
-Download: [跨儿的性别困惑与身份认同.pdf](跨儿的性别困惑与身份认同.pdf)
+下载: [跨儿的性别困惑与身份认同.pdf](跨儿的性别困惑与身份认同.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [跨儿的性别困惑与身份认同.pdf](跨儿的性别困惑与身
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [跨儿的性别困惑与身份认同.pdf](跨儿的性别困惑与身
 | Tags            | 跨性别, 性别认同, 心理健康, 身份认同, 心理咨询, 性别困惑, 跨儿心理小组, 医疗支持, 扭转治疗, 社会文化, 跨性别者经历                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../跨儿的性别困惑与身份认同.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

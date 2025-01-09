@@ -50,6 +50,9 @@ python .github/scripts/toc/independence_info.py
 
 echo "Independence info generated successfully!"
 
+# add info to page
+python .github/scripts/page/embed_text.py
+
 # Generate table of contents
 python .github/scripts/toc/her_toc.py
 

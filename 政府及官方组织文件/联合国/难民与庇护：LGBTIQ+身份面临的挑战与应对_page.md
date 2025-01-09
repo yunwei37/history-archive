@@ -1,7 +1,7 @@
 # 难民与庇护：LGBTIQ+身份面临的挑战与应对
 
 <!-- tcd_download_link -->
-Download: [难民与庇护：LGBTIQ+身份面临的挑战与应对.pdf](难民与庇护：LGBTIQ+身份面临的挑战与应对.pdf)
+下载: [难民与庇护：LGBTIQ+身份面临的挑战与应对.pdf](难民与庇护：LGBTIQ+身份面临的挑战与应对.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [难民与庇护：LGBTIQ+身份面临的挑战与应对.pdf](难民�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [难民与庇护：LGBTIQ+身份面临的挑战与应对.pdf](难民�
 | Tags            | LGBTIQ+, 跨性别, 难民, 庇护, 社会群体, 国际法                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../难民与庇护：LGBTIQ+身份面临的挑战与应对.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

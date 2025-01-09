@@ -1,7 +1,7 @@
 # 阴蒂成形术11例报告_邢新
 
 <!-- tcd_download_link -->
-Download: [阴蒂成形术11例报告_邢新.pdf](阴蒂成形术11例报告_邢新.pdf)
+下载: [阴蒂成形术11例报告_邢新.pdf](阴蒂成形术11例报告_邢新.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [阴蒂成形术11例报告_邢新.pdf](阴蒂成形术11例报告_邢
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [阴蒂成形术11例报告_邢新.pdf](阴蒂成形术11例报告_邢
 | Tags            | 阴蒂成形术, 男性易性癖, Klinefelter综合征, 假两性畸形, 外阴女性化手术, 医学研究, 整形外科, 跨性别医疗                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../阴蒂成形术11例报告_邢新.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

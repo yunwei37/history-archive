@@ -1,7 +1,7 @@
 # 【ftm】关于激素、假药、药商的一切，纯干货！1
 
 <!-- tcd_download_link -->
-Download: [【ftm】关于激素、假药、药商的一切，纯干货！1.docx](【ftm】关于激素、假药、药商的一切，纯干货！1.docx)
+下载: [【ftm】关于激素、假药、药商的一切，纯干货！1.docx](【ftm】关于激素、假药、药商的一切，纯干货！1.docx)
 <!-- tcd_download_link_end -->
 
 ## 摘要

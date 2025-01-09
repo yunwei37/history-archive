@@ -1,7 +1,7 @@
 # 西方的变性热_王克强
 
 <!-- tcd_download_link -->
-Download: [西方的变性热_王克强.pdf](西方的变性热_王克强.pdf)
+下载: [西方的变性热_王克强.pdf](西方的变性热_王克强.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [西方的变性热_王克强.pdf](西方的变性热_王克强.pdf)
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [西方的变性热_王克强.pdf](西方的变性热_王克强.pdf)
 | Tags            | 跨性别, 变性, 西方社会, 医疗资源, 法律政策, 社会态度, 性别认同                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../西方的变性热_王克强.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

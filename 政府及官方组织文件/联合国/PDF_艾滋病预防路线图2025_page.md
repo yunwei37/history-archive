@@ -1,7 +1,7 @@
 # PDF_艾滋病预防路线图2025
 
 <!-- tcd_download_link -->
-Download: [PDF_艾滋病预防路线图2025.pdf](PDF_艾滋病预防路线图2025.pdf)
+下载: [PDF_艾滋病预防路线图2025.pdf](PDF_艾滋病预防路线图2025.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_艾滋病预防路线图2025.pdf](PDF_艾滋病预防路线图202
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_艾滋病预防路线图2025.pdf](PDF_艾滋病预防路线图202
 | Tags            | 艾滋病, 预防, 公共卫生, 全球战略, 跨性别, 重点人群, 社区主导服务, 社会促进因素, 数据统计, 法律政策                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_艾滋病预防路线图2025.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

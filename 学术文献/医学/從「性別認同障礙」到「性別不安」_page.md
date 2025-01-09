@@ -1,7 +1,7 @@
 # 從「性別認同障礙」到「性別不安」
 
 <!-- tcd_download_link -->
-Download: [從「性別認同障礙」到「性別不安」.pdf](從「性別認同障礙」到「性別不安」.pdf)
+下载: [從「性別認同障礙」到「性別不安」.pdf](從「性別認同障礙」到「性別不安」.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [從「性別認同障礙」到「性別不安」.pdf](從「性別認
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [從「性別認同障礙」到「性別不安」.pdf](從「性別認
 | Tags            | 性别不安, 性别认同, 跨性别, DSM-5, 心理健康, 儿童性别不安, 性别多元, 去病化, 社会接受                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../從「性別認同障礙」到「性別不安」.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

@@ -80,6 +80,13 @@ files:
   size: 785443
   md5: 0df5061a4ef88c5ba3809b9c249273e0
   page: PDF_跨性别性工作者的需求与权利摘要简报09_page.md
+- name: SILENT_CHANGES_TRANSSEXUALS'_-郭晓飞
+  filename: SILENT_CHANGES_TRANSSEXUALS'_-郭晓飞.pdf
+  type: document
+  format: PDF Document
+  size: 304255
+  md5: 47765d504e20e408ac1c2fbadd9e4c8a
+  page: SILENT_CHANGES_TRANSSEXUALS'_-郭晓飞_page.md
 - name: 上政法律評論
   filename: 上政法律評論.pdf
   type: document

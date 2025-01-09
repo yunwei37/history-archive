@@ -1,5 +1,5 @@
 site_name: 跨与多元性别档案
-repo_url: https://transchinese.org/
+repo_url: https://github.com/project-polymorph/trans-digital-cn
 site_url: https://digital.transchinese.org/
 edit_uri: https://github.com/project-polymorph/trans-digital-cn/edit/main/
 site_description: '本存档库包含各类跨性别、多元性别、酷儿相关的文档，包括学术文献、社群报告、文学作品、杂志与报纸、政府文件等。'
@@ -17,9 +17,14 @@ theme:
     - navigation.instant
     - navigation.instant.progress
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.expand
     - navigation.path
     - navigation.top
+    - navigation.prune 
+    - navigation.indexes 
+    - navigation.tracking
+    - toc.integrate
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -46,12 +51,12 @@ plugins:
   - social:
       cards_layout_options:
         font_family: Noto Sans SC
-  - rss:
-      match_path: ".*"
-      date_from_meta:
-        as_creation: date.created
-        as_update: date.updated
-  - git-authors
+  # - rss:
+  #    match_path: ".*"
+  #    date_from_meta:
+  #      as_creation: date.created
+  #      as_update: date.updated
+  #- git-authors
   - git-revision-date-localized:
       enable_creation_date: true
       fallback_to_build_date: true
@@ -63,7 +68,11 @@ extra:
   social:
   - icon: /fontawesome/regular/envelope
     name: send me an email
-    link: mailto:yunwei37@gmail.com
+    link: mailto:admin@transchinese.org
+  - icon: fontawesome/brands/x-twitter
+    link: https://x.com/transchineseorg
+  extra:
+    homepage: https://transchinese.org
 hooks:
   - hooks/socialmedia.py
 markdown_extensions:

@@ -1,7 +1,7 @@
 # PDF_性别表演新潮演剧中的男扮女装
 
 <!-- tcd_download_link -->
-Download: [PDF_性别表演新潮演剧中的男扮女装.pdf](PDF_性别表演新潮演剧中的男扮女装.pdf)
+下载: [PDF_性别表演新潮演剧中的男扮女装.pdf](PDF_性别表演新潮演剧中的男扮女装.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_性别表演新潮演剧中的男扮女装.pdf](PDF_性别表演�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_性别表演新潮演剧中的男扮女装.pdf](PDF_性别表演�
 | Tags            | 性别表演, 男扮女装, 戏剧艺术, 新潮演剧, 性别理论, 文化研究, 中日戏剧比较                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_性别表演新潮演剧中的男扮女装.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

@@ -1,7 +1,7 @@
 # 臺南市政府民政局性別平等宣導報告
 
 <!-- tcd_download_link -->
-Download: [臺南市政府民政局性別平等宣導報告.pdf](臺南市政府民政局性別平等宣導報告.pdf)
+下载: [臺南市政府民政局性別平等宣導報告.pdf](臺南市政府民政局性別平等宣導報告.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [臺南市政府民政局性別平等宣導報告.pdf](臺南市政府
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [臺南市政府民政局性別平等宣導報告.pdf](臺南市政府
 | Tags            | 性别平等, 多元性别, 倡导活动, 社会参与, 妇女权利, 性别暴力, STEM教育, 新住民权利, 社区宣导                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../臺南市政府民政局性別平等宣導報告.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

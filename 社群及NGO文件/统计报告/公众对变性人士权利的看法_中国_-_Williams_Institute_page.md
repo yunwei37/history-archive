@@ -1,7 +1,7 @@
 # 公众对变性人士权利的看法_中国_-_Williams_Institute
 
 <!-- tcd_download_link -->
-Download: [公众对变性人士权利的看法_中国_-_Williams_Institute.pdf](公众对变性人士权利的看法_中国_-_Williams_Institute.pdf)
+下载: [公众对变性人士权利的看法_中国_-_Williams_Institute.pdf](公众对变性人士权利的看法_中国_-_Williams_Institute.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [公众对变性人士权利的看法_中国_-_Williams_Institute.pdf]
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [公众对变性人士权利的看法_中国_-_Williams_Institute.pdf]
 | Tags            | 变性人士, 公众态度, 权利保护, 社会接受度, 家庭接受, 性别认同, 统计报告                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../公众对变性人士权利的看法_中国_-_Williams_Institute.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

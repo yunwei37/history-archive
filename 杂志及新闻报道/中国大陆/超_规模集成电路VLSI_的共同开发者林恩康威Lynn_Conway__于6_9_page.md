@@ -1,7 +1,7 @@
 # 超_规模集成电路VLSI_的共同开发者林恩康威Lynn_Conway__于6_9
 
 <!-- tcd_download_link -->
-Download: [超_规模集成电路VLSI_的共同开发者林恩康威Lynn_Conway__于6_9.pdf](超_规模集成电路VLSI_的共同开发者林恩康威Lynn_Conway__于6_9.pdf)
+下载: [超_规模集成电路VLSI_的共同开发者林恩康威Lynn_Conway__于6_9.pdf](超_规模集成电路VLSI_的共同开发者林恩康威Lynn_Conway__于6_9.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [超_规模集成电路VLSI_的共同开发者林恩康威Lynn_Conway_
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [超_规模集成电路VLSI_的共同开发者林恩康威Lynn_Conway_
 | Tags            | 跨性别权利, 林恩·康威, 超大规模集成电路, VLSI, 女性工程师, 性别认同, 社会环境, IEEE, 技术创新                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../超_规模集成电路VLSI_的共同开发者林恩康威Lynn_Conway__于6_9.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

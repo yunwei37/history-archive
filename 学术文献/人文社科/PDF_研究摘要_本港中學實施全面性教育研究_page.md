@@ -1,7 +1,7 @@
 # PDF_研究摘要_本港中學實施全面性教育研究
 
 <!-- tcd_download_link -->
-Download: [PDF_研究摘要_本港中學實施全面性教育研究.pdf](PDF_研究摘要_本港中學實施全面性教育研究.pdf)
+下载: [PDF_研究摘要_本港中學實施全面性教育研究.pdf](PDF_研究摘要_本港中學實施全面性教育研究.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_研究摘要_本港中學實施全面性教育研究.pdf](PDF_研
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_研究摘要_本港中學實施全面性教育研究.pdf](PDF_研
 | Tags            | 性教育, 香港教育, 全面性教育, 青少年, 生理知识, 心理健康, 社会偏见, 教师培训, 跨性别, 性别平等                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_研究摘要_本港中學實施全面性教育研究.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

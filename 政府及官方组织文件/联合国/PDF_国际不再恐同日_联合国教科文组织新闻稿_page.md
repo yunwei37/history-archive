@@ -1,7 +1,7 @@
 # PDF_国际不再恐同日_联合国教科文组织新闻稿
 
 <!-- tcd_download_link -->
-Download: [PDF_国际不再恐同日_联合国教科文组织新闻稿.pdf](PDF_国际不再恐同日_联合国教科文组织新闻稿.pdf)
+下载: [PDF_国际不再恐同日_联合国教科文组织新闻稿.pdf](PDF_国际不再恐同日_联合国教科文组织新闻稿.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -15,7 +15,7 @@ Download: [PDF_国际不再恐同日_联合国教科文组织新闻稿.pdf](PDF_
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -32,3 +32,13 @@ Download: [PDF_国际不再恐同日_联合国教科文组织新闻稿.pdf](PDF_
 | Tags            | 国际不再恐同日, 联合国教科文组织, LGBT, 性别身份, 教育体系, 歧视与暴力, 校园欺凌, 社会多元化, 反歧视, 人权                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_国际不再恐同日_联合国教科文组织新闻稿.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

@@ -1,7 +1,7 @@
 # El_Dorado县健康教育课程
 
 <!-- tcd_download_link -->
-Download: [El_Dorado县健康教育课程.pdf](El_Dorado县健康教育课程.pdf)
+下载: [El_Dorado县健康教育课程.pdf](El_Dorado县健康教育课程.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [El_Dorado县健康教育课程.pdf](El_Dorado县健康教育课程.pd
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [El_Dorado县健康教育课程.pdf](El_Dorado县健康教育课程.pd
 | Tags            | 健康教育, 老年人健康, 心理健康, 营养生活, 孕产妇教育, 社区健康资源, 教育课程                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../El_Dorado县健康教育课程.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

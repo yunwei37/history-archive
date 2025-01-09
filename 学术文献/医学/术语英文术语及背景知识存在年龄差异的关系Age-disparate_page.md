@@ -1,7 +1,7 @@
 # 术语英文术语及背景知识存在年龄差异的关系Age-disparate
 
 <!-- tcd_download_link -->
-Download: [术语英文术语及背景知识存在年龄差异的关系Age-disparate.pdf](术语英文术语及背景知识存在年龄差异的关系Age-disparate.pdf)
+下载: [术语英文术语及背景知识存在年龄差异的关系Age-disparate.pdf](术语英文术语及背景知识存在年龄差异的关系Age-disparate.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [术语英文术语及背景知识存在年龄差异的关系Age-dispa
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [术语英文术语及背景知识存在年龄差异的关系Age-dispa
 | Tags            | 艾滋病, HIV, 跨性别, 性别认同, 性别平等, 性别暴力, 医疗资源, 社会环境, 公共卫生, 健康教育                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../术语英文术语及背景知识存在年龄差异的关系Age-disparate.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

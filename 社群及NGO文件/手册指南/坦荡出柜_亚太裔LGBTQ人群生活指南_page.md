@@ -1,7 +1,7 @@
 # 坦荡出柜_亚太裔LGBTQ人群生活指南
 
 <!-- tcd_download_link -->
-Download: [坦荡出柜_亚太裔LGBTQ人群生活指南.pdf](坦荡出柜_亚太裔LGBTQ人群生活指南.pdf)
+下载: [坦荡出柜_亚太裔LGBTQ人群生活指南.pdf](坦荡出柜_亚太裔LGBTQ人群生活指南.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [坦荡出柜_亚太裔LGBTQ人群生活指南.pdf](坦荡出柜_亚�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [坦荡出柜_亚太裔LGBTQ人群生活指南.pdf](坦荡出柜_亚�
 | Tags            | LGBTQ, 亚太裔, 跨性别, 出柜指南, 家庭支持, 文化认同, 信仰与精神, 移民经历                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../坦荡出柜_亚太裔LGBTQ人群生活指南.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

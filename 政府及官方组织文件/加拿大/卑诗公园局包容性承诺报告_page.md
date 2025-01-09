@@ -1,7 +1,7 @@
 # 卑诗公园局包容性承诺报告
 
 <!-- tcd_download_link -->
-Download: [卑诗公园局包容性承诺报告.pdf](卑诗公园局包容性承诺报告.pdf)
+下载: [卑诗公园局包容性承诺报告.pdf](卑诗公园局包容性承诺报告.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [卑诗公园局包容性承诺报告.pdf](卑诗公园局包容性承
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [卑诗公园局包容性承诺报告.pdf](卑诗公园局包容性承
 | Tags            | 卑诗公园局, 包容性, 无障碍设施, 多元性别, 原住民文化, 社区合作, 环境保护, 性别平等                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../卑诗公园局包容性承诺报告.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

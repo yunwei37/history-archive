@@ -1,7 +1,7 @@
 # Mountain_Valley_Health_Plan_非歧视通知
 
 <!-- tcd_download_link -->
-Download: [Mountain_Valley_Health_Plan_非歧视通知.pdf](Mountain_Valley_Health_Plan_非歧视通知.pdf)
+下载: [Mountain_Valley_Health_Plan_非歧视通知.pdf](Mountain_Valley_Health_Plan_非歧视通知.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [Mountain_Valley_Health_Plan_非歧视通知.pdf](Mountain_Valley_Heal
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [Mountain_Valley_Health_Plan_非歧视通知.pdf](Mountain_Valley_Heal
 | Tags            | 非歧视, 民权法, 医疗服务, 性别认同, 性取向, 跨性别, 投诉程序, 社会公正                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../Mountain_Valley_Health_Plan_非歧视通知.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

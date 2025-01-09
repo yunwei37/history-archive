@@ -1,7 +1,7 @@
 # 曼谷雨变性医生简介
 
 <!-- tcd_download_link -->
-Download: [曼谷雨变性医生简介.docx](曼谷雨变性医生简介.docx)
+下载: [曼谷雨变性医生简介.docx](曼谷雨变性医生简介.docx)
 <!-- tcd_download_link_end -->
 
 ## 摘要

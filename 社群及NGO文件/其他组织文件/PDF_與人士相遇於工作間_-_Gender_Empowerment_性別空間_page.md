@@ -1,7 +1,7 @@
 # PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間
 
 <!-- tcd_download_link -->
-Download: [PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間.pdf](PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間.pdf)
+下载: [PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間.pdf](PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間.pdf
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間.pdf
 | Tags            | 跨性别, 性别赋权, 职场, 多样性与包容性, 社会环境, 生命故事, 经验分享                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

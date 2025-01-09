@@ -143,6 +143,13 @@ files:
   size: 1256278
   md5: 4b899cdddd0f86c17fff90b0465acccb
   page: 2021年卓芸萱_跨性別學生於友善校園成長的可能性_page.md
+- name: 2023_多元性别与媒体再现
+  filename: 2023_多元性别与媒体再现.pdf
+  type: document
+  format: PDF Document
+  size: 4514
+  md5: e94162284dd1358d987ada6abc7444de
+  page: 2023_多元性别与媒体再现_page.md
 - name: 2023_廖昱凱_酷兒跨性別生態學與河川正義書評
   filename: 2023_廖昱凱_酷兒跨性別生態學與河川正義書評.pdf
   type: document
@@ -388,13 +395,13 @@ files:
   size: 2850525
   md5: 58b215aea4cdfb2be61f9c0deb85cecf
   page: PDF_解讀台灣綜藝節目反串模仿秀_的性別文化_-_中央大學性別研究室_page.md
-- name: PDF_認識多元性別_分享人處王振圍(好性會秘書長)
-  filename: PDF_認識多元性別_分享人處王振圍(好性會秘書長).pdf
+- name: PDF_認識多元性別_分享人處王振圍_好性會秘書長_
+  filename: PDF_認識多元性別_分享人處王振圍_好性會秘書長_.pdf
   type: document
   format: PDF Document
   size: 1576564
   md5: 72b06172eddb058ac8eb076869b128a0
-  page: PDF_認識多元性別_分享人處王振圍(好性會秘書長)_page.md
+  page: PDF_認識多元性別_分享人處王振圍_好性會秘書長__page.md
 - name: PDF_認識多元性別打開性別的眼睛第183期
   filename: PDF_認識多元性別打開性別的眼睛第183期.pdf
   type: document
@@ -437,6 +444,41 @@ files:
   size: 1009612
   md5: cebcf158f4e50a9e87c1284404a98c54
   page: PDF_香港跨性別社群發展與歧視個案研究_page.md
+- name: Suicidal_ideation_and_attempted_suicide_amongst_Chinese_
+  filename: Suicidal_ideation_and_attempted_suicide_amongst_Chinese_.pdf
+  type: document
+  format: PDF Document
+  size: 1052860
+  md5: 545ef5a3fd70679294758615e5f79a57
+  page: Suicidal_ideation_and_attempted_suicide_amongst_Chinese__page.md
+- name: Supporting_Transgender_Children_New_Legal_Social_and_Medical_Approaches
+  filename: Supporting_Transgender_Children_New_Legal_Social_and_Medical_Approaches.pdf
+  type: document
+  format: PDF Document
+  size: 502486
+  md5: 4fafb3cd00016f33e8152635e1d8d321
+  page: Supporting_Transgender_Children_New_Legal_Social_and_Medical_Approaches_page.md
+- name: Supportive_Families,_Healthy_Children__-_FAP_English_Booklet_pst
+  filename: Supportive_Families,_Healthy_Children__-_FAP_English_Booklet_pst.pdf
+  type: document
+  format: PDF Document
+  size: 1495284
+  md5: 51d3b03106b8864f4c629fdd3c1a06f7
+  page: Supportive_Families,_Healthy_Children__-_FAP_English_Booklet_pst_page.md
+- name: Synergies_in_health_and_human_rights_-_a_call_to_action_to_improve_transgender_health
+  filename: Synergies_in_health_and_human_rights_-_a_call_to_action_to_improve_transgender_health.pdf
+  type: document
+  format: PDF Document
+  size: 224792
+  md5: 612cb477ae54c52775e0051bb3ad2dac
+  page: Synergies_in_health_and_human_rights_-_a_call_to_action_to_improve_transgender_health_page.md
+- name: The_Bathroom_Case_Creating_a_Supportive_School__Environment_for_Transgender__and_Gender_Nonconforming__Students
+  filename: The_Bathroom_Case_Creating_a_Supportive_School__Environment_for_Transgender__and_Gender_Nonconforming__Students.pdf
+  type: document
+  format: PDF Document
+  size: 132074
+  md5: bdb946ef05c3b32d36fb9fce5511e114
+  page: The_Bathroom_Case_Creating_a_Supportive_School__Environment_for_Transgender__and_Gender_Nonconforming__Students_page.md
 - name: The_Case_Against_Autogynephilia_驳AG_论
   filename: The_Case_Against_Autogynephilia_驳AG_论.pdf
   type: document
@@ -444,6 +486,76 @@ files:
   size: 577189
   md5: 072c37bbc1dfebc71a39d27f2c1c508b
   page: The_Case_Against_Autogynephilia_驳AG_论_page.md
+- name: The__Slow__Depathologizing_of_Gender_Incongruence.11
+  filename: The__Slow__Depathologizing_of_Gender_Incongruence.11.pdf
+  type: document
+  format: PDF Document
+  size: 126651
+  md5: aaa172bfa5dc9eb9d9e0c8896b1cec41
+  page: The__Slow__Depathologizing_of_Gender_Incongruence.11_page.md
+- name: The_de_politicization_of_pronouns_implications_of_the_No_Big_Deal_Campaign_for_gender_expansive_educational_policy_and_practice
+  filename: The_de_politicization_of_pronouns_implications_of_the_No_Big_Deal_Campaign_for_gender_expansive_educational_policy_and_practice.pdf
+  type: document
+  format: PDF Document
+  size: 2082573
+  md5: 3bb50299cb411ce718535f3104653f28
+  page: The_de_politicization_of_pronouns_implications_of_the_No_Big_Deal_Campaign_for_gender_expansive_educational_policy_and_practice_page.md
+- name: Transgender_Inmates_in_Prisons
+  filename: Transgender_Inmates_in_Prisons.pdf
+  type: document
+  format: PDF Document
+  size: 105969
+  md5: 78de5006ec0e659e15e281a58dc9115c
+  page: Transgender_Inmates_in_Prisons_page.md
+- name: Transgender_Legal_Advocacy_-_What_Do_Feminist_Legal_Theories_Have_to_Offer?
+  filename: Transgender_Legal_Advocacy_-_What_Do_Feminist_Legal_Theories_Have_to_Offer?.pdf
+  type: document
+  format: PDF Document
+  size: 4667916
+  md5: 7601eaab784a28dbcc7ac8ebabc6b0ec
+  page: Transgender_Legal_Advocacy_-_What_Do_Feminist_Legal_Theories_Have_to_Offer?_page.md
+- name: Transgender_Marriage_and_the_Legal_Obligation_to_Disclose_Gender_History
+  filename: Transgender_Marriage_and_the_Legal_Obligation_to_Disclose_Gender_History.pdf
+  type: document
+  format: PDF Document
+  size: 2295753
+  md5: 5241fed151429572c95ca182ef1f7fa8
+  page: Transgender_Marriage_and_the_Legal_Obligation_to_Disclose_Gender_History_page.md
+- name: Transgender_People_in_the_Military
+  filename: Transgender_People_in_the_Military.pdf
+  type: document
+  format: PDF Document
+  size: 238637
+  md5: 1f0c8109580d832c408945ad720c6fce
+  page: Transgender_People_in_the_Military_page.md
+- name: Transgender_Representation_by_the_People’s_Daily_Since_1949
+  filename: Transgender_Representation_by_the_People’s_Daily_Since_1949.pdf
+  type: document
+  format: PDF Document
+  size: 180699
+  md5: 6dcac5c731a8b5110da3e8595ca9877f
+  page: Transgender_Representation_by_the_People’s_Daily_Since_1949_page.md
+- name: Transgender_health_-_an_opportunity_for_global_health_equity
+  filename: Transgender_health_-_an_opportunity_for_global_health_equity.pdf
+  type: document
+  format: PDF Document
+  size: 353112
+  md5: f9251e4fc3266d8c457cd70bc656f59c
+  page: Transgender_health_-_an_opportunity_for_global_health_equity_page.md
+- name: Transgender_patients_need_better_protection_in_China
+  filename: Transgender_patients_need_better_protection_in_China.pdf
+  type: document
+  format: PDF Document
+  size: 129344
+  md5: 435a568200915d33d63b0f473bb94c26
+  page: Transgender_patients_need_better_protection_in_China_page.md
+- name: Transgender_people:_health_at_the_margins_of_society_-_Winter_et_al-2016
+  filename: Transgender_people:_health_at_the_margins_of_society_-_Winter_et_al-2016.pdf
+  type: document
+  format: PDF Document
+  size: 411303
+  md5: fe8159eec4bd712eacf6ca3706f0f804
+  page: Transgender_people:_health_at_the_margins_of_society_-_Winter_et_al-2016_page.md
 - name: “伪娘”亚文化现象的美学解读_高妍
   filename: “伪娘”亚文化现象的美学解读_高妍.pdf
   type: document
@@ -633,6 +745,13 @@ files:
   size: 2862486
   md5: 3bbcd91654a13db7d09239128ed00880
   page: 儿童文学研究新视野_彼得·亨特访谈_2022_page.md
+- name: 关于现代汉语中‘族’与‘党’的演变研究_索非亚·巴雷托_2016
+  filename: 关于现代汉语中‘族’与‘党’的演变研究_索非亚·巴雷托_2016.pdf
+  type: document
+  format: PDF Document
+  size: 3690508
+  md5: bbf612e06862b19aa27474167f6e261a
+  page: 关于现代汉语中‘族’与‘党’的演变研究_索非亚·巴雷托_2016_page.md
 - name: 刘丽凤_后现代女权主义与酷儿理论_2010
   filename: 刘丽凤_后现代女权主义与酷儿理论_2010.pdf
   type: document
@@ -682,13 +801,13 @@ files:
   size: 259056
   md5: f6b09478cb9fecdcac349aab2472847b
   page: 变性手术患者的心理护理_page.md
-- name: 台湾酷儿小说中跨性别与父权的关系（一九九〇——一九九九)
-  filename: 台湾酷儿小说中跨性别与父权的关系（一九九〇——一九九九).pdf
+- name: 台湾酷儿小说中跨性别与父权的关系（一九九〇——一九九九_
+  filename: 台湾酷儿小说中跨性别与父权的关系（一九九〇——一九九九_.pdf
   type: document
   format: PDF Document
   size: 2927337
   md5: 3a26a6ffe548b828e1354cb90867836f
-  page: 台湾酷儿小说中跨性别与父权的关系（一九九〇——一九九九)_page.md
+  page: 台湾酷儿小说中跨性别与父权的关系（一九九〇——一九九九__page.md
 - name: 叶面纱曳叙事时空研究_唐玫_池州学院
   filename: 叶面纱曳叙事时空研究_唐玫_池州学院.pdf
   type: document
@@ -878,6 +997,13 @@ files:
   size: 15128683
   md5: 7f575cc2b8a01ba35dee128ab670cfeb
   page: 性别治理_性／別研究丛書_page.md
+- name: 性少数人群的心理健康_理论模型与研究取向_张静
+  filename: 性少数人群的心理健康_理论模型与研究取向_张静.pdf
+  type: document
+  format: PDF Document
+  size: 1226485
+  md5: e3c97ded6e8644eeac4b260f23a644a5
+  page: 性少数人群的心理健康_理论模型与研究取向_张静_page.md
 - name: 性少数人群的心理健康理论模型与研究取向
   filename: 性少数人群的心理健康理论模型与研究取向.pdf
   type: document
@@ -1004,6 +1130,13 @@ files:
   size: 94936
   md5: 6b7d857fd28869af7f93e4c7b55a1103
   page: 男旦艺术文化心理研究_福建师范大学_徐蔚_page.md
+- name: 白蛇主题的多维视角研究_罗靓_现代华文文学
+  filename: 白蛇主题的多维视角研究_罗靓_现代华文文学.pdf
+  type: document
+  format: PDF Document
+  size: 1933768
+  md5: b5901b71e27dedf6ee680615892dd698
+  page: 白蛇主题的多维视角研究_罗靓_现代华文文学_page.md
 - name: 研究报告_同性雙性戀及跨性別中學生在校園遇到的骚扰和歧视
   filename: 研究报告_同性雙性戀及跨性別中學生在校園遇到的骚扰和歧视.pdf
   type: document
@@ -1102,13 +1235,13 @@ files:
   size: 290903
   md5: eb707033e66a9477d1ad7e09891b372f
   page: 西方大学生身份研究及其启示_page.md
-- name: 論邦斯的性別形上學與性別詞理論_(2)
-  filename: 論邦斯的性別形上學與性別詞理論_(2).pdf
+- name: 論邦斯的性別形上學與性別詞理論__2_
+  filename: 論邦斯的性別形上學與性別詞理論__2_.pdf
   type: document
   format: PDF Document
   size: 1136052
   md5: 83192da4e502c40267060b4f42718a93
-  page: 論邦斯的性別形上學與性別詞理論_(2)_page.md
+  page: 論邦斯的性別形上學與性別詞理論__2__page.md
 - name: 變性者電影評論_我就是我_趙庭輝_109年12月
   filename: 變性者電影評論_我就是我_趙庭輝_109年12月.pdf
   type: document
@@ -1186,6 +1319,13 @@ files:
   size: 12236983
   md5: 02d7610f70064f32f8c5280e875ce333
   page: 跨性别_【性／別研究】丛書_page.md
+- name: 跨性别心理咨询的理论与实践研究_吕娜
+  filename: 跨性别心理咨询的理论与实践研究_吕娜.caj
+  type: other
+  format: Unknown Format
+  size: 4886484
+  md5: 279181e47f133fbd087d7b7c50424ba8
+  page: 跨性别心理咨询的理论与实践研究_吕娜.caj
 - name: 跨性别教育与社会变迁观察报告_第二个十年
   filename: 跨性别教育与社会变迁观察报告_第二个十年.pdf
   type: document

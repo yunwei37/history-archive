@@ -1,7 +1,7 @@
 # PDF_社群指南_性少数性工作者经历的恐同与恐跨性别
 
 <!-- tcd_download_link -->
-Download: [PDF_社群指南_性少数性工作者经历的恐同与恐跨性别.pdf](PDF_社群指南_性少数性工作者经历的恐同与恐跨性别.pdf)
+下载: [PDF_社群指南_性少数性工作者经历的恐同与恐跨性别.pdf](PDF_社群指南_性少数性工作者经历的恐同与恐跨性别.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_社群指南_性少数性工作者经历的恐同与恐跨性别.
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_社群指南_性少数性工作者经历的恐同与恐跨性别.
 | Tags            | 跨性别, 性少数, 性工作者, 恐同, 社会歧视, 人权, 医疗服务, 法律政策, 艾滋病毒预防, 性别身份                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_社群指南_性少数性工作者经历的恐同与恐跨性别.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

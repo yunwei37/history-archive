@@ -1,7 +1,7 @@
 # 瑞典性工作法律与废娼主义影响研究_Jay_Levy
 
 <!-- tcd_download_link -->
-Download: [瑞典性工作法律与废娼主义影响研究_Jay_Levy.pdf](瑞典性工作法律与废娼主义影响研究_Jay_Levy.pdf)
+下载: [瑞典性工作法律与废娼主义影响研究_Jay_Levy.pdf](瑞典性工作法律与废娼主义影响研究_Jay_Levy.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [瑞典性工作法律与废娼主义影响研究_Jay_Levy.pdf](瑞典
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [瑞典性工作法律与废娼主义影响研究_Jay_Levy.pdf](瑞典
 | Tags            | 性工作, 废娼主义, 性工作者权利, 法律研究, 社会运动, 跨性别问题, 性别研究, 虚假意识, 社会批评                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../瑞典性工作法律与废娼主义影响研究_Jay_Levy.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

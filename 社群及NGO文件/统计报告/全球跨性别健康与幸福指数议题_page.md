@@ -1,7 +1,7 @@
 # 全球跨性别健康与幸福指数议题
 
 <!-- tcd_download_link -->
-Download: [全球跨性别健康与幸福指数议题.pdf](全球跨性别健康与幸福指数议题.pdf)
+下载: [全球跨性别健康与幸福指数议题.pdf](全球跨性别健康与幸福指数议题.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [全球跨性别健康与幸福指数议题.pdf](全球跨性别健康
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [全球跨性别健康与幸福指数议题.pdf](全球跨性别健康
 | Tags            | 跨性别者, 健康与幸福, 全球南方, 社会暴力, 医疗保障, 法律保护, 行动主义, 收入不平等, 数据统计                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../全球跨性别健康与幸福指数议题.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

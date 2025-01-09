@@ -1,7 +1,7 @@
 # 酷兒化檔案臺韓酷兒檔案庫與創作轉譯
 
 <!-- tcd_download_link -->
-Download: [酷兒化檔案臺韓酷兒檔案庫與創作轉譯.pdf](酷兒化檔案臺韓酷兒檔案庫與創作轉譯.pdf)
+下载: [酷兒化檔案臺韓酷兒檔案庫與創作轉譯.pdf](酷兒化檔案臺韓酷兒檔案庫與創作轉譯.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -13,7 +13,7 @@ Download: [酷兒化檔案臺韓酷兒檔案庫與創作轉譯.pdf](酷兒化檔
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -30,3 +30,13 @@ Download: [酷兒化檔案臺韓酷兒檔案庫與創作轉譯.pdf](酷兒化檔
 | Tags            | 酷儿文化, 跨性别研究, 相关档案库, 台湾文学, 社会运动, 历史研究, 性别意识, LGBTQ                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../酷兒化檔案臺韓酷兒檔案庫與創作轉譯.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

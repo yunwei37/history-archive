@@ -1,7 +1,7 @@
 # 化妆入门课（1-8章）
 
 <!-- tcd_download_link -->
-Download: [化妆入门课（1-8章）.pdf](化妆入门课（1-8章）.pdf)
+下载: [化妆入门课（1-8章）.pdf](化妆入门课（1-8章）.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [化妆入门课（1-8章）.pdf](化妆入门课（1-8章）.pdf)
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [化妆入门课（1-8章）.pdf](化妆入门课（1-8章）.pdf)
 | Tags            | 化妆入门, 化妆技巧, 美容教学, 护肤常识, 审美原理, 生活美容, 文档分享                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../化妆入门课（1-8章）.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

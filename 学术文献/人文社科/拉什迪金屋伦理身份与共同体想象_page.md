@@ -1,7 +1,7 @@
 # 拉什迪金屋伦理身份与共同体想象
 
 <!-- tcd_download_link -->
-Download: [拉什迪金屋伦理身份与共同体想象.pdf](拉什迪金屋伦理身份与共同体想象.pdf)
+下载: [拉什迪金屋伦理身份与共同体想象.pdf](拉什迪金屋伦理身份与共同体想象.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [拉什迪金屋伦理身份与共同体想象.pdf](拉什迪金屋伦
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [拉什迪金屋伦理身份与共同体想象.pdf](拉什迪金屋伦
 | Tags            | 跨性别, 酷儿文学, 身份伦理, 共同体想象, 社会认同, 文艺分析                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../拉什迪金屋伦理身份与共同体想象.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

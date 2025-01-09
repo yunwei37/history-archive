@@ -1,7 +1,7 @@
 # “伪娘”亚文化现象的美学解读_高妍
 
 <!-- tcd_download_link -->
-Download: [“伪娘”亚文化现象的美学解读_高妍.pdf](“伪娘”亚文化现象的美学解读_高妍.pdf)
+下载: [“伪娘”亚文化现象的美学解读_高妍.pdf](“伪娘”亚文化现象的美学解读_高妍.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [“伪娘”亚文化现象的美学解读_高妍.pdf](“伪娘”�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [“伪娘”亚文化现象的美学解读_高妍.pdf](“伪娘”�
 | Tags            | 伪娘, 亚文化, 美学, 性别研究, 文化审美, 社会认同, 跨性别, 中国社会, 性别多元化                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../“伪娘”亚文化现象的美学解读_高妍.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

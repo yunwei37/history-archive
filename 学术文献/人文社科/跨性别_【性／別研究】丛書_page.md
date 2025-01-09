@@ -1,7 +1,7 @@
 # 跨性别_【性／別研究】丛書
 
 <!-- tcd_download_link -->
-Download: [跨性别_【性／別研究】丛書.pdf](跨性别_【性／別研究】丛書.pdf)
+下载: [跨性别_【性／別研究】丛書.pdf](跨性别_【性／別研究】丛書.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -13,7 +13,7 @@ Download: [跨性别_【性／別研究】丛書.pdf](跨性别_【性／別研�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -30,3 +30,13 @@ Download: [跨性别_【性／別研究】丛書.pdf](跨性别_【性／別研�
 | Tags            | 跨性别, 性别研究, 酷儿理论, 性别政治, 台湾性别运动, 医疗资源, 社会环境, 人文社科                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../跨性别_【性／別研究】丛書.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

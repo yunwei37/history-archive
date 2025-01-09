@@ -1,7 +1,7 @@
 # 药娘的天空
 
 <!-- tcd_download_link -->
-Download: [药娘的天空.pdf](药娘的天空.pdf)
+下载: [药娘的天空.pdf](药娘的天空.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [药娘的天空.pdf](药娘的天空.pdf)
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [药娘的天空.pdf](药娘的天空.pdf)
 | Tags            | 跨性别, 生命故事, 社会环境, 小说, 成长经历, 自我认同, 独立生活                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../药娘的天空.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

@@ -1,7 +1,7 @@
 # 從當代電影看亞洲跨性別人士的困局
 
 <!-- tcd_download_link -->
-Download: [從當代電影看亞洲跨性別人士的困局.pdf](從當代電影看亞洲跨性別人士的困局.pdf)
+下载: [從當代電影看亞洲跨性別人士的困局.pdf](從當代電影看亞洲跨性別人士的困局.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [從當代電影看亞洲跨性別人士的困局.pdf](從當代電影
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [從當代電影看亞洲跨性別人士的困局.pdf](從當代電影
 | Tags            | 跨性别, 电影分析, 亚洲性别问题, 社会压迫, 家庭困境, 性别平权, 性别角色, 文化研究                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../從當代電影看亞洲跨性別人士的困局.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

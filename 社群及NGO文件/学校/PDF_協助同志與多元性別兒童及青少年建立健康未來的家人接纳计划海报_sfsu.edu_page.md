@@ -1,7 +1,7 @@
 # PDF_協助同志與多元性別兒童及青少年建立健康未來的家人接纳计划海报_sfsu.edu
 
 <!-- tcd_download_link -->
-Download: [PDF_協助同志與多元性別兒童及青少年建立健康未來的家人接纳计划海报_sfsu.edu.pdf](PDF_協助同志與多元性別兒童及青少年建立健康未來的家人接纳计划海报_sfsu.edu.pdf)
+下载: [PDF_協助同志與多元性別兒童及青少年建立健康未來的家人接纳计划海报_sfsu.edu.pdf](PDF_協助同志與多元性別兒童及青少年建立健康未來的家人接纳计划海报_sfsu.edu.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -13,7 +13,7 @@ FAP海报的内容通过研究证实，有助于提升社会对同志群体的�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -30,3 +30,13 @@ FAP海报的内容通过研究证实，有助于提升社会对同志群体的�
 | Tags            | 跨性别, LGBTQ, 家庭接纳, 儿童青少年, 心理健康, 教育, 社会服务, 海报, 健康成长                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_協助同志與多元性別兒童及青少年建立健康未來的家人接纳计划海报_sfsu.edu.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

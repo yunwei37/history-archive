@@ -1,7 +1,7 @@
 # 变性手术算病假_整容手术算病假吗
 
 <!-- tcd_download_link -->
-Download: [变性手术算病假_整容手术算病假吗.pdf](变性手术算病假_整容手术算病假吗.pdf)
+下载: [变性手术算病假_整容手术算病假吗.pdf](变性手术算病假_整容手术算病假吗.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [变性手术算病假_整容手术算病假吗.pdf](变性手术算�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [变性手术算病假_整容手术算病假吗.pdf](变性手术算�
 | Tags            | 变性手术, 整容手术, 病假, 法律案例, 劳动法, 跨性别, 社会包容, 性别认同                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../变性手术算病假_整容手术算病假吗.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

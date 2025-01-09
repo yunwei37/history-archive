@@ -1,7 +1,7 @@
 # 迈瑞_多元化平等与包容性政策
 
 <!-- tcd_download_link -->
-Download: [迈瑞_多元化平等与包容性政策.pdf](迈瑞_多元化平等与包容性政策.pdf)
+下载: [迈瑞_多元化平等与包容性政策.pdf](迈瑞_多元化平等与包容性政策.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [迈瑞_多元化平等与包容性政策.pdf](迈瑞_多元化平等�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [迈瑞_多元化平等与包容性政策.pdf](迈瑞_多元化平等�
 | Tags            | 多元化, 包容性, 平等, 反歧视, 人力资源管理, 企业政策, 跨性别, 性别平等, 工作环境, 员工权益                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../迈瑞_多元化平等与包容性政策.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

@@ -1,0 +1,30 @@
+# 申请人身保护令
+
+<!-- tcd_download_link -->
+下载: [申请人身保护令.docx](申请人身保护令.docx)
+<!-- tcd_download_link_end -->
+
+## 摘要
+
+<!-- tcd_abstract -->
+该文件是关于申请人身安全保护令的指导文档，旨在帮助遭受家庭暴力或面临家庭暴力危险的个体申请法律保护。文件中详细说明了申请人身保护令的个案背景，以及申请的法律依据，引用了《中华人民共和国反家庭暴力法》的相关条款，包括申请的条件、流程和期限。特别强调了申请人在遭遇家庭暴力时，需要提供的证据材料，以及要求法院在72小时内作出裁定或驳回的法律规定。此外，文件还提供了申请书的模板，帮助申请人清楚地列出个人信息、被申请人信息及具体申请事项，确保申请材料齐全，以提高申请成功的可能性。
+
+<!-- tcd_abstract_end -->
+
+## 其他信息
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | 申请人身保护令.docx                             |
+| Type            | document                                 |
+| Format          | Microsoft Word Document (OpenXML)                               |
+| Size            | 18090 bytes                           |
+| MD5             | d91d02360d40460875fd771d3c1887ea                                  |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 山东省                               |
+| Date            | 未知                                 |
+| Tags            | 人身安全保护令, 家庭暴力, 法律法规, 跨性别, 多元性别, 社会支持, 申请流程, 法律文书                                 |
+
+本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。

@@ -1,7 +1,7 @@
 # 英国反就业歧视法与我国立法之完善
 
 <!-- tcd_download_link -->
-Download: [英国反就业歧视法与我国立法之完善.pdf](英国反就业歧视法与我国立法之完善.pdf)
+下载: [英国反就业歧视法与我国立法之完善.pdf](英国反就业歧视法与我国立法之完善.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [英国反就业歧视法与我国立法之完善.pdf](英国反就业
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [英国反就业歧视法与我国立法之完善.pdf](英国反就业
 | Tags            | 法律, 跨性别者, 就业歧视, 立法比较, 社会保障                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../英国反就业歧视法与我国立法之完善.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

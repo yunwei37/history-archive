@@ -1,7 +1,7 @@
 # 联合国自由和平等_跨性别者
 
 <!-- tcd_download_link -->
-Download: [联合国自由和平等_跨性别者.pdf](联合国自由和平等_跨性别者.pdf)
+下载: [联合国自由和平等_跨性别者.pdf](联合国自由和平等_跨性别者.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [联合国自由和平等_跨性别者.pdf](联合国自由和平等_�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [联合国自由和平等_跨性别者.pdf](联合国自由和平等_�
 | Tags            | 跨性别者, 人权, 性别认同, 法律政策, 社会歧视, 暴力, 性别认同保护, 联合国报告                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../联合国自由和平等_跨性别者.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

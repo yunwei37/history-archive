@@ -1,7 +1,7 @@
 # PDF_为青年跨性别女权运动筹措资源并参与其中
 
 <!-- tcd_download_link -->
-Download: [PDF_为青年跨性别女权运动筹措资源并参与其中.pdf](PDF_为青年跨性别女权运动筹措资源并参与其中.pdf)
+下载: [PDF_为青年跨性别女权运动筹措资源并参与其中.pdf](PDF_为青年跨性别女权运动筹措资源并参与其中.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_为青年跨性别女权运动筹措资源并参与其中.pdf](PD
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_为青年跨性别女权运动筹措资源并参与其中.pdf](PD
 | Tags            | 跨性别, 女权主义, 资源筹措, 性别正义, 社会支持, 法律政策, 全球运动, FRIDA基金会, 反跨性别言论, 青年跨性别者                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_为青年跨性别女权运动筹措资源并参与其中.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

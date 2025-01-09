@@ -1,7 +1,7 @@
 # PDF_杰克哈伯斯坦酷儿面孔摄影与亚文化生活Queer_Faces
 
 <!-- tcd_download_link -->
-Download: [PDF_杰克哈伯斯坦酷儿面孔摄影与亚文化生活Queer_Faces.pdf](PDF_杰克哈伯斯坦酷儿面孔摄影与亚文化生活Queer_Faces.pdf)
+下载: [PDF_杰克哈伯斯坦酷儿面孔摄影与亚文化生活Queer_Faces.pdf](PDF_杰克哈伯斯坦酷儿面孔摄影与亚文化生活Queer_Faces.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_杰克哈伯斯坦酷儿面孔摄影与亚文化生活Queer_Faces
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_杰克哈伯斯坦酷儿面孔摄影与亚文化生活Queer_Faces
 | Tags            | 酷儿文化, 跨性别摄影, 视觉文化, 杰克·哈伯斯坦, 社会环境, 文化批评, 艺术与摄影, 酷儿身份, 亚文化, 真实性                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_杰克哈伯斯坦酷儿面孔摄影与亚文化生活Queer_Faces.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

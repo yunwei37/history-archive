@@ -4,21 +4,13 @@ independence:
     path: https://news.transchinese.org/
     url: https://news.transchinese.org/
 
-  - name: 性转相关漫画存档库
-    path: https://comic.transchinese.org/
-    url: https://comic.transchinese.org/
-  
-  - name: 变身文学与小说存档库（剧情向，非限制级，未分类）
+  - name: 变身文学与小说存档库一（剧情向）
     path: https://xnovel.transchinese.org
     url: https://xnovel.transchinese.org
 
-  - name: 变身文学与小说存档库（非限制级，变百或变嫁，已分类）
+  - name: 变身文学与小说存档库二（变百或变嫁）
     path: https://novel.transchinese.org
     url: https://novel.transchinese.org
-
-  - name: 变身文学与小说存档库（限制级）
-    path: https://snovel.transchinese.org
-    url: https://snovel.transchinese.org
 
 ignore:
   - '.*news-website.*'
@@ -29,3 +21,5 @@ ignore:
   - '.*LICENSE.*'
   - 'digital\.yml'
   - 'search_index\.yml'
+  - 'robots\.txt'
+  - 'combined_index\.yml'

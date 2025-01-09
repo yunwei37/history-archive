@@ -1,7 +1,7 @@
 # 关于在住院期间某位患者的言论情况整理
 
 <!-- tcd_download_link -->
-Download: [关于在住院期间某位患者的言论情况整理.pdf](关于在住院期间某位患者的言论情况整理.pdf)
+下载: [关于在住院期间某位患者的言论情况整理.pdf](关于在住院期间某位患者的言论情况整理.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [关于在住院期间某位患者的言论情况整理.pdf](关于在
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [关于在住院期间某位患者的言论情况整理.pdf](关于在
 | Tags            | 医院, 患者隐私, 网络暴力, 跨性别, 侮辱言论, 医护人员, 社会问题                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../关于在住院期间某位患者的言论情况整理.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

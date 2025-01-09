@@ -1,7 +1,7 @@
 # 中国首位变性人状告医院始末_李玉林
 
 <!-- tcd_download_link -->
-Download: [中国首位变性人状告医院始末_李玉林.pdf](中国首位变性人状告医院始末_李玉林.pdf)
+下载: [中国首位变性人状告医院始末_李玉林.pdf](中国首位变性人状告医院始末_李玉林.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [中国首位变性人状告医院始末_李玉林.pdf](中国首位�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [中国首位变性人状告医院始末_李玉林.pdf](中国首位�
 | Tags            | 跨性别, 变性人, 法律案例, 医疗纠纷, 社会环境, 生命故事, 心理健康, 变性手术                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../中国首位变性人状告医院始末_李玉林.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

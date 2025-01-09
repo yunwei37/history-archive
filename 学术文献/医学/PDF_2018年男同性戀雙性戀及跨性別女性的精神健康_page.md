@@ -1,7 +1,7 @@
 # PDF_2018年男同性戀雙性戀及跨性別女性的精神健康
 
 <!-- tcd_download_link -->
-Download: [PDF_2018年男同性戀雙性戀及跨性別女性的精神健康.pdf](PDF_2018年男同性戀雙性戀及跨性別女性的精神健康.pdf)
+下载: [PDF_2018年男同性戀雙性戀及跨性別女性的精神健康.pdf](PDF_2018年男同性戀雙性戀及跨性別女性的精神健康.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_2018年男同性戀雙性戀及跨性別女性的精神健康.pdf
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_2018年男同性戀雙性戀及跨性別女性的精神健康.pdf
 | Tags            | 精神健康, 男同性恋, 双性恋, 跨性别女性, 物质使用, 性健康, 社会支持, 生活风险因素, 调查研究                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_2018年男同性戀雙性戀及跨性別女性的精神健康.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

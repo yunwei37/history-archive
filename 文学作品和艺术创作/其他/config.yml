@@ -1,0 +1,74 @@
+name: 其他
+description: 该目录收录了一系列与多元性别相关的文学作品和艺术创作，旨在展现酷儿文化和跨性别议题在当代艺术中的重要性。目录中的作品涵盖了多个方面，包括2024年威尼斯双年展上素人艺术家的展评，此展评关注了未经主流认可的艺术创作，探索了身份和表现的多重性。此外，吴曾的《镜头切开身份》作品也在其中，深入剖析了艺术创作如何与酷儿文化交织，提出了对身份认同和表达的反思。报告涉及的巴特勒作品集则引发对性别和权力关系的深刻探讨，鼓励观众在艺术中寻找自我认知。海伦·马尔滕与亚力汉德罗·西塞科的作品，通过艺术介入的方式揭示了社会问题的复杂性，展示了艺术在推动社会变革中的力量。总之，该目录不仅仅是艺术作品的合集，也是对多元性别现象的深刻洞察与探索。
+curator: ''
+source: ''
+tags:
+- 多元性别
+- 跨性别
+- 酷儿文化
+- 艺术创作
+- 威尼斯双年展
+- 身份认同
+- 社会介入
+- 性别研究
+- 文学作品
+- 艺术动态
+license: ''
+files:
+- name: 2024年威尼斯双年展素人艺术家展评
+  filename: 2024年威尼斯双年展素人艺术家展评.pdf
+  type: document
+  format: PDF Document
+  size: 817604
+  md5: a917c0611a68126b806cc1f41fe83ab6
+  page: 2024年威尼斯双年展素人艺术家展评_page.md
+- name: 801137525-野史3-为防止拼多多盗印暂不提供封面
+  filename: 801137525-野史3-为防止拼多多盗印暂不提供封面.pdf
+  type: document
+  format: PDF Document
+  size: 33268338
+  md5: c497cd4ec54fd0e79aab6e9837ac7e85
+  page: 801137525-野史3-为防止拼多多盗印暂不提供封面_page.md
+- name: 吴曾_镜头切开身份_艺术创作与酷儿文化
+  filename: 吴曾_镜头切开身份_艺术创作与酷儿文化.pdf
+  type: document
+  format: PDF Document
+  size: 740565
+  md5: 916560cc15b3e25646a104869fdf351c
+  page: 吴曾_镜头切开身份_艺术创作与酷儿文化_page.md
+- name: 多元性别与艺术界动态
+  filename: 多元性别与艺术界动态.pdf
+  type: document
+  format: PDF Document
+  size: 9119114
+  md5: 0880adc239f6214909692e74548af1fc
+  page: 多元性别与艺术界动态_page.md
+- name: 巴特勒作品集
+  filename: 巴特勒作品集.pdf
+  type: document
+  format: PDF Document
+  size: 6957144
+  md5: ee4c6ce5299761688ff36b76b19b855e
+  page: 巴特勒作品集_page.md
+- name: 布林客007-偶像与情感-2015
+  filename: 布林客007-偶像与情感-2015.pdf
+  type: document
+  format: PDF Document
+  size: 6335361
+  md5: e1b6620cb837707eb11ccf713853fad9
+  page: 布林客007-偶像与情感-2015_page.md
+- name: 海伦·马尔滕与亚力汉德罗·西塞科_艺术创作与社会介入_2011
+  filename: 海伦·马尔滕与亚力汉德罗·西塞科_艺术创作与社会介入_2011.pdf
+  type: document
+  format: PDF Document
+  size: 1468212
+  md5: 3e8ad1f38764d1f21715adbf37193260
+  page: 海伦·马尔滕与亚力汉德罗·西塞科_艺术创作与社会介入_2011_page.md
+- name: 艾萨克朱利安：新的未来与酷儿往事
+  filename: 艾萨克朱利安：新的未来与酷儿往事.pdf
+  type: document
+  format: PDF Document
+  size: 2640939
+  md5: 9fdbe417c32d69b09f84914c26f011c1
+  page: 艾萨克朱利安：新的未来与酷儿往事_page.md
+subdirs: []

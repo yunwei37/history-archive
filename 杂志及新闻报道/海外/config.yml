@@ -18,13 +18,6 @@ files:
   size: 14481357
   md5: 7422ba44084b6ed26b8f6fa8c0605493
   page: 2017上海骄傲电影节观影指南_page.md
-- name: 2021年度多元与包容报告_拳头公司
-  filename: 2021年度多元与包容报告_拳头公司.pdf
-  type: document
-  format: PDF Document
-  size: 2592687
-  md5: 18b67646c4aa65c7e7891719868b827b
-  page: 2021年度多元与包容报告_拳头公司_page.md
 - name: 2023年抢当铺事件观察
   filename: 2023年抢当铺事件观察.pdf
   type: document
@@ -46,6 +39,13 @@ files:
   size: 5395633
   md5: c168cd101f84ed7499aa51685f36a7d2
   page: PDF_看见性别_观察家_page.md
+- name: 相约自杀、囤积药物、计划搬家…川普胜选令LGBTQ+群体焦虑，担心权利被剥夺
+  filename: 相约自杀、囤积药物、计划搬家…川普胜选令LGBTQ+群体焦虑，担心权利被剥夺.pdf
+  type: document
+  format: PDF Document
+  size: 2060784
+  md5: 3ca4201ff05406f4f5ef322283c443af
+  page: 相约自杀、囤积药物、计划搬家…川普胜选令LGBTQ+群体焦虑，担心权利被剥夺_page.md
 - name: 酷拉时报年度合刊_2015_华人拉拉联盟
   filename: 酷拉时报年度合刊_2015_华人拉拉联盟.pdf
   type: document

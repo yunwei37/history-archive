@@ -1,7 +1,7 @@
 # 雌性与草药治疗_林从欣_Patrick_动态研究
 
 <!-- tcd_download_link -->
-Download: [雌性与草药治疗_林从欣_Patrick_动态研究.pdf](雌性与草药治疗_林从欣_Patrick_动态研究.pdf)
+下载: [雌性与草药治疗_林从欣_Patrick_动态研究.pdf](雌性与草药治疗_林从欣_Patrick_动态研究.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [雌性与草药治疗_林从欣_Patrick_动态研究.pdf](雌性与�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [雌性与草药治疗_林从欣_Patrick_动态研究.pdf](雌性与�
 | Tags            | 草药治疗, 跨性别, 医疗资源, 性别与身体, 荷尔蒙, 自然疗法, 医学研究, 文化反思                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../雌性与草药治疗_林从欣_Patrick_动态研究.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

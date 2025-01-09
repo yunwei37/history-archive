@@ -1,7 +1,7 @@
 # 学校性骚扰应对指南
 
 <!-- tcd_download_link -->
-Download: [学校性骚扰应对指南.pdf](学校性骚扰应对指南.pdf)
+下载: [学校性骚扰应对指南.pdf](学校性骚扰应对指南.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -13,7 +13,7 @@ Download: [学校性骚扰应对指南.pdf](学校性骚扰应对指南.pdf)
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -30,3 +30,13 @@ Download: [学校性骚扰应对指南.pdf](学校性骚扰应对指南.pdf)
 | Tags            | 性骚扰, 性侵犯, 学校, 学生权益, 法律指导, 心理支持, LGBTQ+支持, 求助热线                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../学校性骚扰应对指南.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

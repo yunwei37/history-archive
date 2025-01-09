@@ -1,7 +1,7 @@
 # Gossip_Boys_and_Girls_-_跨性別資源中心
 
 <!-- tcd_download_link -->
-Download: [Gossip_Boys_and_Girls_-_跨性別資源中心.pdf](Gossip_Boys_and_Girls_-_跨性別資源中心.pdf)
+下载: [Gossip_Boys_and_Girls_-_跨性別資源中心.pdf](Gossip_Boys_and_Girls_-_跨性別資源中心.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [Gossip_Boys_and_Girls_-_跨性別資源中心.pdf](Gossip_Boys_and_Gi
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [Gossip_Boys_and_Girls_-_跨性別資源中心.pdf](Gossip_Boys_and_Gi
 | Tags            | 跨性别, 性别认同, 香港, 生命故事, 法律政策, 社会环境, 医疗资源, 经验分享, 跨性别权益, 教育手册                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../Gossip_Boys_and_Girls_-_跨性別資源中心.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

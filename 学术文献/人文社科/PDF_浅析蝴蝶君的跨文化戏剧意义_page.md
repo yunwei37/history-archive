@@ -1,7 +1,7 @@
 # PDF_浅析蝴蝶君的跨文化戏剧意义
 
 <!-- tcd_download_link -->
-Download: [PDF_浅析蝴蝶君的跨文化戏剧意义.pdf](PDF_浅析蝴蝶君的跨文化戏剧意义.pdf)
+下载: [PDF_浅析蝴蝶君的跨文化戏剧意义.pdf](PDF_浅析蝴蝶君的跨文化戏剧意义.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_浅析蝴蝶君的跨文化戏剧意义.pdf](PDF_浅析蝴蝶君�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_浅析蝴蝶君的跨文化戏剧意义.pdf](PDF_浅析蝴蝶君�
 | Tags            | 跨文化戏剧, 蝴蝶君, 后殖民主义, 中西文化交流, 戏剧分析, 黄哲伦, 身份认同, 社会心理                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_浅析蝴蝶君的跨文化戏剧意义.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

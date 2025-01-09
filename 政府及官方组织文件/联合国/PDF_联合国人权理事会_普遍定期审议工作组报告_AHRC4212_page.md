@@ -1,7 +1,7 @@
 # PDF_联合国人权理事会_普遍定期审议工作组报告_AHRC4212
 
 <!-- tcd_download_link -->
-Download: [PDF_联合国人权理事会_普遍定期审议工作组报告_AHRC4212.pdf](PDF_联合国人权理事会_普遍定期审议工作组报告_AHRC4212.pdf)
+下载: [PDF_联合国人权理事会_普遍定期审议工作组报告_AHRC4212.pdf](PDF_联合国人权理事会_普遍定期审议工作组报告_AHRC4212.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -13,7 +13,7 @@ Download: [PDF_联合国人权理事会_普遍定期审议工作组报告_AHRC42
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -30,3 +30,13 @@ Download: [PDF_联合国人权理事会_普遍定期审议工作组报告_AHRC42
 | Tags            | 跨性别权利, 人权审查, 性别平等, 社会保障, 哥斯达黎加, LGBTQ权利, 联合国                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_联合国人权理事会_普遍定期审议工作组报告_AHRC4212.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

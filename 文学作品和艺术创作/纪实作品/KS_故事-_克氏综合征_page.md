@@ -1,7 +1,7 @@
 # KS_故事-_克氏综合征
 
 <!-- tcd_download_link -->
-Download: [KS_故事-_克氏综合征.pdf](KS_故事-_克氏综合征.pdf)
+下载: [KS_故事-_克氏综合征.pdf](KS_故事-_克氏综合征.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [KS_故事-_克氏综合征.pdf](KS_故事-_克氏综合征.pdf)
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [KS_故事-_克氏综合征.pdf](KS_故事-_克氏综合征.pdf)
 | Tags            | 克氏综合征, 遗传病, 患者故事, 医疗资源, 心理健康, 社会支持, 男性健康, 性别研究                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../KS_故事-_克氏综合征.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

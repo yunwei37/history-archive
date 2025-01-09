@@ -1,7 +1,7 @@
 # PridePlace_西雅图LGBTQIA+年长者住房信息_2023
 
 <!-- tcd_download_link -->
-Download: [PridePlace_西雅图LGBTQIA+年长者住房信息_2023.pdf](PridePlace_西雅图LGBTQIA+年长者住房信息_2023.pdf)
+下载: [PridePlace_西雅图LGBTQIA+年长者住房信息_2023.pdf](PridePlace_西雅图LGBTQIA+年长者住房信息_2023.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PridePlace_西雅图LGBTQIA+年长者住房信息_2023.pdf](PridePlac
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PridePlace_西雅图LGBTQIA+年长者住房信息_2023.pdf](PridePlac
 | Tags            | LGBTQIA+, 年长者住房, 西雅图, 跨性别, 酷儿, 社区资源, 医疗服务, 法律政策, 平权住房                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PridePlace_西雅图LGBTQIA+年长者住房信息_2023.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

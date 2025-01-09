@@ -1,7 +1,7 @@
 # 促进变革音乐行业中的性别平等
 
 <!-- tcd_download_link -->
-Download: [促进变革音乐行业中的性别平等.pdf](促进变革音乐行业中的性别平等.pdf)
+下载: [促进变革音乐行业中的性别平等.pdf](促进变革音乐行业中的性别平等.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [促进变革音乐行业中的性别平等.pdf](促进变革音乐行
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [促进变革音乐行业中的性别平等.pdf](促进变革音乐行
 | Tags            | 性别平等, 音乐行业, 性别歧视, 跨性别, 非二元性别, 性骚扰, 心理健康, 社会责任, 行动呼吁                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../促进变革音乐行业中的性别平等.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

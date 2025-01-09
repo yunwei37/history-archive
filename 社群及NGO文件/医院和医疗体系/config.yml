@@ -115,6 +115,20 @@ files:
   size: 38767279
   md5: 486808417a2edf2640e6e561c5050bc6
   page: 北京大学第三医院-_跨性别序列医疗_page.md
+- name: 北医三院“易性症”序列治疗就诊指南
+  filename: 北医三院“易性症”序列治疗就诊指南.pdf
+  type: document
+  format: PDF Document
+  size: 72415
+  md5: 16a76cf0c8c7542f5eaed3cfaec6a6f9
+  page: 北医三院“易性症”序列治疗就诊指南_page.md
+- name: 北医三院易性症序列医疗团队
+  filename: 北医三院易性症序列医疗团队.pdf
+  type: document
+  format: PDF Document
+  size: 362403
+  md5: 2d4d4bc79cff008c5062da0fec32eeed
+  page: 北医三院易性症序列医疗团队_page.md
 - name: 变性后欲望唤起
   filename: 变性后欲望唤起.txt
   type: document
@@ -122,13 +136,13 @@ files:
   size: 22285
   md5: 0af4e8740e57eabd64fd3a1e398ecb03
   page: 变性后欲望唤起_page.md
-- name: 变性手术资料(1)
-  filename: 变性手术资料(1).doc
+- name: 变性手术资料_1_
+  filename: 变性手术资料_1_.doc
   type: document
   format: Microsoft Word Document
   size: 37888
   md5: d2d09d69df973015a230757902ac5e27
-  page: 变性手术资料(1)_page.md
+  page: 变性手术资料_1__page.md
 - name: 家庭咨询服务会面记录
   filename: 家庭咨询服务会面记录.pdf
   type: document

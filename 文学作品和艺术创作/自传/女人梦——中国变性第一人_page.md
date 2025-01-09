@@ -1,7 +1,7 @@
 # 女人梦——中国变性第一人
 
 <!-- tcd_download_link -->
-Download: [女人梦——中国变性第一人.pdf](女人梦——中国变性第一人.pdf)
+下载: [女人梦——中国变性第一人.pdf](女人梦——中国变性第一人.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [女人梦——中国变性第一人.pdf](女人梦——中国变性
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [女人梦——中国变性第一人.pdf](女人梦——中国变性
 | Tags            | 生命故事, 变性经历, 跨性别, 自传, 性的别认同, 法律与社会环境, 中国文化                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../女人梦——中国变性第一人.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

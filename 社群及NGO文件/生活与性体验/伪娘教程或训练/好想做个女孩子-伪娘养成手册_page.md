@@ -1,7 +1,7 @@
 # 好想做个女孩子-伪娘养成手册
 
 <!-- tcd_download_link -->
-Download: [好想做个女孩子-伪娘养成手册.pdf](好想做个女孩子-伪娘养成手册.pdf)
+下载: [好想做个女孩子-伪娘养成手册.pdf](好想做个女孩子-伪娘养成手册.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -18,7 +18,7 @@ Alternative name: 女装入门到精通
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -35,3 +35,13 @@ Alternative name: 女装入门到精通
 | Tags            | 跨性别, 女装, 伪娘, COSPLAY, 生活指导, 性别认同, 美容化妆, 社会适应, 服装搭配, 女性文化                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../好想做个女孩子-伪娘养成手册.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

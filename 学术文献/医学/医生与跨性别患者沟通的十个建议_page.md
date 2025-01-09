@@ -1,7 +1,7 @@
 # 医生与跨性别患者沟通的十个建议
 
 <!-- tcd_download_link -->
-Download: [医生与跨性别患者沟通的十个建议.pdf](医生与跨性别患者沟通的十个建议.pdf)
+下载: [医生与跨性别患者沟通的十个建议.pdf](医生与跨性别患者沟通的十个建议.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [医生与跨性别患者沟通的十个建议.pdf](医生与跨性别
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [医生与跨性别患者沟通的十个建议.pdf](医生与跨性别
 | Tags            | 跨性别, 医疗资源, 患者服务, 性别认同, 沟通技巧, 医疗协议, 社会环境                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../医生与跨性别患者沟通的十个建议.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

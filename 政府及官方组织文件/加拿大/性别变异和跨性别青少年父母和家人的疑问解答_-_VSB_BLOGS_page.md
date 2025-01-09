@@ -1,7 +1,7 @@
 # 性别变异和跨性别青少年父母和家人的疑问解答_-_VSB_BLOGS
 
 <!-- tcd_download_link -->
-Download: [性别变异和跨性别青少年父母和家人的疑问解答_-_VSB_BLOGS.pdf](性别变异和跨性别青少年父母和家人的疑问解答_-_VSB_BLOGS.pdf)
+下载: [性别变异和跨性别青少年父母和家人的疑问解答_-_VSB_BLOGS.pdf](性别变异和跨性别青少年父母和家人的疑问解答_-_VSB_BLOGS.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [性别变异和跨性别青少年父母和家人的疑问解答_-_VSB
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [性别变异和跨性别青少年父母和家人的疑问解答_-_VSB
 | Tags            | 跨性别, 性别变异, 青少年, 家长支持, 家庭接纳, 社会接纳, 教育资源, 性别认同                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../性别变异和跨性别青少年父母和家人的疑问解答_-_VSB_BLOGS.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

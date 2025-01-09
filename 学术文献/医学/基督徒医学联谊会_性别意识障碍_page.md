@@ -1,7 +1,7 @@
 # 基督徒医学联谊会_性别意识障碍
 
 <!-- tcd_download_link -->
-Download: [基督徒医学联谊会_性别意识障碍.pdf](基督徒医学联谊会_性别意识障碍.pdf)
+下载: [基督徒医学联谊会_性别意识障碍.pdf](基督徒医学联谊会_性别意识障碍.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [基督徒医学联谊会_性别意识障碍.pdf](基督徒医学联�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [基督徒医学联谊会_性别意识障碍.pdf](基督徒医学联�
 | Tags            | 性别意识障碍, 变性人, 基督教观点, 社会歧视, 法律和政策, 心理健康, 医疗资源, 性别认同, 伦理道德问题                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../基督徒医学联谊会_性别意识障碍.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

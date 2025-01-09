@@ -1,7 +1,7 @@
 # 以愛之名擁抱多元性別_课件
 
 <!-- tcd_download_link -->
-Download: [以愛之名擁抱多元性別_课件.pdf](以愛之名擁抱多元性別_课件.pdf)
+下载: [以愛之名擁抱多元性別_课件.pdf](以愛之名擁抱多元性別_课件.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [以愛之名擁抱多元性別_课件.pdf](以愛之名擁抱多元�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [以愛之名擁抱多元性別_课件.pdf](以愛之名擁抱多元�
 | Tags            | 多元性别, 性别认同, 跨性别, 法律政策, 性别平等, 社会环境, 性别重置手术, 性别光谱, 性别酷儿, LGBT权益                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../以愛之名擁抱多元性別_课件.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

@@ -1,7 +1,7 @@
 # 幼兒成長發育_性別認同
 
 <!-- tcd_download_link -->
-Download: [幼兒成長發育_性別認同.pdf](幼兒成長發育_性別認同.pdf)
+下载: [幼兒成長發育_性別認同.pdf](幼兒成長發育_性別認同.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [幼兒成長發育_性別認同.pdf](幼兒成長發育_性別認同.
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [幼兒成長發育_性別認同.pdf](幼兒成長發育_性別認同.
 | Tags            | 幼儿成长, 性别认同, 跨性别, 中国, 家庭教育, 心理健康, 多样性性别, 双灵                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../幼兒成長發育_性別認同.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

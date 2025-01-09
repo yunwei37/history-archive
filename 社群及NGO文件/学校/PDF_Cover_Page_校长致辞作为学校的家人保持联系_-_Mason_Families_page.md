@@ -1,7 +1,7 @@
 # PDF_Cover_Page_校长致辞作为学校的家人保持联系_-_Mason_Families
 
 <!-- tcd_download_link -->
-Download: [PDF_Cover_Page_校长致辞作为学校的家人保持联系_-_Mason_Families.pdf](PDF_Cover_Page_校长致辞作为学校的家人保持联系_-_Mason_Families.pdf)
+下载: [PDF_Cover_Page_校长致辞作为学校的家人保持联系_-_Mason_Families.pdf](PDF_Cover_Page_校长致辞作为学校的家人保持联系_-_Mason_Families.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_Cover_Page_校长致辞作为学校的家人保持联系_-_Mason_
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_Cover_Page_校长致辞作为学校的家人保持联系_-_Mason_
 | Tags            | 跨性别, 学校政策, 家庭支持, 梅森大学, 新生和家庭计划, 学生成功, 多样性与包容性                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_Cover_Page_校长致辞作为学校的家人保持联系_-_Mason_Families.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

@@ -1,7 +1,7 @@
 # PDF_北京2019_年跨性别医疗学术研讨会_-_WPATH
 
 <!-- tcd_download_link -->
-Download: [PDF_北京2019_年跨性别医疗学术研讨会_-_WPATH.pdf](PDF_北京2019_年跨性别医疗学术研讨会_-_WPATH.pdf)
+下载: [PDF_北京2019_年跨性别医疗学术研讨会_-_WPATH.pdf](PDF_北京2019_年跨性别医疗学术研讨会_-_WPATH.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_北京2019_年跨性别医疗学术研讨会_-_WPATH.pdf](PDF_北
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_北京2019_年跨性别医疗学术研讨会_-_WPATH.pdf](PDF_北
 | Tags            | 跨性别, 医疗研讨会, 心理健康, 声音训练, 激素治疗, 性别重置手术, 法律政策, 社会环境                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_北京2019_年跨性别医疗学术研讨会_-_WPATH.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

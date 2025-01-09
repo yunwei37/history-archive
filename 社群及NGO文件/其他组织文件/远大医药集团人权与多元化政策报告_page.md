@@ -1,7 +1,7 @@
 # 远大医药集团人权与多元化政策报告
 
 <!-- tcd_download_link -->
-Download: [远大医药集团人权与多元化政策报告.pdf](远大医药集团人权与多元化政策报告.pdf)
+下载: [远大医药集团人权与多元化政策报告.pdf](远大医药集团人权与多元化政策报告.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [远大医药集团人权与多元化政策报告.pdf](远大医药集
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [远大医药集团人权与多元化政策报告.pdf](远大医药集
 | Tags            | 人权, 多元化, 职场平等, 员工权益, 反歧视, 性别平等, 工作环境, 组织政策                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../远大医药集团人权与多元化政策报告.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

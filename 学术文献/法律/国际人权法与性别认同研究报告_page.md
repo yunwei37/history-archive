@@ -1,7 +1,7 @@
 # 国际人权法与性别认同研究报告
 
 <!-- tcd_download_link -->
-Download: [国际人权法与性别认同研究报告.pdf](国际人权法与性别认同研究报告.pdf)
+下载: [国际人权法与性别认同研究报告.pdf](国际人权法与性别认同研究报告.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [国际人权法与性别认同研究报告.pdf](国际人权法与性
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [国际人权法与性别认同研究报告.pdf](国际人权法与性
 | Tags            | 国际人权法, 性别认同, 性取向, 跨性别者, 人权保护, 反歧视, 联合国, 人权宣言, 法律责任, 性少数群体                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../国际人权法与性别认同研究报告.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

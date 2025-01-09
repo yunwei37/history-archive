@@ -1,7 +1,7 @@
 # 性别手册学生版
 
 <!-- tcd_download_link -->
-Download: [性别手册学生版.pdf](性别手册学生版.pdf)
+下载: [性别手册学生版.pdf](性别手册学生版.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [性别手册学生版.pdf](性别手册学生版.pdf)
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [性别手册学生版.pdf](性别手册学生版.pdf)
 | Tags            | 性别, 跨性别, LGBTQ, 咨询服务, 学生手册, 性别认同, 性别表达, 校园生活, 多元化, 权利保障                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../性别手册学生版.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

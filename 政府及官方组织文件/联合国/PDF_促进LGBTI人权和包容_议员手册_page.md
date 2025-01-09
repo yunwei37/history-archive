@@ -1,7 +1,7 @@
 # PDF_促进LGBTI人权和包容_议员手册
 
 <!-- tcd_download_link -->
-Download: [PDF_促进LGBTI人权和包容_议员手册.pdf](PDF_促进LGBTI人权和包容_议员手册.pdf)
+下载: [PDF_促进LGBTI人权和包容_议员手册.pdf](PDF_促进LGBTI人权和包容_议员手册.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_促进LGBTI人权和包容_议员手册.pdf](PDF_促进LGBTI人�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_促进LGBTI人权和包容_议员手册.pdf](PDF_促进LGBTI人�
 | Tags            | LGBTI人权, 跨性别, 法律政策, 议员手册, 人权保护, 反歧视, 性别平等, 可持续发展目标                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_促进LGBTI人权和包容_议员手册.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

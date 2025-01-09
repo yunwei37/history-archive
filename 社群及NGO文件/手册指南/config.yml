@@ -72,6 +72,13 @@ files:
   size: 2292264
   md5: e9be2c03c19045694b75d77cf720decc
   page: q-a-for-parents-family-of-transgender-2011-simplified-chinese_page.md
+- name: shizu's_跨性别女性HRT资料兼指南__v1.0_
+  filename: shizu's_跨性别女性HRT资料兼指南__v1.0_.pdf
+  type: document
+  format: PDF Document
+  size: 2887102
+  md5: 0bbda2f17bb900152f398023f050d8d1
+  page: shizu's_跨性别女性HRT资料兼指南__v1.0__page.md
 - name: 《跨性别者购药反诈防骗指南_V2.0》
   filename: 《跨性别者购药反诈防骗指南_V2.0》.pdf
   type: document
@@ -93,13 +100,13 @@ files:
   size: 8426774
   md5: 5002f5c2aecaa65677aee4a65ec3326a
   page: 亚太跨性别健康蓝图_page.md
-- name: 伴您同行_专为跨性别儿童的父母准备的指南(SG出柜指南_原版)
-  filename: 伴您同行_专为跨性别儿童的父母准备的指南(SG出柜指南_原版).pdf
+- name: 伴您同行_专为跨性别儿童的父母准备的指南_SG出柜指南_原版_
+  filename: 伴您同行_专为跨性别儿童的父母准备的指南_SG出柜指南_原版_.pdf
   type: document
   format: PDF Document
   size: 18705720
   md5: b35dcebc987983a703784091f2914fa6
-  page: 伴您同行_专为跨性别儿童的父母准备的指南(SG出柜指南_原版)_page.md
+  page: 伴您同行_专为跨性别儿童的父母准备的指南_SG出柜指南_原版__page.md
 - name: 关于LGBTQ群体的倡导与支持建议
   filename: 关于LGBTQ群体的倡导与支持建议.pdf
   type: document
@@ -107,6 +114,13 @@ files:
   size: 919
   md5: 47595f8f76cc073b81e425256eff8405
   page: 关于LGBTQ群体的倡导与支持建议_page.md
+- name: 关于跨性别者个⼈人身份信息的更更改经验分享
+  filename: 关于跨性别者个⼈人身份信息的更更改经验分享.pdf
+  type: document
+  format: PDF Document
+  size: 165671
+  md5: a1b7612b8276cdd484cb2b3ede1f371d
+  page: 关于跨性别者个⼈人身份信息的更更改经验分享_page.md
 - name: 关于跨性别者和性别非二元_人群的初级和性别肯定护理_指南_UCSF
   filename: 关于跨性别者和性别非二元_人群的初级和性别肯定护理_指南_UCSF.pdf
   type: document
@@ -114,6 +128,13 @@ files:
   size: 2805105
   md5: b554645b8db93ce1555d79da01860e60
   page: 关于跨性别者和性别非二元_人群的初级和性别肯定护理_指南_UCSF_page.md
+- name: 出柜手册-620
+  filename: 出柜手册-620.pdf
+  type: document
+  format: PDF Document
+  size: 169266
+  md5: 4c4ec2fc22f4e276387f87f4f9cb1950
+  page: 出柜手册-620_page.md
 - name: 出柜指南_来自UCSB_RCSGD_2023
   filename: 出柜指南_来自UCSB_RCSGD_2023.pdf
   type: document
@@ -128,6 +149,20 @@ files:
   size: 14257055
   md5: 7b341a89b6f1a00c440f113844b336b9
   page: 北同跨性别医疗照护手册_page.md
+- name: 反扭转治疗内部工作手册
+  filename: 反扭转治疗内部工作手册.docx
+  type: document
+  format: Microsoft Word Document (OpenXML)
+  size: 12919
+  md5: ad29e93f966d6c78e5f5762e75c92f3e
+  page: 反扭转治疗内部工作手册_page.md
+- name: 嗓音训练指南正式归档
+  filename: 嗓音训练指南正式归档.pdf
+  type: document
+  format: PDF Document
+  size: 13934262
+  md5: f3b144993f13f8df91029fdda9d7feec
+  page: 嗓音训练指南正式归档_page.md
 - name: 坦荡出柜_亚太裔LGBTQ人群生活指南
   filename: 坦荡出柜_亚太裔LGBTQ人群生活指南.pdf
   type: document
@@ -135,6 +170,13 @@ files:
   size: 1547208
   md5: 08db40c00e3ddee696fe6a27365532f9
   page: 坦荡出柜_亚太裔LGBTQ人群生活指南_page.md
+- name: 如何应对扭转治疗——李晓晨
+  filename: 如何应对扭转治疗——李晓晨.docx
+  type: document
+  format: Microsoft Word Document (OpenXML)
+  size: 118913
+  md5: 82e320a598d2eb53c13f28bb5a51f17c
+  page: 如何应对扭转治疗——李晓晨_page.md
 - name: 幫助家裡有同志_（女同性戀、男同性戀、雙性戀、跨性別）成員的家庭指南
   filename: 幫助家裡有同志_（女同性戀、男同性戀、雙性戀、跨性別）成員的家庭指南.pdf
   type: document
@@ -226,13 +268,6 @@ files:
   size: 2834944
   md5: b3b99eef3b83e7bb214b8bbaec7545fb
   page: 自切教程萱酱版_page.md
-- name: 艺术家保障性收入计划指南
-  filename: 艺术家保障性收入计划指南.pdf
-  type: document
-  format: PDF Document
-  size: 806510
-  md5: aa845850c59a54752e11361b74de8a91
-  page: 艺术家保障性收入计划指南_page.md
 - name: 跨儿的性别困惑与身份认同
   filename: 跨儿的性别困惑与身份认同.pdf
   type: document
@@ -275,13 +310,13 @@ files:
   size: 161413
   md5: b8593f61a5458408ac369dd83b33bd0e
   page: 跨性别出柜手册_page.md
-- name: 跨性别和多元性别人群健康照护指南（第八版)
-  filename: 跨性别和多元性别人群健康照护指南（第八版).pdf
+- name: 跨性别和多元性别人群健康照护指南（第八版_
+  filename: 跨性别和多元性别人群健康照护指南（第八版_.pdf
   type: document
   format: PDF Document
   size: 3738717
   md5: 168fc7b79987574bdd192280702eaa32
-  page: 跨性别和多元性别人群健康照护指南（第八版)_page.md
+  page: 跨性别和多元性别人群健康照护指南（第八版__page.md
 - name: 跨性别安全指南
   filename: 跨性别安全指南.pdf
   type: document

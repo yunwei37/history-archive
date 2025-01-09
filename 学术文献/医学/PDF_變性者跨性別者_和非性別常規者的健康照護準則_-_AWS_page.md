@@ -1,7 +1,7 @@
 # PDF_變性者跨性別者_和非性別常規者的健康照護準則_-_AWS
 
 <!-- tcd_download_link -->
-Download: [PDF_變性者跨性別者_和非性別常規者的健康照護準則_-_AWS.pdf](PDF_變性者跨性別者_和非性別常規者的健康照護準則_-_AWS.pdf)
+下载: [PDF_變性者跨性別者_和非性別常規者的健康照護準則_-_AWS.pdf](PDF_變性者跨性別者_和非性別常規者的健康照護準則_-_AWS.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_變性者跨性別者_和非性別常規者的健康照護準則_
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_變性者跨性別者_和非性別常規者的健康照護準則_
 | Tags            | 跨性别, 健康照护准则, 性别不安, 医疗资源, 心理健康, 激素治疗, 手术治疗, 社会政策, 儿童青少年治疗, 非性别常规者                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_變性者跨性別者_和非性別常規者的健康照護準則_-_AWS.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

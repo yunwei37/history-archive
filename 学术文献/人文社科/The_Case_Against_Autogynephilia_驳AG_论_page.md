@@ -1,7 +1,7 @@
 # The_Case_Against_Autogynephilia_驳AG_论
 
 <!-- tcd_download_link -->
-Download: [The_Case_Against_Autogynephilia_驳AG_论.pdf](The_Case_Against_Autogynephilia_驳AG_论.pdf)
+下载: [The_Case_Against_Autogynephilia_驳AG_论.pdf](The_Case_Against_Autogynephilia_驳AG_论.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [The_Case_Against_Autogynephilia_驳AG_论.pdf](The_Case_Against_Autog
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [The_Case_Against_Autogynephilia_驳AG_论.pdf](The_Case_Against_Autog
 | Tags            | 跨性别研究, 性别认同, 自我女性恋, AG理论, 性欲倒错, 社会歧视, 性别过渡, 学术论文                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../The_Case_Against_Autogynephilia_驳AG_论.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

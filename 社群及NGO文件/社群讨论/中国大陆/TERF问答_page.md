@@ -1,7 +1,7 @@
 # TERF问答
 
 <!-- tcd_download_link -->
-Download: [TERF问答.docx](TERF问答.docx)
+下载: [TERF问答.docx](TERF问答.docx)
 <!-- tcd_download_link_end -->
 
 ## 摘要

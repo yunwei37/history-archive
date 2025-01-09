@@ -1,7 +1,7 @@
 # PDF_性别发育异常的评估诊断和治疗研究进展_-_SciEngine
 
 <!-- tcd_download_link -->
-Download: [PDF_性别发育异常的评估诊断和治疗研究进展_-_SciEngine.pdf](PDF_性别发育异常的评估诊断和治疗研究进展_-_SciEngine.pdf)
+下载: [PDF_性别发育异常的评估诊断和治疗研究进展_-_SciEngine.pdf](PDF_性别发育异常的评估诊断和治疗研究进展_-_SciEngine.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_性别发育异常的评估诊断和治疗研究进展_-_SciEngin
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_性别发育异常的评估诊断和治疗研究进展_-_SciEngin
 | Tags            | 性别发育异常, 医疗资源, 研究进展, 诊断与治疗, 多学科合作, 临床心理学, 泌尿外科, 小儿内分泌                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_性别发育异常的评估诊断和治疗研究进展_-_SciEngine.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

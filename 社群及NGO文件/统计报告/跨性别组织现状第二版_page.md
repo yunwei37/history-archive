@@ -1,7 +1,7 @@
 # 跨性别组织现状第二版
 
 <!-- tcd_download_link -->
-Download: [跨性别组织现状第二版.pdf](跨性别组织现状第二版.pdf)
+下载: [跨性别组织现状第二版.pdf](跨性别组织现状第二版.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [跨性别组织现状第二版.pdf](跨性别组织现状第二版.pd
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [跨性别组织现状第二版.pdf](跨性别组织现状第二版.pd
 | Tags            | 跨性别组织, 人权, 社会挑战, 资金短缺, 医疗资源, 法律支持, 跨性别运动                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../跨性别组织现状第二版.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

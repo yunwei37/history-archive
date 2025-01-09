@@ -1,7 +1,7 @@
 # PDF_LGBTQ_青少年资源_-_Fairfax_County_Public_Schools
 
 <!-- tcd_download_link -->
-Download: [PDF_LGBTQ_青少年资源_-_Fairfax_County_Public_Schools.pdf](PDF_LGBTQ_青少年资源_-_Fairfax_County_Public_Schools.pdf)
+下载: [PDF_LGBTQ_青少年资源_-_Fairfax_County_Public_Schools.pdf](PDF_LGBTQ_青少年资源_-_Fairfax_County_Public_Schools.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_LGBTQ_青少年资源_-_Fairfax_County_Public_Schools.pdf](PDF_LG
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_LGBTQ_青少年资源_-_Fairfax_County_Public_Schools.pdf](PDF_LG
 | Tags            | LGBTQ+, 青少年资源, 卫生与保健, 心理健康, 法律服务, 互助小组, 教育, 支持服务                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_LGBTQ_青少年资源_-_Fairfax_County_Public_Schools.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

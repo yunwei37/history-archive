@@ -1,7 +1,7 @@
 # 彭晓辉_追寻理想性教育环境探讨
 
 <!-- tcd_download_link -->
-Download: [彭晓辉_追寻理想性教育环境探讨.pdf](彭晓辉_追寻理想性教育环境探讨.pdf)
+下载: [彭晓辉_追寻理想性教育环境探讨.pdf](彭晓辉_追寻理想性教育环境探讨.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [彭晓辉_追寻理想性教育环境探讨.pdf](彭晓辉_追寻理�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [彭晓辉_追寻理想性教育环境探讨.pdf](彭晓辉_追寻理�
 | Tags            | 性教育, 性学研究, 性学专业, 性健康, 性知识普及, 法律政策, 社会环境, 性医疗资源                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../彭晓辉_追寻理想性教育环境探讨.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

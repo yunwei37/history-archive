@@ -1,7 +1,7 @@
 # PDF_为基于性别的暴力绘制人道干预新途径
 
 <!-- tcd_download_link -->
-Download: [PDF_为基于性别的暴力绘制人道干预新途径.pdf](PDF_为基于性别的暴力绘制人道干预新途径.pdf)
+下载: [PDF_为基于性别的暴力绘制人道干预新途径.pdf](PDF_为基于性别的暴力绘制人道干预新途径.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_为基于性别的暴力绘制人道干预新途径.pdf](PDF_为�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_为基于性别的暴力绘制人道干预新途径.pdf](PDF_为�
 | Tags            | 性别暴力, 人道干预, 性别平等, 跨性别者, LGBTI权利, 性别包容, 男性受害者, 人道主义, 机构间常委会指南, 社会正义                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_为基于性别的暴力绘制人道干预新途径.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

@@ -1,7 +1,7 @@
 # 英汉文化词汇探讨_徐东林
 
 <!-- tcd_download_link -->
-Download: [英汉文化词汇探讨_徐东林.pdf](英汉文化词汇探讨_徐东林.pdf)
+下载: [英汉文化词汇探讨_徐东林.pdf](英汉文化词汇探讨_徐东林.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [英汉文化词汇探讨_徐东林.pdf](英汉文化词汇探讨_徐�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [英汉文化词汇探讨_徐东林.pdf](英汉文化词汇探讨_徐�
 | Tags            | 英汉文化, 词汇研究, 跨文化交流, 语言与文化, 社会文化内涵, 文化差异                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../英汉文化词汇探讨_徐东林.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

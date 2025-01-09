@@ -1,7 +1,7 @@
 # 酷儿电影中的跨性别身份认同
 
 <!-- tcd_download_link -->
-Download: [酷儿电影中的跨性别身份认同.pdf](酷儿电影中的跨性别身份认同.pdf)
+下载: [酷儿电影中的跨性别身份认同.pdf](酷儿电影中的跨性别身份认同.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [酷儿电影中的跨性别身份认同.pdf](酷儿电影中的跨性
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [酷儿电影中的跨性别身份认同.pdf](酷儿电影中的跨性
 | Tags            | 跨性别, 身份认同, 酷儿电影, 社会文化, 电影分析, 布兰登, 性别研究, 性别规范, 情感表达                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../酷儿电影中的跨性别身份认同.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

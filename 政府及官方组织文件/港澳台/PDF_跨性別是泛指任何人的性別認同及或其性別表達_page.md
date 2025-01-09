@@ -1,7 +1,7 @@
 # PDF_跨性別是泛指任何人的性別認同及或其性別表達
 
 <!-- tcd_download_link -->
-Download: [PDF_跨性別是泛指任何人的性別認同及或其性別表達.pdf](PDF_跨性別是泛指任何人的性別認同及或其性別表達.pdf)
+下载: [PDF_跨性別是泛指任何人的性別認同及或其性別表達.pdf](PDF_跨性別是泛指任何人的性別認同及或其性別表達.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_跨性別是泛指任何人的性別認同及或其性別表達.p
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_跨性別是泛指任何人的性別認同及或其性別表達.p
 | Tags            | 跨性别权利, 变性人, 性别认同, 香港法律, 社会歧视, 性别重置手术, 心理健康, W诉婚姻登记官案                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_跨性別是泛指任何人的性別認同及或其性別表達.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

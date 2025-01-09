@@ -1,7 +1,7 @@
 # PDF_中国跨性别者受教育权状况研究报告_201903_v10pdf
 
 <!-- tcd_download_link -->
-Download: [PDF_中国跨性别者受教育权状况研究报告_201903_v10pdf.pdf](PDF_中国跨性别者受教育权状况研究报告_201903_v10pdf.pdf)
+下载: [PDF_中国跨性别者受教育权状况研究报告_201903_v10pdf.pdf](PDF_中国跨性别者受教育权状况研究报告_201903_v10pdf.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_中国跨性别者受教育权状况研究报告_201903_v10pdf.pd
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_中国跨性别者受教育权状况研究报告_201903_v10pdf.pd
 | Tags            | 跨性别, 受教育权, 社会环境, 法律政策, 性别认同, 焦点小组访谈, 统计报告                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_中国跨性别者受教育权状况研究报告_201903_v10pdf.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

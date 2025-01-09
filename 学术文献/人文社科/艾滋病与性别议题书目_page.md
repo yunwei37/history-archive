@@ -1,7 +1,7 @@
 # 艾滋病与性别议题书目
 
 <!-- tcd_download_link -->
-Download: [艾滋病与性别议题书目.pdf](艾滋病与性别议题书目.pdf)
+下载: [艾滋病与性别议题书目.pdf](艾滋病与性别议题书目.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [艾滋病与性别议题书目.pdf](艾滋病与性别议题书目.pd
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [艾滋病与性别议题书目.pdf](艾滋病与性别议题书目.pd
 | Tags            | 艾滋病, 性别议题, 同性恋, 跨性别, 文化研究, 社会科学文献, 文学, 东南亚                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../艾滋病与性别议题书目.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

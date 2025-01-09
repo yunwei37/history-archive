@@ -1,7 +1,7 @@
 # Advocate__Aurora__Health_有关提供服务时严禁歧视的通知
 
 <!-- tcd_download_link -->
-Download: [Advocate__Aurora__Health_有关提供服务时严禁歧视的通知.pdf](Advocate__Aurora__Health_有关提供服务时严禁歧视的通知.pdf)
+下载: [Advocate__Aurora__Health_有关提供服务时严禁歧视的通知.pdf](Advocate__Aurora__Health_有关提供服务时严禁歧视的通知.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [Advocate__Aurora__Health_有关提供服务时严禁歧视的通知.p
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [Advocate__Aurora__Health_有关提供服务时严禁歧视的通知.p
 | Tags            | 反歧视, 跨性别权益, 医疗服务, 法律政策, 社会环境, 平等权利, 投诉程序                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../Advocate__Aurora__Health_有关提供服务时严禁歧视的通知.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

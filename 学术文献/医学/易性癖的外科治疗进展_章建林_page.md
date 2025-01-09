@@ -1,7 +1,7 @@
 # 易性癖的外科治疗进展_章建林
 
 <!-- tcd_download_link -->
-Download: [易性癖的外科治疗进展_章建林.pdf](易性癖的外科治疗进展_章建林.pdf)
+下载: [易性癖的外科治疗进展_章建林.pdf](易性癖的外科治疗进展_章建林.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [易性癖的外科治疗进展_章建林.pdf](易性癖的外科治�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [易性癖的外科治疗进展_章建林.pdf](易性癖的外科治�
 | Tags            | 易性癖, 外科治疗, 医学进展, 跨性别健康, 医疗资源                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../易性癖的外科治疗进展_章建林.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

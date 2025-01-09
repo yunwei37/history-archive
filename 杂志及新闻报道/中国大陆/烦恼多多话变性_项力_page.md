@@ -1,7 +1,7 @@
 # 烦恼多多话变性_项力
 
 <!-- tcd_download_link -->
-Download: [烦恼多多话变性_项力.pdf](烦恼多多话变性_项力.pdf)
+下载: [烦恼多多话变性_项力.pdf](烦恼多多话变性_项力.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [烦恼多多话变性_项力.pdf](烦恼多多话变性_项力.pdf)
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [烦恼多多话变性_项力.pdf](烦恼多多话变性_项力.pdf)
 | Tags            | 跨性别, 变性经历, 社会歧视, 医疗资源, 情感困境, 法律问题, 生命故事                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../烦恼多多话变性_项力.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

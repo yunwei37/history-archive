@@ -1,7 +1,7 @@
 # 一个变性手术专家的手记
 
 <!-- tcd_download_link -->
-Download: [一个变性手术专家的手记.pdf](一个变性手术专家的手记.pdf)
+下载: [一个变性手术专家的手记.pdf](一个变性手术专家的手记.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [一个变性手术专家的手记.pdf](一个变性手术专家的手
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [一个变性手术专家的手记.pdf](一个变性手术专家的手
 | Tags            | 变性手术, 易性癖, 社会反响, 医疗资源, 心理挣扎, 跨性别群体, 真实故事                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../一个变性手术专家的手记.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

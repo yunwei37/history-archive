@@ -10,6 +10,13 @@ tags:
 - 数据分析
 license: ''
 files:
+- name: 2013年扭转治疗调查报告
+  filename: 2013年扭转治疗调查报告.pdf
+  type: document
+  format: PDF Document
+  size: 1779749
+  md5: 1a5cb51a9c59530a9d8101657f3195a7
+  page: 2013年扭转治疗调查报告_page.md
 - name: 2015年亚太催化剂-北京上海跨性别女性性工作者生活状况调查
   filename: 2015年亚太催化剂-北京上海跨性别女性性工作者生活状况调查.pdf
   type: document
@@ -24,6 +31,13 @@ files:
   size: 148828
   md5: 28b99b9253c0aff72065e755d0fcf746
   page: 2016年愛滋病預防項目指標調查報告-男跨女跨性別人士_page.md
+- name: 2017_Chinese_Transgender_Population_General_Survey_Report
+  filename: 2017_Chinese_Transgender_Population_General_Survey_Report.pdf
+  type: document
+  format: PDF Document
+  size: 4600171
+  md5: e964a4f2bae290028aba8a8445eaf0b1
+  page: 2017_Chinese_Transgender_Population_General_Survey_Report_page.md
 - name: 2020年《跨性別就業與職場調查》報告.docx
   filename: 2020年《跨性別就業與職場調查》報告.docx.pdf
   type: document
@@ -108,6 +122,27 @@ files:
   size: 559276
   md5: dfd58f68607fc1a4ef007158e8b49267
   page: PDF_阴阳人双性人间性人组织现状1_page.md
+- name: Report_-_Awareness_and_Attitudes_towards_GenderSexual_Minority_among_Psychiatry_and_Psychological_Counseling_Practitioners
+  filename: Report_-_Awareness_and_Attitudes_towards_GenderSexual_Minority_among_Psychiatry_and_Psychological_Counseling_Practitioners.pdf
+  type: document
+  format: PDF Document
+  size: 848063
+  md5: ba702ac30ff6067d42d3b866099b4fdb
+  page: Report_-_Awareness_and_Attitudes_towards_GenderSexual_Minority_among_Psychiatry_and_Psychological_Counseling_Practitioners_page.md
+- name: Report_on_The_Mental_Health_of_LGBT_People_in_China
+  filename: Report_on_The_Mental_Health_of_LGBT_People_in_China.pdf
+  type: document
+  format: PDF Document
+  size: 3482751
+  md5: babcbd9e9f7dfa9ed250534ab1ba7afc
+  page: Report_on_The_Mental_Health_of_LGBT_People_in_China_page.md
+- name: SOGIE_Report_-_Being_LGBTI_in_China
+  filename: SOGIE_Report_-_Being_LGBTI_in_China.pdf
+  type: document
+  format: PDF Document
+  size: 1705327
+  md5: f2040145cb36b87d068f47f590cf5c62
+  page: SOGIE_Report_-_Being_LGBTI_in_China_page.md
 - name: T_S_W简报09_跨性别性工作者的需求与权利
   filename: T_S_W简报09_跨性别性工作者的需求与权利.pdf
   type: document
@@ -115,6 +150,20 @@ files:
   size: 1038667
   md5: 2004caf351b12a012481a3f7f286c176
   page: T_S_W简报09_跨性别性工作者的需求与权利_page.md
+- name: 中国同志中心心理健康报告
+  filename: 中国同志中心心理健康报告.pdf
+  type: document
+  format: PDF Document
+  size: 4410870
+  md5: 4d986e4c03e8f9790babc2bd41894859
+  page: 中国同志中心心理健康报告_page.md
+- name: 中国同志心理健康报告
+  filename: 中国同志心理健康报告.pdf
+  type: document
+  format: PDF Document
+  size: 4414637
+  md5: 5f79cc14cf042cbfb36be41d57533ad8
+  page: 中国同志心理健康报告_page.md
 - name: 中国多元性别女性的生活与权益_研究报告（2023_年_第一版）
   filename: 中国多元性别女性的生活与权益_研究报告（2023_年_第一版）.pdf
   type: document
@@ -129,6 +178,13 @@ files:
   size: 1699501
   md5: 360a28e036fe757d79252beff4e639b2
   page: 中国多元性别未成年人的生活与权益_page.md
+- name: 中国性少数群体生存状况（中文版）
+  filename: 中国性少数群体生存状况（中文版）.pdf
+  type: document
+  format: PDF Document
+  size: 1579263
+  md5: a9228c45d0f82bf4011b5484a44336ee
+  page: 中国性少数群体生存状况（中文版）_page.md
 - name: 中国跨性别群体-_生存现状调查报告
   filename: 中国跨性别群体-_生存现状调查报告.pdf
   type: document
@@ -192,6 +248,20 @@ files:
   size: 265661
   md5: 5b76ee85aff0d69363fecfbb9c097829
   page: 双性恋人群的生存现状与挑战_page.md
+- name: 反家暴法_在跨性别群体中的应用实况_及跨性别群体对反家暴法的_改进建议2017
+  filename: 反家暴法_在跨性别群体中的应用实况_及跨性别群体对反家暴法的_改进建议2017.pdf
+  type: document
+  format: PDF Document
+  size: 1650121
+  md5: c23598f3a536d03f8541810b5fca1252
+  page: 反家暴法_在跨性别群体中的应用实况_及跨性别群体对反家暴法的_改进建议2017_page.md
+- name: 同语《多元性别权益：从草根到联合国》
+  filename: 同语《多元性别权益：从草根到联合国》.pdf
+  type: document
+  format: PDF Document
+  size: 2565276
+  md5: 7fc85bc6c2c82ff884d4915c8e461ce0
+  page: 同语《多元性别权益：从草根到联合国》_page.md
 - name: 多元性別統計報告_澳洲與加拿大人口普查_2022
   filename: 多元性別統計報告_澳洲與加拿大人口普查_2022.pdf
   type: document
@@ -227,6 +297,13 @@ files:
   size: 1073144
   md5: 132fcde273647deae4e9cf894c8f6333
   page: 犹他州药物滥用治疗系统健康差异报告_2021_page.md
+- name: 精神卫生与心理咨询从业人员对性少数的态度调查报告（中文版）
+  filename: 精神卫生与心理咨询从业人员对性少数的态度调查报告（中文版）.pdf
+  type: document
+  format: PDF Document
+  size: 982584
+  md5: 0b506de0af3e7d063e1f7c56e33b1580
+  page: 精神卫生与心理咨询从业人员对性少数的态度调查报告（中文版）_page.md
 - name: 统计结果调查报告
   filename: 统计结果调查报告.json
   type: other
@@ -234,6 +311,13 @@ files:
   size: 6497673
   md5: de528d29d69d1856c28cb9fb3a18be6c
   page: 统计结果调查报告.json
+- name: 跨性别校园与证件修改调查报告
+  filename: 跨性别校园与证件修改调查报告.pdf
+  type: document
+  format: PDF Document
+  size: 1030770
+  md5: 8ebfb7b35f1e9d7c79e7b2e2aad7f7ef
+  page: 跨性别校园与证件修改调查报告_page.md
 - name: 跨性别组织现状第二版
   filename: 跨性别组织现状第二版.pdf
   type: document
@@ -241,6 +325,13 @@ files:
   size: 532701
   md5: d5d474bf581eeb2eb9b30ac38b8f9233
   page: 跨性别组织现状第二版_page.md
+- name: 跨性别者性别认同的法律承认-中国相关法律和政策的评估报告-中华女子学院-UNDP
+  filename: 跨性别者性别认同的法律承认-中国相关法律和政策的评估报告-中华女子学院-UNDP.pdf
+  type: document
+  format: PDF Document
+  size: 2500164
+  md5: b2c60778ed3345239128c81d8bd7465f
+  page: 跨性别者性别认同的法律承认-中国相关法律和政策的评估报告-中华女子学院-UNDP_page.md
 - name: 跨性别者性别认同的法律承认_中国相关法律和政策的评估报告
   filename: 跨性别者性别认同的法律承认_中国相关法律和政策的评估报告.pdf
   type: document

@@ -1,7 +1,7 @@
 # PDF_情况介绍平等和不歧视_-_ohchr
 
 <!-- tcd_download_link -->
-Download: [PDF_情况介绍平等和不歧视_-_ohchr.pdf](PDF_情况介绍平等和不歧视_-_ohchr.pdf)
+下载: [PDF_情况介绍平等和不歧视_-_ohchr.pdf](PDF_情况介绍平等和不歧视_-_ohchr.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_情况介绍平等和不歧视_-_ohchr.pdf](PDF_情况介绍平�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_情况介绍平等和不歧视_-_ohchr.pdf](PDF_情况介绍平�
 | Tags            | 人权法, 平等与不歧视, 性取向, 性别认同, 变性者权利, 法律与政策, 国际法, 歧视现状, 社会环境, 联合国                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_情况介绍平等和不歧视_-_ohchr.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

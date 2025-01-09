@@ -1,7 +1,7 @@
 # 儿童及青少年精神心理异常问题
 
 <!-- tcd_download_link -->
-Download: [儿童及青少年精神心理异常问题.pdf](儿童及青少年精神心理异常问题.pdf)
+下载: [儿童及青少年精神心理异常问题.pdf](儿童及青少年精神心理异常问题.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [儿童及青少年精神心理异常问题.pdf](儿童及青少年精
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [儿童及青少年精神心理异常问题.pdf](儿童及青少年精
 | Tags            | 性别烦躁, 儿童心理, 青少年心理, 性别认同, DSM-5, 心理治疗, 激素治疗, 变性手术                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../儿童及青少年精神心理异常问题.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

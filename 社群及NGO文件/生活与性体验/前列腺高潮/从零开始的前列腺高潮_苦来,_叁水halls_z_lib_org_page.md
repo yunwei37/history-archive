@@ -1,7 +1,7 @@
 # 从零开始的前列腺高潮_苦来,_叁水halls_z_lib_org
 
 <!-- tcd_download_link -->
-Download: [从零开始的前列腺高潮_苦来,_叁水halls_z_lib_org.pdf](从零开始的前列腺高潮_苦来,_叁水halls_z_lib_org.pdf)
+下载: [从零开始的前列腺高潮_苦来,_叁水halls_z_lib_org.pdf](从零开始的前列腺高潮_苦来,_叁水halls_z_lib_org.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [从零开始的前列腺高潮_苦来,_叁水halls_z_lib_org.pdf](从
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [从零开始的前列腺高潮_苦来,_叁水halls_z_lib_org.pdf](从
 | Tags            | 前列腺高潮, 性体验, 探索性, 自我暗示, 涴肠, 快感方法, 性教育, 催眠音声, 乳头刺激, 男性健康                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../从零开始的前列腺高潮_苦来,_叁水halls_z_lib_org.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

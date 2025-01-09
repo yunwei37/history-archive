@@ -3,7 +3,7 @@
 本目录收录了与联合国相关的官方文件，旨在提供跨性别人士在全球范围内受到的法律保护和人权关注的资讯。这些文件将有助于了解各国在跨性别相关议题上的政策和承诺。
 
 
-总计 69 篇内容
+总计 70 篇内容
 
 
 
@@ -22,6 +22,7 @@
 - [2019_年社会概览_OECD经合组织社会指标](2019_年社会概览_OECD经合组织社会指标_page.md)
 - [2022_世界艾滋病大会强调科学创新与合作吉利德为终结HIV_全球](2022_世界艾滋病大会强调科学创新与合作吉利德为终结HIV_全球_page.md)
 - [2023_联合国_LGBTI企业行为准则](2023_联合国_LGBTI企业行为准则_page.md)
+- [lost-in-transition_Transgender_People,__Rights_and_HIV_Vulnerability__in_the_Asia-Pacific_Region](lost-in-transition_Transgender_People,__Rights_and_HIV_Vulnerability__in_the_Asia-Pacific_Region_page.md)
 - [PDF_20112015_年世界卫生组织艾滋病毒战略草案](PDF_20112015_年世界卫生组织艾滋病毒战略草案_page.md)
 - [PDF_BEING_LGBT_IN_ASIA_CHINA_COUNTRY_REPORT_-_亚洲同志项目](PDF_BEING_LGBT_IN_ASIA_CHINA_COUNTRY_REPORT_-_亚洲同志项目_page.md)
 - [PDF_LGBTI_包容指数拟议指标](PDF_LGBTI_包容指数拟议指标_page.md)

@@ -1,7 +1,7 @@
 # 爽的极限（含目录）
 
 <!-- tcd_download_link -->
-Download: [爽的极限（含目录）.docx](爽的极限（含目录）.docx)
+下载: [爽的极限（含目录）.docx](爽的极限（含目录）.docx)
 <!-- tcd_download_link_end -->
 
 ## 摘要

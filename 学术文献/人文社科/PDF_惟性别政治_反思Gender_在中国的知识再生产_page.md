@@ -1,7 +1,7 @@
 # PDF_惟性别政治_反思Gender_在中国的知识再生产
 
 <!-- tcd_download_link -->
-Download: [PDF_惟性别政治_反思Gender_在中国的知识再生产.pdf](PDF_惟性别政治_反思Gender_在中国的知识再生产.pdf)
+下载: [PDF_惟性别政治_反思Gender_在中国的知识再生产.pdf](PDF_惟性别政治_反思Gender_在中国的知识再生产.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -13,7 +13,7 @@ Download: [PDF_惟性别政治_反思Gender_在中国的知识再生产.pdf](PDF
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -30,3 +30,13 @@ Download: [PDF_惟性别政治_反思Gender_在中国的知识再生产.pdf](PDF
 | Tags            | 社会性别, 性别政治, 跨性别, 妇女研究, LGBTQ, 性别理论, 知识生产, 社会运动, 生存现状                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_惟性别政治_反思Gender_在中国的知识再生产.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

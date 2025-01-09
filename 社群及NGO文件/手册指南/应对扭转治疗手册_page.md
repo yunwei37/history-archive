@@ -1,7 +1,7 @@
 # 应对扭转治疗手册
 
 <!-- tcd_download_link -->
-Download: [应对扭转治疗手册.pdf](应对扭转治疗手册.pdf)
+下载: [应对扭转治疗手册.pdf](应对扭转治疗手册.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [应对扭转治疗手册.pdf](应对扭转治疗手册.pdf)
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [应对扭转治疗手册.pdf](应对扭转治疗手册.pdf)
 | Tags            | 扭转治疗, 跨性别, 性别认同, 性别表达, 法律政策, 心理健康, 生存现状, 自我保护                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../应对扭转治疗手册.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

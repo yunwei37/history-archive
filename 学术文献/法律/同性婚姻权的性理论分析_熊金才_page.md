@@ -1,7 +1,7 @@
 # 同性婚姻权的性理论分析_熊金才
 
 <!-- tcd_download_link -->
-Download: [同性婚姻权的性理论分析_熊金才.pdf](同性婚姻权的性理论分析_熊金才.pdf)
+下载: [同性婚姻权的性理论分析_熊金才.pdf](同性婚姻权的性理论分析_熊金才.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [同性婚姻权的性理论分析_熊金才.pdf](同性婚姻权的�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [同性婚姻权的性理论分析_熊金才.pdf](同性婚姻权的�
 | Tags            | 同性恋, 同性婚姻权, 性理论, 酷儿理论, 人权, 法律, 社会环境                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../同性婚姻权的性理论分析_熊金才.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

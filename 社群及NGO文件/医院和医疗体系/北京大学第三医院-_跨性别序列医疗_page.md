@@ -1,7 +1,7 @@
 # 北京大学第三医院-_跨性别序列医疗
 
 <!-- tcd_download_link -->
-Download: [北京大学第三医院-_跨性别序列医疗.pdf](北京大学第三医院-_跨性别序列医疗.pdf)
+下载: [北京大学第三医院-_跨性别序列医疗.pdf](北京大学第三医院-_跨性别序列医疗.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [北京大学第三医院-_跨性别序列医疗.pdf](北京大学第�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [北京大学第三医院-_跨性别序列医疗.pdf](北京大学第�
 | Tags            | 跨性别医疗, 医疗资源, 激素替代治疗, 心理支持, 医院指南                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../北京大学第三医院-_跨性别序列医疗.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

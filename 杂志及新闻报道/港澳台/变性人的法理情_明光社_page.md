@@ -1,7 +1,7 @@
 # 变性人的法理情_明光社
 
 <!-- tcd_download_link -->
-Download: [变性人的法理情_明光社.pdf](变性人的法理情_明光社.pdf)
+下载: [变性人的法理情_明光社.pdf](变性人的法理情_明光社.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -13,7 +13,7 @@ Download: [变性人的法理情_明光社.pdf](变性人的法理情_明光社.
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -30,3 +30,13 @@ Download: [变性人的法理情_明光社.pdf](变性人的法理情_明光社.
 | Tags            | 变性人, 法律权益, 社会态度, 性别认同, 明光社, 案例研究                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../变性人的法理情_明光社.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

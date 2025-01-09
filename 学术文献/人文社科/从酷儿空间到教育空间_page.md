@@ -1,7 +1,7 @@
 # 从酷儿空间到教育空间
 
 <!-- tcd_download_link -->
-Download: [从酷儿空间到教育空间.pdf](从酷儿空间到教育空间.pdf)
+下载: [从酷儿空间到教育空间.pdf](从酷儿空间到教育空间.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [从酷儿空间到教育空间.pdf](从酷儿空间到教育空间.pd
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [从酷儿空间到教育空间.pdf](从酷儿空间到教育空间.pd
 | Tags            | 跨性别, 性别研究, 酷儿理论, 台湾, 性别解放, 社会运动, 学术文献, 性别身份                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../从酷儿空间到教育空间.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

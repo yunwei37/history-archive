@@ -1,0 +1,30 @@
+# 反扭转治疗内部工作手册
+
+<!-- tcd_download_link -->
+下载: [反扭转治疗内部工作手册.docx](反扭转治疗内部工作手册.docx)
+<!-- tcd_download_link_end -->
+
+## 摘要
+
+<!-- tcd_abstract -->
+该文件为《反扭转治疗内部工作手册》，旨在提供跨性别及多元性别个体在面临危机时的指导。内容包括两种情境下的应对措施，分别是“未被抓走即将抓走”的情况和“已被抓走”的情境。对于未被抓走的个体，手册建议打印劳动合同，并寄给合适的公益组织，以正式成为其员工，从而增强法律和社会支持。对于已被抓走的情况，手册强调立刻报警，并提供了处理警察不立案的流程，包括需要打110以有记录以及后续的投诉流程。这些建议突显了法律正当性和实用性，旨在有效保护跨性别者的权益.
+
+<!-- tcd_abstract_end -->
+
+## 其他信息
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | 反扭转治疗内部工作手册.docx                             |
+| Type            | document                                 |
+| Format          | Microsoft Word Document (OpenXML)                               |
+| Size            | 12919 bytes                           |
+| MD5             | ad29e93f966d6c78e5f5762e75c92f3e                                  |
+| Archived Date   | [Unknown archived date(update needed)]                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 反扭转治疗, 跨性别, 法律支持, 人权, 危机干预, 公益组织                                 |
+
+本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。

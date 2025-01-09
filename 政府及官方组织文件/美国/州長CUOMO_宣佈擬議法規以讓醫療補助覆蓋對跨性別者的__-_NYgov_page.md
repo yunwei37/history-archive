@@ -1,7 +1,7 @@
 # 州長CUOMO_宣佈擬議法規以讓醫療補助覆蓋對跨性別者的__-_NYgov
 
 <!-- tcd_download_link -->
-Download: [州長CUOMO_宣佈擬議法規以讓醫療補助覆蓋對跨性別者的__-_NYgov.pdf](州長CUOMO_宣佈擬議法規以讓醫療補助覆蓋對跨性別者的__-_NYgov.pdf)
+下载: [州長CUOMO_宣佈擬議法規以讓醫療補助覆蓋對跨性別者的__-_NYgov.pdf](州長CUOMO_宣佈擬議法規以讓醫療補助覆蓋對跨性別者的__-_NYgov.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [州長CUOMO_宣佈擬議法規以讓醫療補助覆蓋對跨性別者
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [州長CUOMO_宣佈擬議法規以讓醫療補助覆蓋對跨性別者
 | Tags            | 医疗政策, 跨性别权益, 法律法规, 纽约州, 州长公告, 医疗服务                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../州長CUOMO_宣佈擬議法規以讓醫療補助覆蓋對跨性別者的__-_NYgov.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

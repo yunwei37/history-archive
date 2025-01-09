@@ -1,7 +1,7 @@
 # 女性生殖器整形美容_陈敏亮_主译_徐潇_副主译_Z_Library
 
 <!-- tcd_download_link -->
-Download: [女性生殖器整形美容_陈敏亮_主译_徐潇_副主译_Z_Library.pdf](女性生殖器整形美容_陈敏亮_主译_徐潇_副主译_Z_Library.pdf)
+下载: [女性生殖器整形美容_陈敏亮_主译_徐潇_副主译_Z_Library.pdf](女性生殖器整形美容_陈敏亮_主译_徐潇_副主译_Z_Library.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [女性生殖器整形美容_陈敏亮_主译_徐潇_副主译_Z_Libra
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [女性生殖器整形美容_陈敏亮_主译_徐潇_副主译_Z_Libra
 | Tags            | 女性生殖器整形, 医疗资源, 心理健康, 生殖健康, 整形美容经验分享                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../女性生殖器整形美容_陈敏亮_主译_徐潇_副主译_Z_Library.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

@@ -1,7 +1,7 @@
 # PDF_透过联邦临时医疗保险项目Interim_-_Trans_Care_BC
 
 <!-- tcd_download_link -->
-Download: [PDF_透过联邦临时医疗保险项目Interim_-_Trans_Care_BC.pdf](PDF_透过联邦临时医疗保险项目Interim_-_Trans_Care_BC.pdf)
+下载: [PDF_透过联邦临时医疗保险项目Interim_-_Trans_Care_BC.pdf](PDF_透过联邦临时医疗保险项目Interim_-_Trans_Care_BC.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_透过联邦临时医疗保险项目Interim_-_Trans_Care_BC.pdf](
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_透过联邦临时医疗保险项目Interim_-_Trans_Care_BC.pdf](
 | Tags            | 性别肯定护理, 跨性别医疗, 联邦临时医疗保险, 新移民难民医保, Trans Care BC, 荷尔蒙治疗, 性别确认手术, 医疗资源                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_透过联邦临时医疗保险项目Interim_-_Trans_Care_BC.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

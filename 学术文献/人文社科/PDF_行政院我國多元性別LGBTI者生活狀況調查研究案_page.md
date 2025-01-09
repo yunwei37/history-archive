@@ -1,7 +1,7 @@
 # PDF_行政院我國多元性別LGBTI者生活狀況調查研究案
 
 <!-- tcd_download_link -->
-Download: [PDF_行政院我國多元性別LGBTI者生活狀況調查研究案.pdf](PDF_行政院我國多元性別LGBTI者生活狀況調查研究案.pdf)
+下载: [PDF_行政院我國多元性別LGBTI者生活狀況調查研究案.pdf](PDF_行政院我國多元性別LGBTI者生活狀況調查研究案.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_行政院我國多元性別LGBTI者生活狀況調查研究案.pd
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_行政院我國多元性別LGBTI者生活狀況調查研究案.pd
 | Tags            | LGBTI, 跨性别, 生活状况调查, 健康与福祉, 歧视与暴力, 社会政策, 问卷调查, 社会支持                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_行政院我國多元性別LGBTI者生活狀況調查研究案.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

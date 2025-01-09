@@ -1,7 +1,7 @@
 # PDF_心理健康宣传月职场_与新冠疫情
 
 <!-- tcd_download_link -->
-Download: [PDF_心理健康宣传月职场_与新冠疫情.pdf](PDF_心理健康宣传月职场_与新冠疫情.pdf)
+下载: [PDF_心理健康宣传月职场_与新冠疫情.pdf](PDF_心理健康宣传月职场_与新冠疫情.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_心理健康宣传月职场_与新冠疫情.pdf](PDF_心理健康
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_心理健康宣传月职场_与新冠疫情.pdf](PDF_心理健康
 | Tags            | 心理健康, 新冠疫情, 职场包容性, 跨性别者心理健康, LGBTQI+支持, 员工援助计划, 心理健康宣传月                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_心理健康宣传月职场_与新冠疫情.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

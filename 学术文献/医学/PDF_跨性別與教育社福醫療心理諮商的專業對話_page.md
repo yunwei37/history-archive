@@ -1,7 +1,7 @@
 # PDF_跨性別與教育社福醫療心理諮商的專業對話
 
 <!-- tcd_download_link -->
-Download: [PDF_跨性別與教育社福醫療心理諮商的專業對話.pdf](PDF_跨性別與教育社福醫療心理諮商的專業對話.pdf)
+下载: [PDF_跨性別與教育社福醫療心理諮商的專業對話.pdf](PDF_跨性別與教育社福醫療心理諮商的專業對話.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_跨性別與教育社福醫療心理諮商的專業對話.pdf](PD
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_跨性別與教育社福醫療心理諮商的專業對話.pdf](PD
 | Tags            | 跨性别, 教育, 社福, 医疗, 心理咨询, 性别友善政策, 人权, 台湾民主基金会                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_跨性別與教育社福醫療心理諮商的專業對話.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

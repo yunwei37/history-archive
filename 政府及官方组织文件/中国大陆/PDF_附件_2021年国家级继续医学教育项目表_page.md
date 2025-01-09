@@ -1,7 +1,7 @@
 # PDF_附件_2021年国家级继续医学教育项目表
 
 <!-- tcd_download_link -->
-Download: [PDF_附件_2021年国家级继续医学教育项目表.pdf](PDF_附件_2021年国家级继续医学教育项目表.pdf)
+下载: [PDF_附件_2021年国家级继续医学教育项目表.pdf](PDF_附件_2021年国家级继续医学教育项目表.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_附件_2021年国家级继续医学教育项目表.pdf](PDF_附�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_附件_2021年国家级继续医学教育项目表.pdf](PDF_附�
 | Tags            | 继续医学教育, 医学培训, 医疗资源, 泌尿生殖系统, 解剖学, 临床医学, 教育管理                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_附件_2021年国家级继续医学教育项目表.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

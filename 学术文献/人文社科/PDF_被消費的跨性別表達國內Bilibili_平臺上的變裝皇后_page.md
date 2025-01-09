@@ -1,7 +1,7 @@
 # PDF_被消費的跨性別表達國內Bilibili_平臺上的變裝皇后
 
 <!-- tcd_download_link -->
-Download: [PDF_被消費的跨性別表達國內Bilibili_平臺上的變裝皇后.pdf](PDF_被消費的跨性別表達國內Bilibili_平臺上的變裝皇后.pdf)
+下载: [PDF_被消費的跨性別表達國內Bilibili_平臺上的變裝皇后.pdf](PDF_被消費的跨性別表達國內Bilibili_平臺上的變裝皇后.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_被消費的跨性別表達國內Bilibili_平臺上的變裝皇�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_被消費的跨性別表達國內Bilibili_平臺上的變裝皇�
 | Tags            | 跨性别, 变装皇后, 性别表达, 酷儿群体, 网络文化, 跨性别心理, 性别认同, Bilibili                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_被消費的跨性別表達國內Bilibili_平臺上的變裝皇后.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

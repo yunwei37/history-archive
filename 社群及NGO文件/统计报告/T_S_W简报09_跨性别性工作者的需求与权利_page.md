@@ -1,7 +1,7 @@
 # T_S_W简报09_跨性别性工作者的需求与权利
 
 <!-- tcd_download_link -->
-Download: [T_S_W简报09_跨性别性工作者的需求与权利.pdf](T_S_W简报09_跨性别性工作者的需求与权利.pdf)
+下载: [T_S_W简报09_跨性别性工作者的需求与权利.pdf](T_S_W简报09_跨性别性工作者的需求与权利.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [T_S_W简报09_跨性别性工作者的需求与权利.pdf](T_S_W简�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [T_S_W简报09_跨性别性工作者的需求与权利.pdf](T_S_W简�
 | Tags            | 跨性别性工作者, 法律保护, 社会歧视, 暴力问题, 医疗资源, 人权, 性工作者权利, 全球性工作项目网络                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../T_S_W简报09_跨性别性工作者的需求与权利.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

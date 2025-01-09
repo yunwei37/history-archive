@@ -1,7 +1,7 @@
 # 變性人與非二元性別者姓名性別變更常見問題_NYCgov_2019
 
 <!-- tcd_download_link -->
-Download: [變性人與非二元性別者姓名性別變更常見問題_NYCgov_2019.pdf](變性人與非二元性別者姓名性別變更常見問題_NYCgov_2019.pdf)
+下载: [變性人與非二元性別者姓名性別變更常見問題_NYCgov_2019.pdf](變性人與非二元性別者姓名性別變更常見問題_NYCgov_2019.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [變性人與非二元性別者姓名性別變更常見問題_NYCgov_2
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [變性人與非二元性別者姓名性別變更常見問題_NYCgov_2
 | Tags            | 变性人, 非二元性别, 姓名变更, 性别认同, 医疗资源, 法律政策, 社会服务, 纽约市                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../變性人與非二元性別者姓名性別變更常見問題_NYCgov_2019.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

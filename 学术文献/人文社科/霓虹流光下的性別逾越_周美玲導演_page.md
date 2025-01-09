@@ -1,7 +1,7 @@
 # 霓虹流光下的性別逾越_周美玲導演
 
 <!-- tcd_download_link -->
-Download: [霓虹流光下的性別逾越_周美玲導演.pdf](霓虹流光下的性別逾越_周美玲導演.pdf)
+下载: [霓虹流光下的性別逾越_周美玲導演.pdf](霓虹流光下的性別逾越_周美玲導演.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [霓虹流光下的性別逾越_周美玲導演.pdf](霓虹流光下�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [霓虹流光下的性別逾越_周美玲導演.pdf](霓虹流光下�
 | Tags            | 跨性别, 性别政治, 扮装文化, 同志运动, 华语电影, 酷儿理论, 文化研究, 性别多元                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../霓虹流光下的性別逾越_周美玲導演.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

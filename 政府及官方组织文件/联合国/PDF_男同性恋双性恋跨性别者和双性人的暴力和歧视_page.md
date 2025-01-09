@@ -1,7 +1,7 @@
 # PDF_男同性恋双性恋跨性别者和双性人的暴力和歧视
 
 <!-- tcd_download_link -->
-Download: [PDF_男同性恋双性恋跨性别者和双性人的暴力和歧视.pdf](PDF_男同性恋双性恋跨性别者和双性人的暴力和歧视.pdf)
+下载: [PDF_男同性恋双性恋跨性别者和双性人的暴力和歧视.pdf](PDF_男同性恋双性恋跨性别者和双性人的暴力和歧视.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -13,7 +13,7 @@ Download: [PDF_男同性恋双性恋跨性别者和双性人的暴力和歧视.p
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -30,3 +30,13 @@ Download: [PDF_男同性恋双性恋跨性别者和双性人的暴力和歧视.p
 | Tags            | 跨性别, 暴力与歧视, 人权, LGBTI, 法律政策, 国际组织, 联合国声明, 社会环境记录                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_男同性恋双性恋跨性别者和双性人的暴力和歧视.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

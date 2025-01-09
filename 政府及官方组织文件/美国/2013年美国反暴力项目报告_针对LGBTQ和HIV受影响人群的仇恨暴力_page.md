@@ -1,7 +1,7 @@
 # 2013年美国反暴力项目报告_针对LGBTQ和HIV受影响人群的仇恨暴力
 
 <!-- tcd_download_link -->
-Download: [2013年美国反暴力项目报告_针对LGBTQ和HIV受影响人群的仇恨暴力.pdf](2013年美国反暴力项目报告_针对LGBTQ和HIV受影响人群的仇恨暴力.pdf)
+下载: [2013年美国反暴力项目报告_针对LGBTQ和HIV受影响人群的仇恨暴力.pdf](2013年美国反暴力项目报告_针对LGBTQ和HIV受影响人群的仇恨暴力.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [2013年美国反暴力项目报告_针对LGBTQ和HIV受影响人群�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [2013年美国反暴力项目报告_针对LGBTQ和HIV受影响人群�
 | Tags            | 反暴力, 仇恨暴力, 跨性别, LGBTQ, 社会调查, 数据统计, 法律政策, 生存现状                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../2013年美国反暴力项目报告_针对LGBTQ和HIV受影响人群的仇恨暴力.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

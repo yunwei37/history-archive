@@ -1,7 +1,7 @@
 # PDF_由兩性到性別多元平等
 
 <!-- tcd_download_link -->
-Download: [PDF_由兩性到性別多元平等.pdf](PDF_由兩性到性別多元平等.pdf)
+下载: [PDF_由兩性到性別多元平等.pdf](PDF_由兩性到性別多元平等.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_由兩性到性別多元平等.pdf](PDF_由兩性到性別多元�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_由兩性到性別多元平等.pdf](PDF_由兩性到性別多元�
 | Tags            | 性别平等, 跨性别, 法律政策, 台湾, 社会环境                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_由兩性到性別多元平等.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

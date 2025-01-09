@@ -1,7 +1,7 @@
 # 性别选择权性质界定与法权塑造
 
 <!-- tcd_download_link -->
-Download: [性别选择权性质界定与法权塑造.pdf](性别选择权性质界定与法权塑造.pdf)
+下载: [性别选择权性质界定与法权塑造.pdf](性别选择权性质界定与法权塑造.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [性别选择权性质界定与法权塑造.pdf](性别选择权性质
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [性别选择权性质界定与法权塑造.pdf](性别选择权性质
 | Tags            | 性别选择权, 法律, 人格权, 身体权, 跨性别, 身份认同, 社会角色, 医疗资源                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../性别选择权性质界定与法权塑造.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

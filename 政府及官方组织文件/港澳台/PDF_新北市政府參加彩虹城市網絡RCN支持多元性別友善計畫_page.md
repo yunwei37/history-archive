@@ -1,7 +1,7 @@
 # PDF_新北市政府參加彩虹城市網絡RCN支持多元性別友善計畫
 
 <!-- tcd_download_link -->
-Download: [PDF_新北市政府參加彩虹城市網絡RCN支持多元性別友善計畫.pdf](PDF_新北市政府參加彩虹城市網絡RCN支持多元性別友善計畫.pdf)
+下载: [PDF_新北市政府參加彩虹城市網絡RCN支持多元性別友善計畫.pdf](PDF_新北市政府參加彩虹城市網絡RCN支持多元性別友善計畫.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_新北市政府參加彩虹城市網絡RCN支持多元性別友�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_新北市政府參加彩虹城市網絡RCN支持多元性別友�
 | Tags            | 多元性别, 跨性别, 政策报告, 彩虹城市网络, 统计数据, 性别平等, 台湾, LGBT理论                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_新北市政府參加彩虹城市網絡RCN支持多元性別友善計畫.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

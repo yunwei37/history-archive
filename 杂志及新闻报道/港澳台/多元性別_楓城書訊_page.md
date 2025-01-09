@@ -1,7 +1,7 @@
 # 多元性別_楓城書訊
 
 <!-- tcd_download_link -->
-Download: [多元性別_楓城書訊.pdf](多元性別_楓城書訊.pdf)
+下载: [多元性別_楓城書訊.pdf](多元性別_楓城書訊.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [多元性別_楓城書訊.pdf](多元性別_楓城書訊.pdf)
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [多元性別_楓城書訊.pdf](多元性別_楓城書訊.pdf)
 | Tags            | 跨性别, 多元性别, 青少年题材, 自我认同, 同性恋, 法律政策, 影集分析                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../多元性別_楓城書訊.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

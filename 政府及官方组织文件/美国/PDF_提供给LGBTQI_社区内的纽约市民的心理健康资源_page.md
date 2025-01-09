@@ -1,7 +1,7 @@
 # PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源
 
 <!-- tcd_download_link -->
-Download: [PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源.pdf](PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源.pdf)
+下载: [PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源.pdf](PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源.pdf
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源.pdf
 | Tags            | 心理健康, LGBTQI+社区, 心理健康资源, 新冠疫情, 性别肯定护理, 咨询与疗法, 同伴支持, 危机咨询, 移民与难民支持, 年长者支持, 无家可归者支持                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

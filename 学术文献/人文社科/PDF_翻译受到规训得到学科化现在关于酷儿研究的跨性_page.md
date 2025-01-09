@@ -1,7 +1,7 @@
 # PDF_翻译受到规训得到学科化现在关于酷儿研究的跨性
 
 <!-- tcd_download_link -->
-Download: [PDF_翻译受到规训得到学科化现在关于酷儿研究的跨性.pdf](PDF_翻译受到规训得到学科化现在关于酷儿研究的跨性.pdf)
+下载: [PDF_翻译受到规训得到学科化现在关于酷儿研究的跨性.pdf](PDF_翻译受到规训得到学科化现在关于酷儿研究的跨性.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -13,7 +13,7 @@ Download: [PDF_翻译受到规训得到学科化现在关于酷儿研究的跨�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -30,3 +30,13 @@ Download: [PDF_翻译受到规训得到学科化现在关于酷儿研究的跨�
 | Tags            | 跨性别研究, 酷儿研究, 社会政治, 性别理论, 学术论文, 性别与性取向                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_翻译受到规训得到学科化现在关于酷儿研究的跨性.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

@@ -1,7 +1,7 @@
 # PDF_雌二醇片雌二醇地屈孕酮片复合包装说明书_-_Abbott
 
 <!-- tcd_download_link -->
-Download: [PDF_雌二醇片雌二醇地屈孕酮片复合包装说明书_-_Abbott.pdf](PDF_雌二醇片雌二醇地屈孕酮片复合包装说明书_-_Abbott.pdf)
+下载: [PDF_雌二醇片雌二醇地屈孕酮片复合包装说明书_-_Abbott.pdf](PDF_雌二醇片雌二醇地屈孕酮片复合包装说明书_-_Abbott.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [PDF_雌二醇片雌二醇地屈孕酮片复合包装说明书_-_Abbot
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [PDF_雌二醇片雌二醇地屈孕酮片复合包装说明书_-_Abbot
 | Tags            | 雌二醇, 激素治疗, 跨性别健康, 医疗资源, 药物说明书                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../PDF_雌二醇片雌二醇地屈孕酮片复合包装说明书_-_Abbott.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+

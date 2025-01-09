@@ -1,7 +1,7 @@
 # LGBTQI+抗争中的双语表达_2023_ANU_Press
 
 <!-- tcd_download_link -->
-Download: [LGBTQI+抗争中的双语表达_2023_ANU_Press.pdf](LGBTQI+抗争中的双语表达_2023_ANU_Press.pdf)
+下载: [LGBTQI+抗争中的双语表达_2023_ANU_Press.pdf](LGBTQI+抗争中的双语表达_2023_ANU_Press.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -11,7 +11,7 @@ Download: [LGBTQI+抗争中的双语表达_2023_ANU_Press.pdf](LGBTQI+抗争中�
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@ Download: [LGBTQI+抗争中的双语表达_2023_ANU_Press.pdf](LGBTQI+抗争中�
 | Tags            | LGBTQI+, 双语表达, 网络审查, 抵抗运动, 社会压制, 性别多样性, 跨性别, 酷儿活动, 医疗资源                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../LGBTQI+抗争中的双语表达_2023_ANU_Press.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+
