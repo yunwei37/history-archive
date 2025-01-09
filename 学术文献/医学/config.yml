@@ -164,13 +164,6 @@ files:
   size: 379980
   md5: cedcd2fb12674648b0e1190ae2e1cc06
   page: PDF_2018年男同性戀雙性戀及跨性別女性的精神健康_page.md
-- name: PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND
-  filename: PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND.pdf
-  type: document
-  format: PDF Document
-  size: 822053
-  md5: 4065ea07e34991b6606288716521fabc
-  page: PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND_page.md
 - name: PDF_Medicare_和跨性别老年人
   filename: PDF_Medicare_和跨性别老年人.pdf
   type: document
@@ -178,13 +171,6 @@ files:
   size: 1404485
   md5: 9abf6139913aaf8a3a56ae3932322878
   page: PDF_Medicare_和跨性别老年人_page.md
-- name: PDF_中国大陆跨性别群体激素干预获取情况调查报告
-  filename: PDF_中国大陆跨性别群体激素干预获取情况调查报告.pdf
-  type: document
-  format: PDF Document
-  size: 1193618
-  md5: b30535dba955a4123c545864f3acdc35
-  page: PDF_中国大陆跨性别群体激素干预获取情况调查报告_page.md
 - name: PDF_低剂量阴道雌激素治疗患者指南
   filename: PDF_低剂量阴道雌激素治疗患者指南.pdf
   type: document
@@ -458,6 +444,13 @@ files:
   size: 1747210
   md5: c15dc2950c395e8eb5637ac30c31b4b0
   page: 变性人健康照护标准_WPATH_第七版_page.md
+- name: 变性手术患者的心理护理
+  filename: 变性手术患者的心理护理.pdf
+  type: document
+  format: PDF Document
+  size: 259056
+  md5: f6b09478cb9fecdcac349aab2472847b
+  page: 变性手术患者的心理护理_page.md
 - name: 变性手术的术中配合与护理
   filename: 变性手术的术中配合与护理.pdf
   type: document

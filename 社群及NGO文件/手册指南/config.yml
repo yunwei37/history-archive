@@ -30,6 +30,13 @@ files:
   size: 462804
   md5: e8e303221067e34882318b40c41ea328
   page: PDF_BSA_指南有关性别认同问题的投诉_page.md
+- name: PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND
+  filename: PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND.pdf
+  type: document
+  format: PDF Document
+  size: 822053
+  md5: 4065ea07e34991b6606288716521fabc
+  page: PDF_HRT_激素替代疗法HRT_NHS_SCOTLAND_page.md
 - name: PDF_数字暴力报道提示单记者和媒体的实用参考指南
   filename: PDF_数字暴力报道提示单记者和媒体的实用参考指南.pdf
   type: document
@@ -268,6 +275,13 @@ files:
   size: 2834944
   md5: b3b99eef3b83e7bb214b8bbaec7545fb
   page: 自切教程萱酱版_page.md
+- name: 评估职场中LGBTQI_的包容性
+  filename: 评估职场中LGBTQI_的包容性.pdf
+  type: document
+  format: PDF Document
+  size: 763528
+  md5: 57dee6b6b20296545004ebf9eb4e0407
+  page: 评估职场中LGBTQI_的包容性_page.md
 - name: 跨儿的性别困惑与身份认同
   filename: 跨儿的性别困惑与身份认同.pdf
   type: document

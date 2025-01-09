@@ -10,6 +10,13 @@ tags:
 - 数据分析
 license: ''
 files:
+- name: 2012年父母对跨性别青少年的支持影响报告
+  filename: 2012年父母对跨性别青少年的支持影响报告.pdf
+  type: document
+  format: PDF Document
+  size: 631044
+  md5: 6900ee21b1da317599e253fefe1243bb
+  page: 2012年父母对跨性别青少年的支持影响报告_page.md
 - name: 2013年扭转治疗调查报告
   filename: 2013年扭转治疗调查报告.pdf
   type: document
@@ -52,6 +59,13 @@ files:
   size: 54388250
   md5: 70205e5cbe4ff8c2aac5afc1b299fb62
   page: 2021全国跨性别健康调研报告_page.md
+- name: 2023_行政院多元性别生活状况调查研究报告
+  filename: 2023_行政院多元性别生活状况调查研究报告.pdf
+  type: document
+  format: PDF Document
+  size: 4170258
+  md5: 71fbf28943fcdc5eb4b1db3273960235
+  page: 2023_行政院多元性别生活状况调查研究报告_page.md
 - name: LGBTQ+_老年人调查报告
   filename: LGBTQ+_老年人调查报告.pdf
   type: document
@@ -66,6 +80,13 @@ files:
   size: 2486026
   md5: a39d4c4b234ef1f2353f03f118c4ebf2
   page: PDF_中国大陆对LGBTQ_群体的正面态度_page.md
+- name: PDF_中国大陆跨性别群体激素干预获取情况调查报告
+  filename: PDF_中国大陆跨性别群体激素干预获取情况调查报告.pdf
+  type: document
+  format: PDF Document
+  size: 1193618
+  md5: b30535dba955a4123c545864f3acdc35
+  page: PDF_中国大陆跨性别群体激素干预获取情况调查报告_page.md
 - name: PDF_中国彩虹媒体奖2018-2019_年度彩虹媒体监测报告
   filename: PDF_中国彩虹媒体奖2018-2019_年度彩虹媒体监测报告.pdf
   type: document
@@ -304,13 +325,6 @@ files:
   size: 982584
   md5: 0b506de0af3e7d063e1f7c56e33b1580
   page: 精神卫生与心理咨询从业人员对性少数的态度调查报告（中文版）_page.md
-- name: 统计结果调查报告
-  filename: 统计结果调查报告.json
-  type: other
-  format: Unknown Format
-  size: 6497673
-  md5: de528d29d69d1856c28cb9fb3a18be6c
-  page: 统计结果调查报告.json
 - name: 跨性别校园与证件修改调查报告
   filename: 跨性别校园与证件修改调查报告.pdf
   type: document
@@ -346,4 +360,11 @@ files:
   size: 268695
   md5: 978592b854a59eed4260f00ee98d1f76
   page: 香港男跨女跨性別人士愛滋病風險及流行情況調查2017_page.md
+- name: 骄傲与偏见-变革的动力-经济学人智库报告-2018
+  filename: 骄傲与偏见-变革的动力-经济学人智库报告-2018.pdf
+  type: document
+  format: PDF Document
+  size: 1447951
+  md5: 875ca66c0c47f377ee40b776c8ef15c2
+  page: 骄傲与偏见-变革的动力-经济学人智库报告-2018_page.md
 subdirs: []

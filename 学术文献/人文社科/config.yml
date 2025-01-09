@@ -45,13 +45,6 @@ files:
   size: 901627
   md5: 46f3ea6f4653a353bf6772a544f3abf2
   page: 2012年上海心理与社会和谐会议论文集_page.md
-- name: 2012年父母对跨性别青少年的支持影响报告
-  filename: 2012年父母对跨性别青少年的支持影响报告.pdf
-  type: document
-  format: PDF Document
-  size: 631044
-  md5: 6900ee21b1da317599e253fefe1243bb
-  page: 2012年父母对跨性别青少年的支持影响报告_page.md
 - name: 2015_刘家妠_范一亭_文化种族与性别混杂性研究
   filename: 2015_刘家妠_范一亭_文化种族与性别混杂性研究.pdf
   type: document
@@ -87,13 +80,6 @@ files:
   size: 1490732
   md5: 330ca38a25bf128075cdde231f60f384
   page: 2017年东方论坛_彩虹岛上的家国梦_台湾同志电影的系谱与政治_page.md
-- name: 2017年谭光辉小说人物分类法研究
-  filename: 2017年谭光辉小说人物分类法研究.pdf
-  type: document
-  format: PDF Document
-  size: 252367
-  md5: 9ca9ff102624eff05b460c18b854473e
-  page: 2017年谭光辉小说人物分类法研究_page.md
 - name: 2017王娟_多元性别身份的操演与戏仿
   filename: 2017王娟_多元性别身份的操演与戏仿.pdf
   type: document
@@ -108,20 +94,6 @@ files:
   size: 6625841
   md5: f9ce19bf1f3b95151f7fa22e2da57523
   page: 2018_酷兒釋經_香港基督徒學會.pdf_page.md
-- name: 2018教育部人文社科项目拨款明细
-  filename: 2018教育部人文社科项目拨款明细.pdf
-  type: document
-  format: PDF Document
-  size: 3151456
-  md5: 2d68da5d593b9814e0d09a3176944608
-  page: 2018教育部人文社科项目拨款明细_page.md
-- name: 2019年易平_以人为中心的身份操演研究
-  filename: 2019年易平_以人为中心的身份操演研究.pdf
-  type: document
-  format: PDF Document
-  size: 2415115
-  md5: 8ad5500bdfa4d08b71d41f2c9f1c1e44
-  page: 2019年易平_以人为中心的身份操演研究_page.md
 - name: 2020年迈克尔·尤因印度尼西亚LGBT应用影响研究
   filename: 2020年迈克尔·尤因印度尼西亚LGBT应用影响研究.pdf
   type: document
@@ -143,6 +115,13 @@ files:
   size: 1256278
   md5: 4b899cdddd0f86c17fff90b0465acccb
   page: 2021年卓芸萱_跨性別學生於友善校園成長的可能性_page.md
+- name: 2022-02-05_马骋Yura_酷儿女性看爱情与百合文化解构异性恋关系
+  filename: 2022-02-05_马骋Yura_酷儿女性看爱情与百合文化解构异性恋关系.pdf
+  type: document
+  format: PDF Document
+  size: 2647680
+  md5: 2ebe45d184bec02dd67ce52561a507f3
+  page: 2022-02-05_马骋Yura_酷儿女性看爱情与百合文化解构异性恋关系_page.md
 - name: 2023_多元性别与媒体再现
   filename: 2023_多元性别与媒体再现.pdf
   type: document
@@ -521,13 +500,6 @@ files:
   size: 2295753
   md5: 5241fed151429572c95ca182ef1f7fa8
   page: Transgender_Marriage_and_the_Legal_Obligation_to_Disclose_Gender_History_page.md
-- name: Transgender_People_in_the_Military
-  filename: Transgender_People_in_the_Military.pdf
-  type: document
-  format: PDF Document
-  size: 238637
-  md5: 1f0c8109580d832c408945ad720c6fce
-  page: Transgender_People_in_the_Military_page.md
 - name: Transgender_Representation_by_the_People’s_Daily_Since_1949
   filename: Transgender_Representation_by_the_People’s_Daily_Since_1949.pdf
   type: document
@@ -794,13 +766,6 @@ files:
   size: 263695
   md5: ad7aec4a22efaf6beffd7771047804e6
   page: 厦门大学论文_西方歌剧中的东方女性形象研究_page.md
-- name: 变性手术患者的心理护理
-  filename: 变性手术患者的心理护理.pdf
-  type: document
-  format: PDF Document
-  size: 259056
-  md5: f6b09478cb9fecdcac349aab2472847b
-  page: 变性手术患者的心理护理_page.md
 - name: 台湾酷儿小说中跨性别与父权的关系（一九九〇——一九九九_
   filename: 台湾酷儿小说中跨性别与父权的关系（一九九〇——一九九九_.pdf
   type: document
@@ -1529,11 +1494,4 @@ files:
   size: 1598665
   md5: b22ce60d3ee2d3eaaf89dbf76f40446e
   page: 香港台湾与中国大陆的酷儿电影节研究_page.md
-- name: 骄傲与偏见-变革的动力-经济学人智库报告-2018
-  filename: 骄傲与偏见-变革的动力-经济学人智库报告-2018.pdf
-  type: document
-  format: PDF Document
-  size: 1447951
-  md5: 875ca66c0c47f377ee40b776c8ef15c2
-  page: 骄傲与偏见-变革的动力-经济学人智库报告-2018_page.md
 subdirs: []

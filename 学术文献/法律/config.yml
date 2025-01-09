@@ -31,13 +31,6 @@ files:
   size: 3120548
   md5: a1e82a1c7df9f780ebeae3ef1ce06a8f
   page: 2021年中国跨性别权利公众舆论报告_page.md
-- name: 2023_行政院多元性别生活状况调查研究报告
-  filename: 2023_行政院多元性别生活状况调查研究报告.pdf
-  type: document
-  format: PDF Document
-  size: 4170258
-  md5: 71fbf28943fcdc5eb4b1db3273960235
-  page: 2023_行政院多元性别生活状况调查研究报告_page.md
 - name: PDF_三個不利跨性身分的迷思_-_Dean_Spade
   filename: PDF_三個不利跨性身分的迷思_-_Dean_Spade.pdf
   type: document
@@ -297,13 +290,6 @@ files:
   size: 253933
   md5: 4c9e4aa1158569743091ab73aa5f54f0
   page: 论建立变性人婚姻家庭之特别制度_王正苍_page.md
-- name: 评估职场中LGBTQI_的包容性
-  filename: 评估职场中LGBTQI_的包容性.pdf
-  type: document
-  format: PDF Document
-  size: 763528
-  md5: 57dee6b6b20296545004ebf9eb4e0407
-  page: 评估职场中LGBTQI_的包容性_page.md
 - name: 谈大正_色情信息法律规制与性权利保护研究
   filename: 谈大正_色情信息法律规制与性权利保护研究.pdf
   type: document

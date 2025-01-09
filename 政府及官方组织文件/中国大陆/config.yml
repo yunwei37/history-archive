@@ -17,6 +17,13 @@ files:
   size: 2660856
   md5: 281047f6b1f353309b370e4ef4af2f18
   page: 2018教育部人文社会科学研究基金项目评审结果_page.md
+- name: 2018教育部人文社科项目拨款明细
+  filename: 2018教育部人文社科项目拨款明细.pdf
+  type: document
+  format: PDF Document
+  size: 3151456
+  md5: 2d68da5d593b9814e0d09a3176944608
+  page: 2018教育部人文社科项目拨款明细_page.md
 - name: 2019中国多元与共融论坛会议议程
   filename: 2019中国多元与共融论坛会议议程.pdf
   type: document
@@ -73,13 +80,6 @@ files:
   size: 40852174
   md5: ff3fc52feb43c00d668bb5e01031cf5d
   page: 健康企业建设优秀案例报告_国家卫生健康委员会_2022_page.md
-- name: 北京病痛挑战公益基金会2020年度工作报告
-  filename: 北京病痛挑战公益基金会2020年度工作报告.pdf
-  type: document
-  format: PDF Document
-  size: 1320173
-  md5: e53a4c42d7f74ccaa4da8d2e78235698
-  page: 北京病痛挑战公益基金会2020年度工作报告_page.md
 - name: 卫生部办公厅关于公布首批允许临床应用的第三类医疗技术目录的通知
   filename: 卫生部办公厅关于公布首批允许临床应用的第三类医疗技术目录的通知.pdf
   type: document
@@ -108,13 +108,6 @@ files:
   size: 8510911
   md5: 59a5097048e76eb9b45540176ad5eed0
   page: 妇女权益保障法修订草案意见征集指南_2023_Rachel_page.md
-- name: 对歧视骚扰零容忍政策报告
-  filename: 对歧视骚扰零容忍政策报告.pdf
-  type: document
-  format: PDF Document
-  size: 285216
-  md5: 83c96a3b6987780b70f3882f01e013a8
-  page: 对歧视骚扰零容忍政策报告_page.md
 - name: 性别变更更正办理服务指南
   filename: 性别变更更正办理服务指南.pdf
   type: document
