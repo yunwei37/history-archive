@@ -1,4 +1,4 @@
-# 嗓音训练指南正式归档
+# 嗓音训练指南 Mtf
 
 <!-- tcd_download_link -->
 下载: [嗓音训练指南.pdf](嗓音训练指南.pdf)
@@ -32,11 +32,11 @@
 | Format          | PDF Document                               |
 | Size            | 13934262 bytes                           |
 | MD5             | f3b144993f13f8df91029fdda9d7feec                         |
-| Archived Date   | 2025.1.10                           |
+| Archived Date   | 2025-1-10                           |
 | Original Link   | https://voice.cntt.uk                     |
 | Author          | Catherina Grace                               |
 | Region          | 未知                               |
-| Date            | 未知                                 |
+| Date            |    2024-11                           |
 | Tags            | 嗓音训练, 跨性别, 多元性别, 声音表达, 技巧练习，言语训练，言语治疗，康复医学                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
