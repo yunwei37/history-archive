@@ -47,13 +47,6 @@ files:
   size: 107999
   md5: e6364d3bebdf939b9f6fc4b0e6790488
   page: 变文研究_page.md
-- name: 如果一个人_陈思安_短篇小说
-  filename: 如果一个人_陈思安_短篇小说.PDF
-  type: document
-  format: PDF Document
-  size: 1486284
-  md5: edf2d4bc387e3899bc284ada189d6da8
-  page: 如果一个人_陈思安_短篇小说_page.md
 - name: 王安黛-中篇严肃悬疑-缺耳女_二稿修正版
   filename: 王安黛-中篇严肃悬疑-缺耳女_二稿修正版.docx
   type: document
