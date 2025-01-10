@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 55616 bytes                           |
 | MD5             | 446827e8fd4168eeeabae840469cbbd3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Songyuan Tang, Weiming Tang, Kathrine Meyers, Polin Chan, Zhongdan Chen, Joseph D Tucker                               |
 | Region          | 中国                               |

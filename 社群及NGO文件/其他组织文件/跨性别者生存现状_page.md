@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 2817852 bytes                           |
 | MD5             | aef84d85657dc907e1f1c914b8021033                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 核桃，北京同志中心跨性别部主管                               |
 | Region          | 中国大陆                               |

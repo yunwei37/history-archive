@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 304255 bytes                           |
 | MD5             | 47765d504e20e408ac1c2fbadd9e4c8a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 郭晓飞、朱静姝                               |
 | Region          | 中国大陆、香港                               |

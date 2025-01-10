@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 700585 bytes                           |
 | MD5             | 7529a8295eb88d0f052b3836ec98161d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Sari L Reisner等人，发布于《柳叶刀》期刊                               |
 | Region          | 美国                               |

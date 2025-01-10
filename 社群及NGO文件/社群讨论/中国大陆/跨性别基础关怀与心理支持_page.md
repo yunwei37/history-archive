@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 3224349 bytes                           |
 | MD5             | 3fc80bfc17156c1653dfdf96e96f54a0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 潘柏林                               |
 | Region          | 中国大陆                               |

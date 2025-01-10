@@ -20,7 +20,7 @@
 | Format          | Plain Text                               |
 | Size            | 24281 bytes                           |
 | MD5             | b18bd68300bc6a1b7cfc3040608f9f47                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

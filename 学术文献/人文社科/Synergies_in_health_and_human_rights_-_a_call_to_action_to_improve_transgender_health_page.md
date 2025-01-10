@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 224792 bytes                           |
 | MD5             | 612cb477ae54c52775e0051bb3ad2dac                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | International Journal of Public Health, Kevan Wylie等                               |
 | Region          | 未知                               |

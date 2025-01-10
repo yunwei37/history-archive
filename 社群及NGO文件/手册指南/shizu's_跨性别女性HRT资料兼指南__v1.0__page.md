@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 2887102 bytes                           |
 | MD5             | 0bbda2f17bb900152f398023f050d8d1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | shizu                               |
 | Region          | 中国                               |

@@ -22,7 +22,7 @@
 | Format          | PDF Document                               |
 | Size            | 982584 bytes                           |
 | MD5             | 0b506de0af3e7d063e1f7c56e33b1580                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 北京同志中心                               |
 | Region          | 中国大陆                               |

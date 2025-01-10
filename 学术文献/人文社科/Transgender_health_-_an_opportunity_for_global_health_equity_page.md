@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 353112 bytes                           |
 | MD5             | f9251e4fc3266d8c457cd70bc656f59c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 《柳叶刀》与相关专家                               |
 | Region          | 全球（以中国为主要地区）                               |

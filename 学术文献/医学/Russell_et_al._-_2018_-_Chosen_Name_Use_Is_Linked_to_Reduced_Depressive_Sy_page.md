@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 117906 bytes                           |
 | MD5             | 95b53cd236453c70f73d77b08bcfdf65                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Stephen T. Russell博士等人                               |
 | Region          | 美国                               |

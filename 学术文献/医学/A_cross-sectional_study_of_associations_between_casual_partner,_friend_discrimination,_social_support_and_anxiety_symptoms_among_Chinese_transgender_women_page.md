@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 320329 bytes                           |
 | MD5             | 00c6575d36cdb01e29ba99beeccc4b3c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 杨晓诗等                               |
 | Region          | 中国                               |

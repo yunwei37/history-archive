@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 141481 bytes                           |
 | MD5             | df31d768e4c0b4dfd32f9f8a19a3d57d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 大连彩虹工作组                               |
 | Region          | 中国大陆                               |

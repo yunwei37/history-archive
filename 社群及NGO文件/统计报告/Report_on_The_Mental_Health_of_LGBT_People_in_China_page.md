@@ -22,7 +22,7 @@
 | Format          | PDF Document                               |
 | Size            | 3482751 bytes                           |
 | MD5             | babcbd9e9f7dfa9ed250534ab1ba7afc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 北京LGBT中心，中国科学院心理研究所                               |
 | Region          | 中国大陆                               |

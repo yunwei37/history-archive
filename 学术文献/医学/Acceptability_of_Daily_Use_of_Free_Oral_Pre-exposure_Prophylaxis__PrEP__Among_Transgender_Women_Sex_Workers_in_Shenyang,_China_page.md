@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 391650 bytes                           |
 | MD5             | 1217f91d5a63a7b3947bc00ba1fbff30                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Zixin Wang, Joseph T. F. Lau, Xueying Yang, Yong Cai, Danielle L. Gross, Tiecheng Ma, Yan Liu                               |
 | Region          | 中国沈阳                               |

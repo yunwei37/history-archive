@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 848063 bytes                           |
 | MD5             | ba702ac30ff6067d42d3b866099b4fdb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 北京LGBT中心，Zhang Linghao, Cai Yao                               |
 | Region          | 中国大陆                               |

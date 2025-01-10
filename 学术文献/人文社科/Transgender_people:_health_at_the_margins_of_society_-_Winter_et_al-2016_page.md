@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 411303 bytes                           |
 | MD5             | fe8159eec4bd712eacf6ca3706f0f804                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Sam Winter, Milton Diamond, Jamison Green, Dan Karasic, Terry Reed, Stephen Whittle, Kevan Wylie                               |
 | Region          | 未知                               |

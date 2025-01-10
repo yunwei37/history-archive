@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 126651 bytes                           |
 | MD5             | aaa172bfa5dc9eb9d9e0c8896b1cec41                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Robert D. Davies, MD 和 Madeline E. Davies                               |
 | Region          | 未知                               |

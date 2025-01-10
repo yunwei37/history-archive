@@ -22,7 +22,7 @@
 | Format          | PDF Document                               |
 | Size            | 254347 bytes                           |
 | MD5             | f7455affafa3457173d39fe454202d77                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Gail Knudson, Griet De Cuypere, Walter Bockting                               |
 | Region          | 未知                               |

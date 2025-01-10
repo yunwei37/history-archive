@@ -20,7 +20,7 @@
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 118913 bytes                           |
 | MD5             | 82e320a598d2eb53c13f28bb5a51f17c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 李晓晨                               |
 | Region          | 中国大陆                               |

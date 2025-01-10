@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 502486 bytes                           |
 | MD5             | 4fafb3cd00016f33e8152635e1d8d321                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Shannon Price Minter                               |
 | Region          | 美国                               |

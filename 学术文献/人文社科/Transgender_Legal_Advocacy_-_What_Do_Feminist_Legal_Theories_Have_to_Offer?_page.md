@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 4667916 bytes                           |
 | MD5             | 7601eaab784a28dbcc7ac8ebabc6b0ec                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Demoya R. Gordon                               |
 | Region          | 美国                               |

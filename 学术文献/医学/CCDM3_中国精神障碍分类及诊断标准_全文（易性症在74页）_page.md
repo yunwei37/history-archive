@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 627388 bytes                           |
 | MD5             | 3d5d32ea717553ee651d4af4fa2b762e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 陈彦方                               |
 | Region          | 中国                               |

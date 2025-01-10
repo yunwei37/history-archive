@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 4410870 bytes                           |
 | MD5             | 4d986e4c03e8f9790babc2bd41894859                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 北京同志中心与中国科学院心理研究所                               |
 | Region          | 中国大陆                               |

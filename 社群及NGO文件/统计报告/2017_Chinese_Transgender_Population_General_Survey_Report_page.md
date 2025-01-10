@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 4600171 bytes                           |
 | MD5             | e964a4f2bae290028aba8a8445eaf0b1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 北京大学社会学系                               |
 | Region          | 中国大陆                               |

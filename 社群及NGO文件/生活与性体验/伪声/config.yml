@@ -27,5 +27,12 @@ files:
   size: 72170
   md5: 6bad8b9276f5e7f8fb9af6f371a4bd59
   page: 伪声基础整理以及教学.pptx
+- name: 嗓音功能训练略解-深圳大学总医院耳鼻咽喉头颈外科
+  filename: 嗓音功能训练略解-深圳大学总医院耳鼻咽喉头颈外科.pdf
+  type: document
+  format: PDF Document
+  size: 164122
+  md5: '59390865028313220290591542882657'
+  page: 嗓音功能训练略解-深圳大学总医院耳鼻咽喉头颈外科_page.md
 subdirs:
 - 成为女孩子的声音

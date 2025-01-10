@@ -20,7 +20,7 @@
 | Format          | Microsoft Word Document                               |
 | Size            | 27648 bytes                           |
 | MD5             | f61107679f388d1bb947322ba366afc3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 钱今凡                               |
 | Region          | 中国大陆                               |

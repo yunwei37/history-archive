@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 1030770 bytes                           |
 | MD5             | 8ebfb7b35f1e9d7c79e7b2e2aad7f7ef                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 北京影响力律师事务所、广州性别与性教育中心、广州跨性别中心                               |
 | Region          | 中国大陆                               |

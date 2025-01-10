@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 1579263 bytes                           |
 | MD5             | a9228c45d0f82bf4011b5484a44336ee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 联合国开发计划署                               |
 | Region          | 中国大陆                               |

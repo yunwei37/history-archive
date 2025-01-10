@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 132074 bytes                           |
 | MD5             | bdb946ef05c3b32d36fb9fce5511e114                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jane A. Beese, Jennifer L. Martin                               |
 | Region          | 美国                               |

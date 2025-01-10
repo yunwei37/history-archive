@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 362403 bytes                           |
 | MD5             | 2d4d4bc79cff008c5062da0fec32eeed                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 北医三院                               |
 | Region          | 中国大陆                               |

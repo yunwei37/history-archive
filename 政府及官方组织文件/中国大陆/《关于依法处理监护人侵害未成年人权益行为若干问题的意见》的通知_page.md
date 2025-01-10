@@ -20,7 +20,7 @@
 | Format          | Microsoft Word Document                               |
 | Size            | 2791424 bytes                           |
 | MD5             | b3197d415b45d4d6eb31e0e55466df0f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

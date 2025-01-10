@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 226241 bytes                           |
 | MD5             | 1ca8254433fb130660560530002b876f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jae A. Puckett, Emmie Matsuno, Christina Dyar, Brian Mustanski, Michael E. Newcomb                               |
 | Region          | 美国                               |

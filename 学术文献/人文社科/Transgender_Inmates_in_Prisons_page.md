@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 105969 bytes                           |
 | MD5             | 78de5006ec0e659e15e281a58dc9115c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Douglas Routh et al.，国际罪犯治疗与比较犯罪学杂志                               |
 | Region          | 美国                               |

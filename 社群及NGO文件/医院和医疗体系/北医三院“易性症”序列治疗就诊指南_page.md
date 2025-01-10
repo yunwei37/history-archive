@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 72415 bytes                           |
 | MD5             | 16a76cf0c8c7542f5eaed3cfaec6a6f9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 北医三院整形外科                               |
 | Region          | 中国大陆                               |

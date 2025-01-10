@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 180699 bytes                           |
 | MD5             | 6dcac5c731a8b5110da3e8595ca9877f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 张青飞                               |
 | Region          | 中国                               |

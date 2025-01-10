@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 2082573 bytes                           |
 | MD5             | 3bb50299cb411ce718535f3104653f28                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Lee Airton                               |
 | Region          | 加拿大                               |

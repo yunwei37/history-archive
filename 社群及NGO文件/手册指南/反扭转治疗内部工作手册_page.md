@@ -20,7 +20,7 @@
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 12919 bytes                           |
 | MD5             | ad29e93f966d6c78e5f5762e75c92f3e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |

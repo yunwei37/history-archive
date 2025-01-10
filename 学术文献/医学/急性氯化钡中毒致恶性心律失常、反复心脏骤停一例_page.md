@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 1763898 bytes                           |
 | MD5             | ed339befd275d168da95616ee1c95ec1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 高珍珍, 吴娜, 董红锰, 腾飞, 梅雪, 宋玉果                               |
 | Region          | 中国大陆                               |

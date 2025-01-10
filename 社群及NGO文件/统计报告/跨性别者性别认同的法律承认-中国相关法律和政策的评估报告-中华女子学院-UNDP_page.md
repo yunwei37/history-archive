@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 2500164 bytes                           |
 | MD5             | b2c60778ed3345239128c81d8bd7465f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 联合国开发计划署、中华女子学院                               |
 | Region          | 中国大陆                               |

@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 3267324 bytes                           |
 | MD5             | 11a5bb55bade581b8fe0f33578f4a589                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 跨性别在线·文档库                               |
 | Region          | 中国大陆                               |

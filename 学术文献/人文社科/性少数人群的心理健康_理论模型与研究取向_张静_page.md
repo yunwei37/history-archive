@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 1226485 bytes                           |
 | MD5             | e3c97ded6e8644eeac4b260f23a644a5                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 张静, 郑丽军, 郑涌                               |
 | Region          | 中国                               |

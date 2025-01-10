@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 1052860 bytes                           |
 | MD5             | 545ef5a3fd70679294758615e5f79a57                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Runsen Chen et al.                               |
 | Region          | 中国                               |

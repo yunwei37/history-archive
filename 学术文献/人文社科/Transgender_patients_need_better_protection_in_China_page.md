@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 129344 bytes                           |
 | MD5             | 435a568200915d33d63b0f473bb94c26                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 中国                               |

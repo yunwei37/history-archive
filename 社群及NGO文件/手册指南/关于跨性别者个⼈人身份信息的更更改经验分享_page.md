@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 165671 bytes                           |
 | MD5             | a1b7612b8276cdd484cb2b3ede1f371d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 酷儿论坛                               |
 | Region          | 中国大陆                               |

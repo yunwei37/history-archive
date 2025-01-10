@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 1495284 bytes                           |
 | MD5             | 51d3b03106b8864f4c629fdd3c1a06f7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Caitlin Ryan, PhD, 加州州立大学家庭接受项目                               |
 | Region          | 美国                               |

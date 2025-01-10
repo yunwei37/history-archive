@@ -20,7 +20,7 @@
 | Format          | PDF Document                               |
 | Size            | 2295753 bytes                           |
 | MD5             | 5241fed151429572c95ca182ef1f7fa8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2025-01-10                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 亚历克斯·夏普（Alex Sharpe）                               |
 | Region          | 英国                               |
