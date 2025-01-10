@@ -1,0 +1,77 @@
+name: 女性化生活
+description: 该目录专注于女性化生活的各个方面，提供了在生活和性体验中提升个人形象的实用课程和技巧。文件中包括了多节课程内容，帮助从妆容到护肤，全面提升女性自我表现。具体内容包括：第一节课提到的“不要‘白洗’，只要‘洗白白’”强调了均匀肤色的重要性；第三课讨论了深度保湿及其对水润肌肤的关键作用；第四节课则教授有效的防晒方法，避免肌肤受到紫外线的损害。此外，化妆入门课程的系统讲解，对于初学者尤为重要，让大家能够掌握基础的化妆技巧。书籍《女神进化论》鼓励女性追求自我成长，开启跨越式的蜕变之路，适合每位不甘平庸的女性。该目录的最后几节课则聚焦于日常护肤小窍门，如告别“熊猫眼”和“鱼尾纹”，致力于帮助女性恢复年轻活力。
+curator: ''
+source: ''
+tags:
+- 女性化生活
+- 护肤
+- 化妆技巧
+- 个人形象提升
+- 女性励志
+- 青春保养
+license: ''
+files:
+- name: 02第2课___不要“白洗”，只要“洗白白”
+  filename: 02第2课___不要“白洗”，只要“洗白白”.pdf
+  type: document
+  format: PDF Document
+  size: 4852388
+  md5: 8ea148d58129dbcb573cfc1212c6b0ee
+  page: 02第2课___不要“白洗”，只要“洗白白”_page.md
+- name: 03第3课：深度保湿_水润皮肤透出来_
+  filename: 03第3课：深度保湿_水润皮肤透出来_.pdf
+  type: document
+  format: PDF Document
+  size: 4644830
+  md5: a7adde8652557519e88337e54ea7b9d4
+  page: 03第3课：深度保湿_水润皮肤透出来__page.md
+- name: 04第4课：不做“黑人”，简单有效的防晒
+  filename: 04第4课：不做“黑人”，简单有效的防晒.pdf
+  type: document
+  format: PDF Document
+  size: 3007245
+  md5: f4342b1eb3a682010e91a6e9be8048eb
+  page: 04第4课：不做“黑人”，简单有效的防晒_page.md
+- name: 化妆入门课（1-8章）
+  filename: 化妆入门课（1-8章）.pdf
+  type: document
+  format: PDF Document
+  size: 7044454
+  md5: c14202ed650828ade38730cb89ad97c8
+  page: 化妆入门课（1-8章）_page.md
+- name: 女神进化论一本让你实现跨越式成长的女性励志书，知乎大V、百万粉丝公众号“女神进化论”创始人寺主人首部励志随笔集；献给每一个不愿
+  filename: 女神进化论一本让你实现跨越式成长的女性励志书，知乎大V、百万粉丝公众号“女神进化论”创始人寺主人首部励志随笔集；献给每一个不愿.pdf
+  type: document
+  format: PDF Document
+  size: 2880071
+  md5: 43dda5be21ee715b0188a1c8a7a131b2
+  page: 女神进化论一本让你实现跨越式成长的女性励志书，知乎大V、百万粉丝公众号“女神进化论”创始人寺主人首部励志随笔集；献给每一个不愿_page.md
+- name: 第10课：告别“熊猫眼”，年轻态的小秘诀
+  filename: 第10课：告别“熊猫眼”，年轻态的小秘诀.pdf
+  type: document
+  format: PDF Document
+  size: 4507914
+  md5: bad185a2d40bed581c29a987b64bee93
+  page: 第10课：告别“熊猫眼”，年轻态的小秘诀_page.md
+- name: 第11课：弹走“鱼尾纹”，冻龄你的少女感_看图王1
+  filename: 第11课：弹走“鱼尾纹”，冻龄你的少女感_看图王1.pdf
+  type: document
+  format: PDF Document
+  size: 1943103
+  md5: 04018b5a90ea44de90e55aa703dc19bf
+  page: 第11课：弹走“鱼尾纹”，冻龄你的少女感_看图王1_page.md
+- name: 第6课：拯救大毛孔，光滑蛋肌亮出来
+  filename: 第6课：拯救大毛孔，光滑蛋肌亮出来.pdf
+  type: document
+  format: PDF Document
+  size: 4458463
+  md5: 19af2c62e271ea568444ac03ac53a412
+  page: 第6课：拯救大毛孔，光滑蛋肌亮出来_page.md
+- name: 第9课：远离“斑点狗”，不当“黄脸婆”
+  filename: 第9课：远离“斑点狗”，不当“黄脸婆”.pdf
+  type: document
+  format: PDF Document
+  size: 1787103
+  md5: e74e273a0ce389d05eb411f9082e4eac
+  page: 第9课：远离“斑点狗”，不当“黄脸婆”_page.md
+subdirs: []

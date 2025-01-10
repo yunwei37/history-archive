@@ -1,0 +1,56 @@
+name: 海外
+description: 此目录包含与跨性别相关的国际杂志和新闻报道，旨在分享海外跨性别群体的生活、挑战和成就。这些报道和文章提供了宝贵的视角，加深公众对跨性别议题的理解，促进社会包容。
+curator: ''
+source: ''
+tags:
+- 跨性别
+- 海外报道
+- 国际新闻
+- 生存现状
+- 公共理解
+- 社会包容
+license: ''
+files:
+- name: 2017上海骄傲电影节观影指南
+  filename: 2017上海骄傲电影节观影指南.pdf
+  type: document
+  format: PDF Document
+  size: 14481357
+  md5: 7422ba44084b6ed26b8f6fa8c0605493
+  page: 2017上海骄傲电影节观影指南_page.md
+- name: 2023年抢当铺事件观察
+  filename: 2023年抢当铺事件观察.pdf
+  type: document
+  format: PDF Document
+  size: 17604992
+  md5: 4b1c28553dfbd7fc233dec6be9d02c0d
+  page: 2023年抢当铺事件观察_page.md
+- name: 517酷儿论坛打破沉默继续前行_2020
+  filename: 517酷儿论坛打破沉默继续前行_2020.pdf
+  type: document
+  format: PDF Document
+  size: 1787714
+  md5: bbe0f6930509378dcedf3d9f0face628
+  page: 517酷儿论坛打破沉默继续前行_2020_page.md
+- name: PDF_看见性别_观察家
+  filename: PDF_看见性别_观察家.pdf
+  type: document
+  format: PDF Document
+  size: 5395633
+  md5: c168cd101f84ed7499aa51685f36a7d2
+  page: PDF_看见性别_观察家_page.md
+- name: 相约自杀、囤积药物、计划搬家…川普胜选令LGBTQ+群体焦虑，担心权利被剥夺
+  filename: 相约自杀、囤积药物、计划搬家…川普胜选令LGBTQ+群体焦虑，担心权利被剥夺.pdf
+  type: document
+  format: PDF Document
+  size: 2060784
+  md5: 3ca4201ff05406f4f5ef322283c443af
+  page: 相约自杀、囤积药物、计划搬家…川普胜选令LGBTQ+群体焦虑，担心权利被剥夺_page.md
+- name: 酷拉时报年度合刊_2015_华人拉拉联盟
+  filename: 酷拉时报年度合刊_2015_华人拉拉联盟.pdf
+  type: document
+  format: PDF Document
+  size: 5549968
+  md5: c7515ae8139bb7a7e55225d2d08bca46
+  page: 酷拉时报年度合刊_2015_华人拉拉联盟_page.md
+subdirs: []

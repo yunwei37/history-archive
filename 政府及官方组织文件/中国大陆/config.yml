@@ -1,0 +1,146 @@
+name: 中国大陆
+description: 该目录包含与中国大陆政府及官方组织相关的跨性别法律文件和政策资料。提供各种宣传资料、政府报告及法律文书，有助于深入了解国家法律政策对跨性别群体的影响和支持。
+curator: ''
+source: ''
+tags:
+- 法律政策
+- 政府文件
+- 中国大陆
+- 跨性别
+- 官方资料
+license: ''
+files:
+- name: 2018教育部人文社会科学研究基金项目评审结果
+  filename: 2018教育部人文社会科学研究基金项目评审结果.pdf
+  type: document
+  format: PDF Document
+  size: 2660856
+  md5: 281047f6b1f353309b370e4ef4af2f18
+  page: 2018教育部人文社会科学研究基金项目评审结果_page.md
+- name: 2018教育部人文社科项目拨款明细
+  filename: 2018教育部人文社科项目拨款明细.pdf
+  type: document
+  format: PDF Document
+  size: 3151456
+  md5: 2d68da5d593b9814e0d09a3176944608
+  page: 2018教育部人文社科项目拨款明细_page.md
+- name: 2019中国多元与共融论坛会议议程
+  filename: 2019中国多元与共融论坛会议议程.pdf
+  type: document
+  format: PDF Document
+  size: 2149862
+  md5: 2792fbd7d5c0512e38906e37dde00dc4
+  page: 2019中国多元与共融论坛会议议程_page.md
+- name: G05_性别重置技术临床应用管理规范
+  filename: G05_性别重置技术临床应用管理规范.pdf
+  type: document
+  format: PDF Document
+  size: 746449
+  md5: c21f01d4ca58541cb10d2e965ea73a5d
+  page: G05_性别重置技术临床应用管理规范_page.md
+- name: MCHD_COVID_疫苗接种登记表_2022
+  filename: MCHD_COVID_疫苗接种登记表_2022.pdf
+  type: document
+  format: PDF Document
+  size: 160252
+  md5: acbac8f3611950620ef3977ba19ec43b
+  page: MCHD_COVID_疫苗接种登记表_2022_page.md
+- name: PDF_先天性结构畸形救助项目_2021年版_
+  filename: PDF_先天性结构畸形救助项目_2021年版_.pdf
+  type: document
+  format: PDF Document
+  size: 4279230
+  md5: 629ba870448d274ab34cb4484bcc1a81
+  page: PDF_先天性结构畸形救助项目_2021年版__page.md
+- name: PDF_附件_2021年国家级继续医学教育项目表
+  filename: PDF_附件_2021年国家级继续医学教育项目表.pdf
+  type: document
+  format: PDF Document
+  size: 2884702
+  md5: 5d67f33724879db341ad3903bde0fe05
+  page: PDF_附件_2021年国家级继续医学教育项目表_page.md
+- name: 《关于依法处理监护人侵害未成年人权益行为若干问题的意见》的通知
+  filename: 《关于依法处理监护人侵害未成年人权益行为若干问题的意见》的通知.doc
+  type: document
+  format: Microsoft Word Document
+  size: 2791424
+  md5: b3197d415b45d4d6eb31e0e55466df0f
+  page: 《关于依法处理监护人侵害未成年人权益行为若干问题的意见》的通知_page.md
+- name: 中华人民共和国精神卫生法
+  filename: 中华人民共和国精神卫生法.docx
+  type: document
+  format: Microsoft Word Document (OpenXML)
+  size: 34157
+  md5: 26057f06e88d771d29602da4651e2dc4
+  page: 中华人民共和国精神卫生法_page.md
+- name: 健康企业建设优秀案例报告_国家卫生健康委员会_2022
+  filename: 健康企业建设优秀案例报告_国家卫生健康委员会_2022.pdf
+  type: document
+  format: PDF Document
+  size: 40852174
+  md5: ff3fc52feb43c00d668bb5e01031cf5d
+  page: 健康企业建设优秀案例报告_国家卫生健康委员会_2022_page.md
+- name: 卫生部办公厅关于公布首批允许临床应用的第三类医疗技术目录的通知
+  filename: 卫生部办公厅关于公布首批允许临床应用的第三类医疗技术目录的通知.pdf
+  type: document
+  format: PDF Document
+  size: 846716
+  md5: f65e050584da608371edf3c7f8141b79
+  page: 卫生部办公厅关于公布首批允许临床应用的第三类医疗技术目录的通知_page.md
+- name: 变性手术技术管理规范征求意见稿_便函_2009
+  filename: 变性手术技术管理规范征求意见稿_便函_2009.pdf
+  type: document
+  format: PDF Document
+  size: 466420
+  md5: 3dea8d62c04b66060c8afbaf4febffa0
+  page: 变性手术技术管理规范征求意见稿_便函_2009_page.md
+- name: 国家限制类技术目录2022_年版
+  filename: 国家限制类技术目录2022_年版.pdf
+  type: document
+  format: PDF Document
+  size: 207409
+  md5: 8e00050c2184796a5128c76b5e1616a0
+  page: 国家限制类技术目录2022_年版_page.md
+- name: 妇女权益保障法修订草案意见征集指南_2023_Rachel
+  filename: 妇女权益保障法修订草案意见征集指南_2023_Rachel.pdf
+  type: document
+  format: PDF Document
+  size: 8510911
+  md5: 59a5097048e76eb9b45540176ad5eed0
+  page: 妇女权益保障法修订草案意见征集指南_2023_Rachel_page.md
+- name: 性别变更更正办理服务指南
+  filename: 性别变更更正办理服务指南.pdf
+  type: document
+  format: PDF Document
+  size: 134382
+  md5: 999c6055a38b260861819b3787d59385
+  page: 性别变更更正办理服务指南_page.md
+- name: 性别平等推动成果报告
+  filename: 性别平等推动成果报告.pdf
+  type: document
+  format: PDF Document
+  size: 7395351
+  md5: e469c5ef7d05e07d441e192a8f52f332
+  page: 性别平等推动成果报告_page.md
+- name: 性别重置技术管理规范_（2017年版）
+  filename: 性别重置技术管理规范_（2017年版）.pdf
+  type: document
+  format: PDF Document
+  size: 95763
+  md5: 0b55c91c7296e940ddef4111d22954b9
+  page: 性别重置技术管理规范_（2017年版）_page.md
+- name: 户籍管理领域基层政务公开标准目录
+  filename: 户籍管理领域基层政务公开标准目录.pdf
+  type: document
+  format: PDF Document
+  size: 209839
+  md5: ea9b84b452f3320a701119ed085ded81
+  page: 户籍管理领域基层政务公开标准目录_page.md
+- name: 第二部分整形外科专科医师规范化培训细则试行
+  filename: 第二部分整形外科专科医师规范化培训细则试行.pdf
+  type: document
+  format: PDF Document
+  size: 315632
+  md5: 8fd1d6e46c79e4f940d2add346720740
+  page: 第二部分整形外科专科医师规范化培训细则试行_page.md
+subdirs: []

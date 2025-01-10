@@ -1,0 +1,370 @@
+name: 统计报告
+description: 此目录包含与跨性别群体相关的统计报告，为研究人员和政策制定者提供有关跨性别者生存现状和需求的数据支持。这些报告致力于反映跨性别者在社会中的真实情况，包括人口统计、健康状况和社会接纳度等方面的信息。
+curator: ''
+source: ''
+tags:
+- 跨性别
+- 统计报告
+- 社会研究
+- 生存现状
+- 数据分析
+license: ''
+files:
+- name: 2012年父母对跨性别青少年的支持影响报告
+  filename: 2012年父母对跨性别青少年的支持影响报告.pdf
+  type: document
+  format: PDF Document
+  size: 631044
+  md5: 6900ee21b1da317599e253fefe1243bb
+  page: 2012年父母对跨性别青少年的支持影响报告_page.md
+- name: 2013年扭转治疗调查报告
+  filename: 2013年扭转治疗调查报告.pdf
+  type: document
+  format: PDF Document
+  size: 1779749
+  md5: 1a5cb51a9c59530a9d8101657f3195a7
+  page: 2013年扭转治疗调查报告_page.md
+- name: 2015年亚太催化剂-北京上海跨性别女性性工作者生活状况调查
+  filename: 2015年亚太催化剂-北京上海跨性别女性性工作者生活状况调查.pdf
+  type: document
+  format: PDF Document
+  size: 2065585
+  md5: b0dc4bcd88552eed0da695f78a375de5
+  page: 2015年亚太催化剂-北京上海跨性别女性性工作者生活状况调查_page.md
+- name: 2016年愛滋病預防項目指標調查報告-男跨女跨性別人士
+  filename: 2016年愛滋病預防項目指標調查報告-男跨女跨性別人士.pdf
+  type: document
+  format: PDF Document
+  size: 148828
+  md5: 28b99b9253c0aff72065e755d0fcf746
+  page: 2016年愛滋病預防項目指標調查報告-男跨女跨性別人士_page.md
+- name: 2017_Chinese_Transgender_Population_General_Survey_Report
+  filename: 2017_Chinese_Transgender_Population_General_Survey_Report.pdf
+  type: document
+  format: PDF Document
+  size: 4600171
+  md5: e964a4f2bae290028aba8a8445eaf0b1
+  page: 2017_Chinese_Transgender_Population_General_Survey_Report_page.md
+- name: 2020年《跨性別就業與職場調查》報告.docx
+  filename: 2020年《跨性別就業與職場調查》報告.docx.pdf
+  type: document
+  format: PDF Document
+  size: 5866512
+  md5: 37db8372bff54bb6ef632ae2044a047c
+  page: 2020年《跨性別就業與職場調查》報告.docx_page.md
+- name: 2021全国跨性别健康调研报告
+  filename: 2021全国跨性别健康调研报告.pdf
+  type: document
+  format: PDF Document
+  size: 54388250
+  md5: 70205e5cbe4ff8c2aac5afc1b299fb62
+  page: 2021全国跨性别健康调研报告_page.md
+- name: 2023_行政院多元性别生活状况调查研究报告
+  filename: 2023_行政院多元性别生活状况调查研究报告.pdf
+  type: document
+  format: PDF Document
+  size: 4170258
+  md5: 71fbf28943fcdc5eb4b1db3273960235
+  page: 2023_行政院多元性别生活状况调查研究报告_page.md
+- name: LGBTQ+_老年人调查报告
+  filename: LGBTQ+_老年人调查报告.pdf
+  type: document
+  format: PDF Document
+  size: 1249632
+  md5: a2643014e16c9681d5393afbe4391ac0
+  page: LGBTQ+_老年人调查报告_page.md
+- name: PDF_中国大陆对LGBTQ_群体的正面态度
+  filename: PDF_中国大陆对LGBTQ_群体的正面态度.pdf
+  type: document
+  format: PDF Document
+  size: 2486026
+  md5: a39d4c4b234ef1f2353f03f118c4ebf2
+  page: PDF_中国大陆对LGBTQ_群体的正面态度_page.md
+- name: PDF_中国大陆跨性别群体激素干预获取情况调查报告
+  filename: PDF_中国大陆跨性别群体激素干预获取情况调查报告.pdf
+  type: document
+  format: PDF Document
+  size: 1193618
+  md5: b30535dba955a4123c545864f3acdc35
+  page: PDF_中国大陆跨性别群体激素干预获取情况调查报告_page.md
+- name: PDF_中国彩虹媒体奖2018-2019_年度彩虹媒体监测报告
+  filename: PDF_中国彩虹媒体奖2018-2019_年度彩虹媒体监测报告.pdf
+  type: document
+  format: PDF Document
+  size: 1321201
+  md5: ff42c0be8ef901e8f28507f3eeff3f36
+  page: PDF_中国彩虹媒体奖2018-2019_年度彩虹媒体监测报告_page.md
+- name: PDF_中国跨性别者受教育权状况研究报告_201903_v10pdf
+  filename: PDF_中国跨性别者受教育权状况研究报告_201903_v10pdf.pdf
+  type: document
+  format: PDF Document
+  size: 14509659
+  md5: eff36a88720b73e83258dab4f09b826c
+  page: PDF_中国跨性别者受教育权状况研究报告_201903_v10pdf_page.md
+- name: PDF_反人权运动对性工作者的影响简报
+  filename: PDF_反人权运动对性工作者的影响简报.pdf
+  type: document
+  format: PDF Document
+  size: 741930
+  md5: 65eb3ddd8e2a5ec7d08c33c58ff3fbe6
+  page: PDF_反人权运动对性工作者的影响简报_page.md
+- name: PDF_性工作者经济赋权简报
+  filename: PDF_性工作者经济赋权简报.pdf
+  type: document
+  format: PDF Document
+  size: 799987
+  md5: 73327cd4c3ac942762d42748f8c645ce
+  page: PDF_性工作者经济赋权简报_page.md
+- name: PDF_我想保留天生的模样_美国双性儿童遭受的非医疗必要手术
+  filename: PDF_我想保留天生的模样_美国双性儿童遭受的非医疗必要手术.pdf
+  type: document
+  format: PDF Document
+  size: 636197
+  md5: 99dc3b9d438d928a227182b60f6bee85
+  page: PDF_我想保留天生的模样_美国双性儿童遭受的非医疗必要手术_page.md
+- name: PDF_让我们谈谈性工作_全球性工作项目网络
+  filename: PDF_让我们谈谈性工作_全球性工作项目网络.pdf
+  type: document
+  format: PDF Document
+  size: 1398268
+  md5: 4aad64fb917f7e0d5b13d4fe7a71e382
+  page: PDF_让我们谈谈性工作_全球性工作项目网络_page.md
+- name: PDF_跨性別人士在保安部門遇到的性騷擾
+  filename: PDF_跨性別人士在保安部門遇到的性騷擾.pdf
+  type: document
+  format: PDF Document
+  size: 1154085
+  md5: 964c094039849746efa76fe8cbcef854
+  page: PDF_跨性別人士在保安部門遇到的性騷擾_page.md
+- name: PDF_阴阳人双性人间性人组织现状1
+  filename: PDF_阴阳人双性人间性人组织现状1.pdf
+  type: document
+  format: PDF Document
+  size: 559276
+  md5: dfd58f68607fc1a4ef007158e8b49267
+  page: PDF_阴阳人双性人间性人组织现状1_page.md
+- name: Report_-_Awareness_and_Attitudes_towards_GenderSexual_Minority_among_Psychiatry_and_Psychological_Counseling_Practitioners
+  filename: Report_-_Awareness_and_Attitudes_towards_GenderSexual_Minority_among_Psychiatry_and_Psychological_Counseling_Practitioners.pdf
+  type: document
+  format: PDF Document
+  size: 848063
+  md5: ba702ac30ff6067d42d3b866099b4fdb
+  page: Report_-_Awareness_and_Attitudes_towards_GenderSexual_Minority_among_Psychiatry_and_Psychological_Counseling_Practitioners_page.md
+- name: Report_on_The_Mental_Health_of_LGBT_People_in_China
+  filename: Report_on_The_Mental_Health_of_LGBT_People_in_China.pdf
+  type: document
+  format: PDF Document
+  size: 3482751
+  md5: babcbd9e9f7dfa9ed250534ab1ba7afc
+  page: Report_on_The_Mental_Health_of_LGBT_People_in_China_page.md
+- name: SOGIE_Report_-_Being_LGBTI_in_China
+  filename: SOGIE_Report_-_Being_LGBTI_in_China.pdf
+  type: document
+  format: PDF Document
+  size: 1705327
+  md5: f2040145cb36b87d068f47f590cf5c62
+  page: SOGIE_Report_-_Being_LGBTI_in_China_page.md
+- name: T_S_W简报09_跨性别性工作者的需求与权利
+  filename: T_S_W简报09_跨性别性工作者的需求与权利.pdf
+  type: document
+  format: PDF Document
+  size: 1038667
+  md5: 2004caf351b12a012481a3f7f286c176
+  page: T_S_W简报09_跨性别性工作者的需求与权利_page.md
+- name: 中国同志中心心理健康报告
+  filename: 中国同志中心心理健康报告.pdf
+  type: document
+  format: PDF Document
+  size: 4410870
+  md5: 4d986e4c03e8f9790babc2bd41894859
+  page: 中国同志中心心理健康报告_page.md
+- name: 中国同志心理健康报告
+  filename: 中国同志心理健康报告.pdf
+  type: document
+  format: PDF Document
+  size: 4414637
+  md5: 5f79cc14cf042cbfb36be41d57533ad8
+  page: 中国同志心理健康报告_page.md
+- name: 中国多元性别女性的生活与权益_研究报告（2023_年_第一版）
+  filename: 中国多元性别女性的生活与权益_研究报告（2023_年_第一版）.pdf
+  type: document
+  format: PDF Document
+  size: 1488577
+  md5: fe5f433ae92780b6fa86a457bd33563d
+  page: 中国多元性别女性的生活与权益_研究报告（2023_年_第一版）_page.md
+- name: 中国多元性别未成年人的生活与权益
+  filename: 中国多元性别未成年人的生活与权益.pdf
+  type: document
+  format: PDF Document
+  size: 1699501
+  md5: 360a28e036fe757d79252beff4e639b2
+  page: 中国多元性别未成年人的生活与权益_page.md
+- name: 中国性少数群体生存状况（中文版）
+  filename: 中国性少数群体生存状况（中文版）.pdf
+  type: document
+  format: PDF Document
+  size: 1579263
+  md5: a9228c45d0f82bf4011b5484a44336ee
+  page: 中国性少数群体生存状况（中文版）_page.md
+- name: 中国跨性别群体-_生存现状调查报告
+  filename: 中国跨性别群体-_生存现状调查报告.pdf
+  type: document
+  format: PDF Document
+  size: 4173788
+  md5: 3c793d4f6a8d8cf227c1dfcfac08a0e8
+  page: 中国跨性别群体-_生存现状调查报告_page.md
+- name: 中国跨性别者寻求性别确认医疗程序时遇到的障碍_国际特赦组织
+  filename: 中国跨性别者寻求性别确认医疗程序时遇到的障碍_国际特赦组织.pdf
+  type: document
+  format: PDF Document
+  size: 1809600
+  md5: 92cfd90e74f4d6bf06ab5b92e76d6e06
+  page: 中国跨性别者寻求性别确认医疗程序时遇到的障碍_国际特赦组织_page.md
+- name: 俄勒冈州中老年LGBTQ+健康需求调查
+  filename: 俄勒冈州中老年LGBTQ+健康需求调查.pdf
+  type: document
+  format: PDF Document
+  size: 162880
+  md5: 8e5deececc5230a5b287569a999329e6
+  page: 俄勒冈州中老年LGBTQ+健康需求调查_page.md
+- name: 全球性工作项目网络2012年度报告
+  filename: 全球性工作项目网络2012年度报告.pdf
+  type: document
+  format: PDF Document
+  size: 358216
+  md5: 1c0d6e98de204a1f8aa2ca5cc817cae6
+  page: 全球性工作项目网络2012年度报告_page.md
+- name: 全球移民政策与女性工作负担分析报告
+  filename: 全球移民政策与女性工作负担分析报告.pdf
+  type: document
+  format: PDF Document
+  size: 104868
+  md5: 8e55816debbcde765f20eb12bf4af192
+  page: 全球移民政策与女性工作负担分析报告_page.md
+- name: 全球跨性别健康与幸福指数议题
+  filename: 全球跨性别健康与幸福指数议题.pdf
+  type: document
+  format: PDF Document
+  size: 7325864
+  md5: 94e6a0b3ff97dab9f9a2e3c253528523
+  page: 全球跨性别健康与幸福指数议题_page.md
+- name: 公众对变性人士权利的看法_中国_-_Williams_Institute
+  filename: 公众对变性人士权利的看法_中国_-_Williams_Institute.pdf
+  type: document
+  format: PDF Document
+  size: 3488751
+  md5: bbb721dc39941ff0a6c0f14153e07645
+  page: 公众对变性人士权利的看法_中国_-_Williams_Institute_page.md
+- name: 北京上海跨性别女性性工作者生存状况调查
+  filename: 北京上海跨性别女性性工作者生存状况调查.pdf
+  type: document
+  format: PDF Document
+  size: 4038854
+  md5: 7049c4f41b8b6c70e17e14234e5eb88e
+  page: 北京上海跨性别女性性工作者生存状况调查_page.md
+- name: 双性恋人群的生存现状与挑战
+  filename: 双性恋人群的生存现状与挑战.pdf
+  type: document
+  format: PDF Document
+  size: 265661
+  md5: 5b76ee85aff0d69363fecfbb9c097829
+  page: 双性恋人群的生存现状与挑战_page.md
+- name: 反家暴法_在跨性别群体中的应用实况_及跨性别群体对反家暴法的_改进建议2017
+  filename: 反家暴法_在跨性别群体中的应用实况_及跨性别群体对反家暴法的_改进建议2017.pdf
+  type: document
+  format: PDF Document
+  size: 1650121
+  md5: c23598f3a536d03f8541810b5fca1252
+  page: 反家暴法_在跨性别群体中的应用实况_及跨性别群体对反家暴法的_改进建议2017_page.md
+- name: 同语《多元性别权益：从草根到联合国》
+  filename: 同语《多元性别权益：从草根到联合国》.pdf
+  type: document
+  format: PDF Document
+  size: 2565276
+  md5: 7fc85bc6c2c82ff884d4915c8e461ce0
+  page: 同语《多元性别权益：从草根到联合国》_page.md
+- name: 多元性別統計報告_澳洲與加拿大人口普查_2022
+  filename: 多元性別統計報告_澳洲與加拿大人口普查_2022.pdf
+  type: document
+  format: PDF Document
+  size: 1907391
+  md5: 1e3e180c0e848bd653a9d04f9571344d
+  page: 多元性別統計報告_澳洲與加拿大人口普查_2022_page.md
+- name: 家庭虐待服务需求研究报告
+  filename: 家庭虐待服务需求研究报告.pdf
+  type: document
+  format: PDF Document
+  size: 761714
+  md5: 0de8ac971331063fc9cfa7cfa041ca12
+  page: 家庭虐待服务需求研究报告_page.md
+- name: 性别暴力分析与应对策略
+  filename: 性别暴力分析与应对策略.pdf
+  type: document
+  format: PDF Document
+  size: 123879
+  md5: f3913f7277977c8759fb837af3e8378f
+  page: 性别暴力分析与应对策略_page.md
+- name: 探讨LGBT群体的权_利_骄傲与偏见
+  filename: 探讨LGBT群体的权_利_骄傲与偏见.pdf
+  type: document
+  format: PDF Document
+  size: 1372857
+  md5: 7c7e6e6e896c59606a573ad5aab3c081
+  page: 探讨LGBT群体的权_利_骄傲与偏见_page.md
+- name: 犹他州药物滥用治疗系统健康差异报告_2021
+  filename: 犹他州药物滥用治疗系统健康差异报告_2021.pdf
+  type: document
+  format: PDF Document
+  size: 1073144
+  md5: 132fcde273647deae4e9cf894c8f6333
+  page: 犹他州药物滥用治疗系统健康差异报告_2021_page.md
+- name: 精神卫生与心理咨询从业人员对性少数的态度调查报告（中文版）
+  filename: 精神卫生与心理咨询从业人员对性少数的态度调查报告（中文版）.pdf
+  type: document
+  format: PDF Document
+  size: 982584
+  md5: 0b506de0af3e7d063e1f7c56e33b1580
+  page: 精神卫生与心理咨询从业人员对性少数的态度调查报告（中文版）_page.md
+- name: 跨性别校园与证件修改调查报告
+  filename: 跨性别校园与证件修改调查报告.pdf
+  type: document
+  format: PDF Document
+  size: 1030770
+  md5: 8ebfb7b35f1e9d7c79e7b2e2aad7f7ef
+  page: 跨性别校园与证件修改调查报告_page.md
+- name: 跨性别组织现状第二版
+  filename: 跨性别组织现状第二版.pdf
+  type: document
+  format: PDF Document
+  size: 532701
+  md5: d5d474bf581eeb2eb9b30ac38b8f9233
+  page: 跨性别组织现状第二版_page.md
+- name: 跨性别者性别认同的法律承认-中国相关法律和政策的评估报告-中华女子学院-UNDP
+  filename: 跨性别者性别认同的法律承认-中国相关法律和政策的评估报告-中华女子学院-UNDP.pdf
+  type: document
+  format: PDF Document
+  size: 2500164
+  md5: b2c60778ed3345239128c81d8bd7465f
+  page: 跨性别者性别认同的法律承认-中国相关法律和政策的评估报告-中华女子学院-UNDP_page.md
+- name: 跨性别者性别认同的法律承认_中国相关法律和政策的评估报告
+  filename: 跨性别者性别认同的法律承认_中国相关法律和政策的评估报告.pdf
+  type: document
+  format: PDF Document
+  size: 1834064
+  md5: 0df297220bb53afd9a54834e50a71710
+  page: 跨性别者性别认同的法律承认_中国相关法律和政策的评估报告_page.md
+- name: 香港男跨女跨性別人士愛滋病風險及流行情況調查2017
+  filename: 香港男跨女跨性別人士愛滋病風險及流行情況調查2017.pdf
+  type: document
+  format: PDF Document
+  size: 268695
+  md5: 978592b854a59eed4260f00ee98d1f76
+  page: 香港男跨女跨性別人士愛滋病風險及流行情況調查2017_page.md
+- name: 骄傲与偏见-变革的动力-经济学人智库报告-2018
+  filename: 骄傲与偏见-变革的动力-经济学人智库报告-2018.pdf
+  type: document
+  format: PDF Document
+  size: 1447951
+  md5: 875ca66c0c47f377ee40b776c8ef15c2
+  page: 骄傲与偏见-变革的动力-经济学人智库报告-2018_page.md
+subdirs: []
