@@ -163,13 +163,13 @@ files:
   size: 12919
   md5: ad29e93f966d6c78e5f5762e75c92f3e
   page: 反扭转治疗内部工作手册_page.md
-- name: 嗓音训练指南正式归档
-  filename: 嗓音训练指南正式归档.pdf
+- name: 嗓音训练指南
+  filename: 嗓音训练指南.pdf
   type: document
   format: PDF Document
-  size: 13934262
-  md5: f3b144993f13f8df91029fdda9d7feec
-  page: 嗓音训练指南正式归档_page.md
+  size: 2
+  md5: 81051bcc2cf1bedf378224b0a93e2877
+  page: 嗓音训练指南_page.md
 - name: 坦荡出柜_亚太裔LGBTQ人群生活指南
   filename: 坦荡出柜_亚太裔LGBTQ人群生活指南.pdf
   type: document
