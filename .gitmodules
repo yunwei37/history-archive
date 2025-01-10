@@ -7,6 +7,3 @@
 [submodule ".github/downloader"]
 	path = .github/downloader
 	url = https://github.com/transTerminus/web_downloader
-[submodule "文学作品和艺术创作/音频影像"]
-	path = 文学作品和艺术创作/音频影像
-	url = https://github.com/transTerminus/video-archive
