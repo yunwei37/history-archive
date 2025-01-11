@@ -1,0 +1,73 @@
+name: 小说
+description: 本目录收录与跨性别相关的小说作品，涵盖了跨性别者的生活经历、情感纠葛及自我认同等主题。作品通过文学的方式，表达了跨性别者的独特声音与故事，旨在提高社会对这一群体的理解与关注。注：本目录收录的文档仅为部分小说以及评论，更多请访问
+  性转小说档案 <https://novel.transchinese.org/>、 <https://xnovel.transchinese.org/> 和 <https://unovel.transchinese.org/>
+  获取。
+curator: ''
+source: ''
+tags:
+- 跨性别
+- 文学作品
+- 小说
+- 艺术创作
+- 自我认同
+- 生命故事
+license: ''
+files:
+- name: 2023花地文学榜
+  filename: 2023花地文学榜.pdf
+  type: document
+  format: PDF Document
+  size: 12055586
+  md5: b8e4b2158c00825fcf480113707be0af
+  page: 2023花地文学榜_page.md
+- name: _其他__说好的论文，论变身小说的两种流派
+  filename: _其他__说好的论文，论变身小说的两种流派.txt
+  type: document
+  format: Plain Text
+  size: 24281
+  md5: b18bd68300bc6a1b7cfc3040608f9f47
+  page: _其他__说好的论文，论变身小说的两种流派_page.md
+- name: 与夜共鸣-夜明珠书评
+  filename: 与夜共鸣-夜明珠书评.md
+  type: webpage
+  format: Markdown
+  size: 61771
+  md5: c97d8d686459ead612c570a3ec90f913
+  page: 与夜共鸣-夜明珠书评.md
+- name: 伟大小说的时间考量
+  filename: 伟大小说的时间考量.pdf
+  type: document
+  format: PDF Document
+  size: 4578282
+  md5: 7bfaf624027b63116159d00b09b704d9
+  page: 伟大小说的时间考量_page.md
+- name: 变文研究
+  filename: 变文研究.txt
+  type: document
+  format: Plain Text
+  size: 107999
+  md5: e6364d3bebdf939b9f6fc4b0e6790488
+  page: 变文研究_page.md
+- name: 王安黛-中篇严肃悬疑-缺耳女_二稿修正版
+  filename: 王安黛-中篇严肃悬疑-缺耳女_二稿修正版.docx
+  type: document
+  format: Microsoft Word Document (OpenXML)
+  size: 220567
+  md5: 26de3327da3eb924a70d89054d69d11a
+  page: 王安黛-中篇严肃悬疑-缺耳女_二稿修正版_page.md
+- name: 維納斯_夜晚的靜_七月大暑的秘密
+  filename: 維納斯_夜晚的靜_七月大暑的秘密.pdf
+  type: document
+  format: PDF Document
+  size: 474123
+  md5: 80c8c64af22b93bab517b9423d26ed25
+  page: 維納斯_夜晚的靜_七月大暑的秘密_page.md
+- name: 药娘的天空
+  filename: 药娘的天空.pdf
+  type: document
+  format: PDF Document
+  size: 22571390
+  md5: 068ef1ef592f2ae5ef1561778550e40f
+  page: 药娘的天空_page.md
+subdirs:
+- 《银荆的告白》1-5卷

@@ -1,0 +1,30 @@
+# {name}
+
+<!-- tcd_download_link -->
+Download: [{filename}]({filename})
+<!-- tcd_download_link_end -->
+
+## 摘要
+
+<!-- tcd_abstract -->
+{description}
+
+<!-- tcd_abstract_end -->
+
+## 其他信息
+
+| Attribute       | Value                                  |
+|-----------------|----------------------------------------|
+| Filename        | {filename}                             |
+| Type            | {type}                                 |
+| Format          | {format}                               |
+| Size            | {size} bytes                           |
+| MD5             | {md5}                                  |
+| Archived Date   | {archived}                             |
+| Original Link   | [{link}]({link})                         |
+| Author          | {author}                               |
+| Region          | {region}                               |
+| Date            | {date}                                 |
+| Tags            | {tags}                                 |
+
+本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有，所有内容仅为历史资料保存及研究之用。如果原作者或相关方希望移除存档内容，请通过电子邮件与我们联系。

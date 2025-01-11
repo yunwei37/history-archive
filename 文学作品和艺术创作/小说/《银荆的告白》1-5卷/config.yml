@@ -1,0 +1,57 @@
+name: 《银荆的告白》1-5卷
+description: 《银荆的告白》是一本以跨性别角色为中心的小说系列，通过主人公的内心独白和生存体验，探讨了性别认同、社会接受度和个体心理的复杂性。该作品包含多卷，不仅有主线故事，还有丰富的插画，反映了跨性别者的生活状态和情感旅程。
+curator: ''
+source: ''
+tags:
+- 跨性别
+- 小说
+- 文学作品
+- 生命故事
+- 艺术创作
+- 社会接受度
+license: ''
+files:
+- name: 银荆的告白.01
+  filename: 银荆的告白.01.epub
+  type: other
+  format: Unknown Format
+  size: 3206844
+  md5: ffbf4e689e62156e5f331d59a4d615d9
+  page: 银荆的告白.01.epub
+- name: 银荆的告白.02
+  filename: 银荆的告白.02.epub
+  type: other
+  format: Unknown Format
+  size: 2821210
+  md5: 866ec9e137fba19129fbaa7078384b06
+  page: 银荆的告白.02.epub
+- name: 银荆的告白.03
+  filename: 银荆的告白.03.epub
+  type: other
+  format: Unknown Format
+  size: 2513350
+  md5: 89c5a1c509d74fdbbec1b0cc99c9c104
+  page: 银荆的告白.03.epub
+- name: 银荆的告白.04
+  filename: 银荆的告白.04.epub
+  type: other
+  format: Unknown Format
+  size: 2142227
+  md5: 0614411e910a7f76a8c23c18a7e0637e
+  page: 银荆的告白.04.epub
+- name: 银荆的告白.05
+  filename: 银荆的告白.05.epub
+  type: other
+  format: Unknown Format
+  size: 3687884
+  md5: c86c0f53a42ea7a5019c7226353ab6a6
+  page: 银荆的告白.05.epub
+- name: 银荆的告白_全卷
+  filename: 银荆的告白_全卷.txt
+  type: document
+  format: Plain Text
+  size: 1667435
+  md5: 56489cdb88f66ac79d80f3e68d6fc4f7
+  page: 银荆的告白_全卷_page.md
+subdirs:
+- 《银荆的告白》插画

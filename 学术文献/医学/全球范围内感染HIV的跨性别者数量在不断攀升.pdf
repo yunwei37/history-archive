@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html>
+<html lang="en" dir="ltr" version="HTML+RDFa+MathML 1.1"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <!--[if IE]><![endif]-->
+<link rel="dns-prefetch" href="//securepubads.g.doubleclick.net" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="shortcut icon" href="https://sti.bmj.com/sites/default/themes/bmjj/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<script>window.dataLayer = window.dataLayer || [];window.dataLayer.push({"page":{"hwTitle":"Access Denied","hwUrl":"https://sti.bmj.com/content/suppl/2016/04/05/sextrans-2015-052350.DC1/sextrans-2015-052350supp_abstract_in_Chinese.pdf","hwPath":"/content/suppl/2016/04/05/sextrans-2015-052350.DC1/sextrans-2015-052350supp_abstract_in_Chinese.pdf","hwType":"403 page"},"user":{"hwMemberID":"","hwLoggedIntoInstitutionID":"435170","hwLoggedIntoInstitution":"Serials Section University Library","hwAccessUsageTerms":"institution","hwRegisteredUser":"no","mail":"06d12345df33d7360134c1f20e469fd6749c7c3642194123d37c6f532bd6de44"}});
+//--><!]]></script>
+  <title>Access Denied | Sexually Transmitted Infections</title>
+  <link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__466gmfs53B3phYcq4kLqmYDmQ-LOpMqVkXNEsnd48qo__Z3EXmC1hiDTZR9CFRQjXnaEWJAONizU15mEW2-myp-c__RBpwsggTa-66iCd391Lg7-ZmaIvHPOUAGYyVtdCScb8.css" media="all" />
+
+  <!-- OneTrust Cookies Consent Notice start -->
+  <script src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="565e50dd-f6e9-46d6-91cd-5c40a270264f"></script>
+  <script type="text/javascript">
+    function OnetrustAdsConsent(){
+        if(googletag.apiReady){
+          //console.log("GoogleTag API ready")
+          googletag.pubads().disableInitialLoad();
+
+          if(OptanonActiveGroups.match(/,4,/)){
+            googletag.pubads().setRequestNonPersonalizedAds(0);
+            //googletag.pubads().refresh();
+          }
+          else{
+            googletag.pubads().setRequestNonPersonalizedAds(1);
+            googletag.pubads().refresh();
+          }
+        }
+        else{
+        OnetrustAdsConsent();
+      }
+    }
+
+    function OptanonWrapper() {
+      OnetrustAdsConsent();
+    }
+  </script>
+  <!-- OneTrust Cookies Consent Notice end -->
+
+  <script type="text/javascript" src="/sites/default/files/advagg_js/js__DdxPgqGimsdUot2QWNz_pGsHzqNGpx6RMCWHpL8YWkg__c6zfK6oHHbLpTal5PdQxeQI3xGoCM8IXWtEHwIZr560__RBpwsggTa-66iCd391Lg7-ZmaIvHPOUAGYyVtdCScb8.js"></script>
+<script type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__iTCKL4aVxkhNrQuvPmb_1S7qdbuW9XtFBGMQlKV0pfY__MxI-OtBeq0oBFVyUPpcJwhyZg_-7DPKDGyvLjmL8ZTk__RBpwsggTa-66iCd391Lg7-ZmaIvHPOUAGYyVtdCScb8.js"></script>
+<script type="text/javascript" src="/sites/default/modules/contrib/menu_attach_block/js/menu_attach_block.js?smihi7"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+/*!
+ * yepnope1.5.4
+ * (c) WTFPL, GPLv2
+ */
+(function(a,b,c){function d(a){return"[object Function]"==o.call(a)}function e(a){return"string"==typeof a}function f(){}function g(a){return!a||"loaded"==a||"complete"==a||"uninitialized"==a}function h(){var a=p.shift();q=1,a?a.t?m(function(){("c"==a.t?B.injectCss:B.injectJs)(a.s,0,a.a,a.x,a.e,1)},0):(a(),h()):q=0}function i(a,c,d,e,f,i,j){function k(b){if(!o&&g(l.readyState)&&(u.r=o=1,!q&&h(),l.onload=l.onreadystatechange=null,b)){"img"!=a&&m(function(){t.removeChild(l)},50);for(var d in y[c])y[c].hasOwnProperty(d)&&y[c][d].onload()}}var j=j||B.errorTimeout,l=b.createElement(a),o=0,r=0,u={t:d,s:c,e:f,a:i,x:j};1===y[c]&&(r=1,y[c]=[]),"object"==a?l.data=c:(l.src=c,l.type=a),l.width=l.height="0",l.onerror=l.onload=l.onreadystatechange=function(){k.call(this,r)},p.splice(e,0,u),"img"!=a&&(r||2===y[c]?(t.insertBefore(l,s?null:n),m(k,j)):y[c].push(l))}function j(a,b,c,d,f){return q=0,b=b||"j",e(a)?i("c"==b?v:u,a,b,this.i++,c,d,f):(p.splice(this.i++,0,a),1==p.length&&h()),this}function k(){var a=B;return a.loader={load:j,i:0},a}var l=b.documentElement,m=a.setTimeout,n=b.getElementsByTagName("script")[0],o={}.toString,p=[],q=0,r="MozAppearance"in l.style,s=r&&!!b.createRange().compareNode,t=s?l:n.parentNode,l=a.opera&&"[object Opera]"==o.call(a.opera),l=!!b.attachEvent&&!l,u=r?"object":l?"script":"img",v=l?"script":u,w=Array.isArray||function(a){return"[object Array]"==o.call(a)},x=[],y={},z={timeout:function(a,b){return b.length&&(a.timeout=b[0]),a}},A,B;B=function(a){function b(a){var a=a.split("!"),b=x.length,c=a.pop(),d=a.length,c={url:c,origUrl:c,prefixes:a},e,f,g;for(f=0;f<d;f++)g=a[f].split("="),(e=z[g.shift()])&&(c=e(c,g));for(f=0;f<b;f++)c=x[f](c);return c}function g(a,e,f,g,h){var i=b(a),j=i.autoCallback;i.url.split(".").pop().split("?").shift(),i.bypass||(e&&(e=d(e)?e:e[a]||e[g]||e[a.split("/").pop().split("?")[0]]),i.instead?i.instead(a,e,f,g,h):(y[i.url]?i.noexec=!0:y[i.url]=1,f.load(i.url,i.forceCSS||!i.forceJS&&"css"==i.url.split(".").pop().split("?").shift()?"c":c,i.noexec,i.attrs,i.timeout),(d(e)||d(j))&&f.load(function(){k(),e&&e(i.origUrl,h,g),j&&j(i.origUrl,h,g),y[i.url]=2})))}function h(a,b){function c(a,c){if(a){if(e(a))c||(j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}),g(a,j,b,0,h);else if(Object(a)===a)for(n in m=function(){var b=0,c;for(c in a)a.hasOwnProperty(c)&&b++;return b}(),a)a.hasOwnProperty(n)&&(!c&&!--m&&(d(j)?j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}:j[n]=function(a){return function(){var b=[].slice.call(arguments);a&&a.apply(this,b),l()}}(k[n])),g(a[n],j,b,n,h))}else!c&&l()}var h=!!a.test,i=a.load||a.both,j=a.callback||f,k=j,l=a.complete||f,m,n;c(h?a.yep:a.nope,!!i),i&&c(i)}var i,j,l=this.yepnope.loader;if(e(a))g(a,0,l,0);else if(w(a))for(i=0;i<a.length;i++)j=a[i],e(j)?g(j,0,l,0):w(j)?B(j):Object(j)===j&&h(j,l);else Object(a)===a&&h(a,l)},B.addPrefix=function(a,b){z[a]=b},B.addFilter=function(a){x.push(a)},B.errorTimeout=1e4,null==b.readyState&&b.addEventListener&&(b.readyState="loading",b.addEventListener("DOMContentLoaded",A=function(){b.removeEventListener("DOMContentLoaded",A,0),b.readyState="complete"},0)),a.yepnope=k(),a.yepnope.executeStack=h,a.yepnope.injectJs=function(a,c,d,e,i,j){var k=b.createElement("script"),l,o,e=e||B.errorTimeout;k.src=a;for(o in d)k.setAttribute(o,d[o]);c=j?h:c||f,k.onreadystatechange=k.onload=function(){!l&&g(k.readyState)&&(l=1,c(),k.onload=k.onreadystatechange=null)},m(function(){l||(l=1,c(1))},e),i?k.onload():n.parentNode.insertBefore(k,n)},a.yepnope.injectCss=function(a,c,d,e,g,i){var e=b.createElement("link"),j,c=i?h:c||f;e.href=a,e.rel="stylesheet",e.type="text/css";for(j in d)e.setAttribute(j,d[j]);g||(n.parentNode.insertBefore(e,n),m(c,0))}})(this,document);
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+yepnope({
+  test: Modernizr.matchmedia,
+  nope: '/sites/all/libraries/media-match/media.match.min.js'
+});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.slots = googletag.slots || {};
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["top"] = googletag.defineSlot("/21798771943/STI-TOP", [[970, 250], [900, 250], [728, 90], [468, 60], [320, 100], [320, 50]], "dfp-ad-top")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["bottom"] = googletag.defineSlot("/21798771943/STI-BOTTOM", [[970, 250], [900, 250], [728, 90], [468, 60], [320, 100], [320, 50]], "dfp-ad-bottom")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().collapseEmptyDivs();
+  googletag.pubads().addEventListener("slotRenderEnded", function (event) {
+    if (event.isEmpty) {
+      var id = event.slot.getSlotElementId();
+      var x = document.getElementById(id);
+      if (x.parentElement.classList.contains("dfp-tag-wrapper")) {
+        x.parentElement.style.display = "none";
+      }
+    }
+  });
+  googletag.pubads().setTargeting("url", "/content/suppl/2016/04/05/sextrans-2015-052350.DC1/sextrans-2015-052350supp_abstract_in_Chinese.pdf");
+  googletag.pubads().setTargeting("page:hwTitle", "Access Denied");
+  googletag.pubads().setTargeting("page:hwUrl", "https://sti.bmj.com/content/suppl/2016/04/05/sextrans-2015-052350.DC1/sextrans-2015-052350supp_abstract_in_Chinese.pdf");
+  googletag.pubads().setTargeting("page:hwPath", "/content/suppl/2016/04/05/sextrans-2015-052350.DC1/sextrans-2015-052350supp_abstract_in_Chinese.pdf");
+  googletag.pubads().setTargeting("page:hwType", "403 page");
+  googletag.pubads().setTargeting("user:hwLoggedIntoInstitutionID", "435170");
+  googletag.pubads().setTargeting("user:hwLoggedIntoInstitution", "Serials Section University Library");
+  googletag.pubads().setTargeting("user:hwAccessUsageTerms", "institution");
+  googletag.pubads().setTargeting("user:hwRegisteredUser", "no");
+});
+
+googletag.enableServices();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","highwire":{"ac":{"sextrans;sextrans-2015-052350\/DC1\/1":{"access":{"full":false,"data":false},"pisa_id":"sextrans;sextrans-2015-052350\/DC1\/1","apath":"","jcode":"sextrans"}},"dataLayer":"{\u0022page\u0022:{\u0022hwTitle\u0022:\u0022Access Denied\u0022,\u0022hwUrl\u0022:\u0022https:\\\/\\\/sti.bmj.com\\\/content\\\/suppl\\\/2016\\\/04\\\/05\\\/sextrans-2015-052350.DC1\\\/sextrans-2015-052350supp_abstract_in_Chinese.pdf\u0022,\u0022hwPath\u0022:\u0022\\\/content\\\/suppl\\\/2016\\\/04\\\/05\\\/sextrans-2015-052350.DC1\\\/sextrans-2015-052350supp_abstract_in_Chinese.pdf\u0022,\u0022hwType\u0022:\u0022403 page\u0022},\u0022user\u0022:{\u0022hwMemberID\u0022:\u0022\u0022,\u0022hwLoggedIntoInstitutionID\u0022:\u0022435170\u0022,\u0022hwLoggedIntoInstitution\u0022:\u0022Serials Section University Library\u0022,\u0022hwAccessUsageTerms\u0022:\u0022institution\u0022,\u0022hwRegisteredUser\u0022:\u0022no\u0022,\u0022mail\u0022:\u002206d12345df33d7360134c1f20e469fd6749c7c3642194123d37c6f532bd6de44\u0022}}"},"ajaxPageState":{"theme":"bmjj","theme_token":"Xv1ObnqFw-eG_gRIa1id9J9X6x-Iwi-j5accQievXL4"},"urlIsAjaxTrusted":{"\/content\/suppl\/2016\/04\/05\/sextrans-2015-052350.DC1\/sextrans-2015-052350supp_abstract_in_Chinese.pdf":true,"\/content\/suppl\/2016\/04\/05\/sextrans-2015-052350.DC1\/sextrans-2015-052350supp_abstract_in_Chinese":true},"highwireResponsive":{"enquire_enabled":1,"breakpoints_configured":1,"breakpoints":{"narrow":"all and (min-width: 768px) and (min-device-width: 768px), (max-device-width: 800px) and (min-width: 768px) and (orientation:landscape)","normal":"all and (min-width: 1024px) and (min-device-width: 1024px), all (max-width: 1220px) and (max-device-width: 1220px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 10]><script src="https://sti.bmj.com/sites/all/themes/highwire/axon/js/media.match.min.js" type="text/javascript"></script><![endif]-->
+  <!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/sites/default/themes/bmjj/css/theme/ie-7-8.css" /><![endif]-->
+
+<script>
+let cookies = parseCookies();
+let bmj_uuid = cookies.bmj_uuid;
+let bmj_ppid = cookies.bmj_ppid;
+
+window.dataLayer = window.dataLayer || [];
+
+const anonMailId = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855';
+function checkUserLoginStatus(dataLayer) {
+  const userMail = dataLayer.find((item) => item.user)?.user?.mail;
+  if (!userMail) {
+    return false;
+  }
+  return userMail !== anonMailId;
+}
+let nonAnonMailId = ((dataLayer.find(item => item.user)?.user)?.mail) === anonMailId ? null : (dataLayer.find(item => item.user)?.user)?.mail;            
+let userId = ((dataLayer.find(item => item.user)?.user)?.['data-ics']) ?? ((dataLayer.find(item => item.user)?.user)?.mail && nonAnonMailId) ?? bmj_ppid ?? bmj_uuid;
+
+document.cookie = 'bmj_ppid=' + userId + '; domain=.bmj.com; path=/; max-age=31622400; SameSite=None; Secure';
+
+googletag.cmd.push(function() {
+  googletag.pubads().setPublisherProvidedId(userId);
+  googletag.pubads().setTargeting("islogged", checkUserLoginStatus(dataLayer) ? "true" : "false");
+  googletag.enableServices();
+});
+
+window.dataLayer.push({
+  'bmj_uuid': bmj_uuid
+});
+</script>
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-error page-error-access-denied">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T9PVCJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;j.type='text/javascript';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-T9PVCJ');</script>
+<!-- End Google Tag Manager -->
+    <div id="skip-link">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+
+
+<div  class="page" id="page">
+  <section class="container-fluid content-header">
+
+    <header role="banner" class="section section-header row">
+
+      <div class="zone zone-superheader">
+        <div class="region region-superheader">
+          <div class="region-inner region-superheader-inner">
+              <div class="region region-superheader">
+    <div id="block-panels-mini-jnl-template-bmjj-uid-strng" class="block block-panels-mini" class="block block-panels-mini">
+
+    
+  <div class="content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-jnl_template_bmjj_uid_strng">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-dfp-pane" >
+  
+      
+  
+  <div class="pane-content">
+    <div id="dfp-ad-top-wrapper" class="dfp-tag-wrapper">
+
+<div  id="dfp-ad-top" class="dfp-tag-wrapper">
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-top");
+    });
+  </script>
+</div>
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-bmjj-highwire-inst-branding" >
+  
+      
+  
+  <div class="pane-content">
+    <span class="col-narrow-12 col-normal-12 mobile-hidden text-color-secondary highwire-inst-wrap"><span class="institution-name">Viewing from: <span>Serials Section University Library</span></span></span>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+          </div>
+        </div><!-- /.region-superheader -->
+      </div><!-- /.zone-super-header -->
+
+      <div class="site-info mobile-hidden">
+        
+              </div><!-- /.site-info -->
+      <div class="zone zone-header row mobile-hidden">
+        <div class="region region-header">
+          <div class="region-inner region-header-inner">
+                       </div>
+         </div><!-- ./region-header -->
+      </div><!-- /.zone-header -->
+    </header> <!-- /.section-header -->
+    <section class="row visible-sm visible-md visible-lg header header-platform mobile-hidden">
+      <div class="col-narrow-3 col-normal-3 col-large-3 logo-bmj">
+        <div class="l-inline">
+          <p class="logo-bmj-journals"><a href="http://journals.bmj.com/" title="BMJ Journals"><img src="/sites/default/themes/bmjj/img/logos/logo-bmj-journals.svg" title="BMJ Journals" alt="BMJ Journals"/></a></p>
+                  </div>
+      </div>
+      <div class="col-narrow-9 col-normal-9 col-large-9 no-right-padding">
+                  <div class="region region-top">
+            <div class="region-inner">
+                <div class="region region-platmenu">
+    <div id="block-menu-menu-platform-menu" class="block block-menu" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/subscribe" data-hide-link-title="0" class="header-subscribe-link" data-icon-position="">Subscribe</a></li>
+<li class="leaf"><a href="/" id="menu-login" class="drop-menu link-icon-right link-icon"><span class="title">Log In</span> <span class="icon icon-arrow-down"></span></a>
+<a href="# " class="menu-attach-block-drop-link external expand-on-click" data-block-id="panels_mini|challenge_opportunity_pane_dropdown" id="&lt;front&gt;-drop-link-728" data-icon-position="" data-hide-link-title="0">More</a><div class="menu-attach-block-wrapper">
+	<div id="block-panels-mini-challenge-opportunity-pane-dropdown" class="block block-panels-mini article-login bmjj-login" class="block block-panels-mini">
+
+    
+  <div class="content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-challenge_opportunity_pane_dropdown">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-bmjj-society-logins society-logins" >
+  
+      
+  
+  <div class="pane-content">
+    <span class="ui-button ui-state-default ui-dialog-titlebar-close" title="close"></span><div class="shib-login-link"><a href="/login/shibboleth?subcode=bmjjournals&amp;env=prod&amp;uri=https%3A//sti.bmj.com/accallback/error%25252Faccess-denied" class="button society-login-link" data-icon-position="" data-hide-link-title="0">Log in via Institution</a></div><div class="openathens-login-link"><a href="https://openathens-sp.highwire.org/session/init?entityID=https%3A//idp.eduserv.org.uk/openathens&amp;hw-shib-return-uri=https%3A//sti.bmj.com/accallback/error%25252Faccess-denied&amp;subcode=bmjjournals" class="button society-login-link" data-icon-position="" data-hide-link-title="0">Log in via OpenAthens</a></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-opportunity-challenge" >
+  
+      
+  
+  <div class="pane-content">
+    <div class='opportunity-challenge-login'><h3>Log in using your username and password</h3><div class="drupal-login compact"><form action="/content/suppl/2016/04/05/sextrans-2015-052350.DC1/sextrans-2015-052350supp_abstract_in_Chinese" method="post" id="highwire-user-login--2" accept-charset="UTF-8"><div><div id="edit-customtext--2" class="form-item form-item-label-before form-type-item">
+ <span class="customtext">For personal accounts OR managers of institutional accounts</span>
+</div>
+<div class="form-item form-item-label-invisible form-type-textfield form-item-name">
+  <label class="element-invisible" for="edit-name--2">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Username" type="text" id="edit-name--2" name="name" value="" size="30" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-item-label-invisible form-type-password form-item-pass">
+  <label class="element-invisible" for="edit-pass--2">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Password" type="password" id="edit-pass--2" name="pass" size="30" maxlength="128" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form-MIkrE1gcxxix-FX0EfDoBb94SFTScrdhbMrKo2otJuk" />
+<input type="hidden" name="form_id" value="highwire_user_login" />
+<div class="bmjj-reset-password"><a href="/user/password" class="" data-icon-position="" data-hide-link-title="0">Forgot your log in details?</a><a href="/user/register?destination=content/suppl/2016/04/05/sextrans-2015-052350.DC1/sextrans-2015-052350supp_abstract_in_Chinese.pdf" class="" data-icon-position="" data-hide-link-title="0">Register a new account?</a></div><div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Log in" class="form-submit" /></div><div class="reset-password"><a href="/user/password" class="" data-icon-position="" data-hide-link-title="0">Forgot</a> your user name or password?</div></div></form></div></div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</li>
+<li class="leaf"><a href="/cart" class="link-icon-right link-icon"><span class="title">Basket</span> <span class="icon icon-basket"></span></a></li>
+<li class="last leaf"><a href="/search" id="menu-search" class="drop-menu link-icon-right link-icon"><span class="title">Search</span> <span class="icon icon-search"></span></a>
+<a href="# " class="menu-attach-block-drop-link external expand-on-click" data-block-id="panels_mini|jnl_template_bmjj_search_box" id="search-drop-link-729" data-icon-position="" data-hide-link-title="0">More</a><div class="menu-attach-block-wrapper">
+	<div id="block-panels-mini-jnl-template-bmjj-search-box" class="block block-panels-mini" class="block block-panels-mini">
+
+    
+  <div class="content">
+    <div class="panel-display one-layout " id="mini-panel-jnl_template_bmjj_search_box-1">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-highwire-seach-quicksearch block-search pull-left" >
+  
+      
+  
+  <div class="pane-content">
+    <form class="highwire-quicksearch button-style-mini button-style-mini" action="/content/suppl/2016/04/05/sextrans-2015-052350.DC1/sextrans-2015-052350supp_abstract_in_Chinese.pdf" method="post" id="highwire-search-quicksearch-form-1" accept-charset="UTF-8"><div><div class="form-item form-item-label-invisible form-type-textfield form-item-keywords">
+  <label class="element-invisible" for="search_rightsidebar_keywords_517557758">Search for this keyword </label>
+ <input placeholder="search" type="text" id="search_rightsidebar_keywords_517557758" name="keywords" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<input data-icon-only="1" data-font-icon="icon-search" data-icon-position="after" type="submit" id="search_rightsidebar_submit_1050047786" name="op" value="Search" class="form-submit" /><input type="hidden" name="form_build_id" value="form-zyYRNzHigjXwbkg4G-ILu1ajMYvs-YU8-hMu76aWjgQ" />
+<input type="hidden" name="form_id" value="highwire_search_quicksearch_form_1" />
+</div></form>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-3 pull-right advanced-search-link" >
+  
+      
+  
+  <div class="pane-content">
+    <a href="/search">Advanced search</a>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</li>
+</ul>  </div>
+</div>
+  </div>
+            </div>
+          </div><!-- /.region-top -->
+                </div>
+    </section>
+        <div class="row header header-journal">
+      <div class="col-mobile-7 col-narrow-2 col-normal-4 logo-journal">
+                <a href="/"><img src="https://resources.bmj.com/repository/journals-network-project/images/journal-logos/logo-sti.svg" alt="Sexually Transmitted Infections" id="logo-img"></a>
+      </div>
+            <div class="col-mobile-5 col-narrow-10 col-normal-8 no-right-padding nav-journal">
+          <div class="region region-journmenu">
+    <div id="block-system-main-menu" class="block block-system mobile-hidden block-menu" class="block block-system mobile-hidden block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/content/early/recent" class="" data-icon-position="" data-hide-link-title="0">Latest content</a></li>
+<li class="leaf"><a href="/content/current" class="" data-icon-position="" data-hide-link-title="0">Current issue</a></li>
+<li class="leaf"><a href="/content/by/year" class="" data-icon-position="" data-hide-link-title="0">Archive</a></li>
+<li class="leaf"><a href="http://sti.bmj.com/pages/authors/" class="" data-icon-position="" data-hide-link-title="0">Authors</a></li>
+<li class="leaf"><a href="https://stibmj.podbean.com/" class="" data-icon-position="" data-hide-link-title="0">Podcasts</a></li>
+<li class="last leaf"><a href="http://sti.bmj.com/pages/about/" class="" data-icon-position="" data-hide-link-title="0">About</a></li>
+</ul>  </div>
+</div>
+<div id="block-panels-mini-mobile-slide-out-menu" class="block block-panels-mini mobile-only" class="block block-panels-mini mobile-only">
+
+    
+  <div class="content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-mobile_slide_out_menu">
+  <div class="panel-panel panel-col">
+    <div><div id="" class="highwire-responsive-toggle-group"><div class="panel-pane pane-panels-mini pane-jnl-template-bmjj-search-box" >
+  
+        <h2  class="pane-title"><span class="icon-search"></span></h2>
+    
+  
+  <div class="pane-content">
+    <div class="panel-display one-layout " id="mini-panel-jnl_template_bmjj_search_box">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-highwire-seach-quicksearch block-search pull-left" >
+  
+      
+  
+  <div class="pane-content">
+    <form class="highwire-quicksearch button-style-mini button-style-mini" action="/content/suppl/2016/04/05/sextrans-2015-052350.DC1/sextrans-2015-052350supp_abstract_in_Chinese.pdf" method="post" id="highwire-search-quicksearch-form-0" accept-charset="UTF-8"><div><div class="form-item form-item-label-invisible form-type-textfield form-item-keywords">
+  <label class="element-invisible" for="search_rightsidebar_keywords_1810352066">Search for this keyword </label>
+ <input placeholder="search" type="text" id="search_rightsidebar_keywords_1810352066" name="keywords" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<input data-icon-only="1" data-font-icon="icon-search" data-icon-position="after" type="submit" id="search_rightsidebar_submit_1352956430" name="op" value="Search" class="form-submit" /><input type="hidden" name="form_build_id" value="form-323ACak9yvEje2OaQ95lDjd5_rglCkHMkZQNgwzGM3E" />
+<input type="hidden" name="form_id" value="highwire_search_quicksearch_form_0" />
+</div></form>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-2 pull-right advanced-search-link" >
+  
+      
+  
+  <div class="pane-content">
+    <a href="/search">Advanced search</a>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-block pane-menu-menu-mobile-slideout-menu pane-menu" >
+  
+        <h2  class="pane-title"><span class="icon-menu"></span></h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/" class="menu-close link-icon-only link-icon"><span class="icon icon-close"></span> <span class="title element-invisible">Close</span></a>
+<a href="# " class="menu-attach-block-drop-link external expand-on-click" data-block-id="panels_mini|mobile_slide_out_autobot_menu" id="&lt;front&gt;-drop-link-781" data-icon-position="" data-hide-link-title="0">More</a><div class="menu-attach-block-wrapper">
+	<div id="block-panels-mini-mobile-slide-out-autobot-menu" class="block block-panels-mini" class="block block-panels-mini">
+
+    
+  <div class="content">
+    <div class="panel-display one-layout " id="mini-panel-mobile_slide_out_autobot_menu">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-menu-tree pane-main-menu" >
+  
+        <h2  class="pane-title">Main menu</h2>
+    
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-main-menu-1 menu-name-main-menu parent-mlid-main-menu:0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-15025"><a href="/content/early/recent" class="" data-icon-position="" data-hide-link-title="0">Latest content</a></li>
+<li class="leaf menu-mlid-15026"><a href="/content/current" class="" data-icon-position="" data-hide-link-title="0">Current issue</a></li>
+<li class="leaf menu-mlid-15027"><a href="/content/by/year" class="" data-icon-position="" data-hide-link-title="0">Archive</a></li>
+<li class="leaf menu-mlid-15028"><a href="http://sti.bmj.com/pages/authors/" class="" data-icon-position="" data-hide-link-title="0">Authors</a></li>
+<li class="leaf menu-mlid-15029"><a href="https://stibmj.podbean.com/" class="" data-icon-position="" data-hide-link-title="0">Podcasts</a></li>
+<li class="last leaf menu-mlid-15030"><a href="http://sti.bmj.com/pages/about/" class="" data-icon-position="" data-hide-link-title="0">About</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</li>
+<li class="leaf"><a href="/subscribe" data-hide-link-title="0" class="callout-link" data-icon-position="">Subscribe</a></li>
+<li class="leaf"><a href="/" class="mobile-drop-down callout-link link-icon-right link-icon"><span class="title">Log in</span> <span class="icon icon-plus"></span></a>
+<a href="# " class="menu-attach-block-drop-link external expand-on-click" data-block-id="panels_mini|jnl_template_bmjj_login" id="&lt;front&gt;-drop-link-780" data-icon-position="" data-hide-link-title="0">More</a><div class="menu-attach-block-wrapper">
+	<div id="block-panels-mini-jnl-template-bmjj-login" class="block block-panels-mini" class="block block-panels-mini">
+
+    
+  <div class="content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-jnl_template_bmjj_login">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-bmjj-society-logins society-logins opportunity-challenge-login" >
+  
+      
+  
+  <div class="pane-content">
+    <span class="ui-button ui-state-default ui-dialog-titlebar-close" title="close"></span><div class="shib-login-link"><a href="/login/shibboleth?subcode=bmjjournals&amp;env=prod&amp;uri=https%3A//sti.bmj.com/accallback/error%25252Faccess-denied" class="button society-login-link" data-icon-position="" data-hide-link-title="0">Log in via Institution</a></div><div class="openathens-login-link"><a href="https://openathens-sp.highwire.org/session/init?entityID=https%3A//idp.eduserv.org.uk/openathens&amp;hw-shib-return-uri=https%3A//sti.bmj.com/accallback/error%25252Faccess-denied&amp;subcode=bmjjournals" class="button society-login-link" data-icon-position="" data-hide-link-title="0">Log in via OpenAthens</a></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-opportunity-challenge" >
+  
+      
+  
+  <div class="pane-content">
+    <div class='opportunity-challenge-login'><h3>Log in using your username and password</h3><div class="drupal-login compact"><form action="/content/suppl/2016/04/05/sextrans-2015-052350.DC1/sextrans-2015-052350supp_abstract_in_Chinese" method="post" id="highwire-user-login" accept-charset="UTF-8"><div><div id="edit-customtext" class="form-item form-item-label-before form-type-item">
+ <span class="customtext">For personal accounts OR managers of institutional accounts</span>
+</div>
+<div class="form-item form-item-label-invisible form-type-textfield form-item-name">
+  <label class="element-invisible" for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Username" type="text" id="edit-name" name="name" value="" size="30" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-item-label-invisible form-type-password form-item-pass">
+  <label class="element-invisible" for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Password" type="password" id="edit-pass" name="pass" size="30" maxlength="128" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form-st-XMH0-KnBbL39W6QBkS7Dz64d6w3hoHMBYGgvOC7Y" />
+<input type="hidden" name="form_id" value="highwire_user_login" />
+<div class="bmjj-reset-password"><a href="/user/password" class="" data-icon-position="" data-hide-link-title="0">Forgot your log in details?</a><a href="/user/register?destination=content/suppl/2016/04/05/sextrans-2015-052350.DC1/sextrans-2015-052350supp_abstract_in_Chinese.pdf" class="" data-icon-position="" data-hide-link-title="0">Register a new account?</a></div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div><div class="reset-password"><a href="/user/password" class="" data-icon-position="" data-hide-link-title="0">Forgot</a> your user name or password?</div></div></form></div></div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</li>
+<li class="last leaf"><a href="http://journals.bmj.com/" data-hide-link-title="0" class="bmj-link" data-icon-position="">BMJ Journals</a>
+<a href="# " class="menu-attach-block-drop-link external expand-on-click dropped" data-block-id="panels_mini|jnl_template_bmjj_uid_strng_side" id="http://journals.bmj.com/-drop-link-0" data-icon-position="" data-hide-link-title="0">More</a><div class="menu-attach-block-wrapper">
+	<div id="block-panels-mini-jnl-template-bmjj-uid-strng-side" class="block block-panels-mini" class="block block-panels-mini">
+
+    
+  <div class="content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-jnl_template_bmjj_uid_strng_side">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-bmjj-highwire-inst-branding" >
+  
+      
+  
+  <div class="pane-content">
+    <span class="col-narrow-12 col-normal-12 mobile-hidden text-color-secondary highwire-inst-wrap"><span class="institution-name">You are viewing from: <span>Serials Section University Library</span></span></span>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</li>
+</ul>  </div>
+
+  
+  </div>
+</div></div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+      </div><!-- /.region-top -->
+          </div>
+          </section>
+  <section role="main" class="section section-content container-fluid">
+        <div class="crumb-navigation">
+      <div class="row">
+        <div class="col-mobile-12 col-narrow-9 col-normal-9  col-wide-10 breadcrumbs">
+          <h2 class="element-invisible">You are here</h2><div class="item-list"><ul class="breadcrumb"><li class="first"><a href="/" class="" data-icon-position="" data-hide-link-title="0">Home</a></li>
+<li class="last"><span class="active">Access Denied</span></li>
+</ul></div>        </div>
+       
+      <div class="mobile-hidden col-narrow-3 col-normal-3 col-wide-2 email-alerts">
+          <span>
+            <a href="https://myaccount.bmj.com/myaccount/signup.html?regService=etoc-alerts&amp;corpusCode=sextrans&amp;fwdUrl=https://sti.bmj.com/" class="email-alerts-label"><i class="icon icon-article-alerts"></i>Email alerts</a>
+          </span>
+        </div>
+      </div>
+          </div>
+            <div class="container">
+          <div class="zone zone-content row">
+        <div class="region region-content col-narrow-12">
+          <div class="region-inner region-content-inner">
+            <a id="main-content"></a>
+                                                                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system" class="block block-system">
+
+    
+  <div class="content">
+    <div class="panel-display panels-960-layout jcore-2col-layout" >
+	  <div class="panel-row-wrapper panel-row-first clearfix">
+		
+		<div class="top-wrapper">
+			<div class="panel-panel panel-region-top">
+			  <div class="inside"><div class="panel-pane pane-page-title" >
+  
+      
+  
+  <div class="pane-content">
+    <h1 id="page-title">Access Denied</h1>
+  </div>
+
+  
+  </div>
+</div>
+			</div>
+		</div>
+	
+	</div> <!-- /.panel-row-wrapper -->	
+	  
+  <div class="panel-row-wrapper clearfix">
+		
+		<div class="main-content-wrapper grid-17 suffix-1 alpha">
+			<div class="panel-panel panel-region-content">
+			  <div class="inside"><div class="panel-pane pane-custom pane-1" >
+  
+      
+  
+  <div class="pane-content">
+    <p>You are not authorized to access this page "content/suppl/2016/04/05/sextrans-2015-052350.DC1/sextrans-2015-052350supp_abstract_in_Chinese.pdf".</p>  </div>
+
+  
+  </div>
+</div>
+			</div>
+		</div>
+		
+		<div class="sidebar-right-wrapper grid-10 omega">
+			<div class="panel-panel panel-region-sidebar-right">
+			  <div class="inside"></div>
+			</div>
+		</div>
+	
+	</div> <!-- /.panel-row-wrapper -->	
+	
+	</div>
+
+  </div>
+</div>
+  </div>
+          </div>
+        </div><!-- /.region-content -->
+
+        
+        
+      </div><!-- /.zone-content -->
+    </div><!-- /.container -->
+  </section> <!-- /.section-content -->
+</div> <!-- /.page -->
+
+<footer role="contentinfo" class="section section-footer container-fluid" id="footer">
+    <section class="zone zone-footer row footer-journal-societies">
+    <div class="region region-footer col-narrow-12">
+      <div class="region-inner region-footer-inner">
+          <div class="region region-footersoc">
+    <div id="block-panels-mini-footer-society-images" class="block block-panels-mini" class="block block-panels-mini">
+
+    
+  <div class="content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-footer_society_images">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-bmjj-societies-logos" >
+  
+      
+  
+  <div class="pane-content">
+    <ul><li><a href="http://www.bashh.org/"><img src="https://resources.bmj.com/repository/journals-network-project/images/society-logos/society-logo-bashh.png" alt="The British Association for Sexual Health and HIV" /></a></li></ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+      </div>
+    </div><!-- /.region-footer-first -->
+  </section>
+    <section role="contentinfo" class="section section-footer">
+    <div class="zone zone-footer footer-links">
+      <nav class="row">
+          <div class="region region-footerlinks1">
+    <div id="block-menu-block-1" class="block block-menu-block" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-menu-footer-menu-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first expanded menu-mlid-15031 col-mobile-12 col-narrow-3 col-normal-3 col-wide-3"><a href="/" class="" data-icon-position="" data-hide-link-title="0">Content</a><ul class="menu"><li class="first leaf menu-mlid-15032"><a href="/content/early/recent" class="" data-icon-position="" data-hide-link-title="0">Latest content</a></li>
+<li class="leaf menu-mlid-15033"><a href="/content/current" class="" data-icon-position="" data-hide-link-title="0">Current issue</a></li>
+<li class="leaf menu-mlid-15034"><a href="/content/by/year" class="" data-icon-position="" data-hide-link-title="0">Archive</a></li>
+<li class="leaf menu-mlid-15035"><a href="http://sti.bmj.com/pages/browse-by-topic/" class="" data-icon-position="" data-hide-link-title="0">Browse by collection</a></li>
+<li class="leaf menu-mlid-15036"><a href="https://sti.bmj.com/pages/top-cited-articles/" class="" data-icon-position="" data-hide-link-title="0">Top cited articles</a></li>
+<li class="leaf menu-mlid-15037"><a href="http://sti.bmj.com/pages/most-read-articles/" class="" data-icon-position="" data-hide-link-title="0">Most read articles</a></li>
+<li class="last leaf menu-mlid-15038"><a href="http://sti.bmj.com/eletters" class="" data-icon-position="" data-hide-link-title="0">Responses</a></li>
+</ul></li>
+<li class="expanded menu-mlid-15039 col-mobile-12 col-narrow-3 col-normal-3 col-wide-3"><a href="/" class="" data-icon-position="" data-hide-link-title="0">Journal</a><ul class="menu"><li class="first leaf menu-mlid-15040"><a href="http://sti.bmj.com/pages/about/" class="" data-icon-position="" data-hide-link-title="0">About</a></li>
+<li class="leaf menu-mlid-15041"><a href="http://sti.bmj.com/pages/editorial-board/" class="" data-icon-position="" data-hide-link-title="0">Editorial board</a></li>
+<li class="leaf menu-mlid-15042"><a href="https://myaccount.bmj.com/myaccount/signup.html?regService=etoc-alerts&amp;corpusCode=sextrans&amp;fwdUrl=https://sti.bmj.com/" class="" data-icon-position="" data-hide-link-title="0">Sign up for email alerts</a></li>
+<li class="leaf menu-mlid-15043"><a href="http://sti.bmj.com/pages/subscribe/" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Subscribe</a></li>
+<li class="last leaf menu-mlid-15044"><a href="http://sti.bmj.com/pages/thank-you-to-our-reviewers/" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Thank you to our reviewers</a></li>
+</ul></li>
+<li class="expanded menu-mlid-15045 col-mobile-12 col-narrow-3 col-normal-3 col-wide-3"><a href="/" class="" data-icon-position="" data-hide-link-title="0">Authors</a><ul class="menu"><li class="first leaf menu-mlid-15046"><a href="http://sti.bmj.com/pages/authors/" class="" data-icon-position="" data-hide-link-title="0">Instructions for authors</a></li>
+<li class="leaf menu-mlid-15047"><a href="http://mc.manuscriptcentral.com/sti" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Submit an article</a></li>
+<li class="leaf menu-mlid-15048"><a href="http://authors.bmj.com/policies/" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Editorial policies</a></li>
+<li class="leaf menu-mlid-15049"><a href="http://openaccess.bmj.com/" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Open Access at BMJ</a></li>
+<li class="last leaf menu-mlid-15050"><a href="http://authors.bmj.com/" target="_blank" class="" data-icon-position="" data-hide-link-title="0">BMJ Author Hub</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-15051 col-mobile-12 col-narrow-3 col-normal-3 col-wide-3"><a href="/" class="" data-icon-position="" data-hide-link-title="0">Help</a><ul class="menu"><li class="first leaf menu-mlid-15052"><a href="http://sti.bmj.com/pages/contact-us/" class="" data-icon-position="" data-hide-link-title="0">Contact us</a></li>
+<li class="leaf menu-mlid-15053"><a href="http://journals.bmj.com/cgi/reprintform" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Reprints</a></li>
+<li class="leaf menu-mlid-15054"><a href="http://www.bmj.com/company/products-services/rights-and-licensing/permissions" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Permissions</a></li>
+<li class="leaf menu-mlid-15055"><a href="http://www.bmj.com/company/contact-us/advertising-sponsorship/" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Advertising</a></li>
+<li class="last leaf menu-mlid-15056"><a href="http://myaccount.bmj.com/myaccount/customerservice/salesforce-form.html" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Feedback form</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+      </nav>
+            <div class="row">
+        <nav class="col-mobile-12 col-narrow-3 col-normal-3 col-wide-3">
+            <div class="region region-footersocial">
+    <div id="block-panels-mini-social-icons" class="block block-panels-mini" class="block block-panels-mini">
+
+    
+  <div class="content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-social_icons">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-bmjj-social-icons" >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="leaf"><a href="http://sti.bmj.com/pages/rss-feeds" class="link-icon-only link-icon"><span class="icon icon-rss"></span><span class="title element-invisible"> RSS</span></a></li><li class="leaf"><a href="http://twitter.com/STI_BMJ" class="link-icon-only link-icon"><span class="icon icon-twitter"></span><span class="title element-invisible"> Twitter</span></a></li><li class="leaf"><a href="http://www.facebook.com/STI.BMJ" class="link-icon-only link-icon"><span class="icon icon-facebook"></span><span class="title element-invisible"> Facebook</span></a></li><li class="leaf"><a href="http://blogs.bmj.com/sti" class="link-icon-only link-icon"><span class="icon icon-blog"></span><span class="title element-invisible"> Blog</span></a></li><li class="leaf"><a href="https://soundcloud.com/bmjpodcasts/sets/sti" class="link-icon-only link-icon"><span class="icon icon-soundcloud"></span><span class="title element-invisible"> Soundcloud</span></a></li></ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+        </nav>
+      </div>
+          </div>
+  </section><!-- /.section-footer -->
+      <section class="row footer-platform">
+    <div class="col-mobile-12 col-narrow-4 logoBMJ">
+      <a href="http://www.bmj.com/company"><svg class="logo-bmj-svg" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo-bmj"></use><svg></svg></svg></a>
+    </div>
+    <div class="col-mobile-12 col-narrow-8 legal">
+      <div class="legal-inner">
+        <ul>
+          <li><a href="http://www.bmj.com/company/legal-information/">Website Terms &amp; Conditions</a></li>
+          <li><a href="http://www.bmj.com/company/your-privacy/">Privacy &amp; Cookies</a></li>
+          <li><a href="http://www.bmj.com/company/contact-us/">Contact BMJ</a></li>
+        </ul>
+        <!-- CookiePro Cookies Settings button start -->
+        <button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Settings</button>
+        <!-- CookiePro Cookies Settings button end -->
+        <p><small><span class="online-issn issn">Online ISSN: 1472-3263</span><span class="print-issn issn">Print ISSN: 1368-4973</span></small><br />
+        <small>Copyright © 2024 BMJ Publishing Group Ltd. All rights reserved.</small></p>
+      </div>
+    </div>
+  </section>
+      <div class="region region-absolute-bottom">
+    <div class="region-inner region-absolute-bottom-inner">
+        <div class="region region-absolute-bottom">
+    <div id="block-panels-mini-bottom-ad" class="block block-panels-mini text-center" class="block block-panels-mini text-center">
+
+    
+  <div class="content">
+    <div class="panel-display one-layout " id="mini-panel-bottom_ad">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-dfp-pane" >
+  
+      
+  
+  <div class="pane-content">
+    <div id="dfp-ad-bottom-wrapper" class="dfp-tag-wrapper">
+
+<div  id="dfp-ad-bottom" class="dfp-tag-wrapper">
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-bottom");
+    });
+  </script>
+</div>
+</div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+    </div>
+  </div><!-- /.region-absolute-bottom -->
+  </footer><!-- /.section-footer -->
+  <script type="text/javascript" src="/sites/default/files/advagg_js/js__z5-fBTG6IBkkF_fjrg52LMIsuuf1ehTXbDUhyJQkvWQ__BAplyX5AHqPUvzW6nUei7zPMbB5H_kii4ZGO4NezEnQ__RBpwsggTa-66iCd391Lg7-ZmaIvHPOUAGYyVtdCScb8.js"></script>
+</body>
+</html>

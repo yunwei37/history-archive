@@ -1,0 +1,104 @@
+name: 第五卷
+description: 此目录包含《银荆的告白》第五卷的插画，展现了小说中的角色与情节，强调了跨性别主题的艺术表现和文学创作。
+curator: ''
+source: ''
+tags:
+- 文学艺术
+- 跨性别小说
+- 插画
+- 艺术创作
+- 《银荆的告白》
+license: ''
+files:
+- name: '20240702_145140'
+  filename: 20240702_145140.jpeg
+  type: image
+  format: JPEG Image
+  size: 213928
+  md5: fbc6b788ed85946d8e300aa1e9eeaed5
+  page: 20240702_145140.jpeg
+- name: '20240702_145155'
+  filename: 20240702_145155.jpeg
+  type: image
+  format: JPEG Image
+  size: 296707
+  md5: ba0b8f076f9abda78cf3a626c66c0e85
+  page: 20240702_145155.jpeg
+- name: '20240702_145215'
+  filename: 20240702_145215.jpeg
+  type: image
+  format: JPEG Image
+  size: 258213
+  md5: 97199fc22029b7a270d9a69c3dd08c0d
+  page: 20240702_145215.jpeg
+- name: '20240702_145221'
+  filename: 20240702_145221.jpeg
+  type: image
+  format: JPEG Image
+  size: 236335
+  md5: 08d628ef47c934e0d713b6f2ce846ff1
+  page: 20240702_145221.jpeg
+- name: '20240702_145228'
+  filename: 20240702_145228.jpeg
+  type: image
+  format: JPEG Image
+  size: 197579
+  md5: 5c684a94a412de1251e69120b093e4ae
+  page: 20240702_145228.jpeg
+- name: '20240702_145236'
+  filename: 20240702_145236.jpeg
+  type: image
+  format: JPEG Image
+  size: 225928
+  md5: 121163c597fa722187e1571e821adb4a
+  page: 20240702_145236.jpeg
+- name: '20240702_145258'
+  filename: 20240702_145258.jpeg
+  type: image
+  format: JPEG Image
+  size: 343516
+  md5: c689e722e051260cb825d16d11d49bf0
+  page: 20240702_145258.jpeg
+- name: 276264dd52cf63c0-1
+  filename: 276264dd52cf63c0-1.webp
+  type: image
+  format: WebP Image
+  size: 109422
+  md5: ee548f62019f52f0e1af69401695db8a
+  page: 276264dd52cf63c0-1.webp
+- name: 4c58523ca3616ffd
+  filename: 4c58523ca3616ffd.webp
+  type: image
+  format: WebP Image
+  size: 95676
+  md5: 4c60752a57c9fb93c87e00d7ddeeb2e6
+  page: 4c58523ca3616ffd.webp
+- name: 9745ac2f12b49057
+  filename: 9745ac2f12b49057.webp
+  type: image
+  format: WebP Image
+  size: 23834
+  md5: 2a8915a51ad1289d83f8ad1e2857ef72
+  page: 9745ac2f12b49057.webp
+- name: Image_1720746194767
+  filename: Image_1720746194767.jpg
+  type: image
+  format: JPEG Image
+  size: 218723
+  md5: e5a923bb4e18c5669d58dbd5a1a0ff36
+  page: Image_1720746194767.jpg
+- name: c3f76cae49fcbef7
+  filename: c3f76cae49fcbef7.webp
+  type: image
+  format: WebP Image
+  size: 24302
+  md5: 4aad931d4149c3e90ecce62765f44777
+  page: c3f76cae49fcbef7.webp
+- name: c9993f4b162ded53-1
+  filename: c9993f4b162ded53-1.webp
+  type: image
+  format: WebP Image
+  size: 53368
+  md5: c9294b8e302c9c9e77f11ff2e90f551c
+  page: c9993f4b162ded53-1.webp
+subdirs: []

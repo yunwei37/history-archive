@@ -1,0 +1,6 @@
+[submodule ".github/scripts"]
+	path = .github/scripts
+	url = https://github.com/yunwei37/scripts
+[submodule ".github/downloader"]
+	path = .github/downloader
+	url = https://github.com/transTerminus/web_downloader
