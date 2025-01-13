@@ -15,7 +15,7 @@
 根目录，按照内容与来源分类
 
 
-总计 9002 篇内容
+总计 8925 篇内容
 
 
 ### 📁 子目录
@@ -28,7 +28,7 @@
 
 ### 📚 独立档案库与网站
 
-- [新闻网页存档与资料库: https://news.transchinese.org/](https://news.transchinese.org/) (3901 篇内容)
+- [新闻网页存档与资料库: https://news.transchinese.org/](https://news.transchinese.org/) (3824 篇内容)
 - [变身文学与小说存档库一（剧情向）: https://xnovel.transchinese.org](https://xnovel.transchinese.org) (1640 篇内容)
 - [变身文学与小说存档库二（变百或变嫁）: https://novel.transchinese.org](https://novel.transchinese.org) (2183 篇内容)
 
