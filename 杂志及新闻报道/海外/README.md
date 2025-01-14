@@ -30,9 +30,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2020
 
 
@@ -44,18 +41,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [517酷儿论坛打破沉默继续前行_2020](517酷儿论坛打破沉默继续前行_2020_page.md)<details><summary>查看摘要</summary>
 
 该文件是517酷儿论坛的特别企划，标题为《打破沉默，继续前行》。文件内容主要探讨了多元性别与健康平等的议题，呼吁社会公众对酷儿群体的关注与理解。文中提及了‘多元×健康×平等’的公式，强调在性别多样性和性别认同方面，需要提供更多的支持和资源，以促进这一群体的健康与权利。内容具有很强的社会倡导性质，旨在提升人们对酷儿问题的认识与敏感度。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2017
@@ -69,9 +60,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2015
 
 
@@ -81,9 +69,6 @@ search:
 《酷拉时报》年度合刊2015由华人拉拉联盟出品，旨在为华人及华语地区的女同性恋、女双性恋、跨性别者、间性人等性别少数群体提供一个交流和支持的平台。本期合刊汇聚了多个专题，反映了当前国际和国内LGBTQ+运动中的最新动态，以及关于性别和性向话题的深入讨论与反思。文章涉及了多样的主题，如国际同运趋势的观察、酷儿政治在中国的探讨、跨性别权利的现状与发展，以及女性主义在LGBT运动中的表现等。每个专题不仅为相关领域提供了理论基础，还结合了生动的案例和个人故事，强调了多元性别体验的复杂性和多样性。特别是在如今的社会环境中，这本刊物呼唤广泛的理解与支持，以促进性别和性向的平等权利与表达，并挑战现有的社会结构和观念。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 1902
@@ -97,7 +82,10 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+### 词云图
+
+![摘要词云图](abstracts_wordcloud.png)
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

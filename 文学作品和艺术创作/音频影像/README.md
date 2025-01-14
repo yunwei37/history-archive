@@ -30,9 +30,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2019
 
 
@@ -44,18 +41,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2019年9月24日_温哥华主校_放映电影《为什么我喜欢做酷儿仔》](2019年9月24日_温哥华主校_放映电影《为什么我喜欢做酷儿仔》_page.md)<details><summary>查看摘要</summary>
 
 本文件记录了2019年9月24日在温哥华大学（UBC）主校举办的电影放映活动，播放的是由艺术家Vivek Shraya制作的影片《为什么我喜欢做酷儿仔》。影片放映后，参与者被邀请加入讨论，探讨身份、语言、文化以及在UBC作为酷儿仔的体验。参与的讨论环绕Vivek Shraya的作品，他不仅是一位表演艺术家和电影制作人，也是文学创作者。影片的内容来源于来自各地酷儿仔的真实故事，以及Vivek Shraya的博客和书籍中分享的经历。该活动还提供了有关性别、种族和社会公正的相关知识，由多个UBC办公室和集体联合举办。值得注意的是，该活动是开放的，参与者可享受免费的午餐，但需提前在线注册。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 时间未知，按收录顺序排列
@@ -69,9 +60,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [上海骄傲电影节_活动策划与影片介绍_马修·拜伦与李佳桓](上海骄傲电影节_活动策划与影片介绍_马修·拜伦与李佳桓_page.md)<details><summary>查看摘要</summary>
 
@@ -80,7 +68,10 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+### 词云图
+
+![摘要词云图](abstracts_wordcloud.png)
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

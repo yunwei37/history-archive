@@ -30,9 +30,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2015
 
 
@@ -42,9 +39,6 @@ search:
 该文件为《布林客》杂志第007期，2015年双月刊，内容涵盖多个领域，包括文化、情感、艺术等，其中讨论了多个主题，特别是与多元性别及其文化现象相关的探讨。文件中提到的部分作品涉及了偶像崇拜、爱情、女性主义及自我表达的多种视角，通过人物故事、文化评论和艺术创作等形式进行深入分析。文中提及的著名人物如艺人徐静蕾、画家弗里达·卡洛，以及对CLAMP、二大爷以及大同大张的探讨，显示了文学和艺术在多元性别和情感表达方面的深远影响。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2011
@@ -58,9 +52,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 时间未知，按收录顺序排列
 
 
@@ -72,18 +63,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [巴特勒作品集](巴特勒作品集_page.md)<details><summary>查看摘要</summary>
 
 本文件为巴特勒的作品集，包含了其关于性别、身份及文化的深入探讨。作为一位著名的性别理论家，巴特勒在该作品集中讨论了性别的流动性以及主体性的构建。文中阐释了存在主义与女权主义的交叉，分析了如何通过语言和社会互动来建构性别身份。巴特勒强调，性别并非固定不变的分类，而是一种动态的社会表现，挑战了传统的二元性别观念。此外，作品集中还探讨了这些理论在当代社会中的应用及其对性别认同运动的影响。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -94,18 +79,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [吴曾_镜头切开身份_艺术创作与酷儿文化](吴曾_镜头切开身份_艺术创作与酷儿文化_page.md)<details><summary>查看摘要</summary>
 
 《镜头切开身份》是一篇关于艺术家吴曾的作品介绍，吴曾生活于洛杉矶，拥有男性的外表与女性的内涵。她通过电影与短片的形式，带领观众走入她的生活与艺术态度，反映出多元性别身份的复杂性与丰富性。文章提到吴曾的创作灵感来源于个人经历和对女性主义的认同，特别是她正在创作的以近代女权主义者秋瑾为题材的电影《Duilian》。吴曾的例子展现了跨性别艺术家的创作过程及其在洛杉矶这个多元城市中的生存与艺术生活。她的作品不仅谈及个人身份的转变，还有对性别、种族和社会阶层的探讨。文中通过吴曾的艺术实践，展现了酷儿文化的多样性，以及不同社会背景下的艺术创作如何引发公众对于多元身份的关注与思考。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -116,7 +95,10 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+### 词云图
+
+![摘要词云图](abstracts_wordcloud.png)
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

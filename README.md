@@ -33,6 +33,12 @@
 - [变身文学与小说存档库二（变百或变嫁）: https://novel.transchinese.org](https://novel.transchinese.org) (2183 篇内容)
 
 
+
+### 词云图
+
+![摘要词云图](abstracts_wordcloud.png)
+
+
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板
 
 

@@ -30,9 +30,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2000
 
 
@@ -42,9 +39,6 @@ search:
 《Ｔ婆的跨性别蓝调诗》这篇文稿是由何春蕤所撰写，旨在讨论T婆这一跨性别角色的重要性及其在女性同性爱中的历史和文化背景。文中提到，T婆这一角色的出现不仅仅是性别认同的标志，更是女同性恋群体内部多样性的体现。论述指出，T婆的命名和表现方式，为女同志文化的历史作出了重要贡献。同时，文中探讨了性别角色与性别表现的复杂性，批判了将性别非黑即白的思维方式。何春蕤通过引用《蓝调石墙T》和《男孩别哭》等文本，阐释了跨性别主体在面对性别政治和社会压迫时所经历的挑战与心路历程，强调了跨性别运动的重要性以及对文化和社会的影响。整篇文章不仅是对跨性别文化和艺术表达的阐述，也是一种呼吁，希望能引发对性别流动性及复杂性的更深层思考与讨论。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 时间未知，按收录顺序排列
@@ -58,7 +52,10 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+### 词云图
+
+![摘要词云图](abstracts_wordcloud.png)
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

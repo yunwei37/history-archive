@@ -20,6 +20,7 @@ cp -r 政府及官方组织文件 docs/
 cp -r 社群及NGO文件 docs/
 cp README.md docs/
 cp robots.txt docs/
+cp abstracts_wordcloud.png docs/
 cp search_index.yml docs/
 
 # Copy all files from .github/site to root directory

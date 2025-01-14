@@ -30,18 +30,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [性别手册教职员工版关怀和应对_中央大学多元化中心](性别手册教职员工版关怀和应对_中央大学多元化中心_page.md)<details><summary>查看摘要</summary>
 
 《性/别手册教职员工版－关怀和应对》是由中央大学多元化中心于2024年发布的文件，目的是为学校的教职员工提供关于性别多样性的知识和信息，帮助他们创建一个包容和关爱所有学生的校园环境。手册的内容包含了对学生生活中可能涉及的性别问题的处理指导，诸如如何处理姓名和性别的使用、如何利用校园内的各种设施、以及教育实习和留学的相关指导等。手册中还详细探讨了相关法律政策、社会氛围，以及如何应对校园内的性别歧视和歧视性语言等重要问题。此外，手册引用了一些关键事件作为案例分析，如一桥大学的出柜事件，提醒教职员工避免替他人出柜的行为可能带来的严重后果。本手册不仅是对多样化环境的响应，还强调了教师在促进和谐校园文化中的重要角色。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -52,18 +46,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_性別手冊學生版](PDF_性別手冊學生版_page.md)<details><summary>查看摘要</summary>
 
 本文件为中央大学提供的《性别手册学生版》，旨在为该校全体学生提供与性别和性取向相关的知识和信息的汇总。手册的内容涵盖了性别和性取向的基本概念，包括性别认同、性别表达、性取向等，旨在提高学生对性别与性取向问题的认识和理解。从‘与性别的相关用语’到‘学生生活’的各项制度，手册详细列出了如何在校内安全、平等地处理性别问题的指南。手册中特别强调了多样性的重要性，向学生传达了多元、流动的性别认同和表达的概念以及‘出柜’这一过程的复杂性，且提供了中央大学多元化中心的咨询服务信息。此外，手册还包含了一些实际的校园政策，包括如何处理姓名和性别信息的更改，以及设施的使用，如洗手间和更衣室的安排。这本手册不仅是一个知识性的工具，也是促进校园内各性别与性取向群体相互理解和尊重的重要资源。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2023
@@ -77,9 +65,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2022
 
 
@@ -89,9 +74,6 @@ search:
 本文件为费郡公立学校七年级家庭生活教育课程的相关信息，涵盖情感与社交健康、青少年发展及家庭关系等多个主题。文件提及如学生需选择不参加课程的表格，提供了相应的填写说明和课程内容概述。课程内容包括理解中学期间身体、情感和性别认同的发展变化，强调使用尊重和包容的语言以促进无偏见和歧视的环境。此外，部分课程内容涉及互联网安全、个人隐私保护以及积极自我形象的培养。所有课程均为男女分班进行，并要求家长在希望孩子不参与特定课程时进行书面说明。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2021
@@ -105,9 +87,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2020
 
 
@@ -117,9 +96,6 @@ search:
 本文件是康涅狄格大学（University of Connecticut）关于反歧视、反骚扰和相关反人际暴力的政策。文件详细阐述了校园内针对性骚扰、基于性别的骚扰、性侵犯、性剥削、亲密伴侣暴力、缠扰、报复等行为的禁止政策，以及相关的举报程序和调查流程。文件中的政策旨在创建一个安全且无歧视的学习与工作环境，让所有学生、员工和访问者都能在尊重和平等的氛围中生活和学习。具体包括政策声明，适用对象，隐私与机密的定义，员工的举报责任，禁止行为的定义，以及大学提供的资源与支持措施。政策明确规定了对违反上述禁止行为的人员可能采取的纪律处分，以及大学在处理这些报告时将采取的具体步骤。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -134,9 +110,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2018
 
 
@@ -148,18 +121,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [校园性别暴力预防教学手册](校园性别暴力预防教学手册_page.md)<details><summary>查看摘要</summary>
 
 《校园性别暴力预防教学手册》是由联合国教育、科学及文化组织（UNESCO）发布的一份教育资源，旨在为教师和学校领导提供针对中学生（适合11-14岁）关于预防校园性别暴力的指导。手册的内容涵盖了性别暴力的定义、背景、影响及其与生理性别和社会性别的关系。通过细致的术语表，手册为教师提供了有关性别认同、性别表现、性别暴力及其应对策略的深入理解。手册强调，教师在创建文明关系和预防校园暴力方面的重要角色，且提供了多个可行的课堂活动，帮助学生理解性别平等的重要性，并培养相应的沟通和处理暴力的技能。该手册还特别指出，跨性别、同性恋等群体在校园中可能面临的特殊挑战，鼓励教师通过教育来增进学生对性别多样性的理解和尊重。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2016
@@ -173,9 +140,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2007
 
 
@@ -187,9 +151,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 时间未知，按收录顺序排列
 
 
@@ -199,9 +160,6 @@ search:
 该文件为温哥华教育局发布的小册子，旨在为跨性别和性别多样化青少年的父母和照顾者提供疑问解答和相关支持信息。内容包括对跨性别和性别多样化青少年的介绍，强调每个年轻人都应该有良好的自我感觉，获得支持和安全感。文件中指出，父母和照顾者的支持对孩子的心理健康至关重要，提供了如何与孩子沟通性别认同、如何理解和尊重孩子的性别表达的具体建议。此外，文本还涵盖了对性别多样化的定义、父母如何应对偏见和歧视、以及可用的医疗资源与法律保护等重要信息。解决了许多家长可能会面临的常见问题，例如孩子如何确定自己的性别认同，何时应寻求专业人员的帮助，如何在家庭内部建立正面的讨论氛围等。同时，本小册子还提供了丰富的资源链接，帮助父母和照顾者找到相关的支持和教育信息。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -216,18 +174,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_教育工作者看如何關顧跨性別人士](PDF_教育工作者看如何關顧跨性別人士_page.md)<details><summary>查看摘要</summary>
 
 该文件为PDF格式的指南，标题为《教育工作者看如何照顾跨性别人士》，旨在为教育工作者提供有关如何更好地支持跨性别学生的建议和策略。尽管我们无法提取文件内容，但可以推测文件中可能包含的要点包括如何创造安全和包容的学习环境，理解跨性别群体所面临的特定挑战，以及教育工作者在促进性别平等和尊重多样性方面的角色。此外，文件可能会涉及跨性别人士在学校中可能遭受的歧视、情感支持的方法、如何与家长沟通等议题。这种支持不仅对于跨性别学生的成长和学习至关重要，还帮助整个学校社区培养尊重与理解。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -238,18 +190,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_国立大学咨询辅导中心](PDF_国立大学咨询辅导中心_page.md)<details><summary>查看摘要</summary>
 
 该文件是来自澳大利亚国立大学咨询辅导中心的资源指导，专为男同性恋、女同性恋、双性恋、变性人、跨性别者和其他性别认同与性取向群体提供支持与帮助。文件详尽列出了多项支持服务，包括大学的酷儿部门与学生平权小组，提供社交活动及心理支持等。内容强调人们有权决定自己的性行为，呼吁对跨性别和酷儿群体的尊重与包容，并列举了多个具体的外部支持资源与服务机构，如堪培拉艾滋病行动委员会和性别中心等。最后，文件提供广泛的联系信息，包括电话、邮箱和网站，方便读者寻求帮助。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -262,18 +208,12 @@ FAP海报的内容通过研究证实，有助于提升社会对同志群体的�
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_Cover_Page_校长致辞作为学校的家人保持联系_-_Mason_Families](PDF_Cover_Page_校长致辞作为学校的家人保持联系_-_Mason_Families_page.md)<details><summary>查看摘要</summary>
 
 本文件是乔治梅森大学为新学年准备的欢迎信，主要内容为校长Gregory Washington致家长和家庭的致辞以及学校新生和家庭计划（NSFP）的介绍。校长在信中对新学年表示欢迎，并强调了梅森大学在多样性和创新方面的成就，以及家长和家庭在学生成功中的重要作用。他鼓励家庭积极参与学校活动，促进与学生的联系，并提供了多种资源和支持渠道，包括家长和家庭委员会的介绍、家庭支持系列、家庭周末和其他活动的日期和信息。此外，文件还列出了2024年学年重要日期，提供了学生和家庭保持联系的多种方式，以及如何在梅森大学的环境中促进学生的学业与成长。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -286,18 +226,12 @@ FAP海报的内容通过研究证实，有助于提升社会对同志群体的�
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_主題變性學生支持指南_關鍵術語定義_-_Hawaii_DOE](PDF_主題變性學生支持指南_關鍵術語定義_-_Hawaii_DOE_page.md)<details><summary>查看摘要</summary>
 
 《变性学生支持指南》是针对学校如何支持变性学生的具体指导文件，旨在为学校和教育工作者提供对变性学生的基本理解以及最佳实践。这份指南详尽地阐述了与变性学生相关的关键术语，例如‘性别认同’、‘性别表达’和‘性别不确定’等，并强调了变性学生在学校环境中所面临的挑战与需求。文中提到，变性学生的需求高度个性化，因此学校工作人员需关注每名学生的具体情况，尽可能尊重其性别认同和表达。此外，指南中阐述了如何在学校内营造一个安全的学习环境，确保变性学生能够在不受歧视的情况下参与所有学校活动。相应的法律法规也被纳入讨论，确保学生在学校中享有平等待遇。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -308,18 +242,12 @@ FAP海报的内容通过研究证实，有助于提升社会对同志群体的�
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Laurel_Ridge小学社区利益相关者论坛倡议](Laurel_Ridge小学社区利益相关者论坛倡议_page.md)<details><summary>查看摘要</summary>
 
 该文件是关于Laurel Ridge小学公平团队筹办的一个社区利益相关者论坛的通知，旨在邀请学生家长、照顾者及社区成员分享他们在学校的多元化和公平经历。论坛特别关注来自不同背景的意见，包括双语人士、特殊教育需求的家庭、LGBTQIA+社群（包括同性恋、双性恋、变性人等），以及黑人、土著、有色人种（BIPOC）家庭。此外，文件提到将进行匿名访谈，以更好地倾听这些声音。论坛的目标是增进社区成员之间的交流与理解，促进更加公平和包容的学校环境。该通知中涵盖了参与方式及联系人信息，以便家庭能够参与到这一重要的对话中。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -332,9 +260,6 @@ FAP海报的内容通过研究证实，有助于提升社会对同志群体的�
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [人權教育教案_性別與職業影響](人權教育教案_性別與職業影響_page.md)<details><summary>查看摘要</summary>
 
@@ -343,7 +268,10 @@ FAP海报的内容通过研究证实，有助于提升社会对同志群体的�
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+### 词云图
+
+![摘要词云图](abstracts_wordcloud.png)
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

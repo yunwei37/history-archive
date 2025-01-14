@@ -23,4 +23,5 @@ ignore:
   - 'search_index\.yml'
   - 'robots\.txt'
   - 'combined_index\.yml'
+  - 'abstracts_wordcloud\.png'
   - 'abstracts_wordcloud\.html'

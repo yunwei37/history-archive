@@ -30,9 +30,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2023
 
 
@@ -44,18 +41,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [团体咨询服务会面记录_多元性别支持_2023](团体咨询服务会面记录_多元性别支持_2023_page.md)<details><summary>查看摘要</summary>
 
 该文件记录了多元性别支持团体在2023年进行的一次咨询服务会议的详细情况。会议中讨论了多元性别群体在社会中的需求，以及如何通过社区支持和资源共享来帮助这一群体。与会者包括多元性别人士、社工、心理咨询师和相关领域的专业人士。文件中提到，为了更好地理解多元性别人士的具体状况，团体重点关注了医疗、法律和社会环境等方面的议题。具体内容包括与会者的分享、针对内外部资源的讨论、以及未来活动的规划等。在会议中，参与者还讨论了如何提升社会对多元性别群体的接纳与理解，并就当前的政策环境进行了反思和评估。整体来看，此文件为理解多元性别群体面临的挑战及支持网络提供了重要的信息与见解。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -66,18 +57,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2023_陪伴支持与多元文化社区服务报告](2023_陪伴支持与多元文化社区服务报告_page.md)<details><summary>查看摘要</summary>
 
 该报告是由位于新南威尔士州的主要卫生组织ACON Hunter发布，旨在为LGBTI社群，包括同性恋、双性恋、跨性别者和双性别者，提供支持与服务。文件中强调了在性健康、HIV预防、精神健康及家庭暴力等多方面为亨特地区的LGBTI社群成员提供安全的生活环境和全面的支持。特别提到，他们通过各种项目来帮助这些社群成员有效应对生活中的挑战，确保他们的健康和安全。此外，文件提供了组织的联系信息，以便需要帮助的人能够方便地获得服务。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -88,18 +73,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [药明生物员工多元化政策_2023](药明生物员工多元化政策_2023_page.md)<details><summary>查看摘要</summary>
 
 本文件为药明生物技术有限公司（WuXi Biologics）员工多元化政策，旨在促进企业文化的发展，重视多元化，创建一个平等、包容的职场环境。政策的总则部分明确了其目的在于确保员工不受种族、肤色、性别、宗教、国籍等法律保护身份的影响，增强员工的归属感和尊重感。此外，文件详细描述了反歧视、平等、多元和包容政策，以及多元化人才招聘政策，其中强调了公司在招聘过程中需要采取的重要行动，以公平、公正地考虑不同背景的候选人。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2022
@@ -113,18 +92,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [迈瑞_多元化平等与包容性政策](迈瑞_多元化平等与包容性政策_page.md)<details><summary>查看摘要</summary>
 
 该文件为迈瑞公司发布的《多元化、平等与包容性政策》，旨在促进公司内部的多元化和包容性，消除歧视。文件开头介绍了迈瑞对于员工组成的多样性、平等机会的承诺，并明确了反对歧视的原则，特别是针对年龄、残疾、变性等受保护的特征。政策内容详尽地阐述了各类具体措施，包括创造开放的工作环境、招聘多样化人才、培养管理层的包容性、提供支持网络和实施平等机会原则等。文件还强调了对员工投诉的认真对待及保护措施，确保无论是在工作活动中遭遇任何形式的歧视或骚扰，都能够有合理的申诉渠道和保护。文件规定自2022年9月1日起生效，体现了公司对多样性和包容性的重视及建设氛围。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -135,9 +108,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_为青年跨性别女权运动筹措资源并参与其中](PDF_为青年跨性别女权运动筹措资源并参与其中_page.md)<details><summary>查看摘要</summary>
 
@@ -146,18 +116,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [跨儿心理-跨儿心理工作手册](跨儿心理-跨儿心理工作手册_page.md)<details><summary>查看摘要</summary>
 
 《跨儿心理工作手册》是一本专注于跨性别者（跨儿）及非性别常规者心理健康的公益手册，旨在提升心理工作者对跨儿群体的理解与支持。本手册详细介绍了跨儿的定义、分类及其与顺性别者的区别，同时强调了社会对跨儿的偏见与污名如何影响其心理健康。手册中提到，跨儿不仅包括传统意义上的跨性别者，也涵盖非二元性别、性别酷儿等多样性别认同的个体。通过公众教育、社群服务等方法，小组希望改善跨儿的福祉以及促进性别多元平等。此外，文中还讨论了跨儿的自我认同、社群认同和心理工作者在实践中应持的态度与方法。手册的许多内容参考了美国心理学会的指导，提供了与跨儿工作相关的实用指南。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2021
@@ -171,18 +135,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [对歧视骚扰零容忍政策报告](对歧视骚扰零容忍政策报告_page.md)<details><summary>查看摘要</summary>
 
 本文件是关于】对歧视、骚扰或报复零容忍政策的报告，以保障工作环境的公平与尊重。文件中详细列出了禁忌的行为和受保护的特征，包括种族、性别、性别认同、性取向、婚姻状况等。文件强调了建立无歧视和无骚扰的工作环境的重要性，并明确规定了对违反政策的处罚措施。特别提到，任何基于上述受保护特征的非法歧视和骚扰行为都将导致雇佣关系的终止。此政策适用于所有员工、求职者、实习生及相关的第三方，包括客户与供应商。并且，鼓励员工在遇到歧视与骚扰行为时主动报告，以便进行迅速处理和调查。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -193,9 +151,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2021年度多元与包容报告_拳头公司](2021年度多元与包容报告_拳头公司_page.md)<details><summary>查看摘要</summary>
 
@@ -204,18 +159,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2021年拳头游戏多元与包容进展报告](2021年拳头游戏多元与包容进展报告_page.md)<details><summary>查看摘要</summary>
 
 这份《2021年拳头游戏多元与包容进展报告》详细阐述了拳头游戏在多元性别与包容性方面的努力和进展。报告回顾了组织在过去一年中所做的工作，强调了建立包容文化的重要性以及如何在全球范围内促进多样性。通过描述内部团队的组成、政策的调整、培训的实施以及员工的反馈，报告展示了拳头游戏在加强性别平等、文化代表性、以及提供支持给少数族裔员工方面所作出的努力。报告中提到，今年公司与专业第三方合作，持续进行薪酬平等审查，并在招聘过程中专注于多元化，力求为各类背景的员工提供平等的机会。还特别指出，拳头游戏在游戏产品开发中融入多元文化意识，通过全球各地的不同团队共同创造可以引起当地文化共鸣的角色与故事。此外, 报告提到了一系列旨在提升员工归属感的活动，强调了未来进一步改进和推进多元与包容工作的决心。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2020
@@ -229,18 +178,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_中意综合保障团体医疗保险条款](PDF_中意综合保障团体医疗保险条款_page.md)<details><summary>查看摘要</summary>
 
 该文件是中意人寿保险有限公司发布的《中意综合保障团体医疗保险条款》，内容详尽地说明了该保险计划的基本条款、投保条件、保险合同的成立与生效、保险责任及其免除等各个方面的规定。文件第一章介绍了保险合同的构成，如投保单、保险计划明细和被保险人清单等。详细描述了投保条件，指出合法团体可以为其成员及家属投保。后续章节还涉及合同的续保、保险费用的支付、被保险人信息的变更以及合同解除的相关规定，确保投保人了解其权利与义务。同时，文件明确了保险责任的范围，包括住院和门诊特定项目、特殊药品及生育保险责任等。重要的是，文件中列出了各项保险责任的豁免条款，如精神疾病、先天性疾病等不在保障范围内。这一条款的清晰度对于投保人选择相应的保险计划极为重要。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2018
@@ -254,9 +197,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 时间未知，按收录顺序排列
 
 
@@ -268,18 +208,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [CareOregon_性別確認照護](CareOregon_性別確認照護_page.md)<details><summary>查看摘要</summary>
 
 该文件由CareOregon发布，主要介绍了性别确认照护的相关内容。性别确认照护是指尊重和承认跨性别者、非二元性别者或双性人的经验的医疗照护。文件详细列出了受保范围内的服务，包括荷尔蒙治疗、心理健康护理、各种手术以及其他相关治疗。根据俄勒冈州的法律，性别确认治疗涉及由医疗保健服务提供者开立的针对性别不一致性的诊疗程序、服务和药物等内容，文件中提供了获取这些服务的步骤和注意事项。同时，CareOregon提供了一些联系信息，以帮助需要支持的个人。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -290,18 +224,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間](PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間_page.md)<details><summary>查看摘要</summary>
 
 此文件名为《与人士相遇于工作间 - 性别赋权》，旨在探讨性别多样性及其在职场中的影响。本文件涉及跨性别者在工作环境中所遇到的挑战和经验，包括对性别认同的尊重、平等机会的提供、以及职场中的性别包容政策的实施。文中可能会提及不同组织如何推动性别赋权，帮助跨性别者在职场中获得支持。同时，这份文件可能包含案例研究，展示跨性别者在工作场所所做的努力和所取得的成就，以及对企业文化的积极影响。通过与多元性别人士的互动，这份文件意在强调创建一个更具包容性的职场环境的重要性。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -312,18 +240,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_国华华宝无忧个人税收优惠型健康保险万能型B款产品说明书](PDF_国华华宝无忧个人税收优惠型健康保险万能型B款产品说明书_page.md)<details><summary>查看摘要</summary>
 
 本文件为《国华华宝无忧个人税收优惠型健康保险（万能型）B款产品说明书》，详细介绍了该保险产品的特点、投保条件、保险责任及费用结构。该产品旨在为投保人提供财务保障，特别是在医疗费用方面，允许投保人享受个人所得税优惠。文件中详细列出了保险的主要功能，涵盖医疗保险金的给付比例、个人账户的累积机制、以及保障续保的方法。同时，文件指出了投保时的注意事项和投保人及被保险人的条件，包括年龄、健康状况、既往病症等。此外，文件还列举了一系列风险提示，提醒投保人在选择保险时应谨慎考虑的情形。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -334,18 +256,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [科克地区LGBTQ服务与支持资源汇编](科克地区LGBTQ服务与支持资源汇编_page.md)<details><summary>查看摘要</summary>
 
 该文件是关于科克地区LGBTQ服务与支持资源的汇编，包含了各种面向LGBTQ社区的服务组织和支持项目的信息。这些资源涉及女同性恋、男同性恋、双性恋、跨性别者及非常规性别者群体的福利与需求，提供的服务包括性健康中心、求助热线、跨性别亲属支援、青年团体、家长信息群等。举例来说，科克LGBT+骄傲节和LINC等组织致力于为社区提供各种形式的支持和服务，如抗击歧视活动、社交活动和健康咨询。此外，文件中还提到了一些专为跨性别者及其家庭准备的支持团体，诸如“Transformers”青少年团体和“TransParenCI”父母支持团体，体现了对跨性别者的关怀与帮助。通过这些资源，可以帮助LGBTQ个体及其家人获得必要的信息、支持和社交网络，以促进心理健康与幸福。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -356,18 +272,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [远大医药集团人权与多元化政策报告](远大医药集团人权与多元化政策报告_page.md)<details><summary>查看摘要</summary>
 
 本文件是《远大医药集团有限公司人权与多元化政策报告》的内容，详细列出了远大医药集团为保障劳工和员工权益而制定的政策及原则。文件首先明确了适用范围，包括所有下属企业的员工，强调了遵守法律法规和平等包容的工作原则。政策涵盖了多个方面，如禁止童工及强制劳动、同工同酬原则、支持员工的结社自由及言论自由、构建零歧视的职场环境等。文件还指出公司将定期进行人权与多元化培训，设有相应的申诉渠道以保障员工的权益，并要求公司董事会进行政策执行的监督与审核。整体上，这份政策报告的目的是通过建立一个多元、平等和包容的工作环境，来提升员工的幸福感与工作满意度，同时确保不同背景员工的合法权益。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -378,18 +288,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [寒涟漪庇护所介绍第一版](寒涟漪庇护所介绍第一版_page.md)<details><summary>查看摘要</summary>
 
 该文件为《寒涟漪庇护所介绍第一版》，详细介绍了寒涟漪庇护所的服务对象、工作目标、工作方式、人员准入标准、风险行为及外部压力等多方面内容。庇护所的主要目标是为面临生存困境和生命危险的人群提供包括住宿、情绪疏导、就业能力培训、医疗资源链接等救助支持。文件中提到，庇护所特别关注那些受到家庭暴力影响的未成年人，以及在互联网危机干预中无法得到有效帮助的个体。文件也详细讨论了未成年人在遭遇家庭暴力及校园欺凌时的处境与困境，以及缺乏适当支持的影响，特别是在精神健康和法律保护上的难点。此外，文件还关注到庇护所的工作目标及其面临的各种外部压力，尤其是如何应对社会对于精神疾病的偏见和对跨性别者的歧视。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -400,18 +304,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [跨性别者生存现状](跨性别者生存现状_page.md)<details><summary>查看摘要</summary>
 
 本文件为《跨性别者生存现状》研究报告，深入探讨了跨性别者在家庭、校园、法律政策、心理健康及医疗支持等多个层面的生存状况。报告由北京同志中心跨性别部主管核桃撰写，内容包含了对跨性别者生理性别、指派性别、社会性别等多种名词的解释，以及跨性别者面临的家庭暴力、强制扭转治疗及心理健康问题的真实案例。研究指出，超过80%的跨性别者在18岁前对自身性别身份有自我觉察，但家庭支持的缺失往往导致个体抑郁、辍学甚至自杀。与此同时，许多跨性别者在接受正规医疗过程中面临重重挑战，常通过非正规途径获取所需药物，结果带来安全风险。此研究旨在提高对跨性别者现状的理解，以促进社会支持和制度改善，推动跨性别友好的环境。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 ### 🖼️ 图片
@@ -421,6 +319,12 @@ search:
 
 
 ![第五届中国性别肯定医疗论坛照片](第五届中国性别肯定医疗论坛照片.png)
+
+
+
+### 词云图
+
+![摘要词云图](abstracts_wordcloud.png)
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

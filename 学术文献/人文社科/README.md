@@ -30,18 +30,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_國際多元性別統計與我國發展情形](PDF_國際多元性別統計與我國發展情形_page.md)<details><summary>查看摘要</summary>
 
 该文件为《国际多元性别统计与我国发展情形》的报告，由行政院主计处发布。文件内容主要围绕性别多元性的发展和统计，提出了全球多个国家（如澳大利亚、欧盟和加拿大）在多元性别分类和统计方面的进展与经验，同时对我国在这方面的现状进行了梳理和分析。报告中首先强调了性别的多元性，指出传统的男女二元性别无法涵盖所有个体的性别认同，还提到了交叉性别歧视的概念及其对社会政策的影响。各个章节对多元性别的统计方式、性别分析的三面向，以及性别与社会、心理方面的交互影响进行了详细论述。此外，文件还引用了各国对性别的分类方法和所获得的数据，强调了多元性别统计的重要性和当前面临的挑战，呼吁加强相关的法律与政策以支持多元性别群体的权益。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -54,9 +48,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [酷儿代词使用偏见研究_黄天毅_索马杉达_2024](酷儿代词使用偏见研究_黄天毅_索马杉达_2024_page.md)<details><summary>查看摘要</summary>
 
@@ -65,9 +56,6 @@ search:
 通过对Tango数据集的实验评估，研究展示了该方法在包容性代词分类中的显著效果，尤其在正确识别传统性别代词（“他”和“她”）及非二元性别代词（如“他们”、“xe”、“ey”、“fae”）方面的成功率。结果表明，代理工作流程的表现超过了基线模型GPT-4o和双代理流水线。研究还提及了长期性别偏见对酷儿个体的潜在影响，强调在AI系统中实现性别包容和多样性的重要性，旨在推动社会责任型人工智能的实践。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2023
@@ -81,18 +69,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_行政院我國多元性別LGBTI者生活狀況調查研究案](PDF_行政院我國多元性別LGBTI者生活狀況調查研究案_page.md)<details><summary>查看摘要</summary>
 
 本文件为《我國多元性別（LGBTI）者生活狀況調查研究案》委托研究报告，由台灣彩虹平權大平台協會主办，主要旨在收集与分析台湾地区多元性别群体的生活状况与经验。报告综合调查2019年《司法院釋字第七四八號解釋施行法》通过施行后的变化，展示多元性别者在健康、福祉、社会支持、就业和家庭生活等多个方面的现状。研究通过问卷调查与数据收集，深入探讨了多元性别者的歧视与暴力经验、心理健康状态及社会接纳度等问题。报告尤其关注跨性别者的特定经历，分析其在生活中面临的挑战和需求。附录部分提供了问卷设计、研究方法、研究限制及未来研究建议的详细信息，包含问卷初步结果及收集的统计数据，期望为台湾相关政策的制定提供依据。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -103,18 +85,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [LGBTQI+抗争中的双语表达_2023_ANU_Press](LGBTQI+抗争中的双语表达_2023_ANU_Press_page.md)<details><summary>查看摘要</summary>
 
 该文件是由奥斯玛·贝尔诺特（Ausma Bernot）撰写的，标题为《LGBTQI+抗争中的双语表达》，发表于2023年，探讨了中国LGBTQI+社群在面临严格网络审查和社会压制下的抵抗和生存策略。文中描述了当代中国LGBTQI+活动者如何利用双语表达和秘密语言（如谐音词）来避开审查，例如使用“喝茶”这一隐晦的表达来表明与警方的接触。作者回顾了2014年至2017年间她在宁波诺丁汉大学的活动，强调了在相对宽松的政治环境下，如何构建群体意识和促进LGBTQI+问题的公共讨论。文章进一步讨论了在习近平领导下，LGBTQI+社群的数字空间的收缩和加强的监控，包括对WeChat和其他社交平台的严密审查。特别提到了在2021年之后，LGBTQI+相关的社交账户如何在没有预警的情况下被关闭，以及这一系列政策带来的影响。总体而言，该文为研究当代中国的LGBTQI+活动及其遭遇的政策挑战提供了重要的第一手资料和分析。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -125,18 +101,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [萨克森女性主义论坛_多元交叉视角_2023年9月.pdf](萨克森女性主义论坛_多元交叉视角_2023年9月.pdf_page.md)<details><summary>查看摘要</summary>
 
 本文件为关于萨克森地区女性主义论坛的通知和信息，会议将于2023年9月15日至16日在莱比锡的Tapetenwerk举行。论坛主题围绕多元交叉的视角，鼓励不同背景的女性，以及跨性别、双性别和非二元性别人群积极参与和分享经验。文件内容详细介绍了论坛的安排，包括签到时间、开场致辞、各类工作坊和座谈会的时间表，以及论坛的目标，即探索如何在政治、行政和社会构架中创造更为多元的视角。同时，文件中提到将提供多种语言的翻译服务，并考虑了参与者的无障碍需求，体现了对多元文化和身份的高度重视。参与者可以通过论坛讨论、交流经验，构建彼此的连接，推动更广泛的社会参与和能力的提升。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -147,18 +117,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [中华帝国晚期的性_法律与社会_文字版_苏成捷_Z_Library](中华帝国晚期的性_法律与社会_文字版_苏成捷_Z_Library_page.md)<details><summary>查看摘要</summary>
 
 本文件为苏成捷所著《中华帝国晚期的性、法律与社会》的文字版PDF文件，出版于2023年5月18日，由广西师范大学出版社出版。该书探讨了清代社会中的性、法律与社会结构之间的复杂关系，重点分析了性秩序的法律及其演变，尤其是性犯罪的法律规定如何反映和塑造社会对性别和性行为的认知。文件内容包含引言以及多个章节，如关于性秩序的愿景、强奸罪的法律演变等，尤其强调了鸡奸法和对贞节的崇拜如何影响清代法律。通过对历史文献和司法案例的详细分析，作者揭示了法律与社会性别角色之间的互动，以及社会心理对法律变迁的影响。书中还附有大量清代法律条文和司法案例，进一步揭示了法律与实践之间的矛盾。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2022
@@ -172,18 +136,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [人类社会行为的双重属性及其双重判断](人类社会行为的双重属性及其双重判断_page.md)<details><summary>查看摘要</summary>
 
 该文献探讨了人类社会行为的双重属性，主要涉及生物学和文化两个方面的影响。作者吴家睿首先分析了人类社会行为的遗传基础，指出基因组与行为间的复杂互作。文章特别提及了人类大脑的独特基因变异如何影响社会行为的发展，以及文化因素如何在塑造个体性取向和性别认同方面发挥作用。吴家睿引用了对同性恋行为的遗传研究，认为基因在这一行为中起到的作用有限，更重要的是社会和环境因素的影响。此外，文章还讨论了跨性别群体的出现，以及社会如何接受和理解这一群体的多样性。文章最终呼吁在讨论人类社会行为时应基于理性分析，避免情感化的判断和误解。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -194,18 +152,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [中国跨性别者非自杀倾向自残行为研究——流行率和风险因素的横断研究](中国跨性别者非自杀倾向自残行为研究——流行率和风险因素的横断研究_page.md)<details><summary>查看摘要</summary>
 
 本文件为一项关于中国跨性别者非自杀倾向自残行为(NSSI)的研究，探讨了其流行率和风险因素。研究由黄心蕊于2022年发表，样本包含703名年龄在18到51岁之间的跨性别者，旨在识别影响该群体心理健康的社会因素和心理因素。研究结果显示，63%的受访者曾有过自残行为，跨性别女性的发生率显著高于跨性别男性，且心理健康问题（如焦虑和抑郁）与自残行为之间存在相关性。此外，研究还指出，身体满意度低、自尊水平低、社会歧视感较高是自残行为的主要预测因素。本研究强调了改善跨性别者心理健康和身体接受度的重要性，并呼吁社会采取措施消除社会歧视，增加跨性别者的自尊。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -216,18 +168,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_吳繼文酷兒小說中的性別飄浪_-_臺灣文學研究所-](PDF_吳繼文酷兒小說中的性別飄浪_-_臺灣文學研究所-_page.md)<details><summary>查看摘要</summary>
 
 本文着眼于1990年代台湾的酷儿小说，特别是吳繼文的两部重要作品《世紀末少年愛讀本》和《天河撩亂》，探讨其中的性别流动与家国想像。文章指出，吳继文的作品区别于当时其他以西方为背景的酷儿创作，提出了一种独特的‘回望’叙述策略，以中国古典男色传统为基础，展现了不同于线性时间及进步史观的复杂性。在《世紀末少年愛讀本》中，改写清代的《品花宝鉴》，展现了男性相公的悲惨处境与情感的复杂；而《天河撩亂》则交错叙述了男同志时澄与其跨性别姑姑成蹊的故事，揭露了家族历史与个人认同间深刻的联系。文本深入分析了主人公的心理挣扎、社会压力和性别认同，通过历史与现代交织的背景，呈现跨性别者的生存境况及其与社会的关系。整篇文章充分展现了台湾酷儿文学的丰富性及其在社会变迁中的位置，以期拓展对1990年代酷儿文学研究的视域与理解。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -238,18 +184,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [中學同志教育經驗探析_蔣琬斯_游美惠_2022](中學同志教育經驗探析_蔣琬斯_游美惠_2022_page.md)<details><summary>查看摘要</summary>
 
 本文件为一篇名为《朝向容納多元性別教育：中學教師推動同志教育之經驗探析》的主题论文，发表在2022年9月的《课程研究》期刊中。通过对19位中学教师的深度访谈，研究探讨了教师如何在校园中实施同志教育，所面临的挑战及其采用的策略。研究发现，许多教师最初是出于对同志学生出柜担忧的关注而投身同志教育，他们在通过持续的专业发展后，意识到了自身曾经的偏见，并对社会上存在的双重标准进行了深刻反思。在实施过程中，多个教师以潜移默化的方式推进同志教育，提出了应将“同志教育”这一术语改名为“容纳多元性别教育”，以涵盖更广泛的性别认同和性倾向。本研究强调了当前台湾校园中同志教育的实施现状以及所需的改进措施，强调教育中应注重性别多样性的包容性和接受度。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -260,18 +200,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2022-02-05_马骋Yura_酷儿女性看爱情与百合文化解构异性恋关系](2022-02-05_马骋Yura_酷儿女性看爱情与百合文化解构异性恋关系_page.md)<details><summary>查看摘要</summary>
 
 本文档为一篇深入探讨酷儿女性看待爱情的学术评论，标题为《酷儿女性看爱情：百合文化如何颠覆异性恋情感和关系》。作者马骋Yura于2022年2月5日出版。文章分析了百合文化（Yuri）的起源，以及它如何影响并重塑女性之间的情感关系。百合文化源自日本动漫次文化，主要探讨女性与女性之间的独特关系，该文指出女性读者对于以异性恋为前提的主流文化感到厌倦，从而转向百合文化以寻求情感的自由和表达。文中提到百合文化不仅是文本的创造，也依赖于读者的解读与想象，体现出一种“属于读者的文化”。研究深入探讨了角色的性别平等性以及对“性中心”话语的挑战，强调女权视角下女性之间的精神与情感连接的复杂性和重要性。文中还讨论了诸多案例，包括电影、小说以及网络文化中呈现的百合情感，并分析了百合文化如何为女性提供了一个与异性恋框架区隔的空间，建立起新的情感和文化表达方式。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -282,18 +216,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [成为安迪沃霍尔：性别与社会的对话_2022年2月19日](成为安迪沃霍尔：性别与社会的对话_2022年2月19日_page.md)<details><summary>查看摘要</summary>
 
 本文件为“成为安迪·沃霍尔”系列的对谈记录，活动于2022年2月19日在UCCAEdge报告厅举行，主要围绕性别与社会的对话进行深入探讨。会议的主持人为华东师范大学社会学教授魏伟与昆山杜克大学文学助理教授向在荣，双方通过对安迪·沃霍尔的艺术和个人背景进行分析，探讨如何从酷儿视角理解他的生平和作品。魏伟在发言中提到沃霍尔的艺术与同性恋身份之间的关系，强调沃霍尔在其创作中展现的酷儿气质及其对性别研究的影响。向在荣则补充了沃霍尔的自我表现及其在麦卡锡时代背景下的身份认同过程，讨论其作品如何影响同性恋社群的形成与发展。此次对谈不仅深入探究了沃霍尔的多重身份与创作中的性别表现，更质疑了传统的性别概念与艺术创作之间的关联，同时引发对当代性别多样性及社会可见性的思考。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -304,18 +232,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [在社工教育納入多元性別社群議題：態度、知識、服務或行動策略](在社工教育納入多元性別社群議題：態度、知識、服務或行動策略_page.md)<details><summary>查看摘要</summary>
 
 本文探讨了在社会工作教育中纳入多元性别社群议题的重要性，特别是跨性别者和其他性少数群体的相关问题。作者讨论了多元性别的概念及其历史背景，强调尊重人们用不同名称描述自我的重要性。文章分为多个部分，梳理了美国和台湾的研究和文学，探讨了社工教育如何能更有效地回应多元性别社区的需求。内容包括对多元性别群体态度的澄清、实际在课程中融入这些议题的方式，以及促进社会工作者在服务中去辨识和消除对这些群体的性别歧视、刻板印象和偏见。作者提供了具体教案与讨论案例，力求使学生能够自主思考，并为多元性别者创造一个友好、包容的社会环境。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -326,18 +248,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [An_Exploration_of_Transgender_Individuals_Identity_Experiences_in_the_Chinese_Context](An_Exploration_of_Transgender_Individuals_Identity_Experiences_in_the_Chinese_Context_page.md)<details><summary>查看摘要</summary>
 
 该文献摘自2022年5月出版的《国际社会科学与人文杂志》，主要探讨了中国跨性别个体的身份体验。研究显示，尽管中国社会对跨性别群体的关注逐渐增加，但他们的生活条件依然不乐观。研究的目的包括探索中国跨性别者在日常生活中面临的主要困难，提高对跨性别问题的社会意识，以及推动帮助跨性别者改善生活条件的措施。通过对四名成年跨性别个体的半结构化访谈，研究揭示了他们在心理健康、亲密关系、公共场所和跨性别手术相关药物方面的挑战。此外，研究还指出，中国跨性别者在新冠疫情期间面临着更大的困难，例如获取激素治疗和性别确认手术的障碍。尽管一些跨性别女性的研究已被关注，但对跨性别男性的关注仍显不足。作者希望通过该研究，增进公众对跨性别者的理解，提升社会对他们的支持，推动法律和社会环境的改善。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -348,18 +264,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Chinese_Trans_Women_in_Japan_and_Their_Embodied](Chinese_Trans_Women_in_Japan_and_Their_Embodied_page.md)<details><summary>查看摘要</summary>
 
 这篇文章探讨了生活在日本的中国跨性别女性在数字连接、国际流动性、性别和种族交叉性方面的经验。通过对居住在日本五个县的七位受访者的访谈，文章展示了她们如何以多种方式理解和表现性别身份的复杂现实。作者指出，这些跨性别女性的性别身份反映了她们对完整性和本体安全的个体追求，尤其是在处理在线和离线现实的紧张关系时。文章进一步分析了在线和离线生活经验是如何相互塑造的，强调了数字媒体在现代社会结构中所扮演的重要角色。文中还讨论了自1990年代以来，关于流动性与酷儿身份关系的研究变化，指出“迁出”并不一定意味着“出柜”，而此过程是复杂多变的，相互依存的。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2021
@@ -373,9 +283,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [竞技人文传播东京2020_奥运会系列事件的思考](竞技人文传播东京2020_奥运会系列事件的思考_page.md)<details><summary>查看摘要</summary>
 
@@ -384,18 +291,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [体育运动中的性别平等公平及包容性表述](体育运动中的性别平等公平及包容性表述_page.md)<details><summary>查看摘要</summary>
 
 本文件为‘体育运动中的性别平等、公平及包容性表述展现方式指南’第二版，主要由国际奥林匹克委员会（IOC）发布。其内容围绕体育领域内，尤其是奥林匹克运动中性别平等的重要性展开，详细探讨了如何通过适当的展现方式促进性别的平等与包容。文中指出，体育是促进性别平等和赋能女性的重要平台，而媒体报道在形成社会的性别规范和刻板印象中起到了重要作用。指南强调了在体育传播中采用公正、均衡的语言、图像和表现方式的重要性，并提供了实用的核对清单及建议，以帮助各个体育组织、媒体和内容创作者实现性别平衡的展现方式。对两性运动员的展现方式的建议包括保持平衡曝光、避免性别刻板印象，并在报道中将体育成就置于更高的优先级。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -408,18 +309,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [以愛之名擁抱多元性別_课件](以愛之名擁抱多元性別_课件_page.md)<details><summary>查看摘要</summary>
 
 本文件是由南玉芬教授于2021年6月22日在性别小课堂上发布的课件，内容主要探讨多元性别的概念及相关议题。课程涵盖性别认同、性倾向、出生性别、法定性别等重要概念，强调性别并非绝对二元，而是一个连续体。通过引用Korell与Lorah（2007）的观点，文件指出性别光谱说明性别在一个连绵不绝的范围内变化，并探讨跨性别、变性、性别酷儿等多个身份。文件中也提到最新的研究显示，跨性别身份不应被视为精神障碍，指责社会排斥和暴力才是造成心理痛苦的根源。此外，文件讲述了性别酷儿的定义，及其拒绝传统性别二分法的立场，探讨性别重置手术在跨性别者生活中的重要性。最后，文件涉及跨性别相关的统计数据与法制支持，如台湾的同性婚姻法律与跨性别者的社会认知。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -430,18 +325,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [非西方酷兒理論與臺灣國族問題_劉文_2021.pdf](非西方酷兒理論與臺灣國族問題_劉文_2021.pdf_page.md)<details><summary>查看摘要</summary>
 
 该文件为《非西方酷儿理论与台湾国族问题》的一篇学术论文，作者刘文探讨了国族议题在台湾酷儿知识生产中的重要性。文中分析了洁净的文化框架是如何无法处理台湾酷儿身份的多样性，以及冷战时期的地缘政治对台湾酷儿身份认同的影响。作者指出，台湾的酷儿理论在面临欧美酷儿理论的挑战时，如何重新定义其地缘政治定位，并指出‘同性恋国族主义’在台湾性别地缘政治中的表现。该文讨论了后殖民分析的必要性，并对国族焦虑进行深入思考，认为台湾酷儿应采用‘时间转向’的研究方法，以更有效地应对国家主权相关的问题。此外，文中还探讨了酷儿理论与区域研究的结合，以及在当代政治和文化背景下酷儿台湾的存续与挑战。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -452,18 +341,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [多元文化性别与家庭的探讨_2021_性别平等教育季刊](多元文化性别与家庭的探讨_2021_性别平等教育季刊_page.md)<details><summary>查看摘要</summary>
 
 该文件为2021年《性别平等教育季刊》第95期，主题围绕“多元文化、性别与家庭”，其中探讨了在东京奥运会背景下，运动场上所涉及的性别议题，以及台湾同志家庭的社会认同与法律地位。文章引用多个实例，阐述在多元家庭形态日益显现的当下，如何在教育中实现性别平等的重要性。文中特别提到台湾在2019年同婚合法化后，同志家庭的法律保障，指出尽管有了法律变化，社会的普遍接受度及教育体制的调整仍显不足。同时，作者分享了一些关于同志家庭、单亲家庭等多样化家庭类型的生活与教育经验，强调无论家庭形式如何，“爱的存在”才是家庭的核心。同时，文件中包含多位专家对于教学中应如何引入性别平等议题的建议，以反映如今社会中多元化的家庭和性别关系。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -474,18 +357,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2021年卓芸萱_跨性別學生於友善校園成長的可能性](2021年卓芸萱_跨性別學生於友善校園成長的可能性_page.md)<details><summary>查看摘要</summary>
 
 该文件是关于跨性别学生在友善校园中成长的可能性的研究，主要由卓芸萱撰写，属于高雄医学大学性别研究所的研究成果。内容探讨了自《性别平等教育法》实施以来，虽然提倡打破二元性别角色的期待，鼓励学生探索不同性别身份，但跨性别学生在成长过程中仍面临许多挑战。根据2020年的调查报告，许多跨性别人员在国中时期便开始探索自己的性别认同，但近半数表示在校园内受到不友善对待，尤其是在国中阶段的比例最高。研究延伸自作者的硕士论文，分析了不同跨性别主体在青春期阶段的性别认同探索过程，并结合社会学的“做性别”观点，建议教育人员调整校内的性别规范，以支持跨性别学生的成长。文中提及多元性别教育的重要性以及如何在学校环境中营造友好的性别氛围，鼓励学生以真实自我面对他人，与传统的二元性别观念进行斗争。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -496,18 +373,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Excluded_lives_The_largest_scale_survey_on_the_social_and](Excluded_lives_The_largest_scale_survey_on_the_social_and_page.md)<details><summary>查看摘要</summary>
 
 该文件为一项关于香港跨性别者社会与法律边缘化现状的调查研究，名为《Excluded lives: The largest scale survey on the social and legal marginalisation of transgender people in Hong Kong so far》。该研究由香港中文大学的性别研究项目进行，调查时间为2019年至2020年，涉及234名跨性别参与者。研究结果显示，跨性别者在香港面临显著的社会和法律边缘化，许多人生活中遭遇拒绝、受害和歧视，尤其是在使用与自我认同性别相符的卫生间时，常常遭遇语言攻击、身体暴力甚至性侵犯。调查还表明，许多受访者因为多种原因未接受性别肯定医疗干预，导致他们在香港法律上无法进行性别标识的更改，严重影响了他们的公民、政治、经济、社会和文化权利。该研究强调，跨性别者的心理健康受到了极大的影响，42.8%的参与者呈现中度至重度抑郁症状，34.7%的参与者有中度至重度焦虑症状，76.9%的参与者曾考虑自杀。研究建议急需对公众进行教育和意识提升，以增强对跨性别者的理解，同时呼吁制定反歧视法律，改善公共空间的卫生间设施，并增加心理健康支持。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2020
@@ -521,18 +392,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [从后学到认同政治_当代美国人文思潮走向](从后学到认同政治_当代美国人文思潮走向_page.md)<details><summary>查看摘要</summary>
 
 该文献由刘康撰写，题目为《从后学到认同政治：当代美国人文思潮走向》。文中探讨了近半个世纪美国人文学术界的变迁，尤其关注后结构主义、后现代主义、后殖民主义等理论的兴起及其在社会与文化领域的影响。作者指出，后殖民主义理论是美国本土的学术成果，强调其与文化研究的交互影响，并分析了认同政治的核心概念，这一概念源自美国的种族、族裔和信仰多元的背景。此外，刘康认为，认同政治不仅在学术界，也在社会广泛传播，与当今的政治正确话语紧密相连。文中引用了众多理论家的观点，探讨了如何通过不同的理论视角理解人文学科、文化多样性与社会现状的关系。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -545,9 +410,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [许通元同志小说研究_阮欣宁_2020](许通元同志小说研究_阮欣宁_2020_page.md)<details><summary>查看摘要</summary>
 
@@ -556,18 +418,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [热风学术网刊2020年6月第17期](热风学术网刊2020年6月第17期_page.md)<details><summary>查看摘要</summary>
 
 《热风学术网刊》第17期于2020年6月发布，专注于青年与剧场行动的专题讨论。本期探讨了剧团草台班与定海桥互助社共同创作的剧作《草芥》，该作反映了当代年轻人在社会变迁中的生存状态和心理感受。多篇文章深入分析了青年、围观及当代艺术场所之间的关系，通过剧场的方法探讨青年如何在这个不确定的时代中重新定义自我与社会的联系。文章指出，‘青年’作为政治社会行动的群体，展现了勇敢、反抗的精神面貌，体现了他们在面对现实的束缚时所发出的呐喊与追求。同时，特稿中引用了大量参与者的言论，展示了青年对自身境遇的反思与探索，突显了年轻人在社区与剧团中的集体行动如何构建新的社会关系与文化表达。整期网刊不仅是对草台班与定海桥行动的记录，更是当代中国青年所面临的社会与文化课题的一次深刻反思。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -580,18 +436,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [重读史丹_王天然_2020](重读史丹_王天然_2020_page.md)<details><summary>查看摘要</summary>
 
 本文件为王天然于2020年发表在《世界文学研究》上的学术论文，题为《重读史丹——酷儿理论视域下的《桑青与桃红》》。该文从酷儿理论出发，重新解读了聂华苓的小说《桑青与桃红》中史丹与桑青之间的关系，探讨了她们作为酷儿伴侣的身份与心理动态。论文中提到，史丹和桑青的关系起初是稳定的同性亲密关系，但随后因流亡学生的介入而面临破裂。文中通过对两位女性的家庭背景和成长经历进行分析，指出她们在精神上承担了对方的家庭角色，以及如何在对方的影响下探索自我身份。借助酷儿理论，文章揭示了她们的关系不仅仅是性别和性取向的表征，更是对传统家庭结构和社会规范的反叛与挑战。文章中深入探讨了桑青在寻找自我的过程中的挣扎，特别是她在与史丹的关系中如何构建和重新定义自己的身份。同时，作者还讨论了小说的社会历史背景及其对女性自我认同的影响。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -602,18 +452,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Dialnet-How_a_Chinese_Male-_to-Female_Manages_Gender_Nonconformity-7639547](Dialnet-How_a_Chinese_Male-_to-Female_Manages_Gender_Nonconformity-7639547_page.md)<details><summary>查看摘要</summary>
 
 此文件为《多学科性别研究杂志》2020年10月出版的一篇学术论文，作者为香港的Fung Kei Cheng。文章题为《我应得身体的马拉松追寻：一名中国男性跨女性如何管理性别不符》。研究重点探讨了性别身份二元对话语的主导地位如何造成对性别不符的个体的偏见、污名化、歧视与排斥。虽然类似文献已相对丰富，但关于中国跨性别者的研究则相对稀缺。论文通过个案研究的方式，分析了一名中国跨女性如何通过性别重置手术应对其性别不一致和焦虑。研究采用了深入的半结构式访谈并使用解释性现象学分析方法处理数据，结果揭示了参与者从伪装男性状态逐步解放的过程，以及她为实现心中所愿的性别所做出的努力。此研究的结果强调了身体完整性和心理调整对缓解性别不符引发的 distress 影响的重要性，支持建立一个有益于个体与公共利益的性别认同社会。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -624,18 +468,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [性别互动论：基于“做性别”视角的探讨](性别互动论：基于“做性别”视角的探讨_page.md)<details><summary>查看摘要</summary>
 
 本文是王晴锋关于性别互动论的研究，探讨了基于“做性别”视角的性别研究新的范式，强调性别不再是固有属性，而是一个在社会互动中不断生成的过程。文章回顾了坎迪斯·韦斯特和唐·齐默尔曼在1987年首次提出的“做性别”理论，指出其意义在于将性别的构造看作是一种动态的社会互动产物。作者通过分析“做性别”“消解性别”和“再做性别”的不同理论，阐明了性别不平等的微观机制及其在日常互动中的表现。特别是对跨性别者的研究，呈现了他们如何在工作场所和日常生活中协商和管理性别化的互动，分析了在情境中性别规范的维持或挑战，以及如何在这一过程中形成一种新的性别身份认同。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -646,9 +484,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Workplace_Experiences_of_Transgender_Individuals](Workplace_Experiences_of_Transgender_Individuals_page.md)<details><summary>查看摘要</summary>
 
@@ -657,18 +492,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [A_Sisterhood_of_Hope_How_Chinas_Transgender_Sex_Workers](A_Sisterhood_of_Hope_How_Chinas_Transgender_Sex_Workers_page.md)<details><summary>查看摘要</summary>
 
 该文件为一篇学术论文，题为《希望的姐妹情：如何应对中国跨性别性工作者的亲密伴侣暴力》。研究者Eileen Yuk-ha Tsang从社会和行为科学的角度探讨了跨性别性工作者（TSWs）在面对伴侣暴力时所经历的挑战和应对策略。通过对25位跨性别性工作者的深入访谈，文章揭示了许多TSWs在生活中面临的各种暴力，包括来自客户、警察和伴侣的暴力，而其中特别高的比例来自亲密伴侣。文中指出，跨性别性工作者常常受到社会的边缘化，社会对他们的虐待与孤立使他们无从通过正式渠道如警方寻求帮助。为生存，TSWs依赖与姐妹们建立的非正式网络，进行情感支持和建议，而这种支持在应对亲密伴侣暴力的问题上比官方的法律机制更为有效。研究强调了姐妹情的重要性，指出这种支持如何帮助她们应对常态化的暴力行为，以及在心理和生理健康管理中所起的重要作用。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2019
@@ -682,18 +511,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_硕士学位论文_我国跨性别群体歧视知觉对心理健康的影响研究](PDF_硕士学位论文_我国跨性别群体歧视知觉对心理健康的影响研究_page.md)<details><summary>查看摘要</summary>
 
 本文件为一篇硕士学位论文，题目为《我国跨性别群体歧视知觉对心理健康的影响研究》，由韩小琳于2019年5月20日提交给南方师范大学心理学院。研究旨在探索我国跨性别群体的歧视知觉如何影响其心理健康，并分析内化跨性别嫌恶和社会支持在该关系中的作用机制。研究通过网络抽样，共征集到467名跨性别者的有效问卷，调查内容包括对歧视的感知、社会支持程度、内化跨性别嫌恶和心理健康状况（如抑郁、焦虑及主观幸福感）。研究发现不同群体间对歧视的感知水平存在显著差异，尤其是跨性别女性的歧视感知水平较高。内化的跨性别嫌恶与心理健康指标（抑郁、焦虑）有显著关联，同时社会支持在歧视知觉和心理健康之间起到了部分中介作用。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -704,18 +527,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_跨性別學生受心理問題困擾的比例遠高於其他族群](PDF_跨性別學生受心理問題困擾的比例遠高於其他族群_page.md)<details><summary>查看摘要</summary>
 
 本文件是关于跨性别学生心理健康问题的研究报告，指出跨性别学生在心理健康方面遭遇的困扰明显高于顺性别学生。根据波士顿大学的一项大型研究，跨性别、非常规性别和非二元性别的大学生，心理健康问题的比例是顺性别学生的2至4倍。研究成果重申了跨性别学生所面临的困境，包括更高的抑郁、焦虑、自残和自杀倾向。其中，78%的性别少数学生符合一项以上心理健康问题的条件，58%曾出现抑郁症状，33%以上曾认真考虑过自杀。研究强调，校方需要采取跨性别友好的政策以改善这一现状，呼吁制定更人性化的校园环境，如设立性别中立的浴室和宿舍，以及允许学生灵活更改姓名等。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -726,18 +543,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [华人酷儿神学暑期工作坊2019_课程介绍](华人酷儿神学暑期工作坊2019_课程介绍_page.md)<details><summary>查看摘要</summary>
 
 《华人酷儿神学暑期工作坊2019课程介绍》是针对亚洲地区性小众基督徒群体而设计的工作坊，旨在提供一个整合性的酷儿神学教育平台。该工作坊特别面向有志于研究酷儿神学，并服务性小众群体的教牧和信徒领袖。文件中详细介绍了工作坊的对象、申请资格、特色课程、讲师阵容以及费用结构等信息。该工作坊将于2019年7月9日至14日在香港中文大学举行，为期六天五夜，课程主要以广东话和普通话进行，内容包括女性主义神学、酷儿神学、酷儿释经等多个议题。参与者将在安全的环境中塑造灵命，并通过小组讨论以创造包容意识的崇拜礼仪和教学材料。课程通过课程设计、师友计划等多元化方式，帮助参与者在各自的领域中推动性小众的共融事工。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -748,18 +559,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [酷兒同志-評價與政治-江河清-2019](酷兒同志-評價與政治-江河清-2019_page.md)<details><summary>查看摘要</summary>
 
 该文件是一篇书评，主要介绍了包宏伟的著作《酷儿同志：中國後社會主義時期的同性戀身分與同志政治》。书评由江河清撰写，发表于《女學學誌：婦女與性別研究》第45期。文章详细探讨了"queer"（酷儿）这一概念的转变及其在当代社会的意义，其中提到“酷儿”这一翻译方式强调了其批判面向和正面的进步含义，而非其起初的贬义。同时，文中讨论了“同志”这一角色和概念的历史变迁，指出它在不同历史和社会语境下多重的意义。文章还分析了98年代之后“同志”这一身份如何在华语社群中普及，以及其与“人民”概念的关联，从而揭示了性少数群体在社会政治中的话语权和公民权的追寻。书评在突出性别理论的同时，也提出了研究中存在的局限性，并吸引读者思考更广泛的社会和历史问题。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -776,18 +581,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Suicidal_ideation_and_attempted_suicide_amongst_Chinese_](Suicidal_ideation_and_attempted_suicide_amongst_Chinese__page.md)<details><summary>查看摘要</summary>
 
 此研究论文探讨了中国跨性别个体的自杀意念和自杀尝试的情况。研究基于全国性人口普查数据，选取了1309名参与者，以横断面调查的方式，运用结构化问卷收集了参与者的人口统计信息、感知的性别冲突、童年逆境和心理健康状况。研究结果表明，该跨性别群体中，自杀意念的终生患病率为56.4%，自杀尝试的终生患病率为16.1%，均显著高于一般人群。影响自杀意念和自杀尝试的风险因素包括对出生性别的不满、寻求性别重置手术、与父母的激烈冲突以及经历重度抑郁症等。此研究为中国跨性别群体的心理健康状况提供了重要的数据支持，并对自杀预防工作者和政策制定者具有临床意义。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2018
@@ -801,18 +600,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [放映抵抗新加坡影片中的酷儿化战术_Screening_resistance](放映抵抗新加坡影片中的酷儿化战术_Screening_resistance_page.md)<details><summary>查看摘要</summary>
 
 该文件是刘思娴于2018年在新加坡南洋理工大学提交的硕士论文，题目为《放映抵抗：新加坡影片中的酷儿化战术》。论文探讨了酷儿文化与新加坡国家话语之间的互动关系，分析了官方对于酷儿的论述与管制及其文化发展的背景。通过对新加坡几位酷儿导演（如巫俊锋、陈敬音及罗子涵）作品的个案研究，论述了酷儿在文化产品中如何反抗官方话语，采用了“身体”、“空间”和“时间”三个主要符号进行酷儿化，时而挑战官方的霸权。这种文化产品的抵抗不仅展现了酷儿文化的丰富性，也暗示了新加坡特有的酷儿抵抗模式和策略。总结部分强调，新加坡的酷儿文化在社交和文化层面上展示了其能动性与独特性，尽管面临各种官方的限制与边缘化，但仍通过文化产品积极地进行自我表达与抗争。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -823,18 +616,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [曹文轩与当代性别认同研究（1997-2008）](曹文轩与当代性别认同研究（1997-2008）_page.md)<details><summary>查看摘要</summary>
 
 该文献是针对中国当代性别认同的研究，集中分析了曹文轩、杨红婴和郭敬明的几部青少年文学作品，时间范围涵盖1997年至2008年。本文以性别为核心的视角对青春成长小说进行了深入探讨，涉及了性别身份、性别表现以及相关的社会文化环境。具体内容包括对成长小说的分类和分析，探讨了性别表现的模式，分析了作品中的角色构建、身体形象等。此外，文中还提到现代青少年文学如何反映并影响青年人的性别认同和社会环境。文献附有详细的研究背景、文学概述、参考文献及致谢部分，为学术研究提供了丰富的素材
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -845,18 +632,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2018_酷兒釋經_香港基督徒學會.pdf](2018_酷兒釋經_香港基督徒學會.pdf_page.md)<details><summary>查看摘要</summary>
 
 本书《人．性III—酷儿「釋」經》由香港基督徒学会和性神学社联合出版，旨在重新审视基督教传统中的性别与性向议题。书中集合了来自中国大陆、香港、台湾等地的十多位学者和酷儿人士的学术研究与思考，讨论了聖經文本中关于酷儿的声音与经验，挑战传统释经学的权威模式。作者们认为，教会在以往对性别与性向问题的处理上往往存在片面与狭隘，未能充分包容多元性别的存在与表达。这本书不仅是一部学术著作，更是对那些长期被边缘化的酷儿群体的呼声，强调了聖經中的上主之道与酷儿身份之间的不冲突。本书分为两大部分，前半部以酷儿“釋放”圣经为主题，通过对各个经典故事的创新解读，发掘被消失的酷儿声音，后半部分则以酷儿“詮釋”圣经为主旨，探讨基督信仰如何与酷儿经验结合，以及如何在华人教会中建立包容性。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -867,9 +648,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [TG_transgender_GNC_gender_non-conforming](TG_transgender_GNC_gender_non-conforming_page.md)<details><summary>查看摘要</summary>
 
@@ -878,18 +656,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Trans-in-Asia_Asia-in-Trans](Trans-in-Asia_Asia-in-Trans_page.md)<details><summary>查看摘要</summary>
 
 《Trans-in-Asia, Asia-in-Trans》是一份专注于探索亚洲跨性别及多元性别文化的论文集导言。该文由Howard Chiang、Todd A. Henry和Helen Hok-Sze Leung等人撰写，旨在阐述跨性别研究和亚洲研究之间的交集与对话，呼吁学术界更加重视被边缘化的性别议题。文中提到，过去的二十年里，越来越多的学者和活动家开始检视亚洲社会中长期存在的跨性别文化，更希望通过跨学科的视角重新思考这些议题。文中特别提到，跨性别视角有助于学者们从新的视角理解在整体人类经验中被归类为少数的非规范身体。该文也对跨性别和酷儿的表现如何在亚洲不同社会中体现进行了探讨，强调了历史、语言和文化复杂性的重要性，同时呼吁重视非西方的视角。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2017
@@ -903,18 +675,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_朱迪斯巴特勒与德国文学后结构主义性别批评](PDF_朱迪斯巴特勒与德国文学后结构主义性别批评_page.md)<details><summary>查看摘要</summary>
 
 本文分析了朱迪斯·巴特勒作为重要性别理论家的学说在德国文学界的影响及其发展过程。文章回顾了德国学者对巴特勒后结构主义性别理论的接受与演变，探讨了在引入巴特勒的理论后，德国文学评论如何逐步形成具有本国特色的性别批评理论。文中提到，巴特勒关于性别的‘操演’理论和‘做性别’的观点在德国的接受背景，与1968年欧洲民权运动相呼应，反映了性别研究的动态及其所面临的挑战。文章总结了当今德国文学性别批评的五种主要分析方法，包括后结构主义性别叙事学、解构女权主义视角、后结构主义男性分析、酷儿视角与性别话语分析，以及反后结构主义性别批评。这些方法的形成不仅与文学批评的实践密切相关，也反映了德国社会对性别与文化问题的认知与探讨。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -925,18 +691,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2017王娟_多元性别身份的操演与戏仿](2017王娟_多元性别身份的操演与戏仿_page.md)<details><summary>查看摘要</summary>
 
 本文件为王娟撰写的学术论文，标题为《多元性别身份构建中的操演和戏仿》，发表在2017年《长安大学学报（社会科学版）》第19卷第2期，主要探讨朱迪斯·巴特勒的性别操演理论在多元性别身份构建中的应用。在文中，作者对巴特勒的理论进行了深入分析，认为性别身份是通过反复的社会文化操演构建而成，并提出性别操演具有语言、仪式和戏剧三个维度。文章还分析了性别操演如何突破传统的性别二元对立，推动性别身份朝向多元化和多样化发展。通过对性别身份的文化建构性探讨，作者力求开辟更广阔的视野，为身份认同提供新的路径和方法。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -947,18 +707,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2017年东方论坛_彩虹岛上的家国梦_台湾同志电影的系谱与政治](2017年东方论坛_彩虹岛上的家国梦_台湾同志电影的系谱与政治_page.md)<details><summary>查看摘要</summary>
 
 该文件收录了关于台湾同志电影的研究，发掘了自1990年代以来，同性恋/酷儿题材电影在台湾的兴起及其对社会的影响。文章探讨了台湾同志电影如何在保守的主流性政治中形成自己独特的文化，并逐渐主流化。作者指出，台湾的同志电影不仅以先锋性与商业性并存，还面临着异性恋中心主义的挑战和国族叙事的牵制。此文分析了同志电影的历史系谱、类型化发展及其背后的政治和文化意涵，揭示了同志电影如何在台湾民主化与文化多元化的浪潮中发展，成为社会中对同性恋权利表达的重要媒介。文中提到，台湾同志电影还在通过电影形式再现同志群体的生活现状，以此呼应了更广泛的文化运动与社会变革。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -969,18 +723,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [性别治理_性／別研究丛書](性别治理_性／別研究丛書_page.md)<details><summary>查看摘要</summary>
 
 该文件为《性别治理: 性别研究丛书》中的一部分，探讨了台湾在性别研究以及性别治理方面的进展与挑战。作者何春蕤从多个维度阐述了性别平等在台湾的建立与实现如何与社会政治、文化背景及历史演变密切相关。书中讨论了性别治理在台湾民主化进程中所扮演的角色，包括性别平等如何被政治化，以及在不同权力关系下，性别平等与身份认同等议题的复杂交织。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -991,18 +739,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [A_narrative_review_of_quantitative_research_s](A_narrative_review_of_quantitative_research_s_page.md)<details><summary>查看摘要</summary>
 
 这篇文献是对定量研究的叙述性综述，重点讨论了跨性别人士面临的歧视和韧性，以及他们的需求。作者McCann和Brown通过综合分析2006年至2016年间的研究，探讨了跨性别者在社会中遭遇的种种挑战。这些挑战主要体现在对性别认同的知识、理解和接受程度上。文献回顾的结果显示，跨性别人士的需求应该得到更明确的表达，并与改善他们的健康和生活质量的成果紧密相连。文章强调，如果不加以解决，这些歧视经历可能导致健康状况的恶化，而很多跨性别者则展现出韧性和积极的应对策略。文中还提出了护士和医疗工作者需要识别并适当响应跨性别群体的护理和治疗需求，以确保提供的医疗服务能够涵盖他们生活的各个方面。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2016
@@ -1016,18 +758,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_性别表演新潮演剧中的男扮女装](PDF_性别表演新潮演剧中的男扮女装_page.md)<details><summary>查看摘要</summary>
 
 本论文探讨了新潮演剧中男扮女装的现象，主要从性别表演的角度出发，结合性别神话、性面具和性别表演理论等多个视角进行深入分析。作者胡志毅首先回顾了中国古代和日本新派剧中男扮女装的历史渊源，提及了李叔同、欧阳予倩和马绛士等人的重要角色以及他们在演出的过程中展现的性别表现形式。这种性别表演不仅仅局限于外部的装扮，还涉及演员内心的角色体验和心理模拟。结合巴特勒的性别表演理论，作者指出，性别并非简单的生理特征，而是一种文化建构，在戏剧舞台上，男扮女装是挑战和突破性别规范的一种表现。通过对历史案例的考察和理论分析，文章揭示了男扮女装在艺术表达中的复杂性和重要性，同时也探讨了这种现象背后的社会政治意义。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1038,18 +774,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [多元性别教育分享与研究成果_东华大学_2016年](多元性别教育分享与研究成果_东华大学_2016年_page.md)<details><summary>查看摘要</summary>
 
 这份文档是来自国立东华大学教育与潜能开发学系的电子报，主题围绕多元性别教育的重要性与紧迫性。内容涉及八篇与多元性别相关的文章，各自分享了作者在国内外研讨会上的心得体会，着重探讨了性别平等教育、跨性别者在校园的困境、以及同志群体的生存现状等话题。其中提到某位资深男演员在金钟奖领奖时的言论，反映出社会对同志议题的偏见和挑战。此外，有关跨性别学生的态度调查以及不同论坛上的讨论，揭示了在台湾的多元性别教育仍需更多努力与改善。文中引用了实际案例和数据，展示了社会对多元性别的认知进展以及日常生活中的潜在歧视问题。通过这些分享，旨在提升社会对多元性别话题的关注，推动性别平等教育的发展和实践。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1060,9 +790,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [区域主义与酷儿亚洲研究_2016_黄煜星_江浩德](区域主义与酷儿亚洲研究_2016_黄煜星_江浩德_page.md)<details><summary>查看摘要</summary>
 
@@ -1071,18 +798,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [酷儿经验与博物馆解读_吴咨闵_2016](酷儿经验与博物馆解读_吴咨闵_2016_page.md)<details><summary>查看摘要</summary>
 
 本文探讨了位于美国旧金山卡斯楚街区的男同志、女同志、双性恋、跨性别历史博物馆（GLBT历史博物馆）如何通过展示来构建统一的酷儿身份，并处理不同性别类别之间的矛盾与多样性生命经验。文章详细分析了博物馆的开馆首年展览如何将观众的注意力引导向人类生活经验的多重性，而不仅仅是LGBT性别类别的多样性。本文还引用了酷儿学者Sara Ahmed关于‘倾向’的现象学概念，探讨如何从日常生活的脉络中辨识酷儿经验，并讨论了酷儿历史的隐蔽性和可见性的展示策略。本文意在揭示酷儿身份构建的复杂性和基进性，强调在对抗社会主流性别观念与对性少数群体历史的保存之间的张力。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1094,18 +815,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Synergies_in_health_and_human_rights_-_a_call_to_action_to_improve_transgender_health](Synergies_in_health_and_human_rights_-_a_call_to_action_to_improve_transgender_health_page.md)<details><summary>查看摘要</summary>
 
 此文件为关于跨性别健康与人权之间联系的重要学术文献，名为《健康与人权的协同：改善跨性别健康的行动呼吁》。文章探讨了全球跨性别群体面临的健康挑战，强调了政府和社会必须采取行动，以消除跨性别人士在获取适当医疗服务时面临的歧视和障碍。文件指出，跨性别者在寻求与性别确认相关的医疗时，常常遇到包括精神健康问题在内的广泛困扰，可能导致抑郁、自残和自杀行为。此外，文件中提到了跨性别者需要的医疗服务应与其他健康服务平等对待，包括提供雄性或雌性激素等性别肯定的治疗。最终，文件呼吁在公共健康政策中融入跨性别健康的考量，以提高对跨性别者医疗需求的响应，以及确保这些需求能够得到合法和社会的支持。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1116,9 +831,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Transgender_people:_health_at_the_margins_of_society_-_Winter_et_al-2016](Transgender_people:_health_at_the_margins_of_society_-_Winter_et_al-2016_page.md)<details><summary>查看摘要</summary>
 
@@ -1127,18 +839,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Public_Support_for_Transgender_Rights_A_Twenty-three](Public_Support_for_Transgender_Rights_A_Twenty-three_page.md)<details><summary>查看摘要</summary>
 
 该文件为一项关于跨性别权利的国际调查报告，标题为《公众对跨性别权利的支持：23国调查》。研究由Andrew R. Flores、Taylor N.T. Brown和Andrew S. Park于2016年12月发布，涉及23个国家的17,105名成年人对跨性别者及其权利的态度。报告中的关键发现指出，在所有受访的国家中，绝大多数人认为跨性别者应有权更改身份文件以与其性别认同一致，尽管有相当一部分人认为需有医疗或政府的某种形式的监管。同时，21个国家的居民支持禁止针对跨性别者的歧视政策，16个国家支持跨性别者的结婚权，14个国家支持其收养权，以及15个国家支持根据跨性别者的性别认同开放公共厕所。调查表明，社会对跨性别权利的支持程度因国而异，分数从41到74不等，其中俄罗斯得分最低，西班牙得分最高。调查发现，年轻人、女性、高学历和高收入人群对跨性别权利的支持力度较大。与跨性别朋友或家庭成员的接触被认为是支持跨性别权利的强劲预测因素。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2015
@@ -1152,18 +858,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [个人化的婚姻和家庭](个人化的婚姻和家庭_page.md)<details><summary>查看摘要</summary>
 
 本文档是关于当代法国婚姻与家庭状况的学术论文，论文讨论了法国家庭的个人化特点。作者刘巍通过分析家庭结构变化、婚姻观念的演变以及同性婚姻的合法化，揭示了法国社会深刻的变迁。文章指出，法国家庭在规模和结构上经历了显著的变化，越来越多的人接受了未婚同居和同性婚姻，这些观念也反映在法国的立法中，例如民事同居协议和同性婚姻法。通过提供数据显示，文章描述了各种家庭形式的比例变化，强调了个人自由选择在当代婚姻中的重要性。此外，文章还探讨了社会对同性婚姻的接受程度及其法律和社会环境的影响。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1174,9 +874,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [性少数人群的心理健康理论模型与研究取向](性少数人群的心理健康理论模型与研究取向_page.md)<details><summary>查看摘要</summary>
 
@@ -1185,18 +882,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [華人性權研究_總第七期](華人性權研究_總第七期_page.md)<details><summary>查看摘要</summary>
 
 《華人性權研究》第七期（2015年3月出版）全面涵盖了华人社会的性权问题，涉及多项重要议题与事件，包括年度性权报告、台湾十大性权事件分析、性权文学回应，以及性权对话与争论。该期刊由多位知名学者和活动家贡献，包括吳敏倫、阮芳賦、何春蕤等。内容中详细回顾了2014年华人社会在性与性别方面的重大事件，探讨了性别平权与跨性别权益的发展，以及社会对性别多元和性工作者的态度。期刊还记录了在推动性教育和反性侵意识形态中的矛盾，强调了全面性教育的重要性，反对单纯预防性侵犯的教育模式。此外，期刊中包含了对关键人士的悼念与成就的回顾，如对跨性别者张隆基先生的悼念，展现了个人故事与社会运动的交融。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1209,18 +900,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [超长与微短_互联网时代的文学形态_王小英](超长与微短_互联网时代的文学形态_王小英_page.md)<details><summary>查看摘要</summary>
 
 本文探讨了互联网时代文学形态的变化，尤其是超长网络小说与微文学的并存现象。文章首先总结了超长和微短文学的背景，提出这两种文学形式都是在注意力经济背景下产生的，存在着与现代生活节奏和时间碎片化相适应的特点。超长网络小说依赖于无限的网络存储空间与商业驱动，其发展导致了阅读习惯的变化。而微文学则是为了适应手机等便携设备限制下的短时间阅读需求，强调短小精悍、快速传播的特点，反映出人们在信息过载时代的阅读焦虑。文中通过对中国网络文学的分析，指出其在内容与形式上的创新、对传统文学定义的挑战，以及新媒介时代人们的文化消费方式。最后，作者呼吁关注新文学形态的背后所带来的更广泛的社会文化影响。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1231,18 +916,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [洪凌_反常肉身奇觀_跨性酷異戰役_科奇幻文學.pdf](洪凌_反常肉身奇觀_跨性酷異戰役_科奇幻文學.pdf_page.md)<details><summary>查看摘要</summary>
 
 本论文《反常肉身奇观，跨性酷异战役：再阅读科奇幻文学的酷儿阳刚与负面力量》由洪凌撰写，刊登于《文化研究》杂志2015年第21期。文章探讨了当代科幻与奇幻文学中酷儿阳刚的再现，特别关注那些被视为边缘或负面的跨性别表现。洪凌运用‘罔两’理论，分析了这些非典型酷儿形象如何在当前的性别政治背景中反映并挑战主流的性别规范。论文从多个文本入手，展示了霍尔等作家如何在奇幻世界中构建复杂的酷儿身份，并探讨了这些身份在历史遗迹与文化表现中是如何被边缘化与污名化的。通过对角色生存现状的深入剖析，洪凌指出，这些跨性别表现不仅是对传统性别规范的挑战，更是对此类身份及其历史的重新评价与政治发声。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1253,18 +932,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [许建平_明清小说叙事的意味形式_社会科学2015年第1期](许建平_明清小说叙事的意味形式_社会科学2015年第1期_page.md)<details><summary>查看摘要</summary>
 
 本文件是许建平在《社会科学》2015年第1期上发表的论文，题为《明清小说叙事的意味形式》。论文探讨了英国美学家克莱夫·贝尔提出的“有意味的形式”观点，并将其应用于明清时期小说的叙事分析。作者首先分析了“意味形式”的三层内涵，指出形式源于意义，形式能够引发情感，并且好的艺术作品能够引起深刻的心灵共鸣。接着，文中细致探讨了明清小说中叙述的结构与效果，提出了诱人、动人与移人与三种层次的叙事效果，并归纳出对抗、人格、幻想、巧合、怪奇、神秘及诗思等七种叙事生成类型。论文通过具体的小说实例，深入分析了这些叙事形式如何影响读者的情感体验与审美感受，强调了明清小说的叙事策略与艺术特征。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1275,18 +948,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2015年同性双性恋及跨性别中学生校园骚扰与歧视经历研究](2015年同性双性恋及跨性别中学生校园骚扰与歧视经历研究_page.md)<details><summary>查看摘要</summary>
 
 本研究于2015年针对香港校园中同性、双性恋及跨性别中学生的骚扰与歧视经历进行了调查，调查结果显示，超过84.3%的受访职前教师未曾接受过关于跨性别或性倾向的性教育课程，近一半（49%）的受访者承认对性小众有中等程度的偏见。研究通过问卷和深度访谈的方式，调查了332位职前教师，以及42位同性/双性恋/跨性别青少年，13位同性/双性恋及跨性别学生的家长，和7位相关经验的社区工作者，收集了他们在校内遭遇的骚扰与歧视的具体情况。这些骚扰与歧视可以分为个人层面和政策层面两种，前者包括言语、肢体、关系及网络欺凌等，而后者则体现在校园的氛围、设施、校规以及狭窄的性教育课程等方面。研究也强调了这些经历对中学生的精神健康和学习机会的负面影响，提出应制订性倾向和性别认同的反歧视法例，以改善校园环境，保障性别小众学生的平等学习权利。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1297,18 +964,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Transgender_Inmates_in_Prisons](Transgender_Inmates_in_Prisons_page.md)<details><summary>查看摘要</summary>
 
 该文件为一篇学术研究文章，探讨了跨性别囚犯在监狱系统中的处境和相关法律政策。文章通过对美国各州监狱管理局与跨性别囚犯相关政策的分析，强调了这些囚犯在分类、医疗和健康问题上的困境。研究显示，虽然越来越多的州开始为跨性别囚犯提供法律或政策指导，但仍有许多州滞后，缺乏足够的医疗指导和支持。文章提到的案例包括俄勒冈州的跨性别囚犯因未能获得必要的激素治疗而提起诉讼，显示了跨性别者在监禁环境中面临的特殊挑战。整体而言，文章呼吁改进监狱对跨性别囚犯的管理和照护，以提升其人权和医疗待遇。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1319,18 +980,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Reading_Transgender_Narratives_in_Late_Imperial_China_by](Reading_Transgender_Narratives_in_Late_Imperial_China_by_page.md)<details><summary>查看摘要</summary>
 
 该文件为一篇名为《(Trans)Culturally Transgendered: Reading Transgender Narratives in (Late) Imperial China》的学位论文，作者为谢文娟。论文探讨了清末民初的跨性别叙事及其文化历史意义，旨在填补现有中国跨性别研究中有关早期跨性别现象的空白。作者在文中提出了“帝国中国的跨性别”这一分析术语，描述了性别身份、性别表现被视为模糊或可变的个人群体。这篇论文系统地重新审视了在前现代中国的文学文本中存活的跨性别个体及其在形成前现代中国跨性别历史中的重要性。论文特别聚焦于三种主要类型的跨性别存在：二形(erxing)、女化男(nü hua nan)和男化女(nan hua nü)，并分别从文本的角度剖析了它们的多种叙事及表现方式，揭示了这些个体在道德行为中的客体化过程。通过分析清末和民国时期的跨性别现象，作者还探讨了跨性别叙事中性别的变化性、建构性和历史性。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2014
@@ -1344,18 +999,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [郭建树_2014_论许通元数梦同志的心理语言及身份认同](郭建树_2014_论许通元数梦同志的心理语言及身份认同_page.md)<details><summary>查看摘要</summary>
 
 本论文由郭建树撰写，探讨了许通元的同志小说《数梦》中关于心理语言及身份认同的主题。论文详细分析了《数梦》中的心理语言特点，比如魔幻写实式心理语言和梦的解析式心理语言，阐述同志在社会环境中的生存现状以及身份认同的困境。根据文本分析，作者认为许通元通过对老鼠在梦境中的反复描绘，隐喻了同志群体所面临的隐秘和排斥，同时也表达了对自我认同的渴望和对社会接受的追求。论文本身使用多种学术视角，例如结合心理学和社会学的理论框架，深入探讨了同志小说如何在文化作品中反映个体的心理状态和社会关系。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1366,18 +1015,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [上海拉拉：中國都市女同志社群與政治](上海拉拉：中國都市女同志社群與政治_page.md)<details><summary>查看摘要</summary>
 
 该文件为《上海拉拉：中国都市女同志社群与政治》的学术研究报告，旨在探讨中国大陆，特别是上海的拉拉（女同性恋者）社群的形成与发展。作者金曄路在2005年第一次以研究者的身份回到上海，通过田野调查，分析上海女同志群体如何在异性恋社会文化中寻找身份认同与生活的空间。研究中详尽记录了参与者的生命故事，探讨了异性婚姻压力对拉拉的影响以及她们在日常生活中所采取的应对策略。该文本对当前中国同志（LGBTQ）政治与社会变迁下的拉拉群体巨大的价值及其挑战进行了深入的反思与分析。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2013
@@ -1391,9 +1034,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_女同运动的分歧与联合](PDF_女同运动的分歧与联合_page.md)<details><summary>查看摘要</summary>
 
@@ -1402,18 +1042,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_女性主义心理学的逻辑演进及其对心理治疗的意义_-_CORE](PDF_女性主义心理学的逻辑演进及其对心理治疗的意义_-_CORE_page.md)<details><summary>查看摘要</summary>
 
 本文件名为《女性主义心理学的逻辑演进及其对心理治疗的意义》，由厦门大学马克思主义学院的宋建丽教授撰写，发布于2013年1月的《妇女研究论丛》。该文探讨了女性主义心理学的发展历程，特别是其对心理治疗的影响。文中指出，女性主义心理学经历了从实证主义到现象学，再到后现代主义的转变，强调将女性作为心理学知识的主体，并关注女性群体内部的多样性。这种转变使得女性主义心理治疗强调社会文化情境及其对女性心理健康的影响，从而挑战了传统心理学的男性中心主义偏见。作者强调，女性主义心理学的研究不仅仅关心女性的个体经历，更关注两性平等及社会变革，并提倡通过社会角色分析等技术来帮助女性认识和应对性别角色对心理健康的影响。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1426,18 +1060,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [纪大伟_感官世界情欲书写与酷儿化_李心洁_2013](纪大伟_感官世界情欲书写与酷儿化_李心洁_2013_page.md)<details><summary>查看摘要</summary>
 
 这篇论文由李心洁撰写，旨在探讨纪大伟的作品《感官世界》中情欲书写与酷儿化的主题。文章首先回顾了90年代台湾社会的多元化发展背景，指出在开放的文学环境中，边缘题材如同志文学开始受到关注和书写。纪大伟的作品将传统的性别和情欲观念颠覆，挑战了异性恋霸权和社会规范，体现了酷儿文学的反叛精神。论文详细分析了纪大伟的文风，以及如何通过对禁忌情欲的书写，揭示社会对酷儿群体的压迫与偏见。李心洁通过对纪大伟作品的文本分析，展示了情欲与性别身份的流动性，以及这种流动性在文学创作中的重要性。文中涉及的主题包括：如何用情欲书写抵抗异性恋霸权、酷儿文学的颠覆性、以及性与欲望之间深刻的社会和文化意义。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1448,18 +1076,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [transgender_performance_in_contemporary_Chinese_films](transgender_performance_in_contemporary_Chinese_films_page.md)<details><summary>查看摘要</summary>
 
 本文探讨了当代中国电影中的跨性别表演及其所反映的性别政治。主要分析了两种性别变迁或伪装的不同类型：一是男性演员模仿女性角色，文中以《霸王别姬》（1993）和《梅兰芳》（2009）为例，探讨了基于京剧中的‘旦’的历史实践；二是女性为了挑战传统禁止她们进入公共领域的性别角色而男扮女装，代表性作品为2009年的真人电影《花木兰》，讲述了这位女性战士假装成男性以代替父亲参军的故事。作者通过对这三部电影的深度分析，结合西方性别理论（如Garber、Butler和Halberstam的研究），讨论了当代中国文化与政治中的性别和性取向的话语及政治，指出性别的表演并不一定是颠覆性的，而是表明异性恋规范的任意性和不自然性，揭示了当前性别等级制度的维持与强化。同时，文章挑战了西方性别理论的普遍性，提供了跨文化背景下的反思。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2012
@@ -1473,18 +1095,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [郁达夫文学性爱叙事研究_福建论坛2012](郁达夫文学性爱叙事研究_福建论坛2012_page.md)<details><summary>查看摘要</summary>
 
 该文献名为《郁达夫小说性爱叙事的文化背景》，收录于2012年第11期《福建论坛·人文社会科学版》。文章探讨了郁达夫的小说中性爱叙事的文化背景及其文学史上的重要性。作者指出郁达夫的创作受到了多位西方文学家的影响，包括卢梭、王尔德和尼采等，并特别提到日本私小说对他的情感描写的影响。文中分析了郁达夫作品中存在的性压抑、非性化倾向，以及他在情爱书写中的矛盾表现。作者认为，尽管郁达夫的作品描绘了特定社会背景下的性压抑和个人苦闷，但其文中爱国主义情怀和对西方价值观的接受表现出一种复杂的文化碰撞。文末总结认为，郁达夫在推动个性解放和描绘男性情欲的同时，却也在一定程度上重申了男权意识。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1495,9 +1111,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Supporting_Transgender_Children_New_Legal_Social_and_Medical_Approaches](Supporting_Transgender_Children_New_Legal_Social_and_Medical_Approaches_page.md)<details><summary>查看摘要</summary>
 
@@ -1506,18 +1119,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Transgender_Marriage_and_the_Legal_Obligation_to_Disclose_Gender_History](Transgender_Marriage_and_the_Legal_Obligation_to_Disclose_Gender_History_page.md)<details><summary>查看摘要</summary>
 
 这篇论文由亚历克斯·夏普（Alex Sharpe）撰写，出版于《现代法律评论》（The Modern Law Review）上，主要探讨了英国跨性别者在结婚或进入民事伴侣关系时所面临的法律义务。根据2004年性别承认法（Gender Recognition Act 2004），合法认可的跨性别人士有权要求其“获得”的性别地位在法律上得到承认，但同时根据1973年婚姻原因法修正案的规定，跨性别者在婚礼前必须披露其“性别历史”。未能遵循这一规定，可能导致婚姻被宣告无效。论文认为这一规定存在歧视，侵犯隐私权，违反欧洲人权公约第14条与第8条的规定。此外，文章挑战了隐性的看法，即不披露性别历史是不道德的或欺骗性的。作者还反对那种认为与跨性别者发生性关系的潜在风险可以正当化歧视的观点，并进一步探讨了知情同意的权利如何被公正和法律一致性等理念所超越。整体而言，本文深入分析了跨性别者在结婚时面临的法律障碍及其影响。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2011
@@ -1531,18 +1138,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [酷儿视角下的城市性和空间政治](酷儿视角下的城市性和空间政治_page.md)<details><summary>查看摘要</summary>
 
 本文探讨了城市与同性恋之间的关系，从‘酷儿’的视角对城市性和空间政治进行了深入分析。作者魏伟回顾了历史上同性恋作为一个社会群体在城市中的出现和发展，强调了现代性对同性恋身份认同的形成所起的关键作用。通过对城市空间的组织与控制与同性恋欲望和权利表达之间的张力进行探讨，本文着重分析了当代中国城市中同性恋社群争取公共空间的努力，以及这些努力如何挑战‘异性恋正统性’。此外，文章结合2009年在北京、上海和广州发生的三个重要事件，通过媒体报道和案例分析，论述了同性恋社群在中国城市中逐渐增强的社会可见度和对公共空间的要求。这项研究不仅反映了中国城市社会环境的变化，也对同性恋研究在城市地理学中的价值提出了新的视角。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1553,18 +1154,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [中国性研究_性别起点论](中国性研究_性别起点论_page.md)<details><summary>查看摘要</summary>
 
 本文件为一篇学术文献，标题为《性别起点论:非传统本质论的性别观》，探讨了性别的构成与变性主义的关系，重点分析了女性主义与变性主义之间的冲突与对立。文中指出，变性主义者常以本质论来说明自身的性别认同，而女性主义则主张性别是社会建构的。本文通过采用“性别起点论”这一框架，认为性别潜能是历史与社会环境的产物，并提出每个人的性别本质并非固定，而是在个体生活经历中逐渐形成。文章还涉及了性别认同的多样性，以及如何在社会条件下实现个人的性别潜能，探讨了性别身份的流动性和变化性，重点强调人类的差异性。此外，文中提及了变性者在争取权利与社会认同过程中的挑战与机遇，指出社会运动对个人性别认同的影响。本文件适合人文学科、性别研究等领域的研究人员与学生深入阅读。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1575,18 +1170,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2011年_郭思慧_男扮女装的操弄策略](2011年_郭思慧_男扮女装的操弄策略_page.md)<details><summary>查看摘要</summary>
 
 本文件是公关报告和研究论文的汇聚，探讨了新加坡文化现象中的男扮女装现象，通过对角色“Auntie Lucy”的分析，提供了对新加坡社会及文化的批判视角。研究的核心在于“Auntie Lucy”这一角色如何被构建并展现了新加坡人对性别和社会接受度的思考。文件首先介绍了“Auntie Lucy”这一角色的背景及其在新加坡华文电视频道《女王本色》中所承担的社会评论功能，体现了对中年女性形象的刻板印象，以及通过幽默手法对社会陋习的讽刺。同时，从文化产业的角度分析了该角色的流行亮点和社会意义，探讨了男扮女装如何转化为对性别角色固有观念的挑战与讨论。主要提及了对新加坡社会的诸多文化反思，包括性别刻板印象、社会接受度和公众对草根阶层女性角色的解读。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1597,18 +1186,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [彭晓辉_追寻理想性教育环境探讨](彭晓辉_追寻理想性教育环境探讨_page.md)<details><summary>查看摘要</summary>
 
 本文件是由彭晓辉撰写的研究论文，探讨了理想的性教育环境在中国大陆的建立。文件中提到，早在2000年，阮芳赋先生在一场全国性学术会议上，讨论了性学专业的可行性，并呼吁成立性学院系。他认为，中国大陆的性教育环境应具备七个基本条件，包括独立的性学专业设置、相关行政法规的执行力、性学研究和师资人才的培养、免费公共服务机构的建立、性学学术团体的创建等，这些都意在提升性教育的质量与覆盖面。此外，文件也提及了社会各界力量对性教育普及的必要性，以及让性健康教育走入日常生活的重要性。总的来看，这篇论文对中国大陆的性教育环境和未来发展提出了深入的见解和建议。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1619,18 +1202,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2011性别意识与社会变革论文_符文玲](2011性别意识与社会变革论文_符文玲_page.md)<details><summary>查看摘要</summary>
 
 本文件为符文玲所撰写的论文，题为《消失的性别界限》，探讨了性别意识与社会变革之间的关系。论文回顾了西方性别教育的发展、台湾性别平等政策的进展，以及性别作为一个概念在社会中的演变。作者强调“性别”一词不再仅限于男性和女性，而是扩展到各类性倾向者，包括跨性别者和同性恋者等。文件中提到，由于社会对性别的理解不断发生变化，传统的性别界限正在模糊，并且对父权观念的挑战催生了一场思想革命。论文里引用了西蒙·波娃和朱迪思·巴特勒的理论，强调了文化、社会与性别间的复杂关系，并论述了认同与身份的建立对于个体的重要性。最后，符文玲指出，认识“两性”与“性别”的区别是我们迈向性别平等和理解多元家庭的第一步。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2010
@@ -1644,18 +1221,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [刘丽凤_后现代女权主义与酷儿理论_2010](刘丽凤_后现代女权主义与酷儿理论_2010_page.md)<details><summary>查看摘要</summary>
 
 该文件是刘丽凤在2010年撰写的学术论文，标题为《后现代女权主义与酷儿理论》，发表于《长春工业大学学报（社会科学版）》。文章探讨了后现代主义思潮影响下的性别与性问题，介绍了后现代女权主义与酷儿理论这两种重要理论的起源、发展及其内涵。对于后现代女权主义，文本指出其对传统性别理论的否定及对多样性和差异性的强调，主张在争取妇女解放的同时关注男性与女性之间的相互依存。酷儿理论则挑战了传统的两分性别结构和异性恋规范，强调性别身份的流动性与表演性。文章对这两种理论的理论贡献与现实意义进行了深入分析，认为它们在解构性别与性霸权、推动社会变革方面具有理论与实践上的双重重要性。此外，文件还讨论了这两者在现代社会中如何协同工作以加深对性别压迫的理解并提供新的行动策略。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1666,9 +1237,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [多元性别与后殖民叙事_高利马与宋的身份反转_周妍君_2010](多元性别与后殖民叙事_高利马与宋的身份反转_周妍君_2010_page.md)<details><summary>查看摘要</summary>
 
@@ -1677,9 +1245,6 @@ search:
 论文还回顾了相关的后殖民理论，包括巴赫汀的“众声喧哗”理论和巴特勒的性别表演理论，探讨了语言在性别与后殖民身份构建中的关键作用。这一研究不仅为后殖民戏剧提供了新的视角，也激发读者对性别复杂性的深入思考。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2009
@@ -1693,18 +1258,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [科技社會與跨性別研究報告_林文靈_2009](科技社會與跨性別研究報告_林文靈_2009_page.md)<details><summary>查看摘要</summary>
 
 该文件是一个关于跨性别研究的成果报告，由林文灵主办，涉及科技、社会与跨性别的多个方面。研究背景强调了跨性别在社会上逐渐获得可见度，此现象尤其在媒体宣传与学术讨论中越来越普遍。该报告深入探讨了跨性别者的身份认同、社会适应和医療相关的议题，包括跨性别者面临的社会排斥与歧视。文件提供了相关的政策讨论以及跨性别者在医疗、法律和文化方面的需求与挑战。通过对台湾跨性别者的研究，该文献展现了他们的个体经历与身体改造过程，讨论了如何在既定的社会制度与文化框架中寻求身份认同与社会集成。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1715,9 +1274,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Supportive_Families,_Healthy_Children__-_FAP_English_Booklet_pst](Supportive_Families,_Healthy_Children__-_FAP_English_Booklet_pst_page.md)<details><summary>查看摘要</summary>
 
@@ -1726,18 +1282,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Transgender_Legal_Advocacy_-_What_Do_Feminist_Legal_Theories_Have_to_Offer?](Transgender_Legal_Advocacy_-_What_Do_Feminist_Legal_Theories_Have_to_Offer?_page.md)<details><summary>查看摘要</summary>
 
 该文档探讨了跨性别法律倡导的主题，尤其是女性主义法律理论对跨性别者的影响与贡献。作者Demoya R. Gordon在《加利福尼亚法律评论》（California Law Review）上发表了这篇文章，深入分析了跨性别者在就业、信用、公共服务及法律执行等公共领域，以及婚姻、养育、医疗和继承等私人领域中所面临的严重偏见与歧视。文中讨论了女性主义法律理论在帮助女性满足法律需求方面的成就，并质疑其是否同样能够为寻求法律救济的性别与性别不符者提供支持。作者的重点在于针对《1964年民权法》第七条所涉及的跨性别者工作场所歧视，说明就业歧视是跨性别者所面临的重大挑战，影响到生活的其他多个方面，包括住房和医疗的获取。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2007
@@ -1751,9 +1301,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2005
 
 
@@ -1763,9 +1310,6 @@ search:
 本文件为游静于2005年发表的论文，探讨了酷儿政治与同志研究的发展历程及其在社会中的影响力。文中指出，自1990年左右‘酷儿’这一概念进入公众视野以来，它就成为挑战性别和性取向二元范畴的重要力量。游静分析了从‘石墙暴动’开始的伯克利同性恋运动的历史转变，并探讨了酷儿研究在90年代初北美的兴起及其与同性恋运动之间的紧张关系。她提到，随着同性恋身份的主流化，酷儿的概念逐渐被边缘化，并且在华文社会中，香港和台湾对酷儿研究的引入是与社会环境息息相关的。她还讨论了香港在性别议题上的特殊背景及其对酷儿政治的制约，强调了对性小众的社会舆论压力和文化消极影响。这一文献为理解多元性别的社会政治背景、历史脉络及其面临的挑战提供了丰富的资料和深刻的分析。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2004
@@ -1779,18 +1323,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [霓虹流光下的性別逾越_周美玲導演](霓虹流光下的性別逾越_周美玲導演_page.md)<details><summary>查看摘要</summary>
 
 该文件为《霓虹流光下的性别逾越》一文，作者纪孟均，发表在议艺份子第十期中。文章探讨了影片《艳光四射歌舞团》中跨性别扮装美学与性别政治的表现。故事的主角阿威在白天是为亡魂超度的道士，夜晚则化名为薔薇，成为扮装皇后。影片的情节围绕薔薇在其爱人阿阳遇难后的悲痛与超度仪式展开，展现了跨性别者在传统文化和性别规范中的挣扎与确认。随着同志与酷儿叙述在台湾逐渐得到关注，影片成为性别研究的重要案例。文章从同性情欲、camp感性、雌雄同体、性别操演等多角度深入分析了影片中蕴含的性别政治与美学意涵，特别着重对传统性别观念的质疑与超越。影片在2003年完成并于2004年展出，这一时期台湾的跨性别运动开始受到重视，成为探索和讨论边缘族群处境的重要文化产物。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1801,18 +1339,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [探討台灣兒童與青少年的性別觀念-陳瓊花-2004](探討台灣兒童與青少年的性別觀念-陳瓊花-2004_page.md)<details><summary>查看摘要</summary>
 
 本文是陳瓊花教授於2004年發表的研究，名為《探討台灣兒童與青少年的性別觀念》。該研究深入分析了當時台灣的兒童和青少年如何以圖畫和言語表達其對性別特徵和行為的理解，涵蓋了性別刻板印象的形成背景，以及性別教育的必要性。研究結果顯示，學生通過圖像主要使用「衣服」、「髮型」、「動作或活動」和「配件」來區分男性與女性的差異，尤其是在表現女性時，大多數男孩和女孩都傾向於固定的刻板概念，如「女孩穿著裙子」。此外，文中也提到隨著年級的增長，性別刻板印象逐漸減少，然而大多數學生仍然維持著傳統社會對性別的期待。在語言用法方面，學生對於性別的描述也呈現出顯著的差異，對於女孩的正面陳述高於男孩。這些觀察為推動性別平權教育提供了重要的實證依據。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2003
@@ -1826,9 +1358,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [跨性别_【性／別研究】丛書](跨性别_【性／別研究】丛書_page.md)<details><summary>查看摘要</summary>
 
@@ -1837,9 +1366,6 @@ search:
 书中包含多个章节，探讨了跨性别的主体性、认同问题、及跨性别者在社会中面临的挑战和努力。整本书呈现了跨性别者在面对性别二分体系时的困惑与斗争，强调了跨性别运动的历史脉络及未来的可能性，文中提到 "當認同意識已然成為牢籠" 表达了对受限认同的反思。同时，书中收录了多位专家学者的研究成果与见解，涉及酷儿理论、性别政治、性工作及台湾相关的跨性别事件等多个议题，提供了丰富的学术讨论和案例分析。此外，书中还附有相关历史文宣和事件记录，以记录台湾跨性别运动的演变历程。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2002
@@ -1853,18 +1379,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [“灵魂”对“肉体”的背叛——变性人现象综述_祁冬涛](“灵魂”对“肉体”的背叛——变性人现象综述_祁冬涛_page.md)<details><summary>查看摘要</summary>
 
 本文件《灵魂对肉体的背叛——变性人现象综述》由祁冬涛撰写，探讨了变性人现象的历史与文化背景。文章通过引用古代文献和现代研究，讨论了变性人如何在历史上频繁出现并表现出不同的性别认同。作者阐述了变性人在求医过程中所经历的痛苦，以及变性手术对他们生活的潜在影响，同时指出，变性人在接受变性手术之前常常面临灵魂与肉体的分裂。文中提到，变性人虽然数量微少，却在许多文化和社会中都有存在。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2001
@@ -1878,9 +1398,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2000
 
 
@@ -1890,9 +1407,6 @@ search:
 该文件题为《从酷儿空间到教育空间》，是台湾性别解放运动中重要的学术文献之一。本文讨论了自1994年以来，台湾的性别解放运动如何在多个方面表现出显著的开拓性，尤其是在学术研究界对性与别的理解不断深化的过程中。文件中指出，性与别的研究不仅应该被视为个人或生理的问题，更是涉及法律、教育、家庭、科学与媒体等各个制度的政治与社会问题。作者探讨了性别与身份的构建，及其如何在不同的社会、文化和历史背景中展现出独特的权力关系。此外，文件也回顾了1997年第二届四性研讨会的论文，致力于展现本土的性别和性研究如何通过批判和反省的方法逐渐走向跨学科融合。通过对相关文献进行讨论，作者表达了对未来性别研究的期待与信心，并强调必须重新思考身体与性、以及其他社会范畴如阶级、族群等的关系。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 1997
@@ -1906,18 +1420,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [酷儿理论与政治_卡维波_1997](酷儿理论与政治_卡维波_1997_page.md)<details><summary>查看摘要</summary>
 
 该文档为卡维波主编的《酷兒：理论与政治》专号的一部分，深入探讨了酷儿政治的基本概念及其历史脉络。文中首先对“酷儿”进行了定义，指出它不仅涵盖同性恋、双性恋及变性人，还包括所有不符合主流性别和性欲规范的表现。文中论及1990年代的酷儿运动如何超越了传统的同性恋身份，挑战异性恋中心主义，并分析了在台湾的语境下，酷儿如何与本地文化和社会运动相结合。作者探讨了多元情欲的概念，强调在追求性别和情欲解放的过程中，酷儿作为反抗力量的重要性，特别是在面对性压迫和社会歧视的复杂网络时。文中还提到，酷儿的兴起并非仅源自西方，而是与台湾历史、社会背景密切相关，指出台湾社会中的酷儿思维和实践的独特性和发展潜力。此外，卡维波在文中也对当前的性别政治进行了批判，认为现行的性识别框架需要被重构，以展现更为广泛和多样的情欲形式。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 1993
@@ -1931,9 +1439,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 时间未知，按收录顺序排列
 
 
@@ -1945,18 +1450,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [人工智能与性别伦理一个新时代](人工智能与性别伦理一个新时代_page.md)<details><summary>查看摘要</summary>
 
 本文探讨了人工智能时代对传统性别伦理的影响，特别是围绕男性和女性二元对立的性别关系的挑战。作者马中红指出，随着数字青年文化的崛起和人工智能的快速发展，传统的性别伦理面临前所未有的冲击。文中讨论了各种人工智能产品如何强化或重塑性别角色，尤其是在语音助手和情感伴侣等技术中，女性形象常常被设计为听从和温和的角色，从而加深了性别刻板印象。文章还探讨了女性主义理论如何要求重新审视性别的构建，强调性别的流动性与多元性，挑战长期以来的二元对立观点。通过不同的文化现象，如耽美文化和青年数字文化，作者展现了新一代人是如何重新定义性别观念和关系的。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1967,18 +1466,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [酷儿理论等于同性恋研究吗](酷儿理论等于同性恋研究吗_page.md)<details><summary>查看摘要</summary>
 
 本文件题为《酷儿理论等于同性恋研究吗?》，由都岚岚教授所撰写，旨在探讨酷儿理论与传统同性恋研究之间的关系。文件中详细分析了酷儿理论的渊源、内涵及其与同性恋研究的差异。酷儿理论是在20世纪90年代兴起的后结构主义批判理论，尽管它与同性恋研究有一定的关联，但两者并不能完全等同。作者指出，在国内学界存在将两者混淆的现象，本文试图通过评述两者的理论基础和应用来厘清这种误解。文件中引用了许多相关理论家的观点，如朱迪斯·巴特勒和伊芙·塞吉维克，讨论了他们在性别、身份及社会规范上的影响。此外，文件还探讨了后结构主义对酷儿理论的影响，强调酷儿理论在多样性与人类社会中所起的重要作用。总的来说，该文对于理解酷儿理论以及其在当代性别和社会研究中的地位具有重要意义。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1989,18 +1482,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [论社会性别理论视域下的女性研究及其争论](论社会性别理论视域下的女性研究及其争论_page.md)<details><summary>查看摘要</summary>
 
 该文件是关于社会性别理论在女性研究中的应用和争论的学术论文，由张成华撰写。文中详细探讨了社会性别理论的起源及其对女性身份、角色和社会地位认同的影响。文章开头提到社会性别理论在20世纪70年代的兴起，主要受美国心理学家罗伯特·斯托勒的研究影响。根据社会性别理论，女性研究者关注的是社会影响如何塑造男女身份认同以及相应的气质差异，从而形成两性之间的等级结构。研究展示了女性在研究中获得的多项成果，并对权力关系进行了深入探讨，包括如何忽视具体上下文而导致的理论狭隘和僵化。此外，文章还批评了现有的女性研究未能充分考虑生理和社会因素的交互作用。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2011,18 +1498,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [何谓跨文化_自我与他者的吊诡共生](何谓跨文化_自我与他者的吊诡共生_page.md)<details><summary>查看摘要</summary>
 
 本文件为彭小妍撰写的跨文化研究专题论文，主要探讨了跨文化研究的定义、重要性及其在全球化时代中如何呈现自我与他者的复杂关系。文中指出，跨文化研究是继比较研究、文化研究、后殖民研究与翻译研究之后，最具发展潜力的研究范式，强调文化的转化与新生。作者挑战了二元化的思考模式，试图提出‘跨文化的吊诡’概念，探讨身份认同与文化交融的多重性，尤其是在全球化背景下，个体的身份认同会在面对多元文化时展现出复杂性，体现出强势文化与弱势文化之间的变迁与互动。文章在分析跨文化资料与历史背景的基础上，深入讨论了中国与世界其他文化的联系，并在研究方法论上表达了跨文化研究的未来发展方向。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2033,18 +1514,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [酷儿电影中的跨性别身份认同](酷儿电影中的跨性别身份认同_page.md)<details><summary>查看摘要</summary>
 
 本文以电影《男孩别哭》为主线，深入探讨了酷儿电影中跨性别身份认同的重要性和文化建构意义。跨性别身份认同作为酷儿电影的核心主题，往往与身体塑造和社会实践密切相关。通过分析电影中布兰登这一跨性别角色的情感表达、身体重塑以及与社会互动的复杂关系，文章揭示了跨性别者是如何在社会性别刻板印象下努力追求身份认同的。影片的上映在1999年引发了广泛的社会讨论，使跨性别身份的问题逐渐进入公共视野。此外，影片中展现的跨性别者在寻求自我认同过程中的困惑与挣扎，也反映了社会对跨性别群体的偏见与压迫。通过理论与实践的结合，本文希望促进对跨性别身份认同问题的进一步理解和研究。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2055,18 +1530,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [促进变革音乐行业中的性别平等](促进变革音乐行业中的性别平等_page.md)<details><summary>查看摘要</summary>
 
 该文件深入探讨了音乐行业中的性别平等问题，研究了行业内存在的性别歧视、工资差距和性骚扰现象。研究发现，接近60%的行业专业人士认为性别歧视是音乐行业中一个主要问题，尤其是女性和非二元性别个体在薪酬和职业发展上的不平等待遇。具体而言，男性的收入普遍高于女性，尤其是跨性别者和非二元性别人士面临更大挑战。此外，行业内的性骚扰和性虐待发生率令人担忧，女性和跨性别者的受害者比例显著高于男性。文件中还建议采取一系列行动呼吁，以促进音乐行业的变革，包括为性别多元化提供支持，确保薪酬透明和反性骚扰培训，并在领导层中实现性别多元化。最后，文件呼吁所有相关人士行动起来，共同改善行业环境，为多元性别个体创造一个安全、包容的工作空间。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2077,18 +1546,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [住錯性別身體的靈魂-跨性別與人權保護](住錯性別身體的靈魂-跨性別與人權保護_page.md)<details><summary>查看摘要</summary>
 
 本文件是由中原大学财经法律系副教授林春元撰写的论文，探讨了跨性别者的生存状况与人权保护。文章通过引用电影《丹麦女孩》中的主角Einar的故事，引入跨性别者在追寻性别自我认同过程中的挑战。尽管台灣在女权与同志运动的推动下在性别意识与保护方面有了进步，但文章指出跨性别者的处境依然被社会忽略。文中详细阐述了社会对跨性别者的偏见，指出性别判定主要是基于生殖器官，导致跨性别者的痛苦。历史上，心理学界曾将跨性别视为精神疾病，但随着观念的变化，现今的医学界已将其重新定义，更加贴合跨性别者的真实状态。然而，社会的歧视与排斥依旧存在，加剧了跨性别者的困境。文中还讨论到在台湾，法律上对于跨性别者的性别变更有着严格的条件，这使得不少跨性别者即使经历了身体的改变，也难以得到合法的性别认同。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2099,18 +1562,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [虛實之間Cosplay_中的反串行為與性別認同](虛實之間Cosplay_中的反串行為與性別認同_page.md)<details><summary>查看摘要</summary>
 
 该文件《虛實之間Cosplay_中的反串行為與性別認同》探讨了在Cosplay文化中表现出来的反串行为与性别认同之间的关系。虽然PDF文档未能提取文本内容，但可以合理推测内容涉及：Cosplay这一亚文化如何通过角色扮演的方式反映不同的性别认同和性别表达。同时，文件可能探讨了参与者在 cosplay 中的个人经历，包括他们如何在这一过程中探索自身的性别身份。文中可能包含对个体故事、研究案例或相关理论的讨论，以及在这一文化现象中与跨性别相关的社会与心理维度。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2121,18 +1578,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_流行歌曲_性别符号学研究的一个特殊领域](PDF_流行歌曲_性别符号学研究的一个特殊领域_page.md)<details><summary>查看摘要</summary>
 
 该文档是对流行歌曲中性别符号学的研究，探讨了音乐如何反映与塑造性别认同和性别表达的问题。虽然无法提取文本内容，但可以预想，该研究可能涉及不同文化背景下流行音乐的歌词分析，通过对歌手形象、歌词内容以及公众反应的分析，揭示其如何促进或挑战传统性别观念。同时，这项研究可能还会涉及历史背景、音乐风格的演变以及相关的社会科学理论。该文档的目的是为学术界和普通读者提供一个关于流行文化中性别表现的深入理解，使人们意识到音乐与性别的复杂关系。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2143,18 +1594,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_蝴蝶君对性别和种族的解构](PDF_蝴蝶君对性别和种族的解构_page.md)<details><summary>查看摘要</summary>
 
 该文件《蝴蝶君对性别和种族的解构》涉及跨性别议题与种族身份之间的相互影响。虽然从PDF中无法提取具体文本，但文献标题和主题提示其可能探讨了性别构造与种族构造的交叉性。蝴蝶君可能作为一个重要的文化符号，反映出在当代社会中如何将性别与种族双重身份进行解读与解构。此外，该文献可能结合理论分析与实例研究，揭示跨性别者在社会文化背景中的生存状态以及挑战，尤其是在多元文化环境下的独特经历和声音。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2165,18 +1610,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_與我同在____多元性別探索與認同_-_學生輔導中心](PDF_與我同在____多元性別探索與認同_-_學生輔導中心_page.md)<details><summary>查看摘要</summary>
 
 该文档标题为《與我“同”在──多元性別探索與認同》，内容主要探讨了多元性别及其自我认同的复杂性。文中首先引用金赛博士1940年代的研究，指出同志群体的比例，以及对性别认同的广阔定义，包括L（女同性恋）、G（男同性恋）、B（双性恋）、T（跨性别）、Q（酷儿）、I（双性人）和A（无性别）。文章详细介绍了心理学家Cass在1979年提出的性别认同形成模式，分为六个阶段：认同混淆、认同比较、认同容忍、认同接纳、认同骄傲、认同整合。这些阶段展示了个体在性别认同过程中的心理历程，从最初的困惑到最终的自我接纳与社会关系的重建。文章强调，自我认同的探索与社会文化的交互作用，以及大学期间在身份发展中的重要性，呼吁读者通过阅读、参与活动和咨询等方式加强对自身身份的探索。文末提供了一些延伸阅读和实用资源的链接，旨在帮助那些在性别认同旅程中的个体。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2187,18 +1626,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_專題說明_-_女學學誌](PDF_專題說明_-_女學學誌_page.md)<details><summary>查看摘要</summary>
 
 本文件为《女学学志》的一篇专题说明，重点探讨性别与台湾文学之间的关系。文章邀请来自不同学科的学者参与性别研究，尤其是台湾文艺界的性别表现。作者指出，性别研究与台湾文学的互动关系并非简单的包容，而是充满了复杂的矛盾与冲突。文中讨论了台湾文学在不同历史时期（如日本时期、白色恐怖时期等）的发展，以及性别在文学中的表达如何受到时代背景的影响。特别提到性别研究在台湾文学领域仍然处于边缘化的状态，且如何在学术研究中不断质疑这种边缘化现象。讨论还包括不同性别主体（如女性、同性恋、跨性别者）在文学和社会中的位置，以及社会结构和文化政治对这些身份的影响。文件承诺促进跨学科、跨国界的对话，并通过匿名审稿机制确保学术质量。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2209,18 +1642,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_解讀台灣綜藝節目反串模仿秀_的性別文化_-_中央大學性別研究室](PDF_解讀台灣綜藝節目反串模仿秀_的性別文化_-_中央大學性別研究室_page.md)<details><summary>查看摘要</summary>
 
 该文件是由林宇玲撰写的学术论文，标题为《解讀台灣綜藝節目“反串模仿秀”的性別文化》。论文针对1998年台湾台视的综艺节目《台湾红不让》中反串模仿秀的性别文化进行了深度分析。文中提到，自1998年10月，有关该节目反串秀的内容因其潜在的社会影响而遭到新闻局的处罚，引发了对节目性别表现的广泛讨论。林宇玲运用符号学分析的方法，探讨反串者在表演中所采用的策略，以及该节目如何在异性恋文化的背景下构建和呈现性别意识。论文也从历史及文化的视角讨论反串秀的起源及发展，并反思其对性别身份认同的影响。林宇玲深入探讨了反串表演如何挑战传统的性别规范以及该节目对观众性别认知的潜在影响。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2233,18 +1660,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_全球女权主义口述史访谈艾晓明](PDF_全球女权主义口述史访谈艾晓明_page.md)<details><summary>查看摘要</summary>
 
 该文档是关于全球女权主义和性别教育的重要访谈记录，主要围绕艾晓明在教学、社会行动及性别教育领域的经历与观点。在访谈中，艾晓明提到她推动性别教育论坛的建立，旨在通过争议性和激进的女权主义观点，引入对性问题的深度讨论，特别是女性、跨性别者和其他性别少数群体的权利和生存现状。艾晓明强调了教育的颠覆性，认为教学不仅是知识的传递，更是社会变革的工具。此外，文中也涉及到对社会事件如“黄静案”的反思，提及其对性别暴力的看法，以及如何在教育和行动中结合妇女权利的主张，推动社会进步。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2255,18 +1676,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_研究摘要_本港中學實施全面性教育研究](PDF_研究摘要_本港中學實施全面性教育研究_page.md)<details><summary>查看摘要</summary>
 
 该文件是关于香港中学实施全面性教育的研究摘要，旨在收集香港中学性教育现状的实质数据，以提出对政府、学校及非政府组织的相关建议。文件详细阐述了研究的背景与目标，强调全面和适当的性教育对青少年建立正面价值观和促进两性关系健康选择的重要性。研究通过混合研究的方法进行，调查了473间本地中学性教育的实施情况，包括课程内容、教师安排以及在教育实施中遇到的各种困难。主要结果显示，有13.8%的学校在2018/19学年完全未教授性教育，大部分学校缺乏足够的课时和适当的性教育资源。此外，许多学校的性教育课程过于侧重生理知识，缺少心理和社会方面的教育内容。研究还指出，教师缺乏专业培训，学校与外界的合作有限，以及泛滥的社会偏见等问题。最后，文件提供了一系列针对性教育实施的改善建议，强调需要更新性教育指引，同时为小众学生提供更多支援资源。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2277,18 +1692,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_被消費的跨性別表達國內Bilibili_平臺上的變裝皇后](PDF_被消費的跨性別表達國內Bilibili_平臺上的變裝皇后_page.md)<details><summary>查看摘要</summary>
 
 本文探讨了中国大陆网络平台Bilibili上变装皇后的现象，分析了其背后的文化意义及对跨性别群体的影响。文件首先指出，变装皇后自称其为酷儿身份，并依附于这种身份获得了广泛关注，尤其是受到社会上异性恋顺性别女性的喜爱。然而，文中强调变装皇后并不完全等同于跨性别者，而是大多数为性别表达为女性气质的男同性恋者。随着社会环境的变化，这些变装皇后的曝光使得跨性别群体的真实身份被更大程度地掩盖，导致对跨性别者的误解和偏见进一步加深。文中也提到，尽管变装皇后表现出强烈的性别流动性，其行为往往仍然迎合了传统性别规范，同时强化了对女性的刻板印象。本文通过分析具体的网络案例，探讨了跨性别群体在该语境下的处境以及未来的发展方向，呼吁社会对性别表达进行更多的理解与包容。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2299,18 +1708,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [男旦艺术文化心理研究_福建师范大学_徐蔚](男旦艺术文化心理研究_福建师范大学_徐蔚_page.md)<details><summary>查看摘要</summary>
 
 本论文来源于福建师范大学学报（哲学社会科学版），由徐蔚撰写，标题为《男旦艺术文化心理管窥》。文中探讨了男旦艺术作为一种独特的艺术形态如何体现远古“雌雄同体”神话原型的文化心理，分析了男旦在中国戏曲中的文化背景和发展历程。论文指出，男旦艺术的形成与发展与中国传统的民族审美心理密切相关，特别是梅兰芳等艺人在京剧男旦艺术上的突破与成就。当代男旦艺术面临困境，但仍具备存在与发展的合理性和可能性。文中提及相关的心理机制，以及对于文化的影响，以及如何在当代中国文化背景下重新审视这一艺术形式。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2321,18 +1724,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [英汉文化词汇探讨_徐东林](英汉文化词汇探讨_徐东林_page.md)<details><summary>查看摘要</summary>
 
 本文件由徐东林撰写，主要探讨了英汉词汇在社会文化中的内涵及其对跨文化交流的影响。文章指出，语言词汇承载着丰富的文化信息，反映了人类社会生活的各种侧面。作者分析了由于文化和语言差异所导致的词汇空缺现象，例如英文中的 American Dream 和汉语中的一些特有词汇。此外，文中还讨论了词义联想和文化意象差异导致在语义表达上不等的情况，比如对 lion 和 dragon 这两个词的文化象征的不同理解。文章针对英汉词汇的搭配意义和语义内涵进行了深入分析，指出了概念意义和内涵意义的不等值性。本研究提供了关于语言与文化之间关系的深刻见解，并强调了在跨文化交流中理解这些差异的重要性。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2343,18 +1740,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [青少年网络流行文化现象研究报告](青少年网络流行文化现象研究报告_page.md)<details><summary>查看摘要</summary>
 
 本文件为关于青少年网络流行文化现象的研究报告，涵盖了青少年网络文化的形成、特征、发展趋势及其与主流文化的关系。研究设定的青少年年龄跨度为12至28岁，探讨了他们在网络和新媒体环境下的文化表达及社会认同。报告分为多个章节，首先介绍了青少年文化的基本概念，强调青少年群体对网络文化的主动参与，随后分析了青少年网络流行文化的社交化、二次元化等特征，并用实际调研数据来支持观点，如92.5%的青少年使用微博分享信息。此外，报告指出，青少年利用新媒介技术创造和传播文化产品，形成独特的文化意识，且女性青少年在网络文化中的参与度逐渐增高，成为文化创造的重要力量。最后，报告提到，青少年网络流行文化的快速演变及其与商家和社会的互动，显示出未来文化发展的可能方向。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2365,18 +1756,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [安吉拉·卡特_作品分析_女性与性别视角](安吉拉·卡特_作品分析_女性与性别视角_page.md)<details><summary>查看摘要</summary>
 
 本文分析了英国当代女作家安吉拉·卡特的作品，特别是她在性别和女性问题上的深刻洞察。文章指出，卡特以其后现代主义的风格和独特的叙事技巧，探讨了两性关系的历史与社会背景，强调性别角色并非天生，而是社会赋予的标准。作者提到，卡特的作品《血室》和《马戏团之夜》等，通过角色的转变挑战了传统的性别刻板印象，将女性塑造成强大而主动的形象。同时，文本详述了卡特对文化中男权主义的批判，主张女性需要在经济和社会中获得独立，不再依赖男性。她在艺术上的创新与对传统童话的重构也展示了新型的女性形象，传达了对性别歧视的强烈控诉。卡特的经典作品，尤其是在探讨性别与权力关系方面，显示了她对女性解放的呼吁以及社会结构中的不平等。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2387,18 +1772,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [城市空间与同性恋关系研究_魏伟_富晓星](城市空间与同性恋关系研究_魏伟_富晓星_page.md)<details><summary>查看摘要</summary>
 
 本文探讨了城市空间与同性恋关系的互动以及这种关系在当代中国城市化进程中的演变。研究通过比较不同城市，尤其是成都、沈阳和上海中男同性恋公共空间的形成变化，显示了城市化对同性恋社群的具体影响。研究强调了中国本土文化在同性恋公共空间生产中的深刻影响，并对比了传统性公共空间和新兴商业性公共空间的特点。文章还提到，在全球化的背景下，城市的同性恋社群逐渐形成，并通过茶馆、酒吧等场所实现社会交往与认同。在这一过程中，文化的多元性和区域的差异性对于同性恋者的身份认同也具有重要影响。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2409,18 +1788,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2016徐蔚-明清易性乔装剧的性别书写](2016徐蔚-明清易性乔装剧的性别书写_page.md)<details><summary>查看摘要</summary>
 
 本文件是徐蔚于2016年发表的学术论文，标题为《文本与舞台: 明清易性乔装剧的性别书写》，收录在《北京工业大学学报（社会科学版）》中。论文探讨了明清时期易性乔装这一独特的文艺形式，分析其在戏曲和小说中的表现。徐蔚指出，易性乔装不仅是一种叙事技巧，更是反映了当时社会对性别角色的看法与规范。文中详细论述了性别换装的文化意涵及其对性别认同的影响，认为这一现象是独立自主的身份实践，反映了根深蒂固的文化观念与性别教育。此外，作者还讨论了易性乔装如何通过文学和表演，推动了双性同体艺术形象的生成，以及其在历史文化脉络中的重要地位。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2431,18 +1804,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [第五章_扮装的性别与文化意义_明末清初_讨论](第五章_扮装的性别与文化意义_明末清初_讨论_page.md)<details><summary>查看摘要</summary>
 
 此文献探讨了明末清初时期的扮装现象及其文化意义，涉及性别角色的流动性及其如何反映社会的文化变迁。文中详细分析了当时的社会背景，尤其是如何通过扮装表达个人的性别身份和社会地位。在该时代背景下，扮装不仅是一种个人的生活方式，也是文化抵抗和自我认同的重要手段。作者通过对历史文献和实证案例的综合研究，揭示了扮装相较于固定传统性别角色的破坏力，并提出在当时社会中，扮装能够为个体提供一种表达和归属的可能性。文献中反映了当时对性别和文化认同的复杂理解，显示出历史和文化交织中个体自由的微妙性。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2453,18 +1820,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [中国LGBTQ活动家社会分类研究](中国LGBTQ活动家社会分类研究_page.md)<details><summary>查看摘要</summary>
 
 这篇学术文献探讨了中国LGBTQ活动家的社会分类，旨在分析跨性别和多元性别群体在社会中的位置和影响。文中详细讨论了活动家的背景、所面临的挑战以及他们在推动社会变革方面的作用。通过定量和定性的研究方法，本文提供了丰富的数据支持，揭示了中国LGBTQ活动家群体的多样性和复杂性。此外，文中还引用了多个案例，以展示活动家在实践中所采取的策略和成功经验。此研究不仅为理解多元性别现状提供了重要视角，也为未来的政策制定和社会支持提供了依据。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2475,18 +1836,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [同志酷兒教育實踐報告](同志酷兒教育實踐報告_page.md)<details><summary>查看摘要</summary>
 
 该报告主要探讨了同志与酷儿教育实践的现状与挑战，着重分析了在多元性别教育中存在的多种教学方法及其效果。文中提到，教育工作者如何在课程中融入性别与性向多样性，以促进包容性环境，并通过案例研究展示具体实践情况。这些实践不仅包括正规的学校教育，还涉及社区活动及非正式学习环境。报告同时探讨了来自师生及家长的反馈，指出在实施过程中遇到的社会观念和政策障碍。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2497,18 +1852,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [巫俊锋影片中酷儿化的家庭研究_刘思娴](巫俊锋影片中酷儿化的家庭研究_刘思娴_page.md)<details><summary>查看摘要</summary>
 
 本文由刘思娴撰写，针对新加坡导演巫俊锋的影片进行研究，探讨影片中酷儿化的“家庭”概念。研究指出“家庭”作为新加坡官方话语中的一个重要主题，长期以来被限制在狭义的异性恋框架下，并且该框架对酷儿及差异化的包容性极为缺乏。文章分析了近年来新加坡酷儿群体如何采取积极的方式推动家庭概念的包容性，特别提及了‘粉红点’运动。这一运动力图重新定义和扩展家庭的概念，使其能够拥抱多样性。文章强调，影片作为媒介能够为观众提供质疑和挑战官方话语的空间，打破现实中固有的线性和异性恋逻辑。通过对巫俊锋的电影进行文本分析，刘思娴展示了如何通过叙述结构、符号和电影语言使得官方定义的“家庭”概念得以颠覆与酷儿化，从而提出对异性恋霸权的反抗。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2519,18 +1868,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [性别文化差异给跨性别文化交际带来的矛盾与困惑](性别文化差异给跨性别文化交际带来的矛盾与困惑_page.md)<details><summary>查看摘要</summary>
 
 该文件探讨了性别文化差异如何影响跨性别文化的交流，分析了在不同文化背景下，跨性别者所面临的困惑和矛盾。文章可能引用了多位学者的研究成果，典型案例以及跨性别者的个人体验，以提供更全面的视角。文件中可能包括对跨性别者在社会交际中遇到的语言障碍、文化误解以及社会期望等问题的分析，同时讨论解决这一问题的可能方法和建议。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2541,18 +1884,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [论正义和关怀伦理，以及团结纽带，兼论跨性别女性社群和纪念](论正义和关怀伦理，以及团结纽带，兼论跨性别女性社群和纪念_page.md)<details><summary>查看摘要</summary>
 
 这篇文章探讨了正义和关怀伦理的关系，并深入讨论了跨性别女性社群的现状与挑战。作者反思了自己对关怀伦理的复杂态度，认为关怀伦理在形成社群纽带上具备重要的防御性价值。文中提到，法律和道德并不能真正实现正义，因为它们往往与暴力和权威紧密相连。作者引用了康德和涂尔干的思想，指出社会的道德观念是由群体和历史条件塑造的，个体往往难以脱离这些外部影响。文章还探讨了家庭与教会等社群在建立道德纽带中的特殊性，强调这些社群在面对跨性别者时可能存在的排斥和孤立。作者希望能找到一种超越性的社群形式，以应对跨性别者在现今社会中普遍面临的隔离和歧视，同时也认为关怀需要防御性，但并不意味着放弃正义。最后，作者在总结性的强调：跨性别社群的组织需要解决现存的排斥与斗争，以建立更为包容的连接和支持。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2563,18 +1900,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [跨性別者的從軍觀察](跨性別者的從軍觀察_page.md)<details><summary>查看摘要</summary>
 
 本文件为黄琴爱撰写的关于跨性别者在军中的观察与体验的学术探讨。文章详细描述了作者作为一名男性转女性跨性别者的军旅生活及其所面临的挑战与困境。黄琴爱在服役期间遭遇了性别认同的挣扎，以及对军队环境的不适应。她在文中提到，尽管有机会申请性别不安证明以免除兵役，但最终选择完成义务役，并且反思自己在军中作为跨性别身份所经历的压力与适应问题，包括身心健康的挑战。文章还探讨了跨性别者在军中的生存状态，提出了一系列有关如何建立军中性别友善环境的建议，包括设立性别友善的设施与相关教育，以提高军队对多元性别群体的接纳与支持。这篇文章不仅是对个人经历的分享，也是对更广泛的社会和文化环境中的跨性别者面临问题的思考。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2585,18 +1916,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [24_Transgender_in_China](24_Transgender_in_China_page.md)<details><summary>查看摘要</summary>
 
 本文件《Transgender in China》由Howard Chiang撰写，探讨了中国的跨性别现象及其学术研究的发展历程。文件回顾了20世纪初以来关于性别多样性的学术思想，以及过去二十年中跨性别主题学术兴趣的蓬勃发展。通过引用多位重要学者的理论，例如Judith Butler的《Gender Trouble》和Judith Halberstam的《Female Masculinity》，作者呈现了跨性别研究如何逐步形成并融入酷儿研究的广阔领域。此外，文件列举了众多在跨性别研究历史上具有重要意义的书籍和研究，如Vern和Bonnie Bullough的《Cross Dressing, Sex, and Gender》以及Susan Stryker的《Transgender History》。这些作品为跨性别研究提供了理论与实践的基础，而跨性别的社群与学者在这一领域中的合作，也促使了相关研究的进一步深化。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -2607,9 +1932,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Imagining_Transgender_China](Imagining_Transgender_China_page.md)<details><summary>查看摘要</summary>
 
@@ -2618,18 +1940,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Mainland_Chinas_TERFs_Misogyny_Under_JK_Rowlings](Mainland_Chinas_TERFs_Misogyny_Under_JK_Rowlings_page.md)<details><summary>查看摘要</summary>
 
 本文调查了2020年6月至2022年2月间与JK Rowling反跨性别事件相关的评论，主要在中国的微博等社交平台上进行分析。作者通过语料库技术对相关评论进行了敏感样本的筛选，并运用词云技术展示结果。讨论了激进女性主义的定义、TERF(反跨性别的激进女性主义者)的产生与发展，以及JK Rowling事件对中国社会的影响。文章指出，TERFs在中国是本质主义与个体认同的“大他者”依附的混合产物，表现出对女性的厌女倾向，和一种试图代表女性团结的父权陷阱。创造更多的女性主义可能性是文章提倡的立场。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 ### 📎 其他
@@ -2641,7 +1957,10 @@ search:
 
 [跨性别心理咨询的理论与实践研究_吕娜](跨性别心理咨询的理论与实践研究_吕娜.caj)
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+### 词云图
+
+![摘要词云图](abstracts_wordcloud.png)
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

@@ -30,9 +30,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2022
 
 
@@ -44,18 +41,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [G05_性别重置技术临床应用管理规范](G05_性别重置技术临床应用管理规范_page.md)<details><summary>查看摘要</summary>
 
 本文件为《性别重置技术临床应用管理规范（2022年版）》，旨在规范性别重置技术的临床应用，确保医疗质量和安全。内容包括医疗机构与医务人员的基本要求、实施性别重置技术的医师及其他卫生专业人员的资质要求，以及技术操作的管理规范。具体而言，文件详细列出了医疗机构所需设施、人员资质、手术前评估及术后管理等要求，强调了伦理委员会的角色和医疗隐私的保护。此外，文中还包括了例行的病例信息数据库的建立、手术质量控制指标如术中术后感染率、随访率等，以确保性别重置手术能够安全、有效地进行。本规范的制定为相关医疗机构提供了标准和依据，推动性别重置技术在临床中的规范化发展。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -66,18 +57,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [MCHD_COVID_疫苗接种登记表_2022](MCHD_COVID_疫苗接种登记表_2022_page.md)<details><summary>查看摘要</summary>
 
 该文件是MCHD COVID疫苗接种登记及预筛查表格，旨在收集接种COVID-19疫苗的个人信息。这份表格包含了身份证明、健康状况筛查、疫苗接种记录等多项内容。表格明确指出，用户需要提供姓名、年龄、出生日期及联系方式等基本信息，并在性别一栏中选择适合的选项，包括女性、男性、跨性别男性、跨性别女性、非二元性别等。这反映了对多元性别的认知与包容，同时也提供了对个人健康状况的筛查问题，确保接种疫苗的安全性和适应性。文件中提到的筛选问题包括对任何过敏反应的历史、疫苗接种后的反应以及种族和民族信息等，有助于在公共健康政策中更好地理解和解决健康差异问题。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2021
@@ -95,18 +80,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_附件_2021年国家级继续医学教育项目表](PDF_附件_2021年国家级继续医学教育项目表_page.md)<details><summary>查看摘要</summary>
 
 该文档为2021年国家级继续医学教育项目表，包含了各种医学相关项目的详细信息，包括学科名称、项目编号、项目名称、申办单位、负责人、举办期限、举办地点以及授予的学分等。根据文档信息，具体项目涵盖了基础机能和多种性腺功能损伤等相关内容，涉及到的学科范围广泛，涵盖了泌尿生殖系统、解剖学、神经解剖学等多个领域。文档详细列出了相关机构及项目负责人联系方式，以及拟招生人数和备注信息，显示了对各类医学继续教育项目的系统化整理和管理。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2019
@@ -120,9 +99,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2018
 
 
@@ -134,18 +110,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2018教育部人文社科项目拨款明细](2018教育部人文社科项目拨款明细_page.md)<details><summary>查看摘要</summary>
 
 该文件是关于2018年教育部人文社科一般项目一期经费拨款明细的PDF文档。文件详细列出了教育部批准的多项人文社科项目及其拨款金额，包括项目的批准号、项目名称、项目类别、项目负责人以及依托高校等信息。其中，项目涵盖了多个研究领域，如全面依法治国思想的传播、国家文化安全的历史经验、新时代中国特色社会主义文化建设等，为学术研究提供了资助支持。每个项目都附有具体的拨款金额，反映了教育部对人文社科研究的重视，同时也为未来的研究方向和趋势提供了参考。文档长达108页，内容丰富，适合相关领域的研究人员和学者参考。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2017
@@ -159,9 +129,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2012
 
 
@@ -171,9 +138,6 @@ search:
 《中华人民共和国精神卫生法》于2012年10月26日由主席令第62号公布，并于2018年进行了修正，是中国大陆针对精神障碍患者权益保护、精神卫生服务规范以及心理健康促进的法律文件。该法的主要内容涵盖了精神卫生工作的基本原则、精神障碍的预防、诊断和治疗，以及患者的合法权益保障。法中明确规定，精神障碍患者的人格尊严及其合法权益应当受到尊重和保护，任何组织或个人不得歧视、侮辱或虐待精神障碍患者（第六条）。同时，法律强调了家庭、社会及政府在精神卫生工作中的共同责任，要求各级人民政府制定心理健康提升方案及应急预案（第十三条、第十四条）。该法也对精神障碍的诊断与治疗流程做出了详细规定，确保患者能够获得合理的医疗服务，并且在住院治疗的情况下要遵循自愿原则（第二十六条、第三十条）。这些条例不仅为精神卫生专业人员提供了操作指南，也为公众对精神健康的认识与重视提供了法律依据。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2009
@@ -189,9 +153,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 时间未知，按收录顺序排列
 
 
@@ -203,18 +164,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [户籍管理领域基层政务公开标准目录](户籍管理领域基层政务公开标准目录_page.md)<details><summary>查看摘要</summary>
 
 该文件为《户籍管理领域基层政务公开标准目录》，主要详述了中国大陆在户籍管理领域的各项政务公开事项。文件中列出了与户籍登记相关的多个公共事务，包括新生儿出生登记、死亡注销、服役注销、户口迁移、姓名变更及性别变更等，并详细解释了每项业务的受理部门、办理条件、所需材料、办理流程以及办理时限。此外，文件中提到关于变性手术后的性别登记问题，明确指出申请者需提交相关证明材料。这些内容为公民了解他们在户籍管理方面的权利和流程提供了重要参考，尤其是对于关注跨性别群体的事项，文件展示了法律和政策的支持与约束。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -225,18 +180,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [第二部分整形外科专科医师规范化培训细则试行](第二部分整形外科专科医师规范化培训细则试行_page.md)<details><summary>查看摘要</summary>
 
 该文件是关于整形外科专科医师规范化培训的试行细则，内容详细阐述了整形外科学的定义、培养目标、方法以及各个阶段的培训要求。整形外科学是涉及对人体组织、器官的缺损和畸形进行形态修复和功能重建的外科专业，囊括再造整形外科和美容整形外科等领域。文件中提到，专科培养的目的在于使受训医师掌握基本的专业知识和技能，能够独立完成整形外科的基本医疗活动，并在上级医师指导下完成更复杂的手术。整形外科的培训分为五个阶段，涵盖基础知识、技能培训及美容外科等，最后在病房接触实际患者并参与临床工作。文中还列出了培训的具体科目，包括皮肤科、眼科、耳鼻喉科、口腔颌面外科等，也涵盖了和跨性别医疗相关的整形手术，如阴茎再造和阴道再造，展示了在现代整形外科领域中的发展趋势和实践内容。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -247,9 +196,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [《关于依法处理监护人侵害未成年人权益行为若干问题的意见》的通知](《关于依法处理监护人侵害未成年人权益行为若干问题的意见》的通知_page.md)<details><summary>查看摘要</summary>
 
@@ -258,7 +204,10 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+### 词云图
+
+![摘要词云图](abstracts_wordcloud.png)
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

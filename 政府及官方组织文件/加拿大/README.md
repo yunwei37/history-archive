@@ -30,9 +30,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2017
 
 
@@ -42,9 +39,6 @@ search:
 这份报告名为《改善低陆平原年长妇女生活的主要法律、政策及服务提供策略》，旨在探讨并提出改善年长妇女生活质素的相关法律及社会政策。从2014年至2016年，通过在温哥华低陆平原的14个咨询活动，研究团队收集了162位年长妇女的经验，值得注意的是，这些妇女中包括了被政治边缘化的群体，如残疾妇女和原住民妇女。报告总结了影响年长妇女生活的主要障碍，包括贫穷、各种形式的歧视、取得医疗和家居支援的难度以及暴力与虐待的经历。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2011
@@ -58,9 +52,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 时间未知，按收录顺序排列
 
 
@@ -72,18 +63,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [不列颠哥伦比亚省跨性别护理提供的服务](不列颠哥伦比亚省跨性别护理提供的服务_page.md)<details><summary>查看摘要</summary>
 
 该文件详细介绍了不列颠哥伦比亚省的跨性别护理提供的服务，着重于帮助双灵、跨性别以及性别非二元人士获取适合他们的医疗和护理方案。文中提到，该护理导航团队提供多种服务，包括帮助用户寻找健康保健资源，探索各种就医选择和流程，以及提供性别肯定医疗护理的信息。服务对象涵盖了各个年龄段的人群，包括青少年、成人和儿童，以及他们的看护人、伴侣和亲友。此外，文中还指出，服务团队与其他服务人员合作，以推广以就医者为中心的性别肯定护理最佳实践。该文件体现了对提供公平、无障碍护理的承诺，并强调采用“反压迫”与“创伤知情”的方法，以人为本的原则。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -94,18 +79,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_心理健康及福祉资源和支持_-_Govbcca](PDF_心理健康及福祉资源和支持_-_Govbcca_page.md)<details><summary>查看摘要</summary>
 
 该文件为一份关于心理健康及福祉的资源和支持指南，旨在为儿童和青少年提供相关信息和支持，以应对常见的心理健康挑战。文件内容集中于不同人群（包括LGBTQ2S+人群和原住民群体）所面临的心理健康问题，提供多种资源和服务供青少年及其家长使用。文件中提到的资源包括心理健康服务中心、网络支持、热线服务及应对青少年焦虑和抑郁的具体方法和建议。特定章节详细介绍了心理健康的相关挑战，如焦虑、抑郁和神经多样性等，并提供了应对这些挑战的实用策略。该指南还讨论了饮食和身体活动对心理健康的影响，以及针对那些经历自我伤害和创伤的人所能获得的支持和资源。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -116,9 +95,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [温哥华跨性别政策反思报告](温哥华跨性别政策反思报告_page.md)<details><summary>查看摘要</summary>
 
@@ -127,7 +103,10 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+### 词云图
+
+![摘要词云图](abstracts_wordcloud.png)
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

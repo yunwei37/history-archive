@@ -34,9 +34,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2023
 
 
@@ -48,18 +45,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2023年5月多元性别生命故事与过渡经历](2023年5月多元性别生命故事与过渡经历_page.md)<details><summary>查看摘要</summary>
 
 该文件收录了多元性别个体的生命故事与过渡经历，内容深入探讨了跨性别者在生活和身份认同过程中遇到的挑战与成长。文中包括个人叙述，反映了各种生存经历和过渡阶段的情感波动，同时也分享了一些关于医疗资源、法律政策的个人经验和看法。这些故事不只是个人的叙述，也是对社会环境的真实反馈，展示了多元性别群体在面对困境与寻找自我过程中的坚韧与勇气。文件中提及了医疗资源的可获取性、心理支持的重要性，以及在法律和政策环境下生活的体验。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2019
@@ -73,18 +64,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [我的一生_刘培麟日记_-_刘培麟_唐冠华_-_2019](我的一生_刘培麟日记_-_刘培麟_唐冠华_-_2019_page.md)<details><summary>查看摘要</summary>
 
 该文件是刘培麟的自传及日记，记录了他自1956年出生以来的生活经历与心理变化。刘培麟自幼便立志写日记，记录下自己的点滴，以此作为生活的精神支柱。自述中提到，刘培麟为男性，但其内心深处渴望以女性身份生活，经历了许多社会的不理解与排斥。在文件中，他详细回顾了自己的成长历程，从养父母的抚养、青少年时期的困扰、参与社会政治活动，到后来经历的种种磨难，包括1993年因自身性别认同问题经历的种种心理与社会上的挑战。刘培麟藉由写作与日记记录他对生活的反思和对未来的希望，尤其是对自己身份的探索与自我接受。此外，文件中提及了其与周围人物的交往、对家庭的责任感、以及在社会变迁中的孤独感和奋斗精神，生动地呈现出一名跨性别者的生活现状与内心世界。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2017
@@ -98,9 +83,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2012
 
 
@@ -110,9 +92,6 @@ search:
 该文件是2012年10月出版的《Lesplus》杂志中的一篇关于跨性别经历的自传性文章。文章通过一个名为“软嘴唇”的跨性别者的个人故事，探讨了她的身份认同、情感经历以及与女友的关系。文中描述她在青少年时期对性取向的困惑，涉及到她与异性恋社会及家人的关系。具体案例包括她与女友的首次交往、出柜经历，以及在同性恋社群中成立小组进行活动的过程。文章还讨论了跨性别者的社会认同问题、家庭支持、身体认同等多个层面，结合了个人背景与社会环境，展现了跨性别者在自我认同与社会压力之间的挣扎。整体上，文件不仅记录了个人故事，也反映了更广泛的跨性别文化与社会问题。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 时间未知，按收录顺序排列
@@ -126,18 +105,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_跨性別學生母親的心路歷程與對性平教育的期許](PDF_跨性別學生母親的心路歷程與對性平教育的期許_page.md)<details><summary>查看摘要</summary>
 
 本文件是《跨性别学生母亲的心路历程与对性平教育的期许》的自传性质的文章。作者简丽娟作为一位母亲，分享了她的孩子Allen在青春期出柜的经历以及作为家长的感受与挣扎。文件描述了Allen自我认同为跨性别后所经历的内心冲突与痛苦，以及母亲在支持孩子身份认同过程中的心理变化。文章中提到母亲最初接到Allen的求助信息时的震惊与担忧，以及与丈夫的沟通如何帮助缓解了家庭的紧张气氛。简丽娟还分享了对自身教育经验的反思，强调家庭教育在性别认同问题上的重要性，并呼吁社会对性别平等教育的重视，指出“我们自己摸索出来的知识可能会有不正确的认知。”整体而言，文章体现了亲子关系的紧密以及社会教育缺失对个体成长的影响。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -148,18 +121,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [拉拉的故事与经历](拉拉的故事与经历_page.md)<details><summary>查看摘要</summary>
 
 《拉拉的故事与经历》是一部记录个人真实经历的自传性文学作品。在这篇文章中，作者深入探讨了自己作为拉拉的身份认同与成长过程中的挑战与奋斗。作者通过自己的故事，分享了在成长过程中面对社会偏见的真实感受，以及在自我接纳和寻求认同的过程中所经历的情感波动。作品中包括了与家庭关系、友谊及对爱的理解等方面的生动描写，为读者提供了一个多元化的视角，帮助读者更好地理解拉拉群体的内心世界和独特经历。此外，文中还可能谈及反抗传统性别角色的勇气，以及如何在文化背景中找到自我。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -170,18 +137,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [女人梦——中国变性第一人](女人梦——中国变性第一人_page.md)<details><summary>查看摘要</summary>
 
 《女人梦——中国变性第一人》是一本关于中国第一位变性女性的自传，详细记录了她的生命故事和过渡经历。书中通过细腻的文字呈现了作者从青春期到决定变性手术的心路历程，涉及到的内心挣扎、社会压力以及在家庭、工作中面临的各种挑战。这位变性女性分享了她的真实感受，描述了对于身份认同的追寻以及在变迁过程中所获得的支持与反对。书中也探讨了跨性别运动在中国的发展和面临的法律、社会环境问题，为读者提供了关于跨性别群体在中国生存现状的深刻见解。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -192,18 +153,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [泰国“人妖”是这样“炼”成_子——一名广西男青年的自述_杜启荣](泰国“人妖”是这样“炼”成_子——一名广西男青年的自述_杜启荣_page.md)<details><summary>查看摘要</summary>
 
 这篇自述文章由广西男青年杜启荣撰写，讲述了他在泰国性别认同和人妖文化体验的心路历程。作者详细描绘了自己的生活、挣扎和对性别身份的思考，透过个人故事展示了跨性别者在社会中的种种挑战与追求。他描述了自己如何在传统观念和个人认同之间找到平衡，并以“人妖”身份在泰国的生活经历为切入点，探讨了跨性别访客在文化适应和自我认同中的复杂情感。文中不仅有对个人过渡经历的细腻描写，也反映出社会对跨性别者的误解与接受，展现出生存现状的真实记录。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 ### 🖼️ 图片
@@ -213,6 +168,12 @@ search:
 
 
 ![AG手术后悔-网络害人](AG手术后悔-网络害人.jpg)
+
+
+
+### 词云图
+
+![摘要词云图](abstracts_wordcloud.png)
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

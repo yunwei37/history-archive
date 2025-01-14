@@ -34,9 +34,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [伪娘的一年训练](伪娘的一年训练_page.md)<details><summary>查看摘要</summary>
 
@@ -45,18 +42,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [偽娘-_忍法色誘之術](偽娘-_忍法色誘之術_page.md)<details><summary>查看摘要</summary>
 
 本文档为伪娘主题的教程，名为《忍法·色诱之术》。作者咪宝分享了她作为伪娘的生活经验与扮装技巧，强调了在妆容、体态、仪态、扮装和声音等方面的细节和努力。文中提到，伪娘在追求自身理想形象的过程中，不仅需要坚定的信念和意志力，还需不断学习与他人的经验交流。作者将扮装的技巧分类，并以易于理解的方式进行讲解，鼓励其他伪娘们在这一挑战中共同进步。同时，文中还提及了个人在身材塑造方面的具体经历与建议，以及减脂和塑形的具体方法，帮助读者更好地理解身材变化的必要性和实施方法。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -73,18 +64,12 @@ Alternative name: 女装入门到精通
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [完全女性化作业](完全女性化作业_page.md)<details><summary>查看摘要</summary>
 
 该文档是一份有关女性化训练的指南，主要针对跨性别者，尤其是希望进行女性化过渡的男性。文件详细列出了多个阶段的作业，旨在引导参与者逐步接受并实践女性身份。这些作业包括穿戴女性内衣、购买女性服装、学习女性化妆技巧、体验女性社交环境，以及对身体进行更改的建议，如脱毛、化妆和增添女性化配饰。通过逐步的任务，文档强调了在日常生活中表现出女性化的方式，并通过实操方法来巩固内心的女性身份。同时，文件也触及了一些可能的羞辱感，反映了参与者在性别认同过程中的心理挑战。文档以大量的细节和具体的指令成就了一个渐进的女性身份构建过程，具有相当的深度和复杂性。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -95,7 +80,10 @@ Alternative name: 女装入门到精通
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+### 词云图
+
+![摘要词云图](abstracts_wordcloud.png)
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

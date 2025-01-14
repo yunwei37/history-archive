@@ -30,9 +30,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2023
 
 
@@ -44,18 +41,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [性别危机何去何从_自闭症AD__性别焦虑GD_的真相](性别危机何去何从_自闭症AD__性别焦虑GD_的真相_page.md)<details><summary>查看摘要</summary>
 
 本文件由基神培育中心发布，标题为《性别危机何去何从? 自闭症AD/性别焦虑GD的真相!》，探讨了自闭症及性别焦虑症（Gender Dysphoria, GD）的关系。文中提到，自闭症在全球范围内的患病率逐渐上升，尤其是在男性中，该症状的严重程度和表现形式因个体差异而异。文件同时说明了性别焦虑的存在，指出GD患者往往会经历强烈的不安感，甚至可能导致抑郁症和焦虑症。此外，文章还探讨了激素替代療法（HRT）和性别确认手术的治疗方法，并讨论了自闭症与性别多样化之间的联系，强调许多GD患者可能同时患有自闭症。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -66,18 +57,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_Medicare_和跨性别老年人](PDF_Medicare_和跨性别老年人_page.md)<details><summary>查看摘要</summary>
 
 该文档主要阐述了 Medicare 对跨性别老年人的医疗服务支持，指出跨性别者在医疗护理方面具有独特需求。文件详细介绍了 Medicare 的政策，包括性别认同的处理、必要的性别手术的承保标准以及跨性别老年人所需药物的适用性。此外，它还提到如果因性别认同而遭遇医疗歧视，跨性别者的合法权利和可采取的行动，包括向卫生与公众服务部提出投诉。文件结束时提供了获取进一步信息和资源的途径，以及相关的法律服务和支持机构。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -88,18 +73,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_跨性別與教育社福醫療心理諮商的專業對話](PDF_跨性別與教育社福醫療心理諮商的專業對話_page.md)<details><summary>查看摘要</summary>
 
 该文件是由台湾民主基金会出版，题为《跨性别公共论坛：跨性别与教育、社福、医疗、心理咨询的专业对话》的成果报告，涉及跨性别者在教育、社会福利、医疗及心理咨询四大领域面临的挑战与对策。报告详细记录了2023年内举行的数场论坛的内容和成果，旨在提高社会对跨性别者的理解与支持。具体内容包括认识跨性别者在校内、社福机构及医疗，提出如何建立友善环境的具体建议，涉及如校园内的性别友善厕所的设置、学籍性别资料的处理、心理咨询系统的优化等议题。此外，报告中还援引了对来自跨性别者的调查数据，显示出当前台湾对跨性别者的支持仍显不足，强调了政策和教育上的必要变革。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -110,18 +89,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2023_國立臺灣大學_跨性別男性情慾與性風險研究報告](2023_國立臺灣大學_跨性別男性情慾與性風險研究報告_page.md)<details><summary>查看摘要</summary>
 
 本报告是由国立台湾大学医学部护理学系所进行的跨性别男性（Transgender Male, TM）情欲与性风险的研究，以了解国内TM的情欲文化与性健康照护的需求。研究采用混合方法，分为量性和质性两部分。量性部分通过网络问卷收集了321份有效数据，结果显示多数被访者对自身的情欲体验有一定的需求，但在性风险筛查（如HIV、HPV等）上，参与者的筛查率极低，只有13.4%-21.5%。质性部分则通过焦点访谈与深入访谈收集了来自29位跨性别者的经验，共识包括跨性别者普遍遭遇暴力与歧视，并在性健康照护方面面临许多挑战，尤其是对医疗体制的信任问题。研究结果强调了提升医疗服务对TM群体友善性的重要性，以满足他们的性健康需求及改善他们的生活质量。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -132,18 +105,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2023_腹腔镜手术在女性易性癖患者性再赋手术中的应用价值研究](2023_腹腔镜手术在女性易性癖患者性再赋手术中的应用价值研究_page.md)<details><summary>查看摘要</summary>
 
 该文件探讨了腹腔镜手术在女性易性癖患者性再赋手术中的应用价值。文中详细介绍了腹腔镜手术的技术原理及其优势，尤其是在为易性癖患者提供更为安全、微创、恢复快的手术体验方面。研究指出，通过分析多例手术案例，腹腔镜手术不仅能够减少术后并发症的发生率，还能显著提高患者的术后生活质量。该文献旨在为医学界提供有关如何更好地服务于此类患者的参考，尤其是在性别重塑和身体认同方面. 研究还讨论了相关的医疗伦理问题，并强调了对患者心理支持的重要性。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -154,18 +121,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [天津市跨性别女性新型毒品使用现状与影响因素分析_龚卉](天津市跨性别女性新型毒品使用现状与影响因素分析_龚卉_page.md)<details><summary>查看摘要</summary>
 
 本研究旨在分析天津市跨性别女性（TGW）中新型毒品使用的现状及其影响因素。根据2019年7月至2021年9月间的调查数据，共招募了483名跨性别女性。研究结果显示，最近六个月内，46.17%的被调查者使用过新型毒品，其中Rush poppers的使用率最高，达到了98.21%。多因素logistic回归分析表明，年轻（<30岁）、学历较高（大专及以上）、自评HIV感染风险中高、性取向为同性以及近期有多次性行为的TGW其使用毒品的风险更高。作者提出应针对高风险群体开展艾滋病防治和禁毒宣传，并建议在商业性行为的TGW中推广暴露前和后用药，以降低HIV传播风险和毒品使用的发生。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -178,18 +139,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [跨性别群体抑郁、焦虑与防御机制研究](跨性别群体抑郁、焦虑与防御机制研究_page.md)<details><summary>查看摘要</summary>
 
 本研究旨在探讨跨性别群体的抑郁和焦虑状况及其与防御机制的关系。通过对2020年12月至2021年12月期间首次就诊于北京回龙观医院性心理门诊的126名跨性别者进行调查，结果显示46.83%的参与者存在抑郁，26.19%存在焦虑。研究使用自编问卷及标准化评估工具（抑郁自评量表和焦虑自评量表）收集数据，发现男性的抑郁检出率显著高于女性，而拥有自伤自杀行为的个体抑郁和焦虑的检出率明显高于未有此行为者。文章指出，成熟型防御机制能够降低跨性别群体的抑郁与焦虑风险，而不成熟型防御机制则增加这些风险。探讨了跨性别群体面临的多重压力及文化背景对心理健康的影响。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -200,18 +155,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [The_relationship_between_non-suicidal_self-injury_and_childhood_abuse_in_transgender_people](The_relationship_between_non-suicidal_self-injury_and_childhood_abuse_in_transgender_people_page.md)<details><summary>查看摘要</summary>
 
 本文是关于跨性别人士非自杀性自伤（NSSI）与儿童虐待之间关系的研究。研究的主要目的是探讨儿童虐待对跨性别人士自伤行为的影响，以及情绪失调特征在儿童虐待与自伤行为之间的中介作用。研究涵盖296名女转男（FTM）和675名男转女（MTF）参与者，平均年龄为24.5岁，均通过匿名问卷在广东省招募。结果显示，儿童虐待评分与情绪失调特征及非自杀性自伤行为之间存在正相关（p < 0.01）。情绪失调特征部分中介了儿童虐待与自伤行为之间的关系，且在儿童虐待的多个因素中，情绪虐待、情感忽视、性虐待和身体虐待均与自伤行为呈显著关系。研究建议需要对跨性别人士进行情绪失调特征的筛查，并及时进行干预，以改善当前对跨性别人士的歧视现象。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2022
@@ -225,9 +174,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2021年UCSF环境调查报告](2021年UCSF环境调查报告_page.md)<details><summary>查看摘要</summary>
 
@@ -236,18 +182,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [中国易性症多学科诊疗专家共识](中国易性症多学科诊疗专家共识_page.md)<details><summary>查看摘要</summary>
 
 该文件是《临床精神医学杂志》2022年第32卷增刊中的一篇关于中国易性症的多学科诊疗专家共识。文中详细阐述了易性症的评估、诊断和治疗方法，目前国内尚未形成相关共识，影响了患者的治疗需求及专业者的治疗规范。该共识由中国心理卫生协会性心理健康专业委员会组织，结合精神科、内分泌科、外科及伦理学等领域的专家共同制定，旨在为一线临床医务人员提供更安全有效的诊疗规范。文件内容涵盖易性症的定义、诊断要点、多学科合作的重要性、标准化的医疗流程、患者的心理社会特征以及激素和手术治疗的指南。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -260,18 +200,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [跨性别女性嗓音问卷简体中文版信度和效度评价](跨性别女性嗓音问卷简体中文版信度和效度评价_page.md)<details><summary>查看摘要</summary>
 
 该文件是关于《跨性别女性嗓音问卷简体中文版信度和效度评价》的研究论文，发表于《中华耳鼻咽喉头颈外科杂志》。研究的主要目的是对跨性别女性嗓音问卷（Trans Woman Voice Questionnaire，TWVQ）进行汉化，并评估其信度与效度。文中详细说明了研究的背景，指出嗓音是跨性别女性重要的性别表达因素，因此实施有效的嗓音治疗十分必要。研究采用跨文化适度法，讨论了问卷的翻译过程，样本的选择及其收集方式，涉及279名跨性别女性的数据。结果显示，该问卷的信度（克朗巴哈系数为0.97）和效度均表现良好，能够有效反映跨性别女性对自身嗓音的认知与心理社会影响。文件中也提供了详细的统计分析结果，显示跨性别群体在嗓音方面遇到的主要问题，旨在为临床嗓音评估提供依据。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -282,9 +216,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Disclosure_of_Gender_Identity_among_Transgender_Individuals_to_Healthcare__Professionals_in_China](Disclosure_of_Gender_Identity_among_Transgender_Individuals_to_Healthcare__Professionals_in_China_page.md)<details><summary>查看摘要</summary>
 
@@ -293,18 +224,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Hormone_overdose_and_misuse_in_Chinese_transgender](Hormone_overdose_and_misuse_in_Chinese_transgender_page.md)<details><summary>查看摘要</summary>
 
 该文件为一份未经过同行评审的预印本，题为《华人跨性别与性别不符合人群中的激素过量与误用：一项混合研究方法的研究方案》。该研究旨在研究华人跨性别及性别不符合人群中的激素过量和误用问题，在这一领域目前缺乏相关研究。研究目标包括确定激素过量和误用的定义及标准，了解该人群的激素过量和误用发生率，探索相关因素和行为风险，并识别潜在原因和长期影响。研究方法包括专家小组会议和利益相关者参与，以确定激素过量和误用的标准和类型；进行横断面研究以量化发生率及相关因素；通过半结构化访谈和焦点小组来探索动机与原因；以及前瞻性队列研究评估长期影响。该研究获得了厦门大学医学伦理委员会的批准，预计在2023年9月前完成，除了队列研究，后者的初步结果将于2026年3月报告。此研究的信息与结果将通过国际期刊及社交媒体进行传播和公开。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2021
@@ -318,18 +243,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [性别不一致去精神病化的思考](性别不一致去精神病化的思考_page.md)<details><summary>查看摘要</summary>
 
 本文件是关于“性别不一致”去精神病化的学术研究论文，发表于《医学与哲学》2021年第42卷第11期。文章由贺莹、彭会清、崔夕龙和陈晓岗等人撰写，主要探讨了“性别不一致”的诊断变更历程及其生理与心理基础，强调对性别认同差异的理解和尊重。文中指出，随着人们对‘性别’理解的深化，性别认同差异不再被视为精神疾病，建议相关从业人员在健康服务中应遵循更专业的标准。此外，文章呼吁社会关注相关伦理法律问题，并对那些经历性别认同挑战的个体给予理解与尊重。文中提到‘性别不一致’个体的心理健康问题，包括抑郁和焦虑等，体现了需要社会的宽容与支持。最后，文章总结认为，性别是多维度的非二元的，性别认同的多样性不应被简单化为精神疾病的诊断。全篇围绕性别不一致的复杂性展开，强调去精神病化的重要性与必要性。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -340,18 +259,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_香港愛滋病情況概覽-跨性別人士](PDF_香港愛滋病情況概覽-跨性別人士_page.md)<details><summary>查看摘要</summary>
 
 该文件为2021年6月发布的《香港爱滋病情况概览-跨性别人士》，聚焦于跨性别群体在香港的艾滋病病毒（HIV）感染现状及相关风险。内容提到跨性别与性别多元的概念，指出跨性别人士面临高达比其他同年龄段成年人感染艾滋病病毒的风险高出13倍。文件根据调查数据分析了香港跨性别人士的数量及其在医疗服务中的经历，强调因为社会污名化，许多跨性别人士不愿意公开自己的性别认同，导致难以获得准确的人口统计。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -362,18 +275,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [医学教育中的跨性别健康政策与实践研究-汤米·哈纳](医学教育中的跨性别健康政策与实践研究-汤米·哈纳_page.md)<details><summary>查看摘要</summary>
 
 本文探讨了跨性别及多元性别个体在医疗教育中面临的健康不平等问题，强调全球范围内的健康不平等现象。文章指出，跨性别和性别多样化个体往往遭遇负面的健康结果和多重获取医疗服务的障碍。文中讲述了跨性别和性别多样化的医疗护理的各个方面，包括健康服务的设计和提供、流行病学考虑、过渡相关护理、文化考量以及法律和政治问题。作者们呼吁在医学院中优先加强对跨性别和性别多样化健康需求的教育，以应对全球医疗平等的挑战。其建议包括文化谦卑和反压迫培训、社区成员的参与、以及在课程中整合跨性别和性别多样化的健康教育，以建立更全面的医疗教育体系。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -384,18 +291,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Necessity_of_facial_contouring_in_feminization_surgery_for](Necessity_of_facial_contouring_in_feminization_surgery_for_page.md)<details><summary>查看摘要</summary>
 
 这篇文章探讨了面部轮廓手术在中国跨性别女性女性化手术中的必要性。随着社会对跨性别者的认知逐渐提升，越来越多的跨性别女性感受到性别不安，常常伴随抑郁和自我毁灭行为。面部女性化手术（FFS）被认为是一种有效的缓解性别不安的手段，甚至重要性可能超过生殖器重置手术。文中指出，面部轮廓手术是改善面部外观的重要方法，尤其是颧骨和下颌角，这些都是实现面部女性化的关键区域。研究分析了手术前后面部轮廓的变化，结果显示，所有患者在接受手术后对下颌宽度的减少和中面部凸出感到满意。面部轮廓手术对改变一个人的面部外观和性别印象至关重要，可以显著减少性别不安。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2020
@@ -411,18 +312,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_先天性肾上腺增生症致女性假两性畸形1例](PDF_先天性肾上腺增生症致女性假两性畸形1例_page.md)<details><summary>查看摘要</summary>
 
 本文为一例关于先天性肾上腺增生症致女性假两性畸形的病例报告，发表于《临床泌尿外科杂志》。报告详细记录了该患者的病历，包括其临床表现、影像学检查、实验室结果及手术治疗情况。患者为一名男性，社会性别为男性，但因先天性疾病表现出女性生殖器官特征。文中提到患者在检查中发现多发混杂密度肿块，并经过手术切除后病理诊断为双方肾上腺髓性脂肪瘤和先天性肾上腺增生。特别指出的是，该患者有复杂的病史，包括周期性血尿等症状，以及在手术中未能探及卵巢和输卵管，提示可能存在生殖器官的发育不全。报告结合影像学结果及激素检查，探讨了该疾病的发病机制、生理影响，并强调了早期诊断和手术干预在患者管理中的重要性。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -433,9 +328,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [How_Chinas_Transgender_Sex_Workers_Cope_with_Intimate](How_Chinas_Transgender_Sex_Workers_Cope_with_Intimate_page.md)<details><summary>查看摘要</summary>
 
@@ -444,18 +336,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Perceived_social_support_and_its_relationship_with](Perceived_social_support_and_its_relationship_with_page.md)<details><summary>查看摘要</summary>
 
 本文件是一篇关于泰国曼谷跨性别女性社会支持感知及其与抑郁症之间关系的研究论文。研究表明，在280名参与者中，58.2%的跨性别女性经历了抑郁症状。通过多变量逻辑回归分析，该研究发现抑郁症状与感知的低社会支持显著相关。抑郁症已成为全球公共健康的重要问题，本研究指出跨性别女性群体面临更高的抑郁风险，并建议应在关心跨性别女性的组织中嵌入社会支持服务体系，以降低抑郁的发生率。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2019
@@ -469,18 +355,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_性别发育异常的评估诊断和治疗研究进展_-_SciEngine](PDF_性别发育异常的评估诊断和治疗研究进展_-_SciEngine_page.md)<details><summary>查看摘要</summary>
 
 本文件为《浙江大学学报医学版》于2019年8月刊登的学术论文，题为《性别发育异常的评估、诊断和治疗研究进展》。主要探讨了性别发育异常（DSD）的评估、诊断及其相关治疗方法，指出该疾病是由于先天性染色体、性腺或性别解剖结构发育异常引起的一组复杂疾病。文中详细描述了性别发育异常在新生儿与青少年期的临床表现，并提到各类多学科合作在疾病管理中的重要性，包括小儿内分泌、泌尿外科、临床心理学、遗传学及影像学等领域专家的共同参与。论文对近年来在性别发育异常领域的学术进展进行了综述，涉及心理评估、性别分配、激素替代及外科治疗选择等多方面内容，并讨论了潜在的生育能力保护及长期的医疗跟进方案。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -491,18 +371,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2018年愛滋病預防項目調查報告-男跨女跨性別人士](2018年愛滋病預防項目調查報告-男跨女跨性別人士_page.md)<details><summary>查看摘要</summary>
 
 这份报告是关于2018年男跨女跨性别人士参与的爱滋病预防项目指标调查的结果，目的是为了了解这一群体在香港的健康状况及其爱滋病病毒感染的风险。报告指出，男跨女跨性别人士是一群容易被忽略且难以接触的群体，因此本次调查的开展具有重要意义。调查采集了41名男跨女跨性别人士的自愿参与数据，调查时间为2018年4月至6月。结果显示，这些受访者中大多数为菲律宾人，年龄主要集中在20至29岁之间。调查还显示，58.5%的受访者曾与有关系的伴侣发生性行为，其中安全套的使用率在这群体中有所提高，但与非固定伴侣及性工作者的安全套使用率有所下降。此外，参与者中有90.2%的人曾接受过爱滋病病毒测试，这显示出他们对于检测的意识逐渐增强。这份报告还强调了在跨性别群体中继续推广爱滋病预防及定期检测的重要性，尤其是在与化学性行为相关的风险上。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -513,9 +387,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Puckett_et_al._-_2019_-_Mental_health_and_resilience_in_transgender_indivi](Puckett_et_al._-_2019_-_Mental_health_and_resilience_in_transgender_indivi_page.md)<details><summary>查看摘要</summary>
 
@@ -524,18 +395,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Suicidal_ideation_and_attempted_suicide_amongst_Chinese_transgender](Suicidal_ideation_and_attempted_suicide_amongst_Chinese_transgender_page.md)<details><summary>查看摘要</summary>
 
 本研究论文探讨了中国跨性别群体中自杀意念与自杀尝试的情况，是首个在中国进行的针对跨性别个体心理健康与自杀问题的全国性研究。研究使用结构性问卷对1309名参与者的生活经历、性别认同、家庭背景以及心理健康状况进行了深入调查。研究结果显示，56.4%的参与者有过自杀意念，16.1%曾尝试自杀，这些比例远高于中国一般社区样本的水平。本研究揭示了多种与自杀意念及自杀尝试相关的风险因素，如对生物性别的厌恶、寻求性别重置手术、与父母的强烈冲突及重度抑郁等。结论强调了这些发现对中国心理健康专业人员的重要临床意义，并提出了改善跨性别个体心理健康的建议。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2018
@@ -549,18 +414,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [跨性别女性人群心理特征及相关行为分析](跨性别女性人群心理特征及相关行为分析_page.md)<details><summary>查看摘要</summary>
 
 本研究文献标题为《跨性别女性人群心理特征及相关行为分析》，由吕翠霞、张晓菲和傅继华撰写，发表于2018年12月的《中华公共卫生杂志》。其主要目的是调查跨性别女性（男转女）群体的心理特征和行为模式，并通过滚雪球抽样法，在2016年至2017年间对山东省的160名跨性别女性进行了问卷调查。结果显示，调查对象的平均年龄为27岁，绝大多数是汉族（93.1%），未婚者占80%。调查中发现74.4%的受访者性取向为男性，64.3%的人有过无保护性肛交行为，16.3%的人接受过变性手术。结果还指出54.9%的人认为自己属于女性心理性别，而48.8%则心理性别模糊。研究表明，跨性别女性存在艾滋病感染危险，尤其是完全女性心理性别者，因此建议加强对该群体的多方面宣传、教育和干预措施。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -571,18 +430,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [性别重置术中阴蒂再造的临床研究_张连杰](性别重置术中阴蒂再造的临床研究_张连杰_page.md)<details><summary>查看摘要</summary>
 
 该文件是由海军军医大学附属长海医院的张连杰等人撰写的一篇医学研究论文，主要探讨了一种针对男性转女性性别重置手术中阴蒂再造的新方法。本研究设计了一种以阴茎背神经血管束为蒂、带部分包皮的“月牙形”龟头复合组织瓣，来进行阴蒂的再造。研究结果表明，这种方法在68例手术中，所有再造的阴蒂均成活，外观逼真且感觉敏锐。术后随访显示，患者在性生活中能实现无痛勃起，并能获得良好的生理功能。由于手术方法血运可靠且易于掌握，研究建议该方法可以进行推广。论文还对阴蒂再造的术式演变和相关手术注意事项进行了讨论。此文发表于《中国美容医学》2018年11月第27卷第11期。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -593,18 +446,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Minority_Stress_and_Mental_Health_among_Transgender_Persons](Minority_Stress_and_Mental_Health_among_Transgender_Persons_page.md)<details><summary>查看摘要</summary>
 
 本文件为埃丽莎白·爱丽丝·萨帕雷托（Elizabeth Alice Sapareto）在沃尔登大学（Walden University）提交的博士论文，题为《跨性别者的少数群体压力与心理健康》。该研究探讨了作为少数群体的跨性别者面临的负面健康与心理健康后果，强调深刻的社会歧视与污名化导致的制度性障碍，以及获得医疗服务的困难。论文指出，虽然已有研究证明少数群体压力与心理健康之间的强关联，但针对跨性别群体的相关研究仍然不足。通过对29名跨性别参与者的在线调查，研究采用了包括内化的跨性别恐惧、受污名化和偏见事件等三种少数群体压力指标，以及抑郁、suicidal thought（自杀意念）、焦虑和药物滥用等五种心理健康指标。研究发现，高感知污名分数的参与者自杀意念分数更高，此结果提示需要通过社交变革倡议，提高对这一很少被理解的少数群体的认识，从而促进医疗机构、专业人士和跨性别客户在医疗服务背景下的积极变化。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2017
@@ -622,9 +469,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_雌二醇凝胶临床应用指导建议](PDF_雌二醇凝胶临床应用指导建议_page.md)<details><summary>查看摘要</summary>
 
@@ -633,18 +477,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Acceptability_of_Daily_Use_of_Free_Oral_Pre-exposure_Prophylaxis__PrEP__Among_Transgender_Women_Sex_Workers_in_Shenyang,_China](Acceptability_of_Daily_Use_of_Free_Oral_Pre-exposure_Prophylaxis__PrEP__Among_Transgender_Women_Sex_Workers_in_Shenyang,_China_page.md)<details><summary>查看摘要</summary>
 
 本文件为一篇关于在中国沈阳的跨性别女性性工作者中，免费口服预暴露预防（PrEP）日常使用的可接受性的研究论文。研究旨在调查183名HIV阴性或抗体状况不明的参与者在接受有关PrEP的简要介绍后的认可程度。结果表明，跨性别女性性工作者日常使用免费口服PrEP的可接受性为61.2%。影响其可接受性的因素包括教育水平、月收入以及对PrEP副作用的担忧等。本文探讨了性工作相关的暴力经历、对客户感染HIV的风险认知和潜在的焦虑等因素对可接受性的影响。研究指出，未来的PrEP推广活动应该考虑这些因素，以便更好地为这一关键人群提供服务。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2016
@@ -658,18 +496,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [A_cross-sectional_study_of_associations_between_casual_partner,_friend_discrimination,_social_support_and_anxiety_symptoms_among_Chinese_transgender_women](A_cross-sectional_study_of_associations_between_casual_partner,_friend_discrimination,_social_support_and_anxiety_symptoms_among_Chinese_transgender_women_page.md)<details><summary>查看摘要</summary>
 
 此文件是关于中国跨性别女性的焦虑症状及其与社会支持、友人歧视和与随便伴侣的关联的横断面研究。文中指出，焦虑症状在跨性别女性中非常普遍，尤其是面对因性别身份和过渡而遭受的歧视和社会支持的缺失。该研究招募了209名来自沈阳的跨性别女性，使用了自评焦虑量表（SAS）来评估其焦虑症状。研究发现，中国跨性别女性的焦虑症状发生率高达34.5%。通过多元回归分析，研究表明随便伴侣的存在、友人歧视和社会支持显著影响焦虑症状的表现。文中提出改善社会支持、减少友人歧视和确定高风险的性伴侣特征，有助于减轻焦虑症状，提升跨性别女性的心理健康。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -680,18 +512,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Reisner_-_Global_health_burden_and_needs_of_transgender_populations-_a_review](Reisner_-_Global_health_burden_and_needs_of_transgender_populations-_a_review_page.md)<details><summary>查看摘要</summary>
 
 本文是对跨性别群体健康负担和需求的综述，研究表明跨性别者在多个健康指标上面临显著的负担，包括HIV和其他性传播感染、心理健康压力以及物质使用和滥用。跨性别者是一个多样化的人群，生活在高收入、中等收入和低收入国家中。尽管跨性别者在全球范围内的准确人口统计数据缺乏，但已有研究显示，跨性别者普遍经历系统社会经济边缘化、病理化、污名和暴力等多重危险因素。这项综述特别强调了跨性别者在健康风险和韧性方面的独特生物、行为、社会、法律和结构因素。在探讨健康不平等时，研究者指出，改善跨性别群体的健康状况需要采用全面的公共卫生方法，包括性别确认服务的获取、基于证据的医疗服务和与当地跨性别社区的有效伙伴关系。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2015
@@ -705,18 +531,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [脱细胞同种异体真皮与口腔黏膜及自体皮肤混合微粒移植再造阴道](脱细胞同种异体真皮与口腔黏膜及自体皮肤混合微粒移植再造阴道_page.md)<details><summary>查看摘要</summary>
 
 本文件为中国修复重建外科杂志上的一篇学术论文，报告了2006年7月至2013年6月期间对67例先天性无阴道患者所进行的阴道再造手术的研究。研究主要探讨了联合使用脱细胞同种异体真皮与口腔黏膜及自体皮肤混合微粒进行阴道再造的手术效果。结果显示，试验组术后脱离模具的时间显著短于对照组，且两组在术后性功能方面无显著差异。这项研究表明，脱细胞同种异体真皮能够有效提高再造阴道的稳定性，并可能改善患者的术后体验和生活质量。文中详细描述了手术方法、效果评价及随访结果，为后续相关研究和临床实践提供了重要参考。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -727,18 +547,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Sex_Partnership_and_Self-Efficacy_Influence_Depression_in__Chinese_Transgender_Women](Sex_Partnership_and_Self-Efficacy_Influence_Depression_in__Chinese_Transgender_Women_page.md)<details><summary>查看摘要</summary>
 
 本文件为一篇研究文章，标题为《性伴侣和自我效能影响中国跨性别女性的抑郁：一项横断面研究》。研究的主要目的是描述中国跨性别女性中的抑郁现状，并探索与抑郁相关的因素。文章指出，跨性别女性由于性别转变而遭受社会排斥，面临巨大的心理挑战，导致抑郁在该群体中非常普遍，报告的抑郁发生率高达45.35%。研究通过对209名中国跨性别女性进行面对面访谈，使用Zung自评抑郁量表（SDS）、过渡状态、性伴侣情况及感知的跨性别相关歧视等多个维度的数据，分析了影响她们抑郁程度的因素。其中，性伴侣状况（是否有规律或偶然的伴侣）是影响抑郁分数的主要因素，自我效能感则显示出对降低抑郁的积极效果。研究结论呼吁关注提高跨性别女性的自我效能感，以协助她们应对抑郁和识别风险性伴侣特征。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2014
@@ -753,9 +567,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2014年变性手术问题分析_医师报](2014年变性手术问题分析_医师报_page.md)<details><summary>查看摘要</summary>
 
@@ -764,18 +575,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [阴囊皮瓣结合黏膜／皮肤微粒法再造阴道在男变女变性手术中的应用](阴囊皮瓣结合黏膜／皮肤微粒法再造阴道在男变女变性手术中的应用_page.md)<details><summary>查看摘要</summary>
 
 该文件主要探讨了阴囊皮瓣结合黏膜/皮肤微粒法在男变女变性手术中的应用，侧重于阴道再造术的各种方法及其优缺点。文中指出，变性手术是治疗易性癖的重要方式之一，但同时也存在一个不可逆转的特性，因此需要非常小心和依照相关法律法规进行手术。作者详细介绍了阴道再造的目标，即在再造过程中确保不遗留供区瘢痕或功能不良，并比较了肠管法、阴股沟皮瓣法等常用的外阴成形方法，强调阴囊皮瓣法因其组织供给充足、成活率高等优点而成为首选。在文中，作者还提到术后复发等显著注意事项，以及结合其他技术的改进成果，特别是结合自体口腔黏膜微粒的方法在阴道再造中的成功应用。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2013
@@ -789,18 +594,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [從「性別認同障礙」到「性別不安」](從「性別認同障礙」到「性別不安」_page.md)<details><summary>查看摘要</summary>
 
 该文件主要探讨了「性别认同障碍」到「性别不安」的转变，反映了对性别认同变化中非二元性别认同的逐步去病化过程。作者黄璨瑜医师从专业的医学角度出发，指出在DSM-5的背景下，性别差异认同不再被视为一种障碍或疾病，而是应当被视作一种正常的性别认同现象。文中详细讨论了从医学和社会的角度如何理解和接受不同的性别认同，尤其是提到儿童和青少年在性别认同上的特殊性及其所面临的社会挑战。黄医师还提到了在医疗实践中，如何逐渐认识到社会和心理性别的存在，强调个体的性别认同不应被局限于生物性别的定义。此外，作者呼吁社会在对待儿童的性别不一致表现时，应该持有更开放的态度，避免过度急于给与标签和诊断。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2012
@@ -814,18 +613,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_變性者跨性別者_和非性別常規者的健康照護準則_-_AWS](PDF_變性者跨性別者_和非性別常規者的健康照護準則_-_AWS_page.md)<details><summary>查看摘要</summary>
 
 该文件是《变性者、跨性别者和非性别常规者的健康照护准则》第七版的中文翻译，由世界跨性别健康专业协会（WPATH）发布，主要旨在提供有关性别不安、跨性别医疗的专业指导和临床标准。文件详细介绍了跨性别者在医疗领域所需的照护标准，包括心理健康、激素治疗、手术治疗及后续护理等方面的建议。主要论点包括呼吁结合文化相对性调整照护指南、对待非性别常规者的态度，以及如何根据个体需求提供量身定制的医疗服务。同时，它也强调了社会和公共政策在保护跨性别者健康中的重要性。文件还探讨了性别不安在儿童和青少年中的表现及其治疗方案，强调心理健康专业人员的能力与责任。文件的各章均配有丰富的参考文献，适合医务工作者、学者及跨性别团体参考。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -836,9 +629,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [性别认同障碍_人格_心理病理及社_省略_适应水平的术前术后变化的比较研究_Iris_Monteiro](性别认同障碍_人格_心理病理及社_省略_适应水平的术前术后变化的比较研究_Iris_Monteiro_page.md)<details><summary>查看摘要</summary>
 
@@ -847,18 +637,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [阴茎阴囊皮瓣在男变女变性术中的应用](阴茎阴囊皮瓣在男变女变性术中的应用_page.md)<details><summary>查看摘要</summary>
 
 这篇文献详细探讨了阴茎阴囊皮瓣在男变女变性术中的应用，旨在研究如何有效地进行阴蒂、阴道及外阴的再造手术。研究者们对1996年到2010年期间进行的14例男变女变性术的患者进行了全面的临床跟踪与分析。文中提到，所有受术者的术后恢复和生活质量均得到了显著提升，尤其是在性生活的满意度方面。研究结果显示，再造的阴道和外阴的外观与功能均达到了预期效果，手术的成功率也得到了证实，阐明了该技术在进行变性手术中的潜在优势。文献通过分析术后结果，表明该方法有助于更好地融入患者的生活，改善他们的生理和心理健康。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2011
@@ -872,18 +656,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_真两性畸形1例_-_协和医学杂志](PDF_真两性畸形1例_-_协和医学杂志_page.md)<details><summary>查看摘要</summary>
 
 该文件为《协和医学杂志》上发表的病例报告，描述了一例真两性畸形的临床情况。真两性畸形是一种特殊的性发育异常，患者既有睾丸组织又有卵巢组织，可能导致多种临床表现。文件中提到患者为13岁女性，由于月经未潮而入院检查，经过一系列的医学检查和手术，最终确认其为真两性畸形。在手术过程中，医生进行了腹腔镜及宫腔镜检查等，发现了患者体内存在的阴蒂、卵巢与睾丸样结构。手术后，患者及家属选择保留女性性别，并进行后续的定期随访。该病例被用来探讨真两性畸形的诊断与治疗方案，并对该病的发病机制及相关文献进行了讨论。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -894,18 +672,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [变性人健康照护标准_WPATH_第七版](变性人健康照护标准_WPATH_第七版_page.md)<details><summary>查看摘要</summary>
 
 这篇文件是由国际跨性别健康专业协会（WPATH）发布的第七版《变性人、跨性别者和性别非顺从者的健康照护标准》。文件详细阐述了为跨性别和多元性别群体提供优质医疗服务的必要性，以帮助相关人群达到个人的性别认同和满足心理健康需求。文中介绍了性别不顺应和性别焦虑的区别，并探讨了这些概念在不同文化中的接受度和适用性。特别强调了跨性别健康照护的标准应根据地方文化和病人的个体需求灵活调整。同时，文件中还提供了涉及性别焦虑的治疗方法，包括荷尔蒙治疗、手术及心理健康服务等，意在帮助患者寻找到符合其性别认同的舒适自我。最后，文件也提到了一些关于社会法律环境的讨论，指出了保护跨性别权益与改善健康标准之间的关系。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -916,18 +688,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [男变女阴道成形术失败再行腹腔镜下回肠代阴道成形术1例](男变女阴道成形术失败再行腹腔镜下回肠代阴道成形术1例_page.md)<details><summary>查看摘要</summary>
 
 该文件是一篇学术论文，主要讨论了男变女阴道成形术失败后的再行手术：腹腔镜下回肠代阴道成形术的具体案例。文中重点描述了一名24岁男性患者因对阴道成形术后效果不满意而请求进一步手术。在首次手术中，他进行了阴茎睾丸切除、阴道成形和相关整形术，但术后感觉阴道干涩、狭小，对性生活不满意，导致其再次住院进行手术。该手术的技术细节和过程被详细阐述，包括麻醉方案、手术方法及术后恢复情况。此外，文献还提到易性癖作为性别认同障碍的一种，变性手术被视为其主要治疗手段，强调了手术难度和个别差异的影响。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2010
@@ -941,9 +707,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Recommendations_for_Revision_of_the_DSM_Diagnoses_of_Gender_Identity_Disorders_Consensus_Statement_of_the_World_Professional_Association_for](Recommendations_for_Revision_of_the_DSM_Diagnoses_of_Gender_Identity_Disorders_Consensus_Statement_of_the_World_Professional_Association_for_page.md)<details><summary>查看摘要</summary>
 
@@ -954,18 +717,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [Response_of_the_World_Professional_Association_for_Transgender_Health_to_the_Proposed_DSM_5_Criteria_for_Gender_Incongruence](Response_of_the_World_Professional_Association_for_Transgender_Health_to_the_Proposed_DSM_5_Criteria_for_Gender_Incongruence_page.md)<details><summary>查看摘要</summary>
 
 本文件为《国际跨性别杂志》（International Journal of Transgenderism）上发表的文章，标题为《世界跨性别健康专业协会对拟议中的DSM-5性别不一致标准的回应》。该文的主要作者包括Griet De Cuypere、Gail Knudson和Walter Bockting，并讨论了DSM-IV-TR当前性别身份障碍诊断的主要问题。他们对拟议的DSM-5性别不一致标准提供了反馈，认为这一标准更好地考虑了性别和跨性别身份的多样性，展现了从病态化到确认跨性别身份谱系的转变。文章中指出，新的诊断标准可以减少对表现出性别变异的儿童的误诊，并强调跨性别身份并不构成精神疾病。整体而言，作者表达了对DSM工作组努力改进和响应临床实践中面临的性别身份障碍问题的尊重。文件还包括对拟议变更的具体批评点及其阐释。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2009
@@ -979,9 +736,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2008
 
 
@@ -991,9 +745,6 @@ search:
 此文档是关于一例真两性畸形合并先天性无子宫的病例报告，详细记录了患者的基本信息、临床表现、检查结果和治疗经过。患者为一名72岁的女性，因右下腹疼痛入院，经过腹部超声检查发现右腹股沟区有肿块。手术过程中，医生在右侧腹股沟管内发现肿块并切除，病理检查证实该肿块为卵巢和睾丸样组织，符合真两性畸形的特征。文中还讨论了真两性畸形的罕见性、诊断方法及其性别特征的复杂性，并针对该患者的具体情况进行了详细分析。文献中引用了多篇相关研究，以支持内容的科学性和准确性。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2007
@@ -1007,9 +758,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [超声诊断小儿真两性畸形1例_-_中国医学影像技术](超声诊断小儿真两性畸形1例_-_中国医学影像技术_page.md)<details><summary>查看摘要</summary>
 
@@ -1018,18 +766,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [2007年变性人及手术态度研究_冯泽永](2007年变性人及手术态度研究_冯泽永_page.md)<details><summary>查看摘要</summary>
 
 该文件为2007年8月出版的《医学与哲学(人文社会医学版)》重点讨论变性人和变性手术应持的态度。文章由冯泽永教授撰写，强调应以人道主义价值观来确立对变性人士的态度，尊重其在充分知情的条件下作出的自主选择。内容中提到：对于变性人和变性手术的认识，必须确立包容与和谐的价值观，积极推进健康教育，预防易性癖的发生，同时通过法律、道德与文化等综合措施帮助变性人适应社会。作者详细论述了变性手术的多重社会及个人影响，指出变性手术并不是一种理想的选择，并提出对这类手术的严格管理和伦理把关的重要性。文中提及了变性人术后的心理与社会适应问题，以及社会对于变性人的认知障碍和接纳的必要性。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1044,9 +786,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2006
 
 
@@ -1058,18 +797,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [图解现代人心理新话题](图解现代人心理新话题_page.md)<details><summary>查看摘要</summary>
 
 本书是“图解现代人心理新话题”丛书中的一部分，由张明主编，详细探讨了现代人常见的心理问题，尤其是成瘾心理。书中涉及到多种成瘾行为，包括毒品、烟酒和网络成瘾等。从成瘾的生理与心理基础，成瘾行为的表现，以及成瘾对个体和社会的影响进行了深入分析。文中提出：成瘾是一种复杂的行为模式，它不仅影响个人的生活和心理健康，还与家庭、社会等环境因素密切相关。书中通过生动的图文结合，将专业的心理学知识以通俗易懂的方式呈现，帮助读者识别成瘾的症状和相关的危害，同时提供了一些应对和矫治的方法。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1080,9 +813,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_药物性女性假两性畸形9例临床分析](PDF_药物性女性假两性畸形9例临床分析_page.md)<details><summary>查看摘要</summary>
 
@@ -1091,18 +821,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [变性手术的术中配合与护理](变性手术的术中配合与护理_page.md)<details><summary>查看摘要</summary>
 
 该文件是关于变性手术术中配合与护理的学术论文，作者李秋明来自北京大学深圳医院手术室。文章主要总结了八例变性手术的术中配合和护理要点，目的是期望通过细致的心理护理、物品准备和严格的无菌管理来提高手术的配合质量。文本中提到的关键点包括患者在手术前的访视、心理护理、器械检查与使用等多个重要方面，强调了卫生和护理在手术中所起的至关重要的作用。研究结果显示，所有患者手术期间未发生并发症，各项生命体征稳定，且术后恢复情况良好。文中详细列出了患者的基本资料、手术步骤及护理配合的具体技巧，进一步为医务工作者提供了在变性手术背景下的实用参考。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2004
@@ -1116,9 +840,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2002
 
 
@@ -1130,18 +851,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [变性手术患者的心理护理](变性手术患者的心理护理_page.md)<details><summary>查看摘要</summary>
 
 该文件是关于变性手术患者心理护理的学术研究，作者为王大方、曹艳和扬国荣，发表于2002年6月的《护理杂志》。文章探讨了变性手术患者因生物性别与心理性别不符而产生的心理问题，以及针对这些问题所采取的护理措施。内容中提到，许多患者在变性手术前常伴有焦虑、恐惧、抑郁等情绪，存在对手术的恐惧与对未来生活的不确定感。作者详细阐述了术前心理护理的重要性，包括倾听患者的情感、提供交流支持以及营造良好的病房环境等，目的是帮助患者缓解术前紧张情绪；同时也强调了术后护理中的情绪稳定与内分泌管理，以促进康复。此外，文章中还讨论了医疗机构对患者身份和心理状态的尊重，这对于手术的满意度和成功率有着重要影响。整体而言，此研究为改进变性手术患者的护理策略提供了实用的参考。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2001
@@ -1155,9 +870,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 1999
 
 
@@ -1167,9 +879,6 @@ search:
 该文件为基督徒医学联谊会于1999年发布的期刊文章，由安德烈·西姆斯撰写，主题围绕性别意识障碍展开。文章首先探讨了后现代社会对性别认同的理解，指出法律允许性别意识障碍者更改出生证明上的性别，但是否手术、荷尔蒙更改真的能够解决他们的问题仍是疑问。文章接着结合了医学、社会和法律的视角，讨论了变性人的生理及心理特征，同时引用了相关病例和数据来分析变性人存在的生存现状。西姆斯还提到神对人类性别的设定以及基督教对性别认同的看法，认为这种情况涉及道德和伦理的考量，针对不同的观点进行辩论。此外，文中不乏对变性人面临的社会歧视以及对法律保护不足的批判，强调了保障变性人基本人权的重要性。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 时间未知，按收录顺序排列
@@ -1183,18 +892,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [术语英文术语及背景知识存在年龄差异的关系Age-disparate](术语英文术语及背景知识存在年龄差异的关系Age-disparate_page.md)<details><summary>查看摘要</summary>
 
 该文件为一份关于与艾滋病毒(HIV)相关的术语及其背景知识的文献，涉及多个重要概念，包括性别认同、性别平等、性行为、艾滋病的预防和治疗等。内容详细介绍了如“存在年龄差异的关系”——指年龄至少相差五年的伴侣关系，以及关于艾滋病病毒的众多概念，如‘抗逆转录病毒药物’（ARVs）、‘更安全的性行为’、‘社区体系强化’等。文件强调了合理的语言使用和对相关人群（如男男性行为者、跨性别者等）的敏感表述，避免使用带有歧视或污名化的术语，提倡以人权为基础的做法。文件中还提到反映社会中性别不平等的现象，如“针对女性的暴力”和“对女性的歧视”，并阐述了基于性别的暴力与艾滋病传播之间的关系。整体来看，这份资料不仅提供了对相关词汇的定义，还突出了 HIV 预防和治疗中的社会、文化和法律等多方面问题的重要性，旨在提高对艾滋病毒及性别认同问题的公众意识.
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1205,18 +908,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [跨性别女性_3_未治疗或治疗后未达到病毒抑制的_感染者](跨性别女性_3_未治疗或治疗后未达到病毒抑制的_感染者_page.md)<details><summary>查看摘要</summary>
 
 本文件探讨了针对未治疗或治疗后未达到病毒抑制的跨性别女性感染者的医疗状况。文中详细介绍了跨性别女性在接受医疗服务时面临的挑战，包括对病毒的感染风险、医疗系统的支持不足以及对心理健康的影响。研究分析了现有的数据，揭示了跨性别者特别是在艾滋病毒感染方面的脆弱性，并提出了改进医疗资源分配和治疗方案的建议。相关文献指出，许多跨性别女性由于缺乏有效的医疗干预和心理支持，往往无法达到应有的健康标准。同时，文中还提供了一些成功的案例，分享了跨性别女性如何克服困难，获得必要的医疗支持与社交资源。整体而言，文件旨在引起社会对跨性别女性健康问题的关注，并推动公共政策的改进，以更好地满足这一群体的特殊需求。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1227,18 +924,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [性及性身份识别障碍](性及性身份识别障碍_page.md)<details><summary>查看摘要</summary>
 
 本文件为一篇关于“性及性身份识别障碍”的学术文献，详细探讨了不同诊断系统对性和性身份识别障碍的定义与分类，包括 DSM-IV、ICD-10 和 CCMD-3。文中首先概述了性及性身份识别障碍的基本概念，并讨论了包括同性恋在内的多元性别身份的社会历史变迁。此外，文件还对同性恋的诊断变化进行了回顾，提到在20世纪70年代以后，精神病学界逐渐开始将同性恋视为正常而非心理障碍。同时，文件深入讨论了性身份认同障碍的临床表现、潜在原因以及治疗与干预措施，包括手术治疗及心理社会治疗的必要性和复杂性。此文献不仅提供了医学上对性和性别身份的理解，也反映了社会对这些概念认知的变化，是研究性别与性取向相关问题的重要参考资料。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1249,18 +940,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [美国心理学会性少数人群心理实践指南](美国心理学会性少数人群心理实践指南_page.md)<details><summary>查看摘要</summary>
 
 该文件为美国心理学会（APA）发布的针对性少数人群的心理实践指南，旨在为心理健康专业人员提供科学依据和实践指导以更好地服务于跨性别及其他性少数群体。从心理健康评估、干预方法到临床实践中的伦理考量，该指南均做出了详细阐述。虽然由于技术原因未能提取文件文本，但可以推测其中包含了针对跨性别人士在接受心理健康服务时所需注意的专业建议和技术细节。此外，该文件可能涉及不同性少数群体的特性、需求以及相应的心理健康干预策略，强调了提供一个包容、尊重和安全环境的重要性。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1271,18 +956,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [两性畸形的超声特征_-_中国医学影像技术](两性畸形的超声特征_-_中国医学影像技术_page.md)<details><summary>查看摘要</summary>
 
 该文件名为《两性畸形的超声特征》，主要探讨了两性畸形患者的临床超声检查及特点。文中提出研究的目的在于通过回顾性分析数例两性畸形患者的超声和病理资料，总结其超声特征。结果表明，真两性畸形有多种临床表现，其中包括双侧卵睾、一侧卵睾或隐睾等。同时对于假两性畸形的患者，超声检查也显示出盆腔内子宫和卵巢的不同程度发育不良，具体超声表现包含对称性和位置的变化等。结论指出，超声检查对于诊断两性畸形具有重要的临床价值，能够准确探查患者性腺及内生殖管道的特征。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1293,9 +972,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_睾酮真的能帮助我们吗](PDF_睾酮真的能帮助我们吗_page.md)<details><summary>查看摘要</summary>
 
@@ -1304,18 +980,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_罹患前列腺癌的LGBTIQA_人群](PDF_罹患前列腺癌的LGBTIQA_人群_page.md)<details><summary>查看摘要</summary>
 
 本文件为面向LGBTIQA+人群的前列腺癌诊疗指南，旨在提供有关前列腺癌的实用信息和支持。文件运用简体中文编写，包含多方面的内容，首先介绍了前列腺及前列腺癌的基本知识，包括其定义、风险因素、症状与阶段。特别地，文件明确提到，前列腺癌晚期及转移性前列腺癌的相关信息对LGBTIQA+人群的重要性，以及在经历该疾病时可能面临的特定挑战，如医疗系统对非异性恋者的忽视与歧视等。接下来的章节涉及治疗选项、潜在副作用（如对性功能的影响）和如何在治疗期间照顾自身，包括饮食、锻炼及心理健康等方面的建议。此外，文件详细阐述了跨性别女性的特别注意事项，以及HIV携带者在接受治疗时的注意事项，帮助他们更好地理解治疗影响，并引导他们如何应对生活中的各种变化。最后，文件提供了相关支持团体的信息，鼓励LGBTIQA+社区成员寻求相应的社会支持和医疗帮助。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1330,18 +1000,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_性癖症之精神病理及治療相關議題](PDF_性癖症之精神病理及治療相關議題_page.md)<details><summary>查看摘要</summary>
 
 该文件《性癖症之精神病理及治療相關議題》主要探讨了性癖症（Paraphilic Disorder）作为一种精神病理现象的相关问题。尽管在文件内容中未能提取有效文本，但可以推测其涵盖了性癖症的定义、分类、病因、流行病学特征、临床表现、以及可能的治疗方法等多个方面。这些内容对于理解跨性别群体在医疗过程中的特殊需求与挑战具有重要意义，因为性癖症可能涉及其性身份认同与表达的复杂性。此外，文件可能涉及对跨性别者医疗经验的探讨，及其在面对性癖问题时所需的支持与资源。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1352,18 +1016,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_认识性别认同障碍-_醫院管理局](PDF_认识性别认同障碍-_醫院管理局_page.md)<details><summary>查看摘要</summary>
 
 本文讨论了性别认同障碍的定义和特征，强调跨性别者在心理上对生理性别的认同与其社会角色的不一致。特别提到，该障碍是一个人对其生理性别感到不安，并有强烈和持续的跨性别角色认同的表现。文件详细列出了性别认同障碍的诊断条件，包括心理评估和临床观察。同时，内容涉及医院管理局在香港设立的性别认同障碍诊所，提供专业的评估及治疗服务。文中提到的医疗措施包括荷尔蒙治疗、实际生活体验和心理治疗等步骤，旨在帮助跨性别人士适应其认同的性别角色，确保他们能在社会和专业生活中找到归属感。此外，对于选择接受变性手术的个体，文件介绍了相关的临床评估及其流程，强调了医患之间的共识在治疗过程中的重要性。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1374,18 +1032,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [女同性恋与双性恋女性健康议题报告_国际同性恋者协会](女同性恋与双性恋女性健康议题报告_国际同性恋者协会_page.md)<details><summary>查看摘要</summary>
 
 本报告由国际同性恋者协会（ILGA）发布，详细探讨了全球女同性恋与双性恋女性在健康方面面临的独特挑战和关注。这份报告总结了针对女同性恋和双性恋女性健康问题的各类研究和调查，包括与爱滋病和性传播感染病（STI）相关的健康问题，以及政治和社会问题对女性健康的影响。该文中提到的内容覆盖范围广泛，从对女性身体控制的探讨到精神健康和社会暴力问题，力求展现女性在不同地区所面临的生存现状。报告还包含对国际政府机构的建议，旨在推动女同性恋与双性恋女性健康权益的改善与关注。文中提到的多个案例和数据强调了女同性恋与双性恋女性在健康领域所遭遇的双重歧视及其长期亟需的支持和资源。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1396,18 +1048,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [男性性别认同与心理健康研究_Pink_Therapy](男性性别认同与心理健康研究_Pink_Therapy_page.md)<details><summary>查看摘要</summary>
 
 该文献《男性性别认同与心理健康研究》探讨了男性性别认同对心理健康的影响，尤其关注跨性别男性和非二元性别者的特殊需求与经历。文章综合了不同的研究数据，分析了性别认同与心理健康之间的关联，包括焦虑、抑郁、自我认同感等方面的问题。同时，研究还涉及了在医疗环境中，跨性别者所面临的挑战与障碍，并提出了一些应对策略和建议，以改善这一群体的心理健康服务。文中引用了2019年的一项调查数据，显示了跨性别男性在心理健康领域中面临的压迫与边缘化现象，为社会提供了更全面的理解与支持措施的参考。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1418,18 +1064,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [雌性与草药治疗_林从欣_Patrick_动态研究](雌性与草药治疗_林从欣_Patrick_动态研究_page.md)<details><summary>查看摘要</summary>
 
 该文件是对草药治疗在跨性别个体中的应用进行了深入探讨，文章通过对多种植物及其成分的分析，讨论了这些天然化合物如何影响荷尔蒙水平及其潜在的医疗效果。文中提到，某些植物如鸢尾和锯棕榈具有抗雄激素的特性，可以用于缓解跨性别女性在过渡过程中可能面临的生理不适，例如通过草药减轻乳房发育带来的疼痛。此外，作者反思了草药医术如何在不同历史时期与性别转换的关联，探讨“草药医术的古代性”与“性别转换的现代性”的关系。文中引述了多项相关研究，进一步强调了自然疗法在现今医学中的重要性和复杂性。整体来看，文章不仅是对跨性别个体的医疗资源进行考察，还涵盖了更广泛的社会文化和科学理论的视角，突显出性别与身体的流动性和相互作用。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1440,18 +1080,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [hormones_MTF](hormones_MTF_page.md)<details><summary>查看摘要</summary>
 
 该文件是一本针对跨性别女性（MTF）激素治疗的指南，详细讲解了激素的作用、预期效果、相关风险以及如何与医疗提供者合作。文件中介绍了激素的基本生物学功能，强调了性激素在生理变化中的重要性。对于考虑进行激素治疗的MTF，文中提供了不同类型药物的使用情况，主要包括雌激素、抗雄激素和孕激素，并详细阐述了它们对身体的影响及使用方法。此外，该资料指出，激素治疗的效果和反应因个体差异而异，强调与具备跨性别健康培训的医疗专业人士合作的重要性。由于激素治疗可能导致多种生理和心理变化，文件也讨论了潜在的副作用和风险，包括激素对肝脏的影响和社会环境中的歧视风险。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1462,18 +1096,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [女性生殖器整形美容_陈敏亮_主译_徐潇_副主译_Z_Library](女性生殖器整形美容_陈敏亮_主译_徐潇_副主译_Z_Library_page.md)<details><summary>查看摘要</summary>
 
 该文件是关于女性生殖器整形美容的学术研究，主要关注相关的医学技术、手术方法以及对女性身心健康的影响。文中涉及到的内容包括生殖器的构造与功能、各种整形美容手术的适应症及 contraindications、术后恢复过程及对心理健康的影响等。此文探讨了在进行这样的医疗程序时，患者需要了解的全面信息，以及医务工作者在实施这些手术时所需的专业知识。该文为从事相关医学领域的研究工作者和医疗服务提供者提供了重要的参考资料，理清了整形美容手术的实际应用与潜在风险，强调了在医美行业中应更加重视患者的知情权和心理健康的维护。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1484,18 +1112,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [性激素与免疫系统关系的研究进展](性激素与免疫系统关系的研究进展_page.md)<details><summary>查看摘要</summary>
 
 该文件为一篇综述文章，探讨了性激素与免疫系统之间的关系。文章详细分析了性激素如何通过多种机制影响免疫应答和自身免疫机制，提出了免疫与神经内分泌网络的关系，并引用了多项实验研究结果，以证实性激素的作用。讨论内容包括雌激素和雄激素的作用机制、影响及其在不同剂量和性别下的表现差异。文章强调了在研究性激素时需考虑性别的差异及对免疫网络各个组成要素的作用，是一项对医学和免疫学领域有重要价值的研究。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1506,18 +1128,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [性激素对机体免疫系统功能的影响](性激素对机体免疫系统功能的影响_page.md)<details><summary>查看摘要</summary>
 
 本文件为一篇关于性激素对机体免疫系统功能影响的综述论文，由牛建英撰写，刘志红审校。文章探讨了性激素对免疫功能的调节作用，特别是性别对自身免疫性疾病发病率的影响。临床研究表明，自身免疫性疾病在男女之间有明显的发病率差异，例如类风湿性关节炎及系统性红斑狼疮等，文中详细阐述了性别如何影响免疫应答，性激素如雌激素和雄激素的双向作用如何调节免疫细胞活性。文中提到，性激素通过与免疫细胞表面特异性受体结合，改变免疫应答的机制。这些研究对理解自身免疫性疾病的发病机制和寻找新的治疗方法具有重要意义。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1528,18 +1144,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [易性癖外科治疗三例_李宏生](易性癖外科治疗三例_李宏生_page.md)<details><summary>查看摘要</summary>
 
 该文件名为《易性癖外科治疗三例》，由李宏生撰写，主要讨论了与易性癖相关的外科治疗案例。在医学文献中，易性癖被视为一种性别认同问题，这些案例记录了三位转性者在进行外科治疗的经历和结果。文件虽然存在提取文本的错误，但从标题可以推测，这些案例将涉及术前评估、手术过程及效果评估等方面的重要内容。这些信息对跨性别群体的医学干预理解具有一定的参考价值，尤其是在探索手术对于个人身份认同及生活质量的影响等方面。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1550,18 +1160,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [易性癖的外科治疗进展_章建林](易性癖的外科治疗进展_章建林_page.md)<details><summary>查看摘要</summary>
 
 该文献标题为《易性癖的外科治疗进展》，由章建林撰写，主要探讨了与易性癖相关的外科医疗技术的最新研究和进展。文中可能包含对易性癖的定义、外科手术的类型、术后的护理和恢复过程，以及国内外相关病例的分析。尽管未能提取出具体的文本内容，依据文献标题可以推测，这份资料旨在为医学专业人士提供有关易性癖患者外科治疗的最新动态与实践指南，促进医疗资源的合理利用和跨性别者的健康关注。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1572,18 +1176,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [男女变性手术的护理15例](男女变性手术的护理15例_page.md)<details><summary>查看摘要</summary>
 
 本文件为学术文献，内容涉及男—女变性手术的护理经验，共计分析了15例变性患者的护理案例。文件首先介绍了变性手术的背景，包括人的心理状态、社会环境以及变性手术的技术细节。文中提到，易性癖患者在心理上对自身性别的认定与其生理性别存在显著差异，常伴随孤独、焦虑等情绪。手术后，患者需要进行适当的护理与心理支持，以帮助他们顺利过渡并恢复健康。作者总结了手术的护理措施和术后恢复过程中的重要注意事项，包括心理支持、术前准备、术后管理以及饮食建议等。此外，文中强调了医务人员在护理中需尊重患者个人隐私与权利，以创造一个安全、包容的治疗环境。根据患者的临床资料，手术后未见严重并发症，患者恢复良好。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1594,18 +1192,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [走出性别困境_跨性别_与_性别焦虑_的医疗援助_潘柏林_Z_Library](走出性别困境_跨性别_与_性别焦虑_的医疗援助_潘柏林_Z_Library_page.md)<details><summary>查看摘要</summary>
 
 本文件为潘柏林所撰写的文献，深入探讨跨性别与性别焦虑的医疗援助问题。文中详细阐述了跨性别者在医疗过程中所面临的挑战与困境，包括医疗资源的获取、专业医疗人员的态度以及社会支持系统的缺失等方面。同时，文件中结合了大量案例分析与实证研究数据，揭示了跨性别者在寻求医疗帮助时所经历的心理负担与社会歧视。此文献不仅提供了医学界对跨性别人士的深入理解，还探讨了医疗机构在提供特定性别医疗时的实践及其影响，旨在为医务人员提供更为全面的视角，以及改善医疗服务的建议。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1616,18 +1208,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [CCDM3_中国精神障碍分类及诊断标准_全文（易性症在74页）](CCDM3_中国精神障碍分类及诊断标准_全文（易性症在74页）_page.md)<details><summary>查看摘要</summary>
 
 本文件为《中国精神障碍分类及诊断标准》第三版（CCMD-3）的全文，包含了中国精神卫生领域对精神障碍进行分类和诊断的标准与原则。该文献由中华精神科学会编写，旨在提供符合中国国情的精神障碍分类体系，帮助临床医生在诊断和治疗过程中提供更科学、实用的指导。文件详细列出了各种精神障碍的分类及其诊断标准，并对特定症状和障碍进行系统的说明。此外，文中提到遵循为患者服务的原则，强调精神障碍分类的科学性和可操作性。该标准不仅借鉴了国际分类系统（如ICD-10），还结合了中国的社会文化特征，提出了一些与国际接轨但又考虑本国实际的分类方法，对易性症及其他性心理障碍也做出了相应的分类和说明。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -1638,9 +1224,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 ### 🖼️ 图片
 
 
@@ -1648,6 +1231,12 @@ search:
 
 
 ![变性术典型病例_-_美容与再造整形手术实例彩色图谱·躯干、会阴及四肢分册_-_中国工具书网络出版总库_20170326044255](变性术典型病例_-_美容与再造整形手术实例彩色图谱·躯干、会阴及四肢分册_-_中国工具书网络出版总库_20170326044255.png)
+
+
+
+### 词云图
+
+![摘要词云图](abstracts_wordcloud.png)
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

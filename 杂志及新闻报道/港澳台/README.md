@@ -30,18 +30,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [公視2024_性別平權節目_4到6月](公視2024_性別平權節目_4到6月_page.md)<details><summary>查看摘要</summary>
 
 该文档收录了公视2024年4月至6月之间关于性别平权的各类节目和报道，包括每日新闻、专题节目和纪录片的信息。内容涵盖了香港跨性别运动员的新闻、性别平等法律的施行、性骚扰事件、性平法20周年特展、以及跨性别者在未经过手术的情况下更换身份证性别的法律案件。此外，还包括不同节目对女性权利、父权文化、多元家园的探讨，如《爸爸的洋装》和《她和她的温柔革命》，反映了社会对性别多样性的逐步接受与重视。这些节目不仅记录了性别平权的进程，也展现了多元性别群体的生存现状与挑战，促进公众对多元性别议题的了解和讨论。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2023
@@ -55,18 +49,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [公視2023年性別平權節目紀錄](公視2023年性別平權節目紀錄_page.md)<details><summary>查看摘要</summary>
 
 本文件记录了公视在2023年10月至12月期间播出的性别平权节目内容，包括多元性别、跨性别及性别平权的议题，涵盖新闻报道、短片、纪录片以及戏剧节目的详细信息。文件中的节目名称与内容涉及多个重要的事件，如家暴法的修法、同志游行的相关新闻、以及对跨性别者生命经验的描述。特别是纪录片《我变性故我在》提供了关于不同跨性别个体的生活故事，探讨了他们的家庭、医疗、职场及社会挑战。此外，节目《爱神卡拉OK》等戏剧通过角色间的情感交互，表现了同性恋与家庭关系的复杂性，彰显了多元性别的存在与社会的接纳程度。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2021
@@ -80,9 +68,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 #### 2017
 
 
@@ -92,9 +77,6 @@ search:
 此文件为一份名为《住错性别身体的灵魂──跨性别与人权保护》的PDF文档，包含关于跨性别者的生存状态、法律保障和社会认同的深入探讨。摘录自《丹麦女孩》的故事，讲述了主角Einar与其内心女性Lili的冲突，揭示了跨性别者在社会中面临的性别角色期待与身份认同的挑战。文中提到，尽管台湾近年的女权与同志运动有所进展，但跨性别者的权利与处境仍未得到充分重视与改善。在社会普遍以生殖器官来划分性别的背景下，跨性别者的心理性别和生理性别产生了冲突，导致被普遍歧视和排斥。文章还引述了心理学家Norman Spack对跨性别者经历的见解，认为社会仍存在对跨性别者的不理解与偏见，迫切需要改善人权保护与社会认同。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2009
@@ -108,18 +90,12 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [認定自己生錯了性別_大公报](認定自己生錯了性別_大公报_page.md)<details><summary>查看摘要</summary>
 
 该文件为《大公报》于2009年10月17日刊发的一篇报道，讲述了来自美国亚利桑那州的一名八岁女孩若西·罗梅罗的转变经历。若西出生时为男孩，但从四岁起就认定自己是女孩子，经历了家人对其性别认同的挣扎与支持。这篇报道详细描述了若西如何追求成为女性的过程，包括经历药物治疗与未来的手术计划。同时，母亲罗梅罗太太分享了家庭在这一过程中面临的挑战与感受，特别是父亲的痛苦与最终的接受。此外，文章还涵盖了与性别认同相关的社会背景和家庭对年轻易性癖者的支持，以及若西作为小易性癖者的代言人，帮助其他孩子与家长适应这一生活变化的活动。
 </details>
 
-
-
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 时间未知，按收录顺序排列
@@ -135,9 +111,6 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
-
-
 
 [PDF_台灣跨性別手術的最新進展](PDF_台灣跨性別手術的最新進展_page.md)<details><summary>查看摘要</summary>
 
@@ -146,7 +119,10 @@ search:
 
 
 
-<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+### 词云图
+
+![摘要词云图](abstracts_wordcloud.png)
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板
