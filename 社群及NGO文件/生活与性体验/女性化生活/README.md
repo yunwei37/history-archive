@@ -30,12 +30,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [03第3课：深度保湿_水润皮肤透出来_](03第3课：深度保湿_水润皮肤透出来__page.md)<details><summary>查看摘要</summary>
 
 本文件是关于女性化生活中深度保湿的重要性与方法的介绍，探讨如何通过适当的护肤程序来保持肌肤的水润状态。文件中提到水分对于皮肤健康的重要性，包括其在预防皱纹和干燥中的作用。护肤的基本步骤和产品使用说明也在其中得到阐释，提供了一些常见问题的解答，如选择合适的护肤品和日常护理的最佳实践。此外，该文件可能还包含一些个人经历分享，以及如何针对跨性别者的特殊需求进行护肤护理的建议。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -46,12 +52,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [化妆入门课（1-8章）](化妆入门课（1-8章）_page.md)<details><summary>查看摘要</summary>
 
 《化妆入门课（1-8章）》是一份详细的化妆学习指南，提供了针对初学者的化妆理论与实践技巧。这份文档根据热门视频课程整理出27节课的内容，旨在帮助没有基础的学习者从理论到实践逐步掌握化妆技巧。内容涵盖化妆基础知识，包括护肤、美妆常识及美学原理。在课程中，前五节介绍了基础理论，诸如审美和化妆的基本公式，强调了审美在化妆中的重要性。此外，物品选购、化妆工具使用、妆容设计等主题贯穿文档，鼓励学习者通过理论学习与实践相结合，迅速提升自己的化妆能力。文档还提供了多种美容小技巧和产品的推荐，帮助学习者在日常生活中进行更好的护肤与妆容搭配。在整个学习过程中，文档特别强调了个人审美的独特性，鼓励学习者找到适合自己的化妆风格。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -62,12 +74,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [第6课：拯救大毛孔，光滑蛋肌亮出来](第6课：拯救大毛孔，光滑蛋肌亮出来_page.md)<details><summary>查看摘要</summary>
 
 本文件是关于女性化生活的一课，重点介绍如何通过科学的方法和美容护肤技巧来改善皮肤状况，特别是针对毛孔粗大的问题。内容涉及有助于光滑肤质的护肤步骤、适合的产品推荐及使用技巧。此课程旨在帮助参与者理解皮肤护理的重要性，并掌握减少毛孔外观的有效方法，以便提升自信心和生活质量。该材料也可能包括有关性别认同和表达的背景信息，帮助跨性别者在日常生活中进行自我照顾和美容妆扮。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -78,6 +96,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [第10课：告别“熊猫眼”，年轻态的小秘诀](第10课：告别“熊猫眼”，年轻态的小秘诀_page.md)<details><summary>查看摘要</summary>
 
@@ -86,12 +107,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [第11课：弹走“鱼尾纹”，冻龄你的少女感_看图王1](第11课：弹走“鱼尾纹”，冻龄你的少女感_看图王1_page.md)<details><summary>查看摘要</summary>
 
 该文件《第11课：弹走“鱼尾纹”，冻龄你的少女感》主要探讨了女性在生活中如何通过各种方法保持年轻的外貌，尤其聚焦于去除皱纹的技术和方法。尽管文件内容没有详细提供，但它可能包含关于护肤品、医学美容手术、健康生活习惯等方面的建议和经验分享。文件的对象似乎是那些希望改善外貌和青春状态的女性，尤其是跨性别女性群体，她们在过渡过程中可能非常在意个人形象和自我认同。文中可能包含对市场上流行的美容产品的分析，以及一些真实案例分享，提供与生活质量相关的实用建议。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

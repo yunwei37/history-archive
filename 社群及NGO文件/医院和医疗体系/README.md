@@ -34,12 +34,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_万邦德医药控股集团股份有限公司_-_启信宝](PDF_万邦德医药控股集团股份有限公司_-_启信宝_page.md)<details><summary>查看摘要</summary>
 
 该文件为万邦德医药控股集团股份有限公司2023年度报告，主要内容涵盖公司财务状况、经营业绩、行业分析及未来展望。报告详细披露了公司的主要业务，包括医药制造及医疗器械业务，强调了公司在医药制造领域的特色原料药与制剂联动发展模式，重点产品涉及心脑血管、神经系统、呼吸系统及消化系统等多个治疗领域。同时，医疗器械业务也展示了丰富的产品线，包括骨科植入器械和一次性无菌医用高分子耗材。文件还提到2023年公司面临的市场环境如医保控费、政策调整的挑战，以及行业未来发展可能带来的机遇。报告中还附录了详细的销售数据、财务指标，以及相关的研发项目进展，全面反映了公司的运营状况。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2023
@@ -53,6 +59,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_心理健康宣传月职场_与新冠疫情](PDF_心理健康宣传月职场_与新冠疫情_page.md)<details><summary>查看摘要</summary>
 
@@ -61,12 +70,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [健康风险评估与会员资料_2023](健康风险评估与会员资料_2023_page.md)<details><summary>查看摘要</summary>
 
 本文件为健康风险评估（HRA）表格，旨在收集跨性别者及其他多元性别认同者的医疗信息。文件中包含多个选择题，涉及会员的性别认同、出生证明上指定的性别、代词使用、性取向、婚姻状况、种族或民族身份、所讲语言、心理健康状况及身体健康状况等。每个问题均设计为帮助医疗服务提供者深入了解参与者的个人背景和健康需求，以便提供更为针对性的医疗支持。此外，文中还包括关于会员是否需要社区支持和资源的信息，如个案管理、粮食援助和交通服务等。该评估表旨在促进更全面的健康监测和个人护理计划的制定，以及提高跨性别者在医疗服务中的获得感和安全感。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2022
@@ -80,6 +95,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2022年青少年COVID-19疫苗接种登记表](2022年青少年COVID-19疫苗接种登记表_page.md)<details><summary>查看摘要</summary>
 
@@ -88,12 +106,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [打造健康圣地亚哥LGBTQ+精神健康挑战报告](打造健康圣地亚哥LGBTQ+精神健康挑战报告_page.md)<details><summary>查看摘要</summary>
 
 这篇文件是《打造健康圣地亚哥LGBTQ+精神健康挑战报告》，旨在提高公众对圣地亚哥地区LGBTQ+群体面临的精神健康问题的认识。文件详细探讨了LGBTQ+群体的精神健康挑战，强调了这些挑战如何影响群体成员的生活质量和健康状况，包括歧视、骚扰和暴力等。通过提供特定的应对建议，文件旨在帮助朋友、家人和社区更好地支持处于困难中的LGBTQ+个体。此外，文件还列出了可用资源，以帮助满足LGBTQ+人群的精神健康需求，同时呼吁创建一个更加包容和支持的环境，确保每个人都能在安全和认可的氛围中生活。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2021
@@ -107,6 +131,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2019
 
 
@@ -116,6 +143,9 @@ search:
 该文件为医院患者登记表，主要用于收集患者的个人信息和医疗相关数据。登记表包括患者基本信息如姓名、地址、电话号码、社保号和出生日期等。同时，还需要填写患者的性别认同、性取向、婚姻状况、学历及就业状态等信息。该登记表旨在确保患者能够得到适合其性别认同的医疗，在填写过程中，患者需提供关于医疗保险状况的详细信息，并表示同意接受医疗服务，及有关病历的隐私保护条款。文中出现了多个选项，让患者选择其性别和性取向，包括跨性别、性别酷儿等，充分考虑到多元性别的需要。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2014
@@ -129,6 +159,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2008
 
 
@@ -138,6 +171,9 @@ search:
 本文详细讨论了变性手术后女性在性欲、性唤起及性高潮方面的经历与变化。作者通过剖析社会对变性手术的误解，例如认为变性手术后会导致完全失去性感，指出这一观念的不准确，并强调术后女性如何通过自我探索和实践，重新获得性快感与性满足。随着性唤起的恢复，变性女性在性体验上会经历重新的青春期式状态，这种转变需要时间和耐心。文章也探讨了如何在性伴侣关系中保持良好的沟通，以实现双方的性满足，并提供了一些有效的体位建议，以帮助术后变性女人更容易达到高潮。同时，文中提及了术后女性相比于男性在性反应上的一种更为内在和细腻的体验，强调情感和身体的结合对满足的影响。最后，作者鼓励变性女性在与伴侣的性关系中应摆脱对于外部评价的担忧，享受自我身份的肯定和欢愉。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 时间未知，按收录顺序排列
@@ -151,12 +187,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_雌二醇片雌二醇地屈孕酮片复合包装1_10mg_说明书pdf_-_Abbott](PDF_雌二醇片雌二醇地屈孕酮片复合包装1_10mg_说明书pdf_-_Abbott_page.md)<details><summary>查看摘要</summary>
 
 该文件为雌二醇片及雌二醇地屈孕酮片的复合包装说明书，由Abbott制药公司出版。文件中详细介绍了这两种药物的用途、适应症、用法用量、副作用及注意事项等重要信息。雌二醇片常用于女性激素替代疗法，可能对跨性别女性在药物过渡过程中具有重要意义。同时，对于了解激素治疗可能带来的效果和风险，文件提供了专业的医学视角和建议，帮助使用者更好地管理自身健康。此说明书还可能包含药物的储存条件、购买渠道和相应的医疗指导，旨在保护患者的使用安全与健康。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -167,12 +209,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_双性恋变性及其他异常性取向者中有心理健康问题者的帮助_-_MindOut](PDF_双性恋变性及其他异常性取向者中有心理健康问题者的帮助_-_MindOut_page.md)<details><summary>查看摘要</summary>
 
 该文件为心理健康支持相关的指南，旨在为女同性恋、男同性恋、双性恋、变性者及其他性取向者提供心理健康问题方面的帮助与支持。文件介绍了各种服务，包括建议和资讯、代言服务、在线支持、支持小组、伙伴辅导和幸福生活课程等。建议和资讯部分说明了如何就任何关注的问题获取帮助，确保获取的信息能够帮助个人规划下一步的行动。代言服务强调了支持个人在社会中的发声，帮助他们表达需求并了解自身权利。在线支持部分则提供了与志愿者进行沟通的机会，而支持小组则为LGBTQ群体提供了一个安全的环境，以分享经历和感受。伙伴辅导帮助个体建立社交信心，探索新机会。此外，幸福生活课程涵盖了自尊、建立自信、正念冥想、压力管理等多个主题，旨在提高个人幸福感。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -183,12 +231,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [省属公立医院医疗服务项目价格一览表](省属公立医院医疗服务项目价格一览表_page.md)<details><summary>查看摘要</summary>
 
 该文件是一份关于省属公立医院医疗服务项目的价格一览表，内容包括多个医疗项目的定价信息。具体列出了不同医疗服务项目的项目编码、项目名称、项目内涵及其相关价格。这些项目涵盖了眼科、口腔科、整形外科等多个医疗领域，如准分子激光手术、牙齿漂白术和隆乳术等。在表格中，每个项目均提供了不同省级医院如省人民医院、省妇幼医院等的具体价格，便于患者了解进行相关医疗服务的经济支出。这份文件为关注医疗费用的人们提供了重要参考，尤其对于需要跨性别医疗服务的群体具有实用性，显示出医院在多元性别医疗方面的资源配置。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -199,12 +253,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [El_Dorado县健康教育课程](El_Dorado县健康教育课程_page.md)<details><summary>查看摘要</summary>
 
 该文件是关于El Dorado县健康教育课程的综合介绍，包含了多个项目和机构提供的健康教育课程的信息。这些课程涉及到老年人的健康、孕产妇教育、心理健康、营养生活等多个方面，旨在通过各种活动帮助社区成员改善健康与福利。文件提供了课程名称、主题、提供的语言、举办地点、日期和时间，以及联系方式和网址等关键信息。例如，Roy老年中心提供的太极、力量和身体健康课程，专注于通过锻炼改善老年人的平衡和预防跌倒。多项课程也通过线上方式进行，便于广泛的参与者参与。文件中还包括关于如何控制中风的教育小组和针对糖尿病患者的健康生活课程，显示了该地区对不同人群健康教育的重视与规划。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -215,12 +275,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [FtM超处方用药现状-国外正规药物](FtM超处方用药现状-国外正规药物_page.md)<details><summary>查看摘要</summary>
 
 该文件名为《FtM超处方用药现状-国外正规药物》，主要讨论了在FtM（女性到男性）跨性别群体中，超处方用药的现状与困境。文中指出，FtM群体在使用药物方面，与MtF（男性到女性）群体相比，面临更大的用药复杂性和风险，尤其是在选择药物的过程中。许多药物的来源良莠不齐，导致社群内对药物的交流多集中于成分和摄入方式，而不提及具体品牌和使用方法。文件提到了几种相对安全且得到正规药厂生产的药物，包括环戊丙酸睾酮、庚酸睾酮以及混合睾酮等，并讨论了社群中的一些无良药商如何以不合规的手段售卖假冒药物，进一步加深了用药者的困扰。该文还警示了在药物包装上的迷惑性，很多地下药物的包装甚至比合规药物看起来更专业，从而使得用药者容易误信其安全性。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -231,12 +297,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [【ftm】关于激素、假药、药商的一切，纯干货！1](【ftm】关于激素、假药、药商的一切，纯干货！1_page.md)<details><summary>查看摘要</summary>
 
 该文件名为《【ftm】关于激素、假药、药商的一切，纯干货！》，由匿名作者G0SSIP撰写，重点讨论了关于跨性别男性（ftm）所用激素的具体信息。内容主要分为三个部分：第一部分详细介绍了适合ftm（激素替代疗法，HRT）使用的药物，包括庚酸、环戊丙酸和十一酸，强调这些药物与健身用的混合睾酮的区别，说明正常的用药剂量及其效果。第二部分则集中于假药问题，分析国内激素市场的现状，讨论了假冒药品的危险性及如何辨别；同时列出了一些曾经被质疑或曝光的药品案例。最后一部分提供了药商的价格对比，指出隐含的商业利益及其对跨性别群体的影响，揭示了一些药商的实际操作手法和价格标准。整篇文章意在帮助跨性别群体更好地了解相关医疗信息，减少在选择激素和药商时的误区和风险。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -247,6 +319,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [常见假药](常见假药_page.md)<details><summary>查看摘要</summary>
 
@@ -255,12 +330,7 @@ search:
 
 
 
-
-[曼谷雨变性医生简介](曼谷雨变性医生简介_page.md)<details><summary>查看摘要</summary>
-
-本文档详细介绍了曼谷雨变性中心的信息，包括多位知名变性手术医生的简介、手术价格、住院时长、手术深度及敏感度等方面的具体情况。文件中介绍了多位医生的特色与建议，分别是铁笔医生、小雨、NUT医生、提迪医生、蔡达武医生和ANT医生，各自的专业技术和手术费用，便于患者选择适合自己的医生和手术方式。小雨作为曼谷雨中心的创始人，表达了对手术过程的重视并提供了一条龙的服务，包括手术前后的各项安排，确保患者的手术体验和术后恢复。
-</details>
-
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -269,6 +339,20 @@ search:
 本文档详细介绍了曼谷雨变性中心的信息，包括多位知名变性手术医生的简介、手术价格、住院时长、手术深度及敏感度等方面的具体情况。文件中介绍了多位医生的特色与建议，分别是铁笔医生、小雨、NUT医生、提迪医生、蔡达武医生和ANT医生，各自的专业技术和手术费用，便于患者选择适合自己的医生和手术方式。小雨作为曼谷雨中心的创始人，表达了对手术过程的重视并提供了一条龙的服务，包括手术前后的各项安排，确保患者的手术体验和术后恢复。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
+
+[曼谷雨变性医生简介](曼谷雨变性医生简介_page.md)<details><summary>查看摘要</summary>
+
+本文档详细介绍了曼谷雨变性中心的信息，包括多位知名变性手术医生的简介、手术价格、住院时长、手术深度及敏感度等方面的具体情况。文件中介绍了多位医生的特色与建议，分别是铁笔医生、小雨、NUT医生、提迪医生、蔡达武医生和ANT医生，各自的专业技术和手术费用，便于患者选择适合自己的医生和手术方式。小雨作为曼谷雨中心的创始人，表达了对手术过程的重视并提供了一条龙的服务，包括手术前后的各项安排，确保患者的手术体验和术后恢复。
+</details>
+
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -279,6 +363,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [北医三院“易性症”序列治疗就诊指南](北医三院“易性症”序列治疗就诊指南_page.md)<details><summary>查看摘要</summary>
 
@@ -287,12 +374,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [北医三院易性症序列医疗团队](北医三院易性症序列医疗团队_page.md)<details><summary>查看摘要</summary>
 
 该文件详细介绍了北医三院在易性症领域建立的综合诊疗团队及其工作内容。文件首先定义了“易性症”这一术语，并指出这并非医学上的疾病，而是跨性别个体对于自身性别认同的焦虑状态。文中讲述了该人群由于社会对其了解的缺乏，常常面临医疗照护体系不完善的问题，导致其在就医时面临重重困难。北医三院通过整形外科、心理咨询、内分泌科、妇科等多个学科的交叉合作，致力于为“易性症”患者提供全面、系统的医疗支持，包括心理疏导、激素替代、手术治疗等内容。文件还强调了“跨性别”患者的疗愈之路需要社会的关怀与支持。同时，该医院也开展了相关的科研和教育活动，以提升社会对跨性别问题的认识。整体上，该文献不仅提供了有关易性症的医疗知识，也展示了医院在精细化医疗服务领域的努力与成就。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

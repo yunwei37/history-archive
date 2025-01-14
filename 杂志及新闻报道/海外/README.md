@@ -30,6 +30,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2020
 
 
@@ -41,12 +44,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [517酷儿论坛打破沉默继续前行_2020](517酷儿论坛打破沉默继续前行_2020_page.md)<details><summary>查看摘要</summary>
 
 该文件是517酷儿论坛的特别企划，标题为《打破沉默，继续前行》。文件内容主要探讨了多元性别与健康平等的议题，呼吁社会公众对酷儿群体的关注与理解。文中提及了‘多元×健康×平等’的公式，强调在性别多样性和性别认同方面，需要提供更多的支持和资源，以促进这一群体的健康与权利。内容具有很强的社会倡导性质，旨在提升人们对酷儿问题的认识与敏感度。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2017
@@ -60,6 +69,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2015
 
 
@@ -71,6 +83,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 1902
 
 
@@ -80,6 +95,9 @@ search:
 该文件为清华大学艺术博物馆所藏的《北京城百姓抢当铺》版画，详细记录了庚子年（1900年）北京城发生的一次贫民抢劫当铺的事件。通过艺术的形式，版画生动地反映了当时的社会现实，揭示了当铺在清朝时期对普通百姓经济支持与剥削的双重角色。当铺作为一种抵押贷款的机构，对于贫民来说是一种急需的经济支持，但高利贷的存在又加重了他们的经济负担。这幅年画展示了劫掠场面的混乱，反映了社会的不公与贫富差距，是百姓对不公社会的直接反抗。从画中可见，参与抢劫的人群来自各个阶层，包括手工业工人和低收入者，画面中贫弱的人群满载而归，体现出社会矛盾的尖锐。通过对这一历史事件的描绘，作品展示了庚子之变背景下民众的觉醒与抵抗。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

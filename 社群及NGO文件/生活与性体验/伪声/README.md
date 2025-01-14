@@ -34,6 +34,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 时间未知，按收录顺序排列
 
 
@@ -45,6 +48,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 ### 📎 其他
 
 
@@ -53,5 +59,8 @@ search:
 
 
 [伪声基础整理以及教学](伪声基础整理以及教学.pptx)
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

@@ -30,6 +30,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [联合国_防止基于性取向和性别认同的暴力和歧视与表达自由、和平_集会和结社自由等人权的关系](联合国_防止基于性取向和性别认同的暴力和歧视与表达自由、和平_集会和结社自由等人权的关系_page.md)<details><summary>查看摘要</summary>
 
@@ -38,12 +41,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [联合国任意拘留问题工作组概况介绍_修订版_2024](联合国任意拘留问题工作组概况介绍_修订版_2024_page.md)<details><summary>查看摘要</summary>
 
 本文件为《联合国任意拘留问题工作组概况介绍》的修订版，详细介绍了工作组的任务、组成、程序和标准。工作组成立于1991年，旨在调查有关任意剥夺自由的案件，促进国际人权标准的遵守。文件中指出，任意拘留是指剥夺个人自由的行为违反了《世界人权宣言》或其他国际法律标准的情况。工作组的工作程序包括接受来文、调查案件、与国家沟通及发布意见与建议等。文中还列举了剥夺自由是否具有任意性所适用的五种标准，并提供了各种案例的分析。该导言旨在使各利益相关者，包括法律从业者，对工作组的任务和功能有全面的了解。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2023
@@ -59,6 +68,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [联合国人权_跨性别以及间性LGBTI人群的问题企业行为准则](联合国人权_跨性别以及间性LGBTI人群的问题企业行为准则_page.md)<details><summary>查看摘要</summary>
 
@@ -67,12 +79,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2023_联合国_LGBTI企业行为准则](2023_联合国_LGBTI企业行为准则_page.md)<details><summary>查看摘要</summary>
 
 本文件为《联合国LGBTI企业行为准则》的PDF文档，旨在帮助企业解决对女同性恋、男同性恋、双性恋、跨性别以及间性（LGBTI）人群的歧视问题。文件中提到，企业不仅需要履行其人权责任，还需积极推动社会变革。联合国人权办公室在响应的基础上制定了五项行为准则，内容包括：尊重人权、消除歧视、提供支持、避免人权侵犯及在公共领域行动。这些准则为企业提供了一系列具体措施，以在工作场所及其生活的社区中促进平等与尊重。文件指出，尽管过去十年中全球LGBTI人群的生存环境有所改善，但仍有不少地区的法律和社会条件不见得向好，特定国家的人权状况依然令人担忧。联合国借此呼吁企业认识到，在促进多元文化和反歧视方面的责任与机会，强调了企业在提高内部包容性和推动文化变革中应扮演的角色。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2022
@@ -86,12 +104,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [联合国大会_性取向和性别认同而受歧视和暴力影响](联合国大会_性取向和性别认同而受歧视和暴力影响_page.md)<details><summary>查看摘要</summary>
 
 该文件是联合国人权理事会的报告，讨论了因性取向和性别认同而遭受的歧视和暴力对个人和群体的影响。报告详细审查了男女同性恋、双性恋、跨性别者、多元性别者和间性者所面临的结构性歧视障碍，强调了这些障碍如何妨碍他们享有健康权及其他人权。文件包含了对全球143个国家的81份问卷的分析，这些问卷来自国家、联合国实体、民间社会组织等，反映了各地区的观点和面临的问题。报告中提到，基于性取向和性别认同的法律歧视、病态化现象、社会污名化等因素是加剧健康不平等的根本原因，并强调了实现2030年可持续发展目标的必要性。为了解决这些问题，报告给出了几条建议，包括消除歧视、保障医疗权益以及提高公众对于LGBTQ+人群的理解和支持。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -106,12 +130,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [联合国经济及社会理事会_关于儿基会《2018-2021年性别平等行动计划》执行情况的_年度报告](联合国经济及社会理事会_关于儿基会《2018-2021年性别平等行动计划》执行情况的_年度报告_page.md)<details><summary>查看摘要</summary>
 
 本文件是联合国儿童基金会对《2018-2021年性别平等行动计划》实施情况进行的年度报告。报告集中总结了在促进性别平等方面所取得的成就和面临的挑战，并强调了疫情对女性和女童所造成的影响。报告指出，2019冠状病毒病疫情导致的社会经济动荡，严重打击了许多国家的女性和女童，尤其在教育、健康和安全方面造成了显著损失。文件详细列举了儿基会在多个国家支持性别平等的具体措施，包括孕产妇保健、青少年健康、教育平等、消除性别暴力和促进社会保护等多个领域的成功案例与未来工作的必要性。报告同时提出了对2022-2025年性别平等行动计划的展望与建议，以期通过改善措施应对根深蒂固的性别歧视和不平等现象。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -122,12 +152,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_获得医疗的法定权利to_health_care](PDF_获得医疗的法定权利to_health_care_page.md)<details><summary>查看摘要</summary>
 
 该文件由世界卫生组织于2022年发布，主要讨论泰国在跨性别及其他人群中医疗保健的法定权利。文件首先概述了泰国的医疗法律框架，包括《国家健康保障法》的相关内容，指出所有公民在健康促进、疾病控制与预防、医疗和康复等领域享有权利。文中还详细描述了不同类型的健康保险计划，包括公务员医疗福利计划、社会健康保险计划和全民覆盖计划，强调这些计划为不同人群（如移民、妇女、儿童、老年人和残疾人）提供的医疗服务。根据泰国《宪法》第22条，泰国国民享有医疗相关的基本权利，而移民及其他少数群体的权益在文中得到强调，尤其讨论了他们获得医疗服务的障碍和挑战。此外，文件还提到泰国国家健康保障办公室及相关机构在确保广泛的健康保险覆盖方面的作用，并介绍了其执行投诉机制以应对医疗服务中可能存在的歧视行为。尤其指出了对于无证移民和被排除在外的群体，如何通过公共卫生政策来改善他们的医疗保障。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2021
@@ -141,12 +177,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_艾滋病预防路线图2025](PDF_艾滋病预防路线图2025_page.md)<details><summary>查看摘要</summary>
 
 该文件为《艾滋病预防路线图2025》，旨在为全球艾滋病防治工作提供指导，目标是到2030年前终结艾滋病这一公共卫生威胁。文件中详细阐述了实现2025年目标的十项国家级行动计划，包括强化预防方案的需求评估、精准预防方法的应用、社会促进因素的投资、社区主导的服务扩展等内容。强调了重点人群的覆盖和有效预防措施的重要性，并列出了需要采取的关键行动和里程碑时间节点。通过对比2020年和未来的目标，文件指出在实现艾滋病预防和综合治疗服务方面的急迫性和必要性。该路线图为各国在推动艾滋病防治项目时，提供了科学依据和行动蓝图。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -157,12 +199,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [联合国人权理事会_普遍定期审议工作组报告_2021](联合国人权理事会_普遍定期审议工作组报告_2021_page.md)<details><summary>查看摘要</summary>
 
 该文件为《联合国人权理事会普遍定期审议工作组报告》，涵盖了有关圣基茨和尼维斯的审议情况，特别是其在人权方面的承诺与执行。文件的内容详尽记录了圣基茨和尼维斯国家代表团在2021年1月18日至2月8日举行的工作组会议上提交的报告。报告涉及国家在COVID-19疫情期间的应对措施以及对人权的承诺，包括对残疾人权利的支持、性别平等的努力及家庭暴力的应对机制。报告还提出了各国对圣基茨和尼维斯的人权状况表示关注的建议，特别是如何消除针对LGBTQ+群体的歧视、加强性别平等及立法的改革。文中多次提到圣基茨和尼维斯在持续应对COVID-19影响下，可持续发展与人权履行的进展以及未来改进的方向。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2019
@@ -176,6 +224,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_联合国人权理事会_普遍定期审议工作组报告_AHRC4212](PDF_联合国人权理事会_普遍定期审议工作组报告_AHRC4212_page.md)<details><summary>查看摘要</summary>
 
@@ -186,12 +237,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [联合国人权理事会_普遍定期审议工作组报告_2019](联合国人权理事会_普遍定期审议工作组报告_2019_page.md)<details><summary>查看摘要</summary>
 
 该文件为联合国人权理事会第四十二届会议的普遍定期审议工作组报告，文件中详细记录了科特迪瓦在人权方面的审议情况。报告包括导言部分的会议情况，科特迪瓦代表团对国家人权状况的陈述，以及来自101个国家代表团的互动对话和建议。报告特别提到了科特迪瓦自2014年以来在人权保护和促进方面的进展，包括立法改革和国家人权机构的设立，旨在改善司法独立与人权保障。另外，报告还列举了许多国际人权文书的批准情况和新《宪法》的实施，尤其强调了法律如何促进女性、儿童和残疾人等弱势群体的权利。尽管取得了一定进展，报告同时也提对男女同性恋、双性恋、跨性别者和双性者(即LGBT)的权利保护表示了关注，并提出相关的改进建议。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -202,12 +259,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_联合国人口基金和联合国项目事务署执行局](PDF_联合国人口基金和联合国项目事务署执行局_page.md)<details><summary>查看摘要</summary>
 
 该文件由联合国人口基金和联合国开发计划署于2019年制作，报告了全球艾滋病抗击行动的执行情况和进展，重点分析了艾滋病毒/艾滋病联合规划署方案协调委员会在2018年和2019年间所做的决定和建议的实施状况。报告涵盖了艾滋病防治的多个方面，包括艾滋病检测和治疗、消除艾滋病母婴传播、青少年艾滋病预防、针对关键人群的干预措施、性别平等和基于性别的暴力问题、法律环境、资金和效率等。文中指出，艾滋病仍然是影响年轻人和性少数群体的重要公共健康问题，且法律和社会因素依然是阻碍艾滋病防治的主要障碍。报告呼吁加强国际合作和政策改革，以确保不让任何人掉队，在实现幅度更广的社会平等和人权保护的同时，加强针对艾滋病的健康与生殖权利。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2018
@@ -221,12 +284,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [联合国人权理事会_利益攸关方就乌拉圭提交的材料概述](联合国人权理事会_利益攸关方就乌拉圭提交的材料概述_page.md)<details><summary>查看摘要</summary>
 
 该文件为联合国人权理事会普遍定期审议工作组关于乌拉圭的材料概述，主要讨论了性别认同和性别表达方面的权利，特别是针对跨性别群体的法律和社会环境。文件指出，尽管乌拉圭在保障同性恋、双性恋和跨性别者的权利方面取得了一定进展，但在性别认同与性取向方面的歧视依然存在。此外，文件强调了国家人权机构提供的各种材料，涉及法律遵循、性别暴力、少数群体的权利、移民权益等多个维度，系统分析了乌拉圭人权状况，提出了各类建议以改进人权保障。该报告指出，国家应采取有效措施解决针对跨性别者的歧视，并制定相关政策以保护其基本人权。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -237,6 +306,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_LGBTI_包容指数拟议指标](PDF_LGBTI_包容指数拟议指标_page.md)<details><summary>查看摘要</summary>
 
@@ -245,12 +317,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [联合国人权理事会毛里求斯第三十一届普遍定期审议报告](联合国人权理事会毛里求斯第三十一届普遍定期审议报告_page.md)<details><summary>查看摘要</summary>
 
 本报告是联合国人权理事会针对毛里求斯的第三十一届普遍定期审议提供的材料概述，目的是对涉及人权的建议和现状进行分析。该报告涵盖了多个利益攸关方的意见，特别关注了毛里求斯在人权、特别是对于跨性别者和性别少数群体的保护方面所面临的挑战。文件指出，在毛里求斯，仇视同性恋和跨性别者的情绪依然存在，许多性别少数群体在法律认同、公开表达和生活中受到严重的社会污名和法律歧视。其中，报告提到民事登记办公室不认可跨性别者的性别认同，导致他们无法在身份证件中获得自我认同的性别，并且现行的法律未对基于性别身份的歧视进行有效的法律惩处。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2017
@@ -264,12 +342,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_促进LGBTI人权和包容_议员手册](PDF_促进LGBTI人权和包容_议员手册_page.md)<details><summary>查看摘要</summary>
 
 本文件为《促进LGBTI人权和包容：议员手册》，由联合国开发计划署（UNDP）和全球议员行动联盟（PGA）联合编制。手册针对现存的LGBTI（女同性恋、男同性恋、双性恋、跨性别者和间性人）人权侵害情况进行了详细分析，旨在为全球立法者提供推动LGBTI人权和包容的有效工具与策略。手册包括了国际人权框架、LGBTI权利的法律承认、处理恐同和恐跨的问题、LGBTI个体的社会经济权利，以及立法、监督、议会工作等方面的具体行动建议。此外，还讨论了如何有效地与民间社会合作，促进LGBTI的人权、减少歧视的举措及相关法律改革的重要性。可持续发展目标背景下，该手册呼吁立法者关注各类为社会边缘群体设防的法律问题，并提供实用的建议和成功的案例，以激励更多议员的参与与行动。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -280,12 +364,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2017年俄罗斯联邦经济社会权利委员会第六次报告结论性意见](2017年俄罗斯联邦经济社会权利委员会第六次报告结论性意见_page.md)<details><summary>查看摘要</summary>
 
 本文件为《2017年俄罗斯联邦经济社会权利委员会第六次报告结论性意见》，涵盖了对俄罗斯联邦在经济、社会及文化权利方面的报告审议。文件中详细记录了委员会对该国在促进和保护经济、社会及文化权利方面的积极方面，以及需要关注的问题和建议。委员会欢迎俄罗斯批准的几个相关国际文书，并对所采取的法规与政策表示肯定，但同时也指出实施中的不足，如对法律的应用情况较少、非政府组织活动受限、土著人民权利面临威胁等。文件列举了涉及儿童、残疾及性别平等等方面的现状与建议，强调消除基于性取向和性别认同的歧视，要求缔约国加强立法及完善陈旧的法律条款，以保证人人平等享有《公约》权利。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -296,12 +386,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2017年南非人权理事会普遍定期审议报告](2017年南非人权理事会普遍定期审议报告_page.md)<details><summary>查看摘要</summary>
 
 该文件是联合国人权理事会对南非在人权和基本自由方面的评审报告。报告详细介绍了自南非民主化以来，政府在实现人人享有人权和基本自由的道路上所做的努力与进展。报告指出，自1994年实施民主制度以来，南非致力于解决社会不平等、贫困和失业等问题，以实现社会凝聚力和民族认同。文件也详细描述了政府在各个领域采取的法律、政策和措施，包括宪法的保障及实施情况、对男女平等、对LGBTI群体的保护、教育与社会保障制度的发展等。报告指出，南非在医疗、教育、住房、经济增长和社会保障等方面取得了显著进展，尤其是在减少艾滋病毒和艾滋病的传播方面，政府采取了许多有效的干预措施。综上，该报告显示了南非在促进和保护人权方面的重要举措和挑战，强调了国家对实现人权的坚定承诺。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -312,12 +408,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2017年联合国人权理事会第三十六届会议增编报告](2017年联合国人权理事会第三十六届会议增编报告_page.md)<details><summary>查看摘要</summary>
 
 《2017年联合国人权理事会第三十六届会议增编报告》是一份由联合国人权理事会发布的官方文件。该报告记录了突尼斯对在会议期间提出的各种建议和结论的响应。这些建议与人权相关，特别涉及对移民、性别少数群体（包括同性恋者、双性恋者、变性者及酷儿）及社会不平等现象的关注和改善。文件中明确提到，突尼斯政府接受了一系列关于促进人权的建议，包括保护性别少数群体免受歧视和暴力的措施，以及制定公众意识方案以应对污名化问题。此外，报告还提到了加强对移民的识别和援助机制的必要性，特别是针对未成年人和有孩子的家庭。整体上，该报告为推动性别平等与人权的发展提供了重要的政策基础和行动框架。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -328,12 +430,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2017全球教育监测报告-教育问责：履行我们的承诺](2017全球教育监测报告-教育问责：履行我们的承诺_page.md)<details><summary>查看摘要</summary>
 
 《2017全球教育监测报告》是联合国教科文组织发布的关于教育问责的重要文件。这份报告详细阐述了全球各国在教育领域实现可持续发展目标（SDG 4）方面的努力及其成效。其核心主题为教育问责，强调教育是各社会成员的共同责任，并探讨了有效的问责机制应如何在不同层面得到落实。报告指出，尽管全球教育机会在增加，但仍有数亿儿童失学，特别是边缘群体受影响最大，因此，必须加大对其需求的重视。此外，报告还分析了教育体系中的问责试点，强调政府、学校、教师、学生、父母、国际组织及其他行为者在提升教育质量和平等性方面的责任。综上所述，此报告不仅提供了丰富的统计数据，还提出了改善教育系统的建议与思考，是相关政策制定者和教育工作者的重要参考文献。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2016
@@ -347,6 +455,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2016年联合国艾滋病问题高级别会议正式记录](2016年联合国艾滋病问题高级别会议正式记录_page.md)<details><summary>查看摘要</summary>
 
@@ -355,12 +466,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2016年联合国人权理事会特立尼达和多巴哥普遍定期审议报告](2016年联合国人权理事会特立尼达和多巴哥普遍定期审议报告_page.md)<details><summary>查看摘要</summary>
 
 该文档是2016年联合国人权理事会对特立尼达和多巴哥进行普遍定期审议的报告。报告汇总了有关该国在促进和保护人权方面的情况，包括国际人权义务、宪法和法律框架、性别平等和消除歧视的相关政策以及国家人权机构的设立状况。文中提到，特立尼达和多巴哥在过去的一轮审议中尚未批准某些国际人权文书，该国的性别政策草案长达15年未能通过，从而影响了针对性别歧视和暴力的法律实施。报告指出，特立尼达和多巴哥存在广泛的家庭暴力和性别暴力问题，并提出了可能的改进建议，例如加强公共教育、法律改革以及制定更全面的性别政策。此外，文中还关注了对变性人群体的法律保护不足以及对受害者支持服务的缺乏等问题。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2015
@@ -376,6 +493,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [联合国人权理事会洪都拉斯审议报告_2015](联合国人权理事会洪都拉斯审议报告_2015_page.md)<details><summary>查看摘要</summary>
 
@@ -386,12 +506,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2015年联合国人权理事会蒙古普遍定期审议报告](2015年联合国人权理事会蒙古普遍定期审议报告_page.md)<details><summary>查看摘要</summary>
 
 该报告为2015年联合国人权理事会蒙古普遍定期审议工作组提交的材料概述，反映了蒙古在国际人权义务履行方面的现状。报告中指出，尽管蒙古通过了《性别平等法》并实施了一些立法和司法改革，但政府未能有效保护性别多样性和其他少数群体的权益，特别是在反歧视立法方面的缺失。报告提到，缺乏全面的反歧视法以及对基于性别、性取向和性别认同的歧视问题的法律保护，使得男女同性恋、双性恋和跨性别者面临严重的社会和法律挑战。此外，蒙古国家人权委员会对政府在保障人权方面的执行力表示担忧，特别是在家庭暴力、酷刑和人权维护者的保护方面。该文件呼吁蒙古政府改进法律框架并增强公众对人权及反歧视法的认识，确保所有人平等保护其人权和自由。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -402,6 +528,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [TRANS_PEOPLE_AND_TRANS_COMMUNITIES_IN_ASIA](TRANS_PEOPLE_AND_TRANS_COMMUNITIES_IN_ASIA_page.md)<details><summary>查看摘要</summary>
 
@@ -410,6 +539,9 @@ search:
 文件中还包含了对政策制定者和服务提供者的建议，包括如何制定和实施跨性别者友好的医疗服务以及对跨性别儿童和青少年的关怀策略。此外，该蓝图还提供了跨性别者在医疗设施中就诊的流程、心理健康关注、成瘾问题及去污名化的策略。综合照护、预防和支持措施亦得到了强调，以应对跨性别者的特定健康需求和促进其福祉。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2014
@@ -423,12 +555,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [联合国人权理事会国家报告_葡萄牙_2014](联合国人权理事会国家报告_葡萄牙_2014_page.md)<details><summary>查看摘要</summary>
 
 该文件为联合国人权理事会的国家报告，主要涉及葡萄牙在2009年到2014年期间的普遍定期审议机制下，为改进和实施人权政策所做的努力及其进展。报告展开了多个方面的内容，包括但不限于批准多项国际人权条约、促进性别平等、打击基于性别的暴力、支持移民融入社会、提高对少数群体的保护等。同时，文件详细列出了葡萄牙政府所采取的措施，例如通过法律、国家行动计划及涉及民间社会的对话与合作，旨在打击歧视、促进人权教育、保障儿童和妇女权益以及增强社会包容性。此外，报告还强调了取得的进展和面临的挑战，以及政府在改善人权环境方面的持续承诺。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -439,12 +577,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2014年圭亚那普遍定期审议报告](2014年圭亚那普遍定期审议报告_page.md)<details><summary>查看摘要</summary>
 
 该文件是关于圭亚那在2014年10月24日递交的普遍定期审议报告的概要，主要从人权的角度对该国的法律、政策及实施情况进行评估，尤其关注性取向和性别认同方面的歧视问题。报告中提到圭亚那法律中的一些歧视性条款以及来自政府和社会的偏见如何影响了女同性恋者、男同性恋者、双性恋者和变性人的生命及基本人权。文件强调，尽管圭亚那在国际人权义务方面做出了一些承诺，但仍存在大量的执行问题，例如警察对与性取向相关的仇恨犯罪的漠视和不作为，以及社会文化对多元性别人士的普遍歧视。报告还涉及到健康权、教育权、家庭生活权等多个方面，指出这些领域中的不足和改进的必要性。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2013
@@ -458,6 +602,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [德国人权报告2013](德国人权报告2013_page.md)<details><summary>查看摘要</summary>
 
@@ -466,12 +613,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2013年联合国人权事务高级专员报告-生而自由一律平等](2013年联合国人权事务高级专员报告-生而自由一律平等_page.md)<details><summary>查看摘要</summary>
 
 本文件为2013年联合国人权事务高级专员办公室发布的报告，标题为《生而自由，一律平等：国际人权法中的性取向和性别认同》。该报告重点强调，各国在保护女同性恋者、男同性恋者、双性恋者和变性人权利方面的义务，分析了基于性取向和性别认同的暴力及歧视问题。报告指出，尽管国际人权法对所有人的权利进行了保障，但很多国家仍然对性少数群体存在严重的歧视和暴力行为。这些问题包括仇恨犯罪、酷刑、歧视性法律、不人道对待等，尤其是在拘留场所中，各种形式的虐待和不公正对待普遍存在。报告提出了国家必须履行的五项核心法律义务：保护免遭仇恨暴力，预防酷刑，废除将同性恋去罪化，禁止基于性取向和性别认同的歧视，以及维护言论自由和集会自由。通过这些建议，报告旨在促进全球对性少数群体权利的关注和行动。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2012
@@ -489,6 +642,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [联合国人口基金社会性别项目词汇中英文对照表_2012](联合国人口基金社会性别项目词汇中英文对照表_2012_page.md)<details><summary>查看摘要</summary>
 
@@ -497,12 +653,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [lost-in-transition_Transgender_People,__Rights_and_HIV_Vulnerability__in_the_Asia-Pacific_Region](lost-in-transition_Transgender_People,__Rights_and_HIV_Vulnerability__in_the_Asia-Pacific_Region_page.md)<details><summary>查看摘要</summary>
 
 本文件名为《转型失落：亚太地区跨性别者、权利与HIV脆弱性》，由联合国开发计划署（UNDP）发布，旨在提供关于亚太地区跨性别者与HIV之间关系的研究和策略性信息框架。文中讨论了跨性别者在社会中面临的各种歧视与边缘化，包括法律保护缺失、就业和医疗领域中的偏见，以及精神健康问题。此外，文件还强调了针对跨性别者的暴力事件，以及这些事件如何违反国际法。报告的目的在于指导各国政府、民间社会及其他相关利益方，以减少跨性别者面对的极度脆弱性，并保护其权利。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2011
@@ -514,6 +676,9 @@ search:
 这份文件是《2011－2015 年世界卫生组织（WHO）全球卫生部门艾滋病毒战略草案》的正式报告，旨在指导全球范围内的艾滋病毒应对。文件详细阐述了卫生部门在艾滋病毒预防、诊断、治疗和关怀方面的重要性和具体目标，尤其是强调了为脆弱和高风险人群提供综合服务的重要性。报告还指出了卫生部门与其他关键卫生领域（如结核病、性与生殖健康等）之间的联系，以及在资源有限的情况下如何优化艾滋病毒相关服务的有效性。具体战略包括了优化医疗服务、推动人权和性别平等、以及提供结构性支持，以消除影响艾滋病毒服务获取的障碍。文件还附带附件包括经过修订的战略草案和执行摘要。整体上，本文件不仅关注于具体的医疗干预，也是试图应对广泛的社会和经济因素，确保艾滋病毒/艾滋病干预措施的普遍可及性，并努力实现与卫生相关的千年发展目标。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2010
@@ -531,12 +696,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [土耳其人权状况报告_联合国人权理事会_2010年](土耳其人权状况报告_联合国人权理事会_2010年_page.md)<details><summary>查看摘要</summary>
 
 该文件是关于土耳其人权状况的报告，呈递给联合国人权理事会。报告详细列举了土耳其在遵守国际人权标准方面的义务，以及在少数群体、特别是跨性别者、同性恋者和双性恋者权利保护方面的不足。文件指出，土耳其未能有效执行《公民权利和政治权利国际公约》和其他关于保护少数人权利的国际条约。此外，报告中提到土耳其对酷刑和虐待的零容忍政策在执行上存在问题，警方在执行职务时普遍存在虐待行为，且针对性别认同和性倾向的暴力事件时有发生。文件还讨论了对非穆斯林社群的歧视及对无神论者、基督教徒等群体的压制情况，强调了在教育、就业、和平集会等领域的法律保护不足，以及对女性和少数民族权利的侵犯。该报告展示了国际社会对土耳其人权状况的关注，并提出了改进的建议。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2009
@@ -550,6 +721,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2008
 
 
@@ -559,6 +733,9 @@ search:
 该文件是联合国人权理事会关于厄瓜多尔人权状况的国家报告，时间为2008年4月7日至18日。报告详细介绍了厄瓜多尔的政治、法律框架及其在国际法下的人权承诺，涵盖了国家如何通过法律、政策与措施来推动和保护人权，尤其是针对性少数群体（包括男同性恋者、女同性恋者、双性恋者和变性人群体）的权利。报告强调了厄瓜多尔宪法在平等权、无歧视原则和性多样性方面的进展，并指出了制定《国家人权计划》以及《性多样性问题行动计划》等文件所做的努力。同时也提及了在健康、教育、住房、食品等社会权利方面的核心政策，以及对儿童、青少年、妇女、老年人和残疾人的权利维护。在第三节中，报告特别强调了厄瓜多尔在法律和社会环境中为性少数群体争取权益的努力与成果。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2007
@@ -572,6 +749,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 时间未知，按收录顺序排列
 
 
@@ -583,12 +763,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [面向性别不平等的举措全球城市将团结临时的翻译](面向性别不平等的举措全球城市将团结临时的翻译_page.md)<details><summary>查看摘要</summary>
 
 该文件为联合国相关会议的临时翻译，讨论了全球城市在促进性别平等方面的倡议与合作。文件提到，由巴塞罗那、弗里敦、伦敦、洛杉矶、墨西哥城和东京等城市组成的城市网络，旨在共享针对性别歧视和不平等的最佳实践。文件引用了世界经济论坛2020年性别差距报告，指出在当前的趋势下，性别在经济领域的差距将在未来257年内无法消除。此外，COVID-19疫情特别影响了女性的健康、经济独立和职业安全，女性的失业率和雇佣受影响情况较男性明显更为严峻。该网络致力于消除基于性别、种族和其他身份的歧视，推动各城市间的合作以达成更广泛的性别平等。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -599,12 +785,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [联合国自由和平等_跨性别者](联合国自由和平等_跨性别者_page.md)<details><summary>查看摘要</summary>
 
 该文件是关于跨性别者人权的官方文件，讨论了跨性别者在全球范围内面临的各种歧视和暴力，强调了对跨性别者的性别认同的法律承认的重要性。文件指出，许多跨性别者在尝试改变法律文件上的性别时，面临种种困难和恶意要求，包括绝育和医疗干预等，且这些要求并非所有人都能接受。报告还提到跨性别者常遭受的暴力，包括谋杀、攻击和性别歧视，并且许多跨性别者在日常生活中受到歧视，包括受教育、获取医疗和工作的机会。不仅如此，文件还强调跨性别者的性别认同不应被视为心理疾病，呼吁全球社会消除对跨性别者的污名化。通过联合国的政策建议，文件提出了保护跨性别者的行动要点，倡导立法保护他们的权利，确保其性别认同得到承认和尊重。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -615,12 +807,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_情况介绍平等和不歧视_-_ohchr](PDF_情况介绍平等和不歧视_-_ohchr_page.md)<details><summary>查看摘要</summary>
 
 该文件是关于平等和不歧视的情况介绍，强调了国际人权法的核心原则——每个人都应享有平等的权利。文件详细讨论了在世界范围内，尤其是在东欧和非洲地区，针对性取向和性别认同的歧视现象。文中指出，许多国家的法律和政策反映了直接和间接对男女同性恋、双性恋、变性者及双性人群体的歧视，诸如禁止公开宣传同性恋的法律以及社会对这些群体的普遍偏见和歧视。文件还强调国家在保护人权方面的法律义务，指明国家必须确保其法律和政策不基于性取向和性别认同对任何人进行歧视，保护所有人的权利。此外，该文也提到了一些国家在这方面取得的进展，例如通过新的反歧视法律和政策，促进同性关系的合法化及变性者更容易获得法律上的性别确认。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -631,12 +829,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_双性INTERSEX_联合国](PDF_双性INTERSEX_联合国_page.md)<details><summary>查看摘要</summary>
 
 该文件为联合国关于双性（INTERSEX）人群的权利和生存现状的报告。内容详细介绍了双性的定义，包括双性的生理特征与社会认同之间的差异。在某些情况下，双性特征在出生时明显，而在其他情况下则表现不明显，往往在青春期时显现。报告指出，双性人常常面临由社会压力和医疗干预带来的身体完整性权利的侵犯，比如受到不必要手术的影响，这些手术通常没有经过充分的知情同意，且可能导致长期的身体和心理痛苦。文件还讨论了双性人可能遭受的歧视和虐待，并强调各国应制定法律以保护双性人的权利，反对任何形式的歧视。报告提到的法律进展包括2013年澳大利亚的《性歧视修正案》和2015年马耳他的《性别认同、性别表达和性特征法》，这两部法律都为双性人群的权利提供了法律保护。最后，文件强调了包容和尊重双性人权利的重要性，并呼吁社会提供更好的支持与理解。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -647,6 +851,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [难民与庇护：LGBTIQ+身份面临的挑战与应对](难民与庇护：LGBTIQ+身份面临的挑战与应对_page.md)<details><summary>查看摘要</summary>
 
@@ -655,12 +862,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [联合国自由和平等_LGBTIQ+女性基本知识与现状报告](联合国自由和平等_LGBTIQ+女性基本知识与现状报告_page.md)<details><summary>查看摘要</summary>
 
 该文件为联合国发布的《自由和平等：LGBTIQ+女性基本知识与现状报告》，全面介绍了LGBTIQ+女性（包括女同性恋、双性恋、跨性别、间性及酷儿女性）的现状和面临的挑战。报告中指出，LGBTIQ+女性常常因性别和性向受到多重暴力和歧视，需要在全球范围内进行关注和改善。文件详细探讨了刑事法律的影响，指出至少有42个国家将女性之间的自愿同性关系列为犯罪，导致女同性恋者等群体面临逮捕和迫害。同时，报告强调跨性别女性在法律上的认可尚不完善，许多女性在获取性别认同时必须面临强迫绝育等非自愿医疗程序。此外，文件指出暴力和杀害LGBTIQ+女性的事件频发，特别是有色人种的跨性别者尤为脆弱。文件呼吁全球社会采取措施，保障所有女性的权利与安全，并提出建议以支持LGBTIQ+女性，改善她们的生存状况和人权保障。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

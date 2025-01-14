@@ -30,12 +30,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_雇员的权利谁是跨性别者或非性别常规者_-_Civil_Rights_Department](PDF_雇员的权利谁是跨性别者或非性别常规者_-_Civil_Rights_Department_page.md)<details><summary>查看摘要</summary>
 
 该文件由加利福尼亚州民权部发布，主要探讨了跨性别者和非二元性别者在工作场所的权利。文件内容详细说明了加州法律如何保护雇员的权利，包括使用与性别认同相符的姓名和代称。不论是否法律上更改了姓名和性别，雇员都有权在工作中使用他们选择的姓名。文件还明确禁止基于性别认同或性别表达的歧视行为，强调了雇主在招聘、晋升及工作环境中应尊重雇员的性别身份。文件中提到，所有雇员有权使用符合其性别认同的洗手间和更衣室，并且在面试过程中，雇主不可询问求职者的出生性别或性别认同历史。整体来看，该文件强调了跨性别者在职场中应享有的平等权利和法律保护，确保他们不被歧视或骚扰。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -46,6 +52,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [怀亚特诉科特克案件和解协议通知](怀亚特诉科特克案件和解协议通知_page.md)<details><summary>查看摘要</summary>
 
@@ -54,12 +63,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [康涅狄格州教育部_多元性别学生权利保护指南_2024](康涅狄格州教育部_多元性别学生权利保护指南_2024_page.md)<details><summary>查看摘要</summary>
 
 该文件是由美国康涅狄格州教育部门发布的《多元性别学生权利保护指南》，旨在指导学校如何为跨性别或多元性别的学生提供平等的教育机会与支持。文件中详细探讨了多元性别学生的权利，包括如何识别性别身份、尊重名字和代词的使用，以及保障学校环境的安全与包容性等内容。同时，文件强调了根据康涅狄格州及联邦法律，学校必须为所有学生提供无歧视的学习环境，针对性别身份或表达展开的干扰行为，学校应及时有效地进行处理。此外，文件还对“性别认同”、“性别表达”等专业术语进行了定义并说明，如“性别流动者”指在性别身份和表达上展示灵活性的人。文章最后补充了性别焦虑的定义及其在教育环境中的影响。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2023
@@ -73,12 +88,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [Advocate__Aurora__Health_有关提供服务时严禁歧视的通知](Advocate__Aurora__Health_有关提供服务时严禁歧视的通知_page.md)<details><summary>查看摘要</summary>
 
 该文件是美国Advocate Aurora Health发布的有关提供服务时严禁歧视的通知。它明确规定了Advocate Aurora Health在提供服务和治疗过程中必须遵守的非歧视政策。该政策禁止因种族、肤色、国籍、年龄、性别、性取向、性别认同、宗教信仰、残障等任何原因而对任何人进行歧视。文件还提到，为了使残障人士能平等地获得服务，Advocate Aurora Health将提供多种形式的辅助服务，包括手语翻译和其他语言信息的翻译服务。此外，文件提供了针对可能出现的歧视行为如何提出投诉的具体步骤，包括联系民权协调员和相关政府部门的信息。这份文件不仅为服务提供了保障，也为维护跨性别及其他群体的权利提供了法律支持。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -89,12 +110,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [民权办公室_–_美国卫生与公众服务_非歧视公告](民权办公室_–_美国卫生与公众服务_非歧视公告_page.md)<details><summary>查看摘要</summary>
 
 该文件是一份非歧视公告，由Orange County Mental Health and Recovery Services发布，内容涉及对各类歧视行为的拒绝，包括性别、种族、肤色、宗教信仰、国籍、年龄、身体和精神残疾、社会性别及性取向等多种因素。公告强调，任何人都不会因上述因素而受到非法歧视或排斥。此外，文件中提供了多种服务的信息，包括为残疾人士提供的沟通帮助服务，如合格的手语翻译、其他格式的信息（大字版、盲文版、音频版等）以及针对英语非母语人士的语言服务。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -105,12 +132,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_性別認同_蒙郡公立學校](PDF_性別認同_蒙郡公立學校_page.md)<details><summary>查看摘要</summary>
 
 该文档是蒙哥马利公立学校（Montgomery County Public Schools, MCPS）发布的《学生性别认同指引》，旨在为性别认同的学生提供支持和指导。文档详细列出了学校在支持跨性别及非标准性别学生方面的政策和程序，包括如何与家长沟通、学生的隐私权、对性别认同的支持计划、在校内活动中的性别融合，以及如何在体育和其他活动中确保公平性。该指南特别强调了尊重和保护所有学生的权利，致力于在一个包容性和公正的环境中促进学生的成长与成功。它还提供了多种资源，诸如心理支持热线和相关法规。此外，文件中引用的多个重要原则和指导方针，是针对确保LGBTQ+学生在学校能够真实、安全地表达自我而设的。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -121,6 +154,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PridePlace_西雅图LGBTQIA+年长者住房信息_2023](PridePlace_西雅图LGBTQIA+年长者住房信息_2023_page.md)<details><summary>查看摘要</summary>
 
@@ -129,12 +165,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [老龄化总体规划公众调查报告_纽约州_2023](老龄化总体规划公众调查报告_纽约州_2023_page.md)<details><summary>查看摘要</summary>
 
 该文件是纽约州老龄化总体规划的公众调查报告，名为“绘制蓝图”（Master Plan for Aging, MPA）。它旨在制定一份战略蓝图，以确保所有纽约民众无论年龄，都能够过上充实、健康、尊严和独立的生活。调查内容涉及纽约居民的生活条件、护理和服务需求，以及希望在老龄化服务中解决的重点领域。通过问卷的形式，调查收集了社区成员对交通、歧视、医疗支持、生活成本等方面的反馈，旨在为政策制定提供信息。这份问卷还探讨了社区成员在老龄化过程中面临的挑战和希望获得的服务，从而帮助政府部门更好地了解和满足人口的需求。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2022
@@ -148,6 +190,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [加州法律禁止收容所中所有形式的歧视和骚扰行为](加州法律禁止收容所中所有形式的歧视和骚扰行为_page.md)<details><summary>查看摘要</summary>
 
@@ -156,12 +201,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [康涅狄格州教育委员会性别认同反歧视决议_2022](康涅狄格州教育委员会性别认同反歧视决议_2022_page.md)<details><summary>查看摘要</summary>
 
 该文件是由康涅狄格州斯托宁顿教育委员会于2022年10月25日通过的一项关于性别认同、性别表达和性取向反歧视的决议。决议明确指出每个孩子，无论其性别认同、性别表达或性取向如何，都有权接受免费的公立K-12教育，并强调学区有责任为所有学生创造一个安全的学习环境。文件指出，康涅狄格州禁止基于性别认同和性取向的歧视，并提到美国最高法院在Bostock诉克莱顿县一案中确认性别歧视包括对性别认同和性取向的歧视。此外，决议还承认LGBTQ+学生在学校遭受欺凌和骚扰的现状，以及这对他们的心理健康和教育成就的负面影响。为此，学区决定采取措施禁止基于性别认同和性取向的歧视，并宣称学区为学生提供一个安全空间，鼓励教师和员工支持多样性并庆祝不同身份。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2021
@@ -175,12 +226,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [马里兰州蒙哥马利县制止仇恨](马里兰州蒙哥马利县制止仇恨_page.md)<details><summary>查看摘要</summary>
 
 该文件是马里兰州蒙哥马利县检察官办公室发布的仇恨犯罪受害者资源指南，内容涵盖了受害者赔偿和支持服务，以及如何报告仇恨犯罪和偏见事件的信息。文件提到了合适的联系电话和资源网站，如仇恨暴力受害者合作基金、州检察官办公室、法律援助以及关于仇恨犯罪和偏见事件的相关法律条款。这些资源旨在保护所有居民，特别是受仇恨犯罪影响的少数群体，包括性别认同和性取向等。此外，文件解释了什么构成仇恨犯罪与偏见事件的区别，强调了举报重要性的同时，提供了具体的法律后果和受害者可以获得的服务。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2020
@@ -194,12 +251,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2020学生自杀预防计划与实施指南](2020学生自杀预防计划与实施指南_page.md)<details><summary>查看摘要</summary>
 
 该文件为《学生自杀预防计划与实施指南》，由美国某教育部门发布，旨在帮助学区制定和实施有效的自杀预防措施。指南强调，学区需要为幼儿园到12年级的学生提供全面的自杀预防计划，其中包括自杀预防、干预和风险降低的活动，以及促进自杀后康复的程序。文件中特别提到需要关注边缘化群体的需求，包括有精神疾患的青少年、经历无家可归的青年和性别认同多元的群体等，以便确保这些群体得到适当的支持与服务。文件中的政策也强调了为学校员工提供必要的培训，以便他们能够有效识别和回应潜在的自杀风险，并进行合适的转介至心理健康服务。此外，指南要求学校制定可应对文化及语言差异的支持措施，并在年度内向社区成员提供相关信息，以提高公众对自杀预防的认识与理解。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2019
@@ -213,12 +276,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_变性人和非二元性别客户的姓名和性别变更常见问题FAQ](PDF_变性人和非二元性别客户的姓名和性别变更常见问题FAQ_page.md)<details><summary>查看摘要</summary>
 
 该文件是由纽约市人力资源管理局（HRA）发布的有关变性人和非二元性别客户在姓名和性别变更方面的常见问题解答（FAQ）。文档深入探讨了性别标记的选择，包括女性（F）、男性（M）和非二元（X）性别的定义及其在社交服务中的应用，并解释了在更新计算机系统之前，选择性别标记时可能遇到的限制。文件指出，选择性别是很重要的，因为某些服务（如医疗和怀孕补贴）会受到这一标记的限制。此外，文件详细说明了如何在HRA和纽约州健康市场中变更姓名和性别所需的步骤和文件要求，包括相关的法律文件和医疗证明。最后，还提供了有关变性和非二元性别者医疗服务和权益的信息，包括医疗补助计划的相关政策和联系方式，旨在帮助客户在追求身份验证和相关健康服务的过程中获得所需的信息和支持。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -229,12 +298,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [波特兰公立学校_学生自杀预防政策_2019](波特兰公立学校_学生自杀预防政策_2019_page.md)<details><summary>查看摘要</summary>
 
 本文件是关于波特兰公立学校（Portland Public Schools）针对学生自杀预防政策的官方文档。文件详细阐述了学校面对青少年自杀问题的严重性，并制定了一系列预防和干预措施，以保障学生的心理健康。本政策是响应于2017年一名跨性别学生Adi Staub自杀身亡事件的倡议所制定的，旨在通过建立一个支持性环境，减少自杀风险。文中提到的政策要求教育机构在全校范围内实施自杀预防干预措施，特别关注包括LGBTQIA+群体在内的高风险学生。政策内容包括教职员工的培训、青少年自杀教育、学校预防自杀计划的执行，以及家庭和社区的参与。此外，该政策还强调了对于有自杀风险的学生提供必要的心理健康服务与支持的重要性。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2018
@@ -248,6 +323,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2017
 
 
@@ -257,6 +335,9 @@ search:
 本文件是由纽约市人力资源管理局与社会服务局发布的一份关于LGBTQI（包括跨性别者）的公共健康保险信息小册子。内容涵盖了如何申请Medicaid、基础计划（Essential Plan）和儿童健康附加计划（Child Health Plus）等公共健康保险，并强调了开放注册期间及资格事件时的购买时机。文中特别提到纽约州Medicaid已覆盖变性相关护理，并为跨性别者提供了关于如何申请变性护理服务的指导说明。文件中详细列出了申请过程中的注意事项，如通过网上、电话或面对面申请的方式，以及如何寻找对LGBTQI友好的医疗保健提供者。还提供了关于HIV及其相关医疗保障的措施，包括药物援助计划的支持和无保险者的医疗资源。总体而言，该文件为跨性别者提供了全面的医疗保险及健康服务指南，旨在确保其能够平等地获取所需的医疗服务。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2016
@@ -270,12 +351,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2015年美国跨性别调查报告执行摘要](2015年美国跨性别调查报告执行摘要_page.md)<details><summary>查看摘要</summary>
 
 《2015年美国跨性别调查报告执行摘要》是迄今为止对美国跨性别者经历进行的最大规模调查，收集了27,715名受访者在教育、就业、家庭生活、健康、住房和与刑事司法系统互动等方面的经验。调查显示，跨性别者面临严重的歧视和暴力现象，调查结果揭示了歧视和经济困难在跨性别群体中的普遍存在。例如，几乎三分之一的受访者生活在贫困中，且失业率是美国总人口的三倍。在转变过程中，受访者经历了高比例的精神健康问题，39%的受访者在调查前一个月经历了严重的心理困扰，40%的人在一生中曾尝试自杀。该报告强调了跨性别者在日常生活中面临的挑战，并呼吁政府和社会采取行动，消除对跨性别者的歧视，提供更多的资源与支持。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -286,12 +373,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2016年美国教育部关于跨性别学生的同事信函](2016年美国教育部关于跨性别学生的同事信函_page.md)<details><summary>查看摘要</summary>
 
 该文件是2016年美国教育部发布的一封针对跨性别学生的同事信函，旨在提供有关保护跨性别学生权利的指导。文件中指出，学校应努力创造一个包容、安全、不歧视的环境，特别是对于跨性别学生。在信函中，教育部和司法部强调，学校在获得联邦资金的条件下，不得因性别原因对任何学生进行排斥、隔离或区别对待，并且必须遵循《教育修正案》第九条的要求。文件详细阐述了跨性别学生的权利，包括在教育环境中享有与其性别认同一致的对待，以及关于性别转变过程、名称和代词使用、性别隔离的活动和设施、隐私保护等方面的要求。此外，文件还提到了如何处理学生教育记录中的个人身份信息，以维护他们的隐私。整个文件对跨性别学生的保护提供了明确的法规依据和政策示例，表明了教育部在推动公平教育方面的努力。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2014
@@ -305,12 +398,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2013年美国反暴力项目报告_针对LGBTQ和HIV受影响人群的仇恨暴力](2013年美国反暴力项目报告_针对LGBTQ和HIV受影响人群的仇恨暴力_page.md)<details><summary>查看摘要</summary>
 
 该报告由全国反暴力项目联盟(NCAVP)编写，主要关注2013年反对刘易斯、同性恋、双性恋、跨性别、酷儿及与HIV相关社区中产生的仇恨暴力。这份文件深入分析了当年针对这些群体的仇恨暴力的发生情况，展示了有关生存现状、社会环境与立法的详细数据、分析与建议。文中提到，在2013年的仇恨暴力事件中，跨性别女性和有色人种群体遭受的暴力尤为严重，尤其是12起由仇恨驱动的跨性别女性谋杀案。同时，该报告也强调了2013年一些关于权益的立法胜利，如《暴力侵害女性法》的再授权，其中首次纳入了性别认同和性取向的反歧视保护。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 时间未知，按收录顺序排列
@@ -324,12 +423,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [芝加哥_性别认同歧视](芝加哥_性别认同歧视_page.md)<details><summary>查看摘要</summary>
 
 该文件探讨了性别认同歧视的现象，并提供了详尽的案例与处理建议。文件中明确指出，性别认同歧视是指基于个人性别认同的任何行为，包括但不限于在卫生间、工作场所及租赁房屋等场合遭受的歧视与骚扰。具体示例包括禁止他人选择使用的卫生间或更衣室、对客户的性别认同进行嘲笑与贬低，以及因性别认同被拒绝雇佣、晋升或公平对待。为保护自身权益，文件呼吁遭受歧视的人士及时举报，并提供了有关举报的联系方式和相关组织信息。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -340,12 +445,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [Mountain_Valley_Health_Plan_非歧视通知](Mountain_Valley_Health_Plan_非歧视通知_page.md)<details><summary>查看摘要</summary>
 
 该文档是来自Health Plan of San Joaquin和Mountain Valley Health Plan的非歧视通知，明确表示其遵循州和联邦民权法，承诺不因性别、种族、肤色、宗教、血统、民族认同、年龄、精神残疾、身体残疾、医疗状况、遗传信息、婚姻状况、性别认同或性取向而对他人进行非法歧视、排斥或区别对待。文档详细列出了针对残疾人和非英语母语者提供的免费援助和服务，包括合格的手语翻译和多种形式的信息。文中还强调了如何提出申诉的程序，包括通过电话、信件、亲自或电子方式进行投诉。最后，文档提供了相关的联系方式，以便于受影响的人员获取帮助。此通知确保每个人都能够平等地获取医疗服务，反映出对跨性别群体及其他少数群体的重视与保护。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -356,12 +467,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [夏威夷州教育署Hawaii_State_Department_of_Education不](夏威夷州教育署Hawaii_State_Department_of_Education不_page.md)<details><summary>查看摘要</summary>
 
 该文件是由美国夏威夷州教育署发布的一份有关跨性别支持与政策的官方文件。文件内容详细描述了教育系统内对跨性别学生的支持措施，包括学校环境的包容性、性别认同的尊重、以及在校园内提供适当的医疗和心理支持等。它强调了对所有性别身份的保护，并明确列出相关法律条款及最佳实践，以促进包括跨性别学生在内的所有学生的全面发展和安全。该文件还可能包含关于教师培训、学生权益维护及相关政策更新的具体指导，以确保学校与省市教育部门之间协调一致，创造一个友好的学习环境。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -372,12 +489,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_歧视性骚扰_-_OSPI](PDF_歧视性骚扰_-_OSPI_page.md)<details><summary>查看摘要</summary>
 
 本文件由华盛顿州教育厅发布，主要内容是关于学生在K-12公立学校内受到的歧视性骚扰的法律保护。文中详细说明了什么是歧视、歧视性骚扰以及受保护人群的定义。根据华盛顿州法律，性别认同、性取向、性别表现等特征均受到保护，学校有责任采取措施防止此类骚扰的发生，并提供必要的保护和支持。文件还列举了歧视性骚扰的可能表现形式，包括威胁、侮辱、强迫性要求性施惠等。此外，学校工作人员被要求在知晓可能的骚扰情况时，必须进行迅速调查并采取行动，以维护学生的权利与安全。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -388,12 +511,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源](PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源_page.md)<details><summary>查看摘要</summary>
 
 该文件是由纽约市市长办公室发布的心理健康资源指南，旨在为LGBTQI+社区的市民及其家人和盟友提供支持和信息。指南中详细列出了纽约市内能够为LGBTQI+社区提供心理健康服务的组织和项目，包括针对无家可归的年轻人、移民、难民、年长市民等特定群体的支持资源。文件还介绍了在新冠疫情期间，各种服务机构如何调整其服务模式，以便继续为需要帮助的人提供支持和咨询。内容涵盖了各种心理健康支持的类型，包括同伴支持小组、咨询和疗法、危机咨询和自杀预防服务等，并推荐了一些心理健康应用程序，帮助使用者找到合适的支持。特别强调了性别肯定护理的必要性，提供相关医疗和行为健康服务的机构信息，以及如何找到对LGBTQI+友好的专业帮助。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -404,6 +533,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [住房歧视保护与LGBTQ+权益](住房歧视保护与LGBTQ+权益_page.md)<details><summary>查看摘要</summary>
 
@@ -412,12 +544,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [俄勒冈州LGBTQ+老年人健康服务需求调查](俄勒冈州LGBTQ+老年人健康服务需求调查_page.md)<details><summary>查看摘要</summary>
 
 该文件是俄勒冈州针对 LGBTQ+ 老年人的健康服务需求调查的介绍。调查旨在收集55岁及以上的LGBTQ+人群，包括女同性恋、男同性恋、双性恋、跨性别者以及酷儿等群体的养老、健康与服务需求信息。通过这个项目，组织希望能推动社会变革，以更好地满足老年群体的特殊需求。文件中提到参与者可以匿名填写问卷，并有机会参与100美元的礼品券抽奖，以促进更多人参与调查。文件还提供了官方网站链接和联系方式，以便获取更多信息。这一调查项目标志着对LGBTQ+老年人健康和福利的关注，将有助于描绘这一群体在社会和医疗服务中的需求与挑战。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -430,12 +568,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [哥伦比亚特区人权办公室公平住宅在线研讨会记录](哥伦比亚特区人权办公室公平住宅在线研讨会记录_page.md)<details><summary>查看摘要</summary>
 
 该文件为哥伦比亚特区人权办公室主持的公平住宅在线研讨会的记录，内容涵盖了关于住宅歧视、反歧视法律及其实施的重要信息。研讨会强调了《1968年公平住宅法》和《1977年哥伦比亚特区人权法》的重要性，提出这两项法律为多个受保护群体提供了平等的住宅权利。文中列举了住宅歧视的案例以及如何通过人权办公室提交歧视申诉的过程，说明了人权办公室的使命是消除歧视、提高平等机会并保护人权。此外，文件详细讲解了住房和城市发展部（HUD）在公平住宅政策中的作用，强调了为包括LGBT群体提供平等住宅机会的规章制度。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -446,12 +590,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [美国外出生的舞蹈从业人员调查报告](美国外出生的舞蹈从业人员调查报告_page.md)<details><summary>查看摘要</summary>
 
 该文件是一份关于美国外出生的舞蹈从业人员的调查报告，旨在通过收集和分析数据，了解在美国舞蹈行业中工作外籍舞蹈者的情况。这份调查报告包括了舞者的背景信息、他们在美国的工作经历、以及在舞蹈行业中面临的挑战与机遇。文件中详细列出了各种舞蹈形式的从业者，包括芭蕾、现代舞、街舞等，以及他们的文化背景和对舞蹈行业的贡献。此外，报告还讨论了美国政策对外籍舞者工作的影响，以及跨性别和多元性别舞者面临的特殊挑战和经验，为理解这个群体的生存状态提供了宝贵的数据支持和见解。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -462,12 +612,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [俄勒冈州健康青少年计划报告](俄勒冈州健康青少年计划报告_page.md)<details><summary>查看摘要</summary>
 
 该文件是《俄勒冈州健康青少年计划报告》的PDF文档，主要针对俄勒冈州的青少年健康问题进行分析，并提出了一系列解决方案。文件指出，俄勒冈州的青少年在成长过程中需要各种支持和鼓励，以消除校园中的偏见，改善儿童身心健康，确保他们能够健康成长。为了满足这一需要，文中提到了一些措施，包括教师培训、数据监控以及与学校相关人员的协调，旨在为年轻人提供更好的教育支持，特别是那些来自黑人、原住民和有色人种（BIPOC-AI/AN）背景的学生。报告强调，必须减少传统纪律处罚，而采用更具教育性和调解性的方式，以改善青少年的健康结果并提高他们的毕业率。此外，文件提到Healthier Together Oregon（HTO）项目旨在为所有儿童和家庭提供多层次的行为健康服务，解决结构性种族主义，消除校园不平等，并扩展健康服务的可及性。最后，HTO希望与各界合作，共同推动俄勒冈州的健康公平。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

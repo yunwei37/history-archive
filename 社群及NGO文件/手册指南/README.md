@@ -34,6 +34,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [嗓音训练指南](嗓音训练指南_page.md)<details><summary>查看摘要</summary>
 
@@ -50,6 +53,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2023
 
 
@@ -61,12 +67,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_BSA_指南有关性别认同问题的投诉](PDF_BSA_指南有关性别认同问题的投诉_page.md)<details><summary>查看摘要</summary>
 
 本文件为BSA指南，主要针对性别认同问题的投诉进行详细叙述。文件指出，性别认同不仅在社会中具有重要意义，而且在媒体报道中的地位也日益重要。社会对性别认同的反应呈现出两极分化，争议纷纷。这份指南的发布旨在指导管理机构如何考量与性别认同相关的投诉，强调了在表达言论自由的同时，必要的社会责任和约束。指南介绍了性别认同的概念以及相关法律背景，包括新西兰法律如何承认个体在出生证明上更改生理性别的权利。同时，文件认定跨性别者为受到歧视和诽谤标准保护的社会群体，讨论了在播出节目中涉及性别认同问题时的注意事项，比如性别错称、弃名错称等可能对个体造成的伤害。文件还提到使用包容性语言的重要性，并指出基于跨性别恐惧的投诉通常不太可能获得支持。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -77,12 +89,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [针对戒网瘾学校非法绑架未成年人的逃生方法解析](针对戒网瘾学校非法绑架未成年人的逃生方法解析_page.md)<details><summary>查看摘要</summary>
 
 本文件为《针对戒网瘾学校非法绑架未成年人的逃生方法解析》，由暮光计划全体成员编写，旨在为未成年人提供在面临被相关机构绑架威胁时的生存指导与逃生策略。文件包含了详细的逃生准备、对突发情况的应对、临时武器的使用以及反击的方法。首先，文中强调了应对突发情况的准备，包括反应准备和攻势预备，提醒未成年人在日常生活中建立应对危机的意识。其次，文件通过分析各类绑架可能的情景，提供了相应的防护措施，如房间加固和设置警报，以及在日间的逃生准备和出行安全的注意事项。文中提到的具体应对措施如利用常见物品进行防卫、识别跟踪者和实施初步应对，展示了极为详细和严谨的方法论。纸质文档中引用了包括国际公认专家的相关书籍，体现其理论基础。总之，此文旨在为未成年人提供在极端情况下的生存技能，强调反应的迅速性及主动性，并记录了针对潜在绑架情境中的各类应对方案与策略，帮助未成年人在遇险时最大限度保护自己。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2022
@@ -96,12 +114,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [伴您同行_专为跨性别儿童的父母准备的指南_SG出柜指南_原版_](伴您同行_专为跨性别儿童的父母准备的指南_SG出柜指南_原版__page.md)<details><summary>查看摘要</summary>
 
 《伴您同行》是专为跨性别儿童的父母准备的一本综合性指南。这本手册由新加坡的跨性别组织Oogachaga、X计划、T计划及新加坡跨性别小组的跨性别员工和志愿者共同撰写，旨在为家长提供清晰的信息，以帮助他们理解和支持孩子的性别认同。此外，本指南探讨了关于性别角色认同、性别转换的常见问题，提供了父母如何与孩子沟通及构建一个支持性环境的建议。内容包括如何应对孩子出柜的情感反应，跨性别儿童可能面临的社会和法律障碍，以及在医疗方面的资源和支持。这本指南不仅是一个实用的工具，也为家长提供了情感支持，让他们了解到可以向哪个组织寻求帮助。这对于希望更好理解并支持自己跨性别孩子的家庭极具参考价值。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -112,6 +136,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2022版跨性别医疗照护手册](2022版跨性别医疗照护手册_page.md)<details><summary>查看摘要</summary>
 
@@ -120,12 +147,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [SG出柜指南_去风险删减版](SG出柜指南_去风险删减版_page.md)<details><summary>查看摘要</summary>
 
 该文件为《SG出柜指南_去风险删减版》，由Oogachaga、X计划、T计划与新加坡跨性别小组共同撰写，旨在帮助跨性别儿童的父母理解和支持孩子的性别认同。指南通过问答的形式，涵盖了许多与跨性别儿童相关的主题，包括性别角色认同、家长如何面对孩子的出柜、如何支持孩子在过渡过程中的需求，以及在社会和法律上可能面临的挑战。文中还包括关于性别转换的不同方式（如社交转换、法律转换和医学转换）的详细介绍，以及跨性别者在新加坡所面临的歧视和社会环境的讨论。指南强调了父母在支持孩子过程中所需的态度，并列出了多个支持性资源和组织，为需要更多帮助的家庭提供信息与指导。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2021
@@ -139,6 +172,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_数字暴力报道提示单记者和媒体的实用参考指南](PDF_数字暴力报道提示单记者和媒体的实用参考指南_page.md)<details><summary>查看摘要</summary>
 
@@ -147,12 +183,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [《跨性别者购药反诈防骗指南_V2.0》](《跨性别者购药反诈防骗指南_V2.0》_page.md)<details><summary>查看摘要</summary>
 
 《跨性别者购药反诈防骗指南_V2.0》是一本专为跨性别者编写的自用药购买安全指南，旨在帮助跨性别社群有效识别和避免购药过程中的诈骗行为和假药危害。指南在前言中提到，随着新冠疫情的蔓延，药品市场面临断货，导致许多自用药的跨性别者在购药时感到无比焦虑，骗子趁机通过各种手段进行诈骗，给跨性别者的健康和财产带来巨大损失。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2019
@@ -166,6 +208,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2016
 
 
@@ -177,12 +222,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [关于跨性别者和性别非二元_人群的初级和性别肯定护理_指南_UCSF](关于跨性别者和性别非二元_人群的初级和性别肯定护理_指南_UCSF_page.md)<details><summary>查看摘要</summary>
 
 本文件是由加州大学旧金山分校跨性别者健康促进中心发布的《关于跨性别者和性别非二元人群的初级和性别肯定护理指南》。该指南旨在提供一种有力的工具，以帮助初级卫生保健提供者更好地满足跨性别者和其他性别非二元人群的健康需求。文件中详细介绍了跨性别者的健康问题，强调跨性别者在接受医疗服务过程中所遇到的歧视、偏见和困难，以及这些问题对其健康保健的影响。根据2011年的研究数据，很多跨性别者因先前的负面经历而推迟求医，甚至在就医时需要向医疗提供者解释基本的医学知识。指南还提供了关于激素治疗、体检考虑、跨性别与非二元性别患者的护理流程等诸多内容，并列出了一系列适用的证明和数据，旨在增强医学界对跨性别者健康问题的认识和理解。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2015
@@ -196,6 +247,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2014
 
 
@@ -205,6 +259,9 @@ search:
 《是非男女第二册：跨性别家长手册》是一本专为跨性别人士的家长编写的手册，旨在帮助家长更好地理解和支持他们的跨性别子女。书中包括了跨性别的基本概念、跨性别者的生活经历、家长可能会面对的问题和疑虑等内容。手册介绍了香港的跨性别资源中心，强调了性别认同、性倾向、间性人等重要概念，并提供了跨性别子女与其家长、社会的关系说明和建议。内容不仅涵盖了理论知识，还有许多实际的建议和关心，帮助家长们更好地应对与子女之间的沟通与理解。此外，书中也有真实的跨性别孩子的心声，这些内容希望能够唤起家长的共鸣，增进家庭间的理解与支持。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2013
@@ -218,6 +275,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2012
 
 
@@ -229,12 +289,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [是非男女-1](是非男女-1_page.md)<details><summary>查看摘要</summary>
 
 《是非男女（Gossip Boys and Girls）》是一本旨在提高公众对香港跨性别群体认识的本土跨性别阅读手册。书中详细阐述了跨性别人士的性别身份及其可能的性倾向，探讨跨性别群体在社会中所面临的歧视、偏见以及生活挑战。内容涉及生理性别与社会性别的区别、跨性别与性倾向之间的关系、易服和变性人群体的多元性。书中还探讨了香港跨性别群体的历史与现状，强调了对跨性别人士的需要支持和法律保障的重要性。该手册通过个人故事的分享，旨在帮助社会大众更好地理解跨性别议题，促进对跨性别者的包容与尊重。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -245,12 +311,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [Gossip_Boys_and_Girls_-_跨性別資源中心](Gossip_Boys_and_Girls_-_跨性別資源中心_page.md)<details><summary>查看摘要</summary>
 
 本文件《是非男女：Gossip Boys and Girls》是由香港跨性别资源中心（Transgender Resource Center）出版的阅读手册，旨在教育和提高社会对跨性别人士的理解与接纳。手册中详细讨论了跨性别的概念，包含与性别身份、性倾向、以及社会环境相关的诸多议题，试图打破社会对跨性别群体的误解和偏见。书中提到，跨性别人士在生活中会经历多重挑战，包括心理上的挣扎、社会的歧视和身体上的困扰。该手册中引入了许多真实的生命故事，并强调了跨性别朋友所面临的社会环境与法律政策的问题，从而希望能为跨性别社区争取更多支持和理解。除此之外，书中还包括了一些针对跨性别人士的医疗资源和相关法律政策的说明，作为实用指南，帮助跨性别人士获取信息与服务。手册的出版背景还有助于消除社会对跨性别群体的误解，推动跨性别权利的平等。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2011
@@ -264,6 +336,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2009
 
 
@@ -273,6 +348,9 @@ search:
 该文件是一本关于如何帮助家庭接纳和支持他们的同志（包括女同性恋、男同性恋、双性恋和跨性别）子女的小指南。它由加州援助组织的Caitlin Ryan博士及其团队发布，旨在提高家庭对同志子女的理解和支持，减少这些青少年的抑郁、自杀、药物滥用和艾滋病等健康风险。文中指出，家庭的接受与支持对同志青少年的成长至关重要，接受的环境可以帮助他们建立自尊，从而促进其身心健康。指南中包含了研究结果，以及建议和具体行为指南，供家长和照料者参考，以减少对同志子女的排斥情，增进家庭关系并促进子女的健康成长。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 时间未知，按收录顺序排列
@@ -286,12 +364,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [跨儿的性别困惑与身份认同](跨儿的性别困惑与身份认同_page.md)<details><summary>查看摘要</summary>
 
 该文件是关于跨性别者心理健康与身份认同的手册，旨在提供对跨性别者性别困惑、身份认同及心理支持的深刻理解。作者欢喜，心理学硕士，心理工作者及跨儿心理小组发起人，详细探讨了跨性别者常见的性别困惑，包括对身体特征的感受、性别认同与社会期望之间的矛盾等。文中强调了跨性别身份认同的多维度，包括性别认同、性别表达以及个体的情感倾向和性倾向。同时，文件中提及了跨性别者在社会与医疗体系中的地位，批判了扭转治疗的危害，并呼吁对跨性别者心理健康的重视与研究。还包含了心理工作者为跨性别者提供支持时需要注意的态度与知识，以及跨儿心理小组的成立背景与目标，强调社群的重要性与多元化。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -302,12 +386,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [跨性別者自助手冊](跨性別者自助手冊_page.md)<details><summary>查看摘要</summary>
 
 这份《跨性别者自助手册》是专为跨性别人士撰写的指导手册，内容涵盖了跨性别者在性别认同、过渡过程、法律承认等多方面所需的信息与支持。手册分为五大单元，首先介绍了性别认同及如何与自己和他人''outcome''。接着，手册详细讨论了社交过渡和身体过渡，包括改造外表、荷尔蒙疗程及相关的医疗资源。手册还提供有关法律层面的信息，包括更改法定姓名和身份证性别的程序，以及跨性别者的婚权问题。每个单元都包含真实故事与建议，旨在帮助跨性别者理解自身经历，寻求支持，勇于表达自己的性别认同。手册的撰写体现了对跨性别者多元与独特经历的尊重与支持。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -318,12 +408,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [跨性別社福醫護手冊](跨性別社福醫護手冊_page.md)<details><summary>查看摘要</summary>
 
 《跨性别社福医疗手册》是一部针对跨性别者在社会福利和医疗护理方面的指导手册。该手册详细介绍了跨性别者的特定需求，包括在医疗系统中可能遇到的挑战、可获得的医疗资源，以及如何更好地为跨性别者提供支持的策略与方法。手册还提供了成功案例，展示了某些机构和个人如何有效地服务于跨性别群体。通过这一文件，读者可以了解跨性别者的经历，以及有关医疗政策、法律支持和社区服务的相关信息，旨在提高跨性别者的生活质量及社会参与度。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -334,12 +430,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [应对扭转治疗手册_-_同志亦凡人](应对扭转治疗手册_-_同志亦凡人_page.md)<details><summary>查看摘要</summary>
 
 《应对扭转治疗手册》是一本针对跨性别群体及其支持者、社群和相关机构的重要材料，旨在提高大众对于扭转治疗（Conversion Therapy）的认知，以及提供抵制和应对的策略。该手册详细地介绍了扭转治疗的定义、历史背景及其对跨性别人士身心健康的影响，同时提供了具体的案例分析和专业建议。书中包含了扭转治疗的危害性、现行法律的相关政策、以及如何寻求心理支持和医疗帮助的信息。此外，手册也强调了跨性别权益的重要性，呼吁社会各界抵制此类不当治疗，保障跨性别人士的基本人权和尊严。通过深入浅出的方式，手册对受影响的个体及其家庭提供了切实可行的指导和希望，力求对抗扭转治疗带来的负面影响。本书适合所有关心跨性别问题的人士阅读，包括患者、心理咨询师、法律从业者及社会工作者等。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -350,12 +452,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [坦荡出柜_亚太裔LGBTQ人群生活指南](坦荡出柜_亚太裔LGBTQ人群生活指南_page.md)<details><summary>查看摘要</summary>
 
 本文件《坦荡出柜：亚太裔LGBTQ人群生活指南》旨在为亚太裔LGBTQ人群在出柜过程中提供支持与指导。文件详细讨论了出柜的重要性，以及在亚太裔文化中出柜可能面临的独特挑战和复杂性。文件强调，无论个体的性别认同或性取向如何，每个人都应享有真实、完整的生活权利。它提供了一些实用建议，帮助读者在出柜前创造安全空间以及评估个人的特殊情况。该手册还包含关于家庭接受度的探讨，以及如何支持家人应对出柜带来的各种反应。强调了在许多文化中，尤其是亚太裔文化中，传统和家庭责任对LGBTQ人群出柜过程的影响。文中引用了多位亚太裔家庭成员的真实故事，展现了出柜后家庭关系的改善和成长。文件还探讨了信仰与身份整合的复杂性、移民经历的影响以及文化双重认同对LGBTQ亚太裔的挑战。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -366,12 +474,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [跨性别工作者厕所通行指南](跨性别工作者厕所通行指南_page.md)<details><summary>查看摘要</summary>
 
 本文件为《跨性别工作者厕所通行指南》，旨在为跨性别工作者提供清晰的厕所使用指南，以确保他们在公共场所的隐私和安全。该指南涉及多个重要方面，包括如何选择合适的厕所，相关法律法规，及如何处理在公共场所可能遭遇的歧视或骚扰情况。该手册还推荐了一些支持性资源和组织，帮助工作者在遇到问题时寻求帮助，维护自身权益。尽管无法提取具体文本，但该文件显然关注了跨性别社区面临的实际问题，力求帮助他们在日常生活中获得更好的体验与保护。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -382,12 +496,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [北同跨性别医疗照护手册](北同跨性别医疗照护手册_page.md)<details><summary>查看摘要</summary>
 
 北同跨性别医疗照护手册是一本旨在为跨性别者提供医疗支持和照护建议的指南。这本手册详细介绍了跨性别者在过渡过程中可能遇到的各种医疗需求，包括激素替代疗法、心理咨询、手术选择及术后护理等。此外，手册中也提供了与医疗相关的重要法律信息以及如何选择友好的医疗服务提供者的建议。通过生动的案例和经验分享，该手册鼓励跨性别者积极主动地寻求适合自己的医疗照护，并在社会中推动对跨性别者权益的更广泛理解和尊重。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -398,12 +518,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [性侵害幸存者自助手册2.0](性侵害幸存者自助手册2.0_page.md)<details><summary>查看摘要</summary>
 
 《性侵害幸存者自助手册2.0》是一本为经历过性侵或性虐待幸存者而编写的指导性手册，由Somerset and Avon Rape and Sexual Abuse Support（SARSAS）组织发布。手册旨在帮助幸存者理解和处理因创伤经历导致的各种反应，包括心理和情感上的挑战。手册通过不同章节详述了创伤后可能出现的情绪反应，提供了应对技巧，如着陆技术、情绪管理等，还列出了许多自助建议，如如何寻找倾诉对象、如何面对闪回、如何照顾自己的身体等。作为自助手册，作者在手册中强调要温柔对待自己，并理解每个人对创伤的反应都是独特的。本书还包含针对幸存者的具体技巧与自助包，目的是让幸存者能够在面对创伤时能够获得必要的理解与支持。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -414,12 +540,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [自切教程萱酱版](自切教程萱酱版_page.md)<details><summary>查看摘要</summary>
 
 这份文件是一个关于自切的教程，标记为萱酱版。尽管具体内容未能提取，但通常此类教程会涵盖跨性别群体中有需要的人士在自我过渡过程中可能会面临的各种情况和方法。自切是指在医疗资源不足或缺乏支持的情况下，跨性别者出于性别认同的需要而自行进行身体上的改变。这种行为通常伴随有风险，因此安全和有效的方法非常重要。文件可能会提供一些指导、注意事项和个人经验分享，旨在帮助有类似经历的人士更好地理解自切过程以及相关的心理与生理影响。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -430,12 +562,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [跨性别安全指南](跨性别安全指南_page.md)<details><summary>查看摘要</summary>
 
 本文件为《跨性别安全指南》的PDF版本，旨在为跨性别群体提供安全相关的指导与建议。指南从技术安全、身份保护、心理评估等多个方面提供了实用的建议，尤其是针对可能面临家庭或社会压力的跨性别者。内容涵盖了如何在使用手机时保护自身隐私，包括提出避免使用国产软件、备份重要信息等技巧。对于 Android 和 iOS 用户，提供了关于如何保障手机安全的具体操作建议，如刷机、修改IMEI等。除此之外，该指南还侧重于在家庭冲突中如何评估家长的态度、如何寻求安全援助以及在危机情况下的应急行动指南，如逃跑时的现金交易等。文件包含丰富的安全技巧，示范了如何保护个人信息，减少被追踪和监控的风险，也是对跨性别者生存环境的重要记录与分析。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -446,12 +584,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [关于跨性别者个⼈人身份信息的更更改经验分享](关于跨性别者个⼈人身份信息的更更改经验分享_page.md)<details><summary>查看摘要</summary>
 
 该文件为酷儿论坛发布的关于跨性别者个人身份信息更改的经验分享手册。内容包括跨性别者在更改身份信息过程中遇到的具体步骤及其建议，涉及公证、身份证、学籍、护照、银行资料等多个方面。文件详细记录了作者在不同环节中所需的材料、时间安排以及相关机构的要求，例如更改身份证时需要原身份证、户口本和公证书等。在每个步骤中，作者与各个部门的工作人员的沟通经历和解决方案也被详细描述，提供了宝贵的实用信息和建议。同时，作者强调了这些经验仅供参考，不代表官方立场。文件还给出了一些联系电话和邮箱，方便有需要的读者进一步咨询。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -462,6 +606,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [反扭转治疗内部工作手册](反扭转治疗内部工作手册_page.md)<details><summary>查看摘要</summary>
 
@@ -470,12 +617,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [如何应对扭转治疗——李晓晨](如何应对扭转治疗——李晓晨_page.md)<details><summary>查看摘要</summary>
 
 本文件由李晓晨撰写，内容详尽地探讨了关于‘扭转治疗’的概念和应对方法。扭转治疗意指通过心理咨询或治疗改变一个人的性取向，使其试图向异性倾斜。这种治疗方法包括多种手段，如精神分析、厌恶疗法、电击治疗等，但这些方法常常被认为侵犯了个人的基本权利，因此本文件详细介绍了扭转治疗的侵权行为，以及受害者如何进行维权。文中提到，很多家庭因对性倾向的误解而强迫家人接受扭转治疗，李晓晨在文中提供了针对这种情况的应对策略，包括家庭沟通、自我保护以及与社会支持组织联系的建议。文件还对法律救济措施进行了说明，强调了个人在谋求权益时应掌握的证据保存方法和法律条款，以助于维权行动。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

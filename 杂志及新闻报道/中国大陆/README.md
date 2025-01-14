@@ -30,6 +30,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [冷杉RECORD｜不完美跨儿：病人、斗士与谎言_404文库](冷杉RECORD｜不完美跨儿：病人、斗士与谎言_404文库_page.md)<details><summary>查看摘要</summary>
 
@@ -38,12 +41,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [跨性别者被电击治疗_医院否认有过错_中华网](跨性别者被电击治疗_医院否认有过错_中华网_page.md)<details><summary>查看摘要</summary>
 
 该文件详细记录了一起引人注目的跨性别者灵儿在医院接受强制治疗的事件。灵儿由于与父母在性别认知方面存在严重分歧，被送往河北省秦皇岛市九龙山医院进行住院治疗，并在住院期间接受了电击治疗。医院诊断其“患有焦虑障碍和自我不和谐的性取向”，并对其进行了为期97天的强制医疗。灵儿在出院后对医院提起诉讼，要求确认医院的强制医疗为侵权，并赔偿相应损失超过8万元。文件中提到，庭审的重点在于是否存在患者的强制医疗，以及医院在该事件中是否存在过错。灵儿的律师认为她具备完全民事责任能力，并且没有自杀或伤害自己及他人的行为，医院的强制收治不符合有关法律规定。此外，医院辩称灵儿在入院时的焦虑情绪表明其需要住院治疗，但这与灵儿对自身性别认同的清楚认识形成了鲜明对比。文件包含了多名律师与医院工作的辩论，以及专家的观点，反映出跨性别认知在医疗领域内的复杂性和争议性。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2023
@@ -57,12 +66,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [一口吞下18粒右美沙芬，他瘫在床上青少年滥用药品现象调查_2023_](一口吞下18粒右美沙芬，他瘫在床上青少年滥用药品现象调查_2023__page.md)<details><summary>查看摘要</summary>
 
 该文件是一篇关于中国青少年滥用药品现象的调查报告，标题为《一口吞下18粒右美沙芬，他瘫在床上青少年滥用药品现象调查》，由法治日报的记者们撰写。文件重点探讨了青少年对成瘾性药物，尤其是右美沙芬的滥用问题。这种药物原本是一种常见的止咳药，但由于容易购买和使用，很多青少年因寻求快感而大量服用。调查中提到，青少年在获得药物后，可能会因其形成依赖，导致心脏加速、呼吸困难等严重后果，甚至出现瘫痪的现象。文章还追踪了药品管控的漏洞，指出部分药店并未严格遵循法律法规，导致滥用现象加重。此外，文中多位青少年的个人经历深入揭示了社会、家庭和心理因素对药物滥用的影响，呼吁加强禁毒宣传，重视新型毒品的危害，保护青少年的身心健康。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2018
@@ -76,6 +91,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2017
 
 
@@ -85,6 +103,9 @@ search:
 《2017中国跨性别群体生存现状调查报告》由北京同志中心与北京大学社会学系共同发起，旨在研究中国跨性别群体的生存状况，探讨跨性别者在社会生活中所遭遇的各种困难与挑战。报告于2017年11月20日在荷兰驻华使馆公开发布，恰逢国际跨性别日，现场有众多跨性别人士及相关机构参与，发表了对这一议题的看法与建议。报告涉及跨性别者的基本信息、性别认同、医疗环境、家庭与学校环境、社会歧视、心理健康与服务等多个方面的调研结果，统计显示，多数跨性别者面临抑郁、焦虑以及自杀的困扰，显示出极为严峻的生存现状。此项调研不仅具有重要的学术研究价值，更是跨性别群体向社会发声的体现，试图打破对于跨性别群体的误解与偏见。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2016
@@ -98,6 +119,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2015
 
 
@@ -109,12 +133,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [走上T台刘婷最美蝶变](走上T台刘婷最美蝶变_page.md)<details><summary>查看摘要</summary>
 
 该文件为《京华时报》的一篇报道，标题为《走上T台刘婷最美蝶变》。文中讲述了刘婷的变性经历及其在选美比赛中的表现。刘婷是一名经历了性别转变的跨性别女性，参赛前面临身份的质疑和法律手续的困扰。在比赛中，她凭借优异的表现获得了“最佳蝶变奖”，成为全国道德模范的代表。报道详细描绘了她的备赛过程，包括艰苦的训练、心理准备和巨大的媒体关注。文中提到刘婷经历变性手术时，面对公众与社会的质疑，她展现出勇气与自信，努力向新身份过渡，同时也强调了家庭对她的支持与期望。文章还涉及到相关法律问题及社会对变性人参与公众活动的看法，以及刘婷如何在这一过程中追求自己的梦想与目标。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2014
@@ -128,6 +158,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [不想让男孩长成“伪娘”家庭教育要从娃娃抓起_晚报](不想让男孩长成“伪娘”家庭教育要从娃娃抓起_晚报_page.md)<details><summary>查看摘要</summary>
 
@@ -136,12 +169,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2014_年第一版_酷拉时报](2014_年第一版_酷拉时报_page.md)<details><summary>查看摘要</summary>
 
 《酷拉时报》2014年第一版是由华人拉拉联盟出版的一份年度合刊，致力于推动中国LGBTQ（尤其是拉拉和酷儿）的运动与讨论。该刊物的宗旨在于反映多元的性别与性取向经验，认为拉拉与酷儿不应被简化为传统的性别分类，强调个体差异与身份多样性。本期刊物探讨了在中国现行社会环境中，同志运动所面临的复杂情况与挑战，包含对政策、社会认知、以及内部差异的反思。文中提到“我们是实践者，投身中国性/别运动”，表明了对现实改变的期待，并提出希望借由这份刊物，呼唤一个基于理解与尊重的对话空间。刊物的内容涵盖了诸如性别意识、法律政策、社会环境、以及性工作等多个重要议题，强调多样性的脆弱与重要，并邀请各方参与讨论以推动运动的发展。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2013
@@ -155,6 +194,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2013年上海骄傲节宣传稿](2013年上海骄傲节宣传稿_page.md)<details><summary>查看摘要</summary>
 
@@ -163,12 +205,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [第六届北京酷儿影展闭幕新闻稿_2013](第六届北京酷儿影展闭幕新闻稿_2013_page.md)<details><summary>查看摘要</summary>
 
 本文为第六届北京酷儿影展的闭幕新闻稿，详细记录了该影展于2013年6月23日在北京市安定门附近顺利闭幕的情况。该影展自2001年创办以来，一直作为酷儿影像交流的重要平台，但历程曲折，包括曾被政府打压的历史。此次影展是第十三届，首次在北京举行而未遭打击，组织者表示对此感到不可思议。影展期间，展映了来自九个国家的二十八部影片，涵盖了多种题材和表现手法，尤其强调了边缘人群的权益与生活。影展还结合相关论坛，探讨了跨性别、间性人、性工作者等不同群体的议题，并讨论了电影审查的问题。尽管影展没有进行公开宣传，仍吸引了许多观众，部分观众获得了交通和住宿补助，显示出社会对多元性别内容的关注。闭幕式上，组委会成员强调，只有不断争取，才能赢得更多空间。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2012
@@ -182,6 +230,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2011
 
 
@@ -193,12 +244,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [异装癖，或缘于压力过大_卫生报](异装癖，或缘于压力过大_卫生报_page.md)<details><summary>查看摘要</summary>
 
 这篇文章讲述了陈尔健的个人经历，他是一位32岁的男性，在婚姻生活中面临着内心和情感的矛盾。文章详细描述了他对男扮女装的爱好，归因于异装癖这一心理状态，并探讨了这种性变态在家庭生活中可能造成的冲突。例如，文章提到陈先生常穿女性服装来获得心理上的安慰，但这导致了他与妻子之间的频繁争吵和情感隔阂。此外，文章分析了异装癖的成因，包括家庭环境对性别认同的影响以及社会文化的压力。它还涉及了对异装癖治疗的心理咨询方法，强调了情感抚慰在治疗过程中的重要性。整篇文章不仅展现了个人情感的复杂性，也反映了社会对跨性别群体的误解与偏见。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2010
@@ -212,6 +269,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2009
 
 
@@ -223,12 +283,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [构筑弹性的《婚姻法》调适变性伦理_特约评论员_杜宇](构筑弹性的《婚姻法》调适变性伦理_特约评论员_杜宇_page.md)<details><summary>查看摘要</summary>
 
 本文件是《21世纪经济报道》于2009年11月25日发表的特约评论文章，标题为《构筑弹性的《婚姻法》调适变性伦理》，作者为杜宇。文章主要探讨了中国变性人的法律地位及其在《婚姻法》下的权利问题。文章首先回顾了卫生部发布的《变性手术技术管理规范（试行）》，指出其中涉及的变性手术申请条件，包括持续性变性要求、术前心理治疗的时间限制、无婚姻状态及年龄等，这些条件在一定程度上反映了中国社会对变性人法律权利的限制。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2008
@@ -242,6 +308,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2007
 
 
@@ -251,6 +320,9 @@ search:
 本文档是2007年09月的《les+双月刊》，围绕多元性别和跨性别话题展开，内容涵盖了生活故事、法律政策、医疗资源、社会环境、以及相关统计数据等多个方面。文章中讨论了一些与同志运动相关的主题，比如反歧视游行、同性婚礼、同志文学等。文中提到在北京、匈牙利以及西班牙等地发生的相关活动。文件内包含了同志文学作品的推荐，新闻报道以及对社会现象的反思，例如对同性恋者权益的争取，以及对异性恋标准文化的揭示。多个故事与观点交织，提供了对当时跨性别群体生活和社会认同的深刻洞见。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2004
@@ -264,6 +336,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2003
 
 
@@ -275,6 +350,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [变性人、劳教者、在校大学生等今天起可登记结婚_中国新闻网_2003](变性人、劳教者、在校大学生等今天起可登记结婚_中国新闻网_2003_page.md)<details><summary>查看摘要</summary>
 
@@ -283,12 +361,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [变性人可否结婚_广西政法报_2003年](变性人可否结婚_广西政法报_2003年_page.md)<details><summary>查看摘要</summary>
 
 该文件为《广西政法报》于2003年1月17日发布的报道，主要讨论了变性人是否可以结婚的问题。文中提到，一位来自桂林的读者刘先生询问关于其侄女的变性手术及其法律地位的问题。报道中引用了一位律师的观点，说明变性手术需要经过严格的观察和认定，相关医院和医生需要确认手术是出于对患者身心健康的考虑。在法律层面上，变性人在完成性别更改后，应携带医院的相关证明到公安机关进行性别登记变化，该变化在法律上是有效的。律师进一步指出，中国婚姻法没有明确禁止变性人结婚，只要满足结婚登记的条件，婚姻登记机关应依法为其办理结婚登记。因此，从法律角度而言，变性人具备权利结婚，且其法律地位与其他人并无区别。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 1993
@@ -302,6 +386,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 1992
 
 
@@ -311,6 +398,9 @@ search:
 该文件记录了1992年中国大陆首例成功的女变男变性手术的案例。这一手术标志着在中国大陆跨性别者医疗干预方面的重要突破。文件中详细描述了此次手术的过程、相关医疗团队的专业背景以及手术后患者的生活状态与适应情况。此外，报道中还讨论了当时社会对变性手术的接受程度和相关法律政策的背景。该案例不仅对医学界有显著意义，也为多元性别群体提供了希望与支持。尽管社会环境相对保守，这一成功手术为后续更多跨性别者追求生理转变提供了借鉴和勇气。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 时间未知，按收录顺序排列
@@ -326,12 +416,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [国外一准变性人参加男足](国外一准变性人参加男足_page.md)<details><summary>查看摘要</summary>
 
 该文件是一篇关于《下一球制胜》足球纪录片的报道，围绕美属萨摩亚男子足球队的故事展开。这部纪录片讲述了该球队如何从历史上未能赢得比赛，最终走向胜利的过程。文章特别提到球队中的一名球员佳雅·萨·埃鲁阿，他是世界杯预选赛史上的首位准变性人，文章中详细描述了佳雅的过渡经历及其在赛场上的表现。佳雅的真实身份及性别认同引发了一系列讨论，文章还提到其他国家和队伍中出现的性别争议，例如伊朗女足和韩国女足的性别问题。这篇文章不仅关注了佳雅的成就，也反映了跨性别者在体育领域面临的挑战和社会对他们的理解。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -342,12 +438,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [中国首位变性人状告医院始末_李玉林](中国首位变性人状告医院始末_李玉林_page.md)<details><summary>查看摘要</summary>
 
 该文件记录了中国首位变性人李莹与医院之间的法律纠纷。李莹的变性过程饱受社会的质疑与家庭的压力，她在接受变性手术后，经历了身体和精神上的双重痛苦。尽管她得到了手术，但由于术后护理不当，李莹的性别转换未能成功，导致了关系的破裂，甚至出现了无法过性生活的情况。她决心向杭州市整形医院提起诉讼，起诉理由包括手术未能达到变性要求及精神损失。文件详细讲述了她的变性历程、与父母及社会的冲突、法庭的审理过程，以及她为维护自身权利所做的努力。这个案件在法律上具有重要意义，是中国首例关于变性手术的官司，涉及的法律和医学标准问题引发了公众对于性别认同与医疗责任的深思。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -358,12 +460,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [拯救可橙：被父母强送矫治的跨性别者](拯救可橙：被父母强送矫治的跨性别者_page.md)<details><summary>查看摘要</summary>
 
 该文件《拯救可橙：被父母强送矫治的跨性别者》主要记录了一个跨性别者可橙的生命故事及其过渡经历。文件通过具体案例展示了在中国大陆，某些家庭对跨性别者的极端反应，尤其是在父母强迫孩子接受矫治治疗的问题。文件中提到可橙在求助和抗争过程中遇到的各种困难和挑战，包括对自身性别认同的挣扎与家庭矛盾的激化。同时，文本也探讨了社会对跨性别者的偏见以及相关法律政策的不完善，为读者提供了关于跨性别者生存现状的真实记录与深刻反思。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -374,12 +482,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [西方的变性热_王克强](西方的变性热_王克强_page.md)<details><summary>查看摘要</summary>
 
 该文件名为《西方的变性热》，由王克强撰写，主要探讨了西方国家在跨性别问题上的发展、现状以及与中国大陆的比较。文本深入分析了跨性别者在西方社会中面临的挑战与机遇，特别是医疗、法律以及社会支持体系的不同。王克强在文中提到，在许多西方国家，跨性别者的权益得到了更加完善的法律保护，而在中国大陆，这方面的政策仍显不足。文章通过案例分析，探讨了跨性别者在接受性别认同手术、荷尔蒙治疗等医疗服务时所遇到的种种困难。同时也涵盖了公众对跨性别现象的认知差异，强调了教育和宣传的重要性，以提升社会对跨性别者的理解与接纳。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -390,12 +504,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [走进性别重塑中心重新认识性别——访中国医学科学院整形外科医院性别重塑中心首席专家陈焕然博士](走进性别重塑中心重新认识性别——访中国医学科学院整形外科医院性别重塑中心首席专家陈焕然博士_page.md)<details><summary>查看摘要</summary>
 
 该文件为对中国医学科学院整形外科医院性别重塑中心首席专家陈焕然博士的专访，内容涉及性别重塑手术的医学基础、具体实施过程和社会影响。陈博士在采访中强调：性别问题是一种复杂的社会现象，需从医学、法律、心理等多方面来综合考虑。他提到，现代医学对性别的理解与传统认识截然不同，性别认同与生理性别可能存在差异。文件中还描述了一些对性别重塑手术的患者案例，如易性癖患者的经历和手术的复杂过程，以及手术成功后患者如何回归社会。陈博士呼吁社会应给予跨性别者更多的理解和包容，并提到目前我国在相关法律法规方面的缺失，以及对变性手术的规范化进程。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

@@ -34,6 +34,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 ### 📎 其他
 
 
@@ -43,16 +46,31 @@ search:
 
 [银荆的告白.01](银荆的告白.01.epub)
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [银荆的告白.02](银荆的告白.02.epub)
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
 
 
 [银荆的告白.03](银荆的告白.03.epub)
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [银荆的告白.04](银荆的告白.04.epub)
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [银荆的告白.05](银荆的告白.05.epub)
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

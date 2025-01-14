@@ -30,6 +30,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2015
 
 
@@ -39,6 +42,9 @@ search:
 该文件为《布林客》杂志第007期，2015年双月刊，内容涵盖多个领域，包括文化、情感、艺术等，其中讨论了多个主题，特别是与多元性别及其文化现象相关的探讨。文件中提到的部分作品涉及了偶像崇拜、爱情、女性主义及自我表达的多种视角，通过人物故事、文化评论和艺术创作等形式进行深入分析。文中提及的著名人物如艺人徐静蕾、画家弗里达·卡洛，以及对CLAMP、二大爷以及大同大张的探讨，显示了文学和艺术在多元性别和情感表达方面的深远影响。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2011
@@ -52,6 +58,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 时间未知，按收录顺序排列
 
 
@@ -63,12 +72,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [巴特勒作品集](巴特勒作品集_page.md)<details><summary>查看摘要</summary>
 
 本文件为巴特勒的作品集，包含了其关于性别、身份及文化的深入探讨。作为一位著名的性别理论家，巴特勒在该作品集中讨论了性别的流动性以及主体性的构建。文中阐释了存在主义与女权主义的交叉，分析了如何通过语言和社会互动来建构性别身份。巴特勒强调，性别并非固定不变的分类，而是一种动态的社会表现，挑战了传统的二元性别观念。此外，作品集中还探讨了这些理论在当代社会中的应用及其对性别认同运动的影响。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -79,6 +94,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [吴曾_镜头切开身份_艺术创作与酷儿文化](吴曾_镜头切开身份_艺术创作与酷儿文化_page.md)<details><summary>查看摘要</summary>
 
@@ -87,12 +105,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [801137525-野史3-为防止拼多多盗印暂不提供封面](801137525-野史3-为防止拼多多盗印暂不提供封面_page.md)<details><summary>查看摘要</summary>
 
 该文件名为《野史3.0》，由释明空先辈编写，出版于释释国奇异搞笑出版社。书中通过幽默的视角探讨了从一战时期至冷战时期的历史变迁，尤其聚焦于近现代俄国的独特历史轨迹。内容涵盖了诸多被遗忘的历史逸闻趣事，以寓教于乐的方式帮助读者了解历史背后的真实面貌。书中提及的许多人物，如拉斯普京，以其特异的生平故事和惊人的人生经历，反映出那个时代政治斗争、社会动荡及人性复杂的一面。此外，书中夹杂着一些现代流行文化元素和艺术创作，增加了文本的趣味性。整部作品通过引人入胜的叙述方式，意图揭示历史的不为人知之处，并促使读者在轻松中深化对历史的理解。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

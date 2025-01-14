@@ -30,6 +30,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2023
 
 
@@ -41,12 +44,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [高雄市性別友善觀光報告_2023](高雄市性別友善觀光報告_2023_page.md)<details><summary>查看摘要</summary>
 
 该文件是由高雄市政府观光局发布的《关于高雄市性别友善观光的报告》。报告围绕高雄市如何落实性别平等的国际公约CEDAW（消除对妇女一切形式歧视公约）展开，强调了政府在推动性别友好环境与旅游体验方面所做的努力。文中提到，随着高雄的发展，政府致力于消除性别歧视，建立友善的旅游环境，包括友善的厕所在内的多重设施、友好的住宿安排以及友善的旅游路线。此外，文件还详细列出了高雄在支持LGBTQ+群体、促进性别权利方面的历史和现状，包括过去的同志游行与性别友善政策的实施，目的是打造一个欢迎所有性别样貌的城市。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2022
@@ -62,6 +71,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2021
 
 
@@ -71,6 +83,9 @@ search:
 本文件是关于香港的性教育现状及挑战的报告，指出香港在性教育方面的严重滞后，尤其是在性别多元社群的教育内容上不足。报告中提到，传统观念导致性玕不可讨论，严重影响性别教育的推广。教育工作者提到需要建立安全的环境，让学生能够自由提问。然而，实际调查显示，性教育的效果不理想，且目前的教育政策自1997年就未作修订，无法适应现在的需求。报告还强调了 网上性骚扰问题的上升，与性教育及性骚扰的密切关系，强调教师们对性别传统观念的坚持也是推广性的主要障碍。此外，香港教育大学的郭勤博士指出，性教育应当涵盖同性恋及性别认同等议题，呼吁对非二元性别群体的关注，以便改善现有教育体制，使其更加包容和全面。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2020
@@ -84,6 +99,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [臺南市政府民政局性別平等宣導報告](臺南市政府民政局性別平等宣導報告_page.md)<details><summary>查看摘要</summary>
 
@@ -92,12 +110,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [臺北市政府教育局109年性別平等工作成果報告](臺北市政府教育局109年性別平等工作成果報告_page.md)<details><summary>查看摘要</summary>
 
 该文件为「臺北市政府教育局109年性別平等工作成果報告」。文件详细列出了该年度台北市在性别平等方面实施的各种措施、活动及其成效。报告中提到，针对亲密关系暴力事件频发的现象，教育局以“性别与情感”为主题，结合课程内容，开展了一系列活动。例如，109年度共举办37场针对教育人员的校园性侵害、性骚扰及性霸凌防治教育研习，参与人数达2450人。并且，该局也鼓励学生在“生活小小事，谈情感”主题下进行征稿，展示了对情感表达的重视，增强学生的性别意识及同理心。此外，还有提及增加对未成年人保护及权益保障的培训，定期对校内存在的性别议题进行研究和报告。同时，文件中也列出了性别平等项目的预算情况和教育局的各项策略、措施，这些都助力于建立性别友善的校园环境。此报告不仅是对过去一年的总结，也是为未来进一步推动性别平等提供参考的文献。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2019
@@ -111,6 +135,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2017
 
 
@@ -122,12 +149,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_CB420917-1819_-_立法會](PDF_CB420917-1819_-_立法會_page.md)<details><summary>查看摘要</summary>
 
 该文件为公民党就香港《性别承认法》的意见书，文件详细探讨了跨性别人士在法律上的地位，尤其是在婚姻和性别认同方面所面临的挑战。文件引用了2013年W诉婚姻登记官案中的判决，强调已完成性别重置手术的变性人士在婚姻方面的权利，并指出香港作为国际社会的一部分，应借鉴英国2004年《性别承认法令》的相关内容，跟进立法萧条的问题。文件中提到跨性别人士在香港的社会地位、法律保障和生存现状，强调必须建立独立于性别重置手术之外的法律承认体系，以避免对跨性别人士的强制绝育和身体完整性侵犯，并指出国际上对跨性别权利的逐步推进。公民党主张应尽快制定《性别承认法》，并重新审视双性人群体的性别承认问题。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -138,6 +171,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [1997_關注婦女性暴力協會_性別承認諮詢意見書](1997_關注婦女性暴力協會_性別承認諮詢意見書_page.md)<details><summary>查看摘要</summary>
 
@@ -146,6 +182,9 @@ search:
 协会认为，性别不应仅以二元方式处理，性别不安并不是疾病，提出法律上应允许跨性别人士在无须必须进行医学干预的情况下获得法律承认。此外，文件中还对性别承认的申请流程及必要条件提出了建议，强调任何医疗选择权应尊重个体差异，任何人都不应因状态而被迫接受医疗程序。此文件在讨论多元性别与法律的交汇点时，呼吁建立一个更加包容与理解的社会环境。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2015
@@ -159,6 +198,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [澳门大学法医学教程进度（2015-2016学年度）](澳门大学法医学教程进度（2015-2016学年度）_page.md)<details><summary>查看摘要</summary>
 
@@ -167,12 +209,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [內政部研商性別變更認定及登記程序](內政部研商性別變更認定及登記程序_page.md)<details><summary>查看摘要</summary>
 
 这份PDF文件记录了台湾内政部关于性别变更认定及登记程序的第三次会议的发言要旨。会议于104年5月6日下午召开，涉及的主题包括性别认同与登记的法律框架、不同相关方的意见及建议，和对跨性别者权利的保障。文件中提到，性别认同是基本人权，并讨论了不摘除性器官的个体如何进行性别变更的问题，强调相关程序及负责判断的人士的资格。此文献为台湾在性别变更法律政策方面的重要记录，反映出社会对性别认同的关注和法律的逐步改革。会议中多位与会者提出了对当前制度的改善建议，并讨论了未来可能的立法方向。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2014
@@ -186,6 +234,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_接受性別重置手術人仕的簡介_-_立法會](PDF_接受性別重置手術人仕的簡介_-_立法會_page.md)<details><summary>查看摘要</summary>
 
@@ -194,12 +245,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2014年婚姻修訂條例草案公聽會關於變性手術的意見摘要](2014年婚姻修訂條例草案公聽會關於變性手術的意見摘要_page.md)<details><summary>查看摘要</summary>
 
 本文件为《2014年婚姻修订条例草案公聽会关于变性手术的意见摘要》的官方文件，其内容记录了2014年4月23日首场公听会中多位人士对于变性手术及其法律规范的看法和意见。会议上提到的具体讨论内容包含了对变性人权益及生活现状的重视，特别是针对于变性手术的争议及医生袁维昌的专业回应。文中指出，公众对变性手术的认识存在误解，有部分意见认为性别变更的法律要求过于严苛，并认为强制进行变性手术侵犯了人权。袁医生回应了这些意见，强调变性手术对于跨性别者身心健康的积极作用，并表达了对加宽法律要求的看法，他提到：“做手术本身有好处，危险性不高”。此外，文中还提及了何韻詩等人士对法律及社会环境中跨性别问题的关注，提出的不只是一种法律上的改变，更是对跨性别群体生活状况的深思和关怀。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2013
@@ -215,6 +272,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 时间未知，按收录顺序排列
 
 
@@ -226,12 +286,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_同志QA_-_性別平等教育委員會](PDF_同志QA_-_性別平等教育委員會_page.md)<details><summary>查看摘要</summary>
 
 本文件由性别平等教育委员会发布，致力于介绍和解答关于性别多样性和跨性别者权益的问题。文件内容包括针对跨性别人士的常见疑问解答，例如跨性别的定义、过渡过程中的注意事项、以及如何支持跨性别个体等。此外，还讨论了在教育环境中实施性别平等教育的重要性，强调了教育工作者在推动理解与包容方面的角色。文件通过列举具体案例和相关政策，提供了实用的信息和指导，帮助社会大众更好地理解和尊重跨性别者的生活和挑战。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -242,6 +308,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_香港醫院管理局就性別不安所提供的治療](PDF_香港醫院管理局就性別不安所提供的治療_page.md)<details><summary>查看摘要</summary>
 
@@ -250,12 +319,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_新北市政府參加彩虹城市網絡RCN支持多元性別友善計畫](PDF_新北市政府參加彩虹城市網絡RCN支持多元性別友善計畫_page.md)<details><summary>查看摘要</summary>
 
 此文件为新北市政府参与国际组织彩虹城市网络(RCN)支持多元性别友善计划的官方报告。报告详细介绍了该市在多元性别方面的政策进展、数据统计和活动策划。首先，文件提到新北市在110年（2021年）正式加入RCN，并承诺将多元性别族群的面向纳入政策中。这包括指派专员参与相关活动以及每年提交多元性别族群的政策成果。接着，报告呈现了国内外关于多元性别人口的研究数据，显示台湾的双性恋和同性恋者占比较大，并引用盖洛普的研究指出全美约有4.5%的人口为LGBT，其中跨性别者占0.6%。此外，此报告还分析了新北市在108至110年间针对多元性别族群开展的活动、服务和政策计划的数量，强调了推动性别平等的必要性和目标。最后，该文件展示了未来的活动策略，提升新北市政府对于多元性别群体的支持与能见度。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -271,12 +346,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [性別平等教育委員會_性平大學堂徵答題目](性別平等教育委員會_性平大學堂徵答題目_page.md)<details><summary>查看摘要</summary>
 
 该文件为《性别平等教育委员会性平大学堂有奖征答题目》的PDF文档，包含了一系列与性别平等和性骚扰防治相关的选择题和判断题。题目内容涉及社会对性别角色的传统观念，诸如「做家事是女人的事」以及对安全性行为的相关认知。文件中还提及了同志关系与性病的关系，强调安全性行为是预防性病的根本之道。此外，文中列举了校园性骚扰实例，帮助读者理解性骚扰的定义和表现形式，包括同学之间的互动及不当行为的后果。最后，文件指出性别平等的真正含义不仅限于男女平等，而是应尊重所有性别取向者，涵盖更广义的多元性别观念。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -287,12 +368,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [性別變更戶政法令研討及案例分享](性別變更戶政法令研討及案例分享_page.md)<details><summary>查看摘要</summary>
 
 该文件涉及性别变更户政法令的研讨与案例分享，内容详尽地探讨了性别变更登记的相关法律要求和案例分析。通过具体案例，例如居民O君提供的医疗诊断证明书，文件阐述了申请性别变更所需的必要条件，包括精神科医师的评估、诊断证明和不可逆手术的完成情况。依据户籍法第21条的规定，文件解释了性别变更登记的程序和法律要求，强调必须遵循相关法规完成登记。文件中还讨论了对“平胸手术”的法律认定问题，指出一旦进行该手术，将面临不可逆的身体变化，因此手术前需认真考虑。此外，还涉及到出生别变更登记的程序、相关人的出生别变更及其所需材料，指导如何在不同辖区间进行相关的户籍变更。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

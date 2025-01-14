@@ -30,6 +30,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2018
 
 
@@ -45,6 +48,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2008
 
 
@@ -54,6 +60,9 @@ search:
 本文件为《向死去的志愿者致哀！》，记录了大连彩虹工作组对一名志愿者不幸遇害的哀悼与反思。该志愿者是一名30多岁的跨性别性工作者，生活在经济条件较差的地区。他不顾家庭的压力与贫困，依然积极参与为社区提供安全套和润滑剂等服务，努力为需要帮助的人群提供支持。文章详细描述了这名志愿者在2008年4月23日的遇害经过，包括他在“点”上的工作、求救电话的情况，以及志愿者们对此事件的反应与处理。同时，该工作组呼吁社区朋友们共同协助善后，照顾遇害者的母亲，体现了对这位普通而伟大的志愿者的深切怀念与支持。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 时间未知，按收录顺序排列
@@ -67,12 +76,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [不知道哪里来的课件_第四章变态心理](不知道哪里来的课件_第四章变态心理_page.md)<details><summary>查看摘要</summary>
 
 该文件名为《变态心理第一节 总论》的课件，涉及变态心理学的基本概念、判断标准以及分类等多个方面。内容阐述了异常心理和心理变态的相对性，强调了心理变态不仅是医疗问题，更是社会问题。文件中详细介绍了异常心理的判断标准，包括经验、统计学、医学和社会适应等多个维度，并且进行了异常心理的理论模式分类。进一步探讨了焦虑性障碍和抑郁性神经症的成因、分类和心理干预方法，包括生物学、心理分析、学习理论等多种理论角度的解释。此外，文件还涉及到人格障碍和性心理障碍的定义、特征与分类，探讨了这些障碍与社会环境的关系，强调了心理健康干预的重要性。文中提及的内容适用于心理学研究、心理健康教育及社会工作等多个领域，对理解跨性别个体及其心理状态具有提示意义。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -83,12 +98,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [关于在住院期间某位患者的言论情况整理](关于在住院期间某位患者的言论情况整理_page.md)<details><summary>查看摘要</summary>
 
 该文件记录了在中国大陆某医院病房中发生的严重事件，涉及对一位患者的偷拍及恶意侮辱行为。文件中 detail 了施害者在病房内偷拍其他病人并在网上发布对受害者的侮辱言论，进一步侵犯其隐私。在详细情况中提到，施害者不仅贬低受害者的家庭，还发表有关受害者的性幻想，甚至对受害者提出死亡威胁，声称与医院医护人员存在串通关系。施害者通过网络社交媒体对受害者进行暴力威胁，称自己已掌握受害者的私人信息，并在病房内对患者进行群体性侮辱，将这位患者称为‘楼管’。文件进一步指出，这种行为不仅侵犯了患者的隐私权，还反映出医院环境中存在的对患者的不公正对待和医务人员与施害者之间的不当交流。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -99,12 +120,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [搞事情](搞事情_page.md)<details><summary>查看摘要</summary>
 
 该文件探讨了中国跨性别女性在医疗资源方面遇到的挑战，特别是与荷尔蒙替代疗法 (HRT) 有关的药物获得问题。文件中提到，由于在中国医疗资源稀缺，跨性别女性即使持有医生开具的诊断信和处方，仍需在灰色或地下市场购买必要的药物。此外，政府对灰色市场采取了打压措施，这可能导致跨性别女性在没有任何合法途径获取药物的情况下，面临致命风险。文中引用了2018年11月6日中国代表在联合国的讲话，声称中国保护LGBT群体的健康权，承诺向所有公民提供免费基本卫生服务，但现实情况显然与这一承诺大相径庭。文件还提及社交媒体上的帖子和相关法律活动，反映了社会对LGBT话题的宽容度以及言论自由的现状。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -115,12 +142,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [我们是跨别的孩子——献给一位故去的跨性别志愿者](我们是跨别的孩子——献给一位故去的跨性别志愿者_page.md)<details><summary>查看摘要</summary>
 
 本文件《我们是跨别的孩子——献给一位故去的跨性别志愿者》旨在缅怀一位对跨性别群体做出贡献的志愿者，表达对其生命的尊重与怀念。尽管正文为空，文件标题本身传达了对跨别者的关怀与同情，暗示了志愿者在推动跨性别权利与福祉方面的努力和影响。可能包含社群对逝者的共同回忆、对其倡导活动的总结，以及对跨性别群体尚存挑战的反思。此文件为社群措施和支持的重要记录，反映了多元性别社群的团结与悼念文化。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -131,12 +164,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [某个网友对ag的看法，原名《何为ag》](某个网友对ag的看法，原名《何为ag》_page.md)<details><summary>查看摘要</summary>
 
 该文件名为《何为ag》，讨论了一个名为Autogynephilia的性心理概念，该概念由加拿大性学家Ray Blanchard提出。文件中详细阐述了Autogynephilia这一现象的定义及其与跨性别（TS）的关系，试图分类与描述这一现象的多样性和复杂性。文中指出，Autogynephilia是指男性通过想象自己成为女性而获得性兴奋的现象，并与变装癖（CD）和传统跨性别者的体验进行了比较。作者提到此类现象可能导致个体的性别认同困扰和术后后悔，同时引用了一些相关的真实案例和叙述，探讨了相关的心理过程和社会认知。此文通过对AG现象的深入分析，意在减少对变装和跨性别者的误解，并激发对这一复杂主题的进一步研究与讨论。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -147,12 +186,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [跨性别基础关怀与心理支持](跨性别基础关怀与心理支持_page.md)<details><summary>查看摘要</summary>
 
 此文件《跨性别基础关怀与心理支持》由潘柏林主编，展现了跨性别者的健康照护和心理支持的重要性。文件中详细定义了跨性别的概念，包括跨性别者与其出生时指定的生理性别不符的性质，并阐述了对跨性别者及其家庭的关爱表达。文中提到，跨性别者并非心理障碍，而是经历了社会环境和自我认同的冲突。在内容中，作者引述了凯特·伯恩斯坦关于性别认同的深刻反思，并提供了跨性别医疗的资源与支持结构，包括“性别工程”的治疗序列和专业的心理支持服务。此外，文件中还列出了社会支持的需，强调了良好的社会环境对减轻焦虑的重要性，以及如何通过科学的解释推动社会对跨性别者的理解。同时，资料中附带了关于父母与家属如何理解和支持跨性别孩子的相关信息，帮助他们在经历身份转变时获得必要的理解与关怀。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -163,12 +208,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [限制人身自由案_证据清单](限制人身自由案_证据清单_page.md)<details><summary>查看摘要</summary>
 
 本文件为有关限制人身自由案件的证据清单，主要用于记录和收集与家庭暴力及非法拘禁相关的证据材料。文件中详细列举了案主在遭受父母限制自由及家庭暴力时所需收集的证据，包括录音、报警回执、街道调解记录、伤情照片以及受殴打记录等。案主在尝试与父母沟通外出问题时，录音能够记录父母的反对声音，并要求警方出具回执，以备后续申请人身保护令时使用。此外，文件还提醒案主在面对家庭暴力时应保持安全，准备好逃生的资金。并且在采取措施时，要做好与父母关系可能恶化的心理准备。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 ### 🖼️ 图片
@@ -191,5 +242,8 @@ search:
 
 
 [学历修改](学历修改.pptx)
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

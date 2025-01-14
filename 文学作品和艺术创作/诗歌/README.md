@@ -30,6 +30,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2000
 
 
@@ -41,6 +44,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 时间未知，按收录顺序排列
 
 
@@ -50,6 +56,9 @@ search:
 本文件为陶宗旺的诗歌集，题为《文坛奇兵》，收录了他在先锋诗歌领域的多篇重要作品。陶宗旺选取了多样的主题，通过奇特的意象和深刻的社会观察，探讨了个体的存在、性别与身份的复杂关系，以及社会对非主流性别者的认知与偏见。作品风格独特，语言生动，具有启发思考的力量，并且反映了当代社会对多元性别的逐渐接受与探索。陶宗旺在其作品中表达了对性别多样性的肯定与支持，多次提到对传统性别观念的挑战与反思。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

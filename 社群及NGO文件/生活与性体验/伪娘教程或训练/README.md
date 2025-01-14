@@ -34,6 +34,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [伪娘的一年训练](伪娘的一年训练_page.md)<details><summary>查看摘要</summary>
 
@@ -42,12 +45,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [偽娘-_忍法色誘之術](偽娘-_忍法色誘之術_page.md)<details><summary>查看摘要</summary>
 
 本文档为伪娘主题的教程，名为《忍法·色诱之术》。作者咪宝分享了她作为伪娘的生活经验与扮装技巧，强调了在妆容、体态、仪态、扮装和声音等方面的细节和努力。文中提到，伪娘在追求自身理想形象的过程中，不仅需要坚定的信念和意志力，还需不断学习与他人的经验交流。作者将扮装的技巧分类，并以易于理解的方式进行讲解，鼓励其他伪娘们在这一挑战中共同进步。同时，文中还提及了个人在身材塑造方面的具体经历与建议，以及减脂和塑形的具体方法，帮助读者更好地理解身材变化的必要性和实施方法。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -64,6 +73,9 @@ Alternative name: 女装入门到精通
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [完全女性化作业](完全女性化作业_page.md)<details><summary>查看摘要</summary>
 
@@ -72,12 +84,18 @@ Alternative name: 女装入门到精通
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [真正的伪娘开发教程哦](真正的伪娘开发教程哦_page.md)<details><summary>查看摘要</summary>
 
 该文件是一个详细的伪娘开发教程，分为多个阶段，提供了从基础准备到实际操作的全面指导，旨在帮助初学者成功进行伪娘开发。文件开头强调了一个安静和无干扰的环境对于开发的重要性，并建议准备必要的道具，如润滑剂和衣物等。教程详细说明了每个步骤，从前期的准备、清洁到正式开始，以及后续的阶段如何逐渐增加刺激和体验，包括使用各种道具以达到最佳效果。文件中也提到了一些注意事项，确保过程中的安全与享受，强调了心态的重要性，建议开发者在过程中要保持耐心，并与自己的身体保持良好的互动。整体内容涉及性别认同、性别表达和性行为的多方面，适合有相关兴趣的个体阅读。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板

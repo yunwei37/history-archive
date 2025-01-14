@@ -30,6 +30,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [The_Protection_of_Transgender_Workers_in_China](The_Protection_of_Transgender_Workers_in_China_page.md)<details><summary>查看摘要</summary>
 
@@ -38,6 +41,9 @@ search:
 文章的摘要和结构包括了对中国性别平等的检视，从历史的束缚谈到现代的改革，分析跨性别个体在法律和社会中的权利和挑战。特别是在法律保护方面，文件讨论了中国宪法和劳动法中对跨性别劳工的保护，以及在全球趋势背景下的法律挑战。文件强调了法律实践中‘queering gender equality’的思想，主张在现行法律框架内通过诠释扩展性别平等条款，来包容多元的性别身份，并为跨性别个体提供更好的法律保护。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2023
@@ -51,6 +57,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2022
 
 
@@ -60,6 +69,9 @@ search:
 该文件名为《疫情与我们生存的权利》，由国际特赦组织（Amnesty International）发布，讨论了在亚洲及太平洋地区跨性别人士所面临的结构性障碍和人权问题。文中强调，尽管经历了疫情，跨性别者依然有生存的权利，迫切需要解决对其人权的侵犯。文件详细阐述了跨性别者在就业、医疗、住房和法律性别认定等方面所遭受的歧视，指出了疫情对其生活造成了额外的挑战，比如生活来源受损、无法获得救助措施、医疗服务的不平等，以及在居住和家庭暴力方面的困境。文件还提出了对政府的建议，呼吁加强对跨性别者权利的保护，并强调了LGBTI及跨性别组织在应对疫情期间的重要角色。它还探讨了不同文化中自我认同的多样性，并试图提升对跨性别者的理解和支持。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2021
@@ -73,6 +85,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2020
 
 
@@ -84,6 +99,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [保障性少数群体平等就业权法律政策研究报告_刘明辉_2019.pdf](保障性少数群体平等就业权法律政策研究报告_刘明辉_2019.pdf_page.md)<details><summary>查看摘要</summary>
 
@@ -92,6 +110,9 @@ search:
 报告分为多个章节，首先阐述了研究背景与目的，包括中国对性少数群体的法律政策背景，接着分析了与平等就业相关的法律法规，包括国际公约、宪法、劳动法等，文中指出这些法律尚未明确涵盖性少数群体。报告进一步详细研究了当前平等就业权保障的必要性，通过多个案例和访谈展示了受害者的故事与遭遇，强调针对性少数群体的法律与政策缺失；最后，报告提出了改善立法与政策的具体建议，以确保性少数群体的平等就业权能得到合理保障，符合国际人权组织的建议，并呼应了中国政府持续努力消除歧视的目标。整体而言，该报告试图通过深入的实证研究与政策建议，为改善中国性少数群体的就业现状提供理论和实践指导。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2019
@@ -105,12 +126,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [2019中研院法學期刊特刊_臺灣民主化後同志人權保障之變遷_官曉薇](2019中研院法學期刊特刊_臺灣民主化後同志人權保障之變遷_官曉薇_page.md)<details><summary>查看摘要</summary>
 
 本文为《中研院法学期刊》2019年特刊中的一篇学术论文，标题为《台湾民主化后同志人权保障之变迁》，作者官晓薇。文章主要探讨了台湾在民主化进程中，同志人权发展的历程和其过程中遇到的挑战与成就。论文指出，台湾婚姻平权的进展需要放在同志人权发展的歴脉中观察，强调了社会运动在推动权利获得机制和对社会变革的重要性。文章分析了同志人权发展的三个主要轴线：性行为去污名化、反歧视法以及婚姻家庭承认，展示了同志人权在台湾社会中是如何通过集体行动而获得国际社会认可的。本文通过对台湾多年的立法过程、司法判决、社会运动的记录进行分析，展现了同志人权的提升历程及其背后的社会变革动力。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2018
@@ -124,12 +151,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [LEGAL_GENDER_RECOGNITION_IN_CHINA_A_Legal_and_Policy_Review](LEGAL_GENDER_RECOGNITION_IN_CHINA_A_Legal_and_Policy_Review_page.md)<details><summary>查看摘要</summary>
 
 本文件名为《法律性别认同在中国：法律与政策回顾》，由联合国开发计划署（UNDP）和中国女子大学联合发布于2018年。该文献对中国跨性别者的法律认同与政策进行全面回顾，分析了中国现有法律对跨性别者的影响，以及在医疗、就业、教育等领域的相关规定和实际执行情况。文件开篇提出了研究背景与目标，概述了中国人权保护的法律框架。随后，细致讨论了性别标记与姓名的变更政策、性别确认手术的医疗服务规定、禁止基于性别歧视的就业法规等多个方面。此外，文中还指出了跨性别者面临的法律与政策挑战，包括缺乏法律认可、社会歧视和边缘化等问题。整体而言，此文献为理解中国跨性别者的权利现状和法律地位提供了重要的参考信息。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2017
@@ -143,12 +176,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [性別承認制度的影響與隱憂_龍笑娟_2017](性別承認制度的影響與隱憂_龍笑娟_2017_page.md)<details><summary>查看摘要</summary>
 
 该文件为龙笑娟撰写的关于香港性别承认制度的咨询意见书，详尽讨论了性别承认制度可能带来的法律及社会影响。文件中提到，香港需要参考英国的《性别承认法令》以妥善解决变性人士面临的法律困境。但作者对这种制度提出强烈反对，认为如果参照英国的做法，可能会引发更多的社会混乱。作者指出，过去数千年社会普遍接受生物男女的二元性别观念，而西方的多元性别理论则创造了许多新性别，导致人们对性别的认知发生动摇。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2016
@@ -162,12 +201,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [有關立法禁止性傾向性別認同及雙性人身份歧視的研究報告](有關立法禁止性傾向性別認同及雙性人身份歧視的研究報告_page.md)<details><summary>查看摘要</summary>
 
 本文件为《有关立法禁止性倾向、性别认同及双性人身份歧视的研究报告》，由香港中文大学亚太研究所性别研究中心委托的研究项目。报告详细探讨了在香港对LGBTI人士（即女同性恋者、男同性恋者、双性恋者、跨性别人士与双性人）所遭遇的歧视现象，并综合了不同的研究方法，包括量化的电话调查和质性的焦点小组访谈。本报告意在评估立法禁止基于性倾向、性别认同及双性人身份的歧视的可行性、保障范围及合理的豁免。分析指出，香港当前缺乏完善的反歧视立法，主要目的是通过收集数据以了解公众对LGBTI人士的看法及其对反歧视法的支持程度。报告中提到的滞后立法状态以及社会对LGBTI人士歧视的普遍情况为香港后续的立法提供了必要的数据支持和借鉴，反映出立法的重要性以及对LGBTI人士人权的保障。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -178,12 +223,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [SILENT_CHANGES_TRANSSEXUALS'_-郭晓飞](SILENT_CHANGES_TRANSSEXUALS'_-郭晓飞_page.md)<details><summary>查看摘要</summary>
 
 本文件是郭晓飞与朱静姝合作撰写的学术论文，旨在探讨中国大陆与香港之间跨性别者结婚权利的法律变迁。论文首先通过对比香港的法律改革过程，描述了中国大陆跨性别者如何在缺乏显著的法律活动与争论的情况下，成功地获得结婚的权利。正如作者所指出的，香港的相关案例（W诉婚姻登记署案）揭示了跨性别者在法律上为争取结婚权利而面临的艰难斗争，而相较之下，中国大陆的跨性别者则是在相对平静的环境中，通过修改身份证信息获得了这一权利。文中详细分析了跨性别者结婚权的法律背景，记录了相关的法律政策与实践，讨论了这一变化可能对跨性别权利及平等的影响。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2015
@@ -197,12 +248,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [多元与包容倡议报告_高博金_2015](多元与包容倡议报告_高博金_2015_page.md)<details><summary>查看摘要</summary>
 
 本报告详细介绍了高博金律所（Kobre & Kim）在推动多元与包容方面的各项倡议，旨在提升文化意识、促进多元化的法律环境。文中提到，工作人员中约65%来自法律行业代表性不足的团体，说明该所致力于改善这些团体的代表性。该所设置的多元与包容委员会专门制定并实施招聘、留用和晋升倡议，确保各类文化和民族身份、观点、信仰和背景的人都能获得平等的职业发展机会。此外，文中还提到Pride@K&K计划，旨在为LGBTQ同事和合作伙伴创造一个开放和支持的工作环境，组织社交和职业发展活动，与需要法律援助的LGBTQ组织合作等，强调了法律界的多样性及其重要性。同时，该所的女性领导人委员会和导师项目同样致力于支持女性和少数族裔在法律行业的职业发展。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2013
@@ -216,6 +273,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2012
 
 
@@ -225,6 +285,9 @@ search:
 该文为吴采模在国立台湾大学法律学院撰写的硕士论文，标题为《跨性别族群之性别自主决定权：兼论国家规制法律性别之界限》。本文探讨了跨性别议题在台湾法律中的地位及相关权利。着眼于性别自主决定权，从宪法的角度分析这项权利是否受到保障及其内涵。文章首先定义了跨性别和法律性别的概念，探讨了人们对自身性别认同的多元表现，包括心理层面、生理层面和社会文化层面的不同。接着，作者对现行法律性别变更制度的合宪性进行评估，并针对台湾现有的制度提出了具建设性的批评与建议。最后希望通过此研究引发社会对跨性别权利的关注，并鼓励更多学者与活动家在此领域内进行深入讨论与行动。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2011
@@ -238,6 +301,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2009
 
 
@@ -249,12 +315,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [办理一则特殊公证的心得_陆岗松](办理一则特殊公证的心得_陆岗松_page.md)<details><summary>查看摘要</summary>
 
 该文件是陆岗松撰写的关于办理特殊公证的心得，主要讨论了跨性别者在申请更改户籍性别时所需的法律和公证过程。文件中详细提到了一个案例：一名20岁的年轻人在上海完成性别手术后，申请在户籍上将性别由女性更改为男性的经历。陆岗松介绍了案件的复杂性，包括性别变更所需的医疗证明和公证文件，提到申请者必须提供医院的诊断报告及相关证明材料。文中指出了公证制度在变性人法律身份识别中的重要性，强调了公证员需要具备法律及医学知识，以准确引导申请人表达真实意图，确保公证材料的真实性并维护当事人的隐私。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2008
@@ -268,12 +340,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [法律对“变性”的回应_《我国现行法律中性法律的理论与现实盲点研究》课题组](法律对“变性”的回应_《我国现行法律中性法律的理论与现实盲点研究》课题组_page.md)<details><summary>查看摘要</summary>
 
 该文件是关于中国变性现象的法律研究，题为《法律对“变性”的回应_《我国现行法律中性法律的理论与现实盲点研究》课题组》。文件中讨论了变性作为一种新的社会现象，指出目前中国的法律对变性现象缺乏相应的法律规定，导致变性者的权益得不到保护，社会关系和法律关系也因此产生混乱。文中提到变性手术的相关规定，认为应从变性手术的规范、变性者的个人隐私保护等方面进行法律规制。此外，文件探讨了关于变性者的婚姻法、继承法及刑法的相关问题，认为当前法律应对变性人的权利有明文规定，以维护他们的合法权益。文内列举了现行法律中的空白、盲点，对应的规范及案例也作了分析，探讨了社会对变性人接受度的提高和法律的适当回应。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 2007
@@ -287,6 +365,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 #### 2004
 
 
@@ -296,6 +377,9 @@ search:
 该文献是2004年第10卷第2期重庆大学学报（社会科学版）中的一篇文章，标题为《器官移植的人身权问题研究》，由宗晓虹和钟和艳撰写。文章探讨了器官移植对病人的积极影响及相关法律保障的必要性。器官移植作为重要的医疗手段，给许多患者带来了生命的希望，但其也涉及到复杂的人身权问题，特别是在伦理道德和法律框架下的挑战。文中指出，器官与人体的不可分割性，使得对器官的合法性、人格权、身份权等问题的研究显得尤为重要。文章强调，传统法律观念对器官的所有权认知存在误区，器官应被视为人格的一部分而非物质财产，必须依据人身权的法律已经加强相关立法，以保障捐献者和接受者的基本权益。同时，文章也讨论了器官移植在性别变更手术中的应用和引发的相关社会法律问题，主张基于尊重人权和法律伦理来引导相关医疗实践，确保个人意志的自由与尊严得以保全。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 #### 时间未知，按收录顺序排列
@@ -309,12 +393,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_三個不利跨性身分的迷思_-_Dean_Spade](PDF_三個不利跨性身分的迷思_-_Dean_Spade_page.md)<details><summary>查看摘要</summary>
 
 该文件由美国西雅图大学法学院副教授和跨性别运动分子Dean Spade撰写，内容探讨了美国跨性别者面临的法律政策及社会环境的多个迷思。这些迷思包括了跨性主体是否存在、跨性者的身份是否被医疗专家所定义以及跨性者所接受的医疗是否被视为合法医疗等。文章详细分析了这些迷思是如何在法律和政策层面上影响跨性别者的生存现状，造成他们在就业、住房、社会服务和医疗等多方面的边缘化和歧视。Spade认为，现有的法律框架无法有效处理跨性者所面临的复杂问题，提出必须从根本上改变对性别的理解以及相关法律政策的制定，才能真正改善跨性者的生存环境。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -325,12 +415,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [PDF_由兩性到性別多元平等](PDF_由兩性到性別多元平等_page.md)<details><summary>查看摘要</summary>
 
 该文件名为《由兩性到性別多元平等》，主要针对台湾性别平等的发展历程进行详细探讨。文件首先引用了《中华民国宪法》中关于人民权利与义务的条款，强调法律面前人人平等的重要性。接着，文中列举了台湾在性别平等方面的重要进展，从1990年以来的各项法律法规，比如《性侵害防治法》、《家庭暴力防治法》和《性别工作平等法》等，清晰描述了台湾法律在性别问题上的变迁。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -341,12 +437,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [同性婚姻权的性理论分析_熊金才](同性婚姻权的性理论分析_熊金才_page.md)<details><summary>查看摘要</summary>
 
 本文为熊金才教授撰写的学术文章，题为《同性婚姻权之性理论探析》，主要探讨了有关同性婚姻权的性理论基础及其法律影响。文章首先回顾了20世纪以来性理论的发展与变化，提及了同性恋成因的本质论与构建论、酷儿理论、性权利理论等多个重要理论，并分析了这些理论如何影响了法律政策的制定和社会对同性婚姻的认知。文章指出，自2001年以来，多个国家相继修订了婚姻法，使其不仅限于异性结合，从而实现了同性婚姻的法律认可。作者探讨了这些法律变革给传统婚姻家庭制度带来的冲击以及引发的社会讨论，特别是对婚姻、家庭以及性自由等概念的深刻反思。文中还分析了性权利作为基本人权的重要性，强调了性自由权是同性婚姻权理论的核心。综合而言，该文不仅展示了同性婚姻权的理论背景，也为更公正地对待性少数群体的权益保障提供了法律和伦理支持。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -357,12 +459,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [美國大學圖書館LGBT館藏發展政策研究_余昇鴻](美國大學圖書館LGBT館藏發展政策研究_余昇鴻_page.md)<details><summary>查看摘要</summary>
 
 本文是余昇鴻所撰写的关于美国大学图书馆的性别少数族群馆藏发展政策的初步研究，主要探讨了台湾与美国在性别少数族群（LGBT）相关资源与服务上的对比与差异。文章指出，尽管台湾的性别少数运动已有多年历史，导致社会能见度提升，但台湾的图书馆在对待LGBT群体方面却缺乏专门的馆藏发展政策和服务指南，相较于其他少数族群如身心障碍者和新移民，这一领域的关注度和资源配置显得不足。根据对四所美国大学图书馆的研究，文章分析了它们如何制定与LGBT群体相关的馆藏发展政策，期望为台湾图书馆在此方面提供参考。文中详细描述了这些馆藏政策的目标、主题范围以及所包含的文献类型，强调了提升图书馆对LGBT群体的服务和资源的必要性。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -373,12 +481,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [中国跨性别者受教育权实现状况及法律对策_刘小楠](中国跨性别者受教育权实现状况及法律对策_刘小楠_page.md)<details><summary>查看摘要</summary>
 
 这是由中国政法大学人权研究院刘小楠教授撰写的关于中国跨性别者受教育权实现状况及法律对策的研究报告。该报告深入探讨了跨性别群体，特别是儿童和青少年在教育权方面所面临的深刻挑战，强调他们作为边缘化群体，在享有受教育权时遭遇的特殊歧视与困难。通过实地访谈与文献分析，报告揭示了现有法律法规在保障跨性别者受教育权方面的不足，同时提出了法律政策的改进建议。报告指出，跨性别者的性别认同与社会的性别刻板印象相冲突，导致他们在教育环境中频繁遭遇排斥、歧视，甚至被学校驱逐的现象。报告归纳了包括国内国际法律对儿童教育权的保障，并提供了一些改善教育环境和政策的实践范例，以促进跨性别者的受教育权得到应有的重视和实现。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -389,12 +503,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [性_别少数群体平等保护研究_14533241](性_别少数群体平等保护研究_14533241_page.md)<details><summary>查看摘要</summary>
 
 该文件《性别少数群体平等保护研究》主要探讨了性别少数群体，特别是跨性别者在法律保护和社会政策中的现状与挑战。文件通过研究现有的法律法规，分析在平等权利保障方面存在的缺失，以及社会环境对性别少数群体的影响。它引用了一系列数据和案例，反映了跨性别者在寻求医疗、教育、就业等领域遭受的歧视和不平等待遇。通过深入分析，不仅提供了法律框架的评估，也提出了改进建议，以促进性别平等和社会包容。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -405,12 +525,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [西方国家变性人越来越多众法官束手无策_齐书学](西方国家变性人越来越多众法官束手无策_齐书学_page.md)<details><summary>查看摘要</summary>
 
 该文件探讨了西方国家在应对日益增长的变性人群体时面临的法律挑战及困境。随着外科学和整形外科技术的发展，变性手术变得越来越普遍，变性人数量日渐增加，这使得传统的法律体系遭遇了严峻的挑战。文件通过多种案例分析，展示了变性人面临的具体法律问题，包括原配偶的法律地位、子女的抚养权、婚姻的有效性以及对服兵役的规定等。作者提及了西方各国律师和法官在处理这些案件时的法律争议，以及各国在缺乏明确变性相关法律框架下的不同处理方式，多次提到的案例包括西班牙的卡斯蒂略案以及英国的科赛小姐案，强调了如何在法律许可与变性人权益之间找到合适的平衡。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 
@@ -421,6 +547,9 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [论建立变性人婚姻家庭之特别制度_王正苍](论建立变性人婚姻家庭之特别制度_王正苍_page.md)<details><summary>查看摘要</summary>
 
@@ -429,12 +558,18 @@ search:
 
 
 
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
+
+
 
 [transgender_peoples_right_to_marry_in_vietnam_and_other](transgender_peoples_right_to_marry_in_vietnam_and_other_page.md)<details><summary>查看摘要</summary>
 
 本文件为越南和其他国家跨性别者结婚权利的法律承认与实际问题的研究。作者阐述了全球范围内对跨性别者婚姻权利的承认，指出这一权利源于每个人基本的人权。文件中提到，自2015年越南民法典第37条开始，越南法律首次认可了跨性别者的“性别重置权”，包括结婚权利。然而，尽管性别变化在越南被法律认可，依然存在许多实际问题亟待解决，包括对于跨性别者的医疗干预要求和法律文件的具体指导等。本研究还对比了越南与其它国家（如瑞典等）在跨性别者结婚权利的法律构架及实际问题方面的差异，指出跨性别者的合法权益尚未完全得到保障，并需国家采取有效措施来维护其婚姻等基本权利。
 </details>
 
+
+
+<iframe src="abstracts_wordcloud.html" width="100%" height="400px" frameborder="0"></iframe>
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板
