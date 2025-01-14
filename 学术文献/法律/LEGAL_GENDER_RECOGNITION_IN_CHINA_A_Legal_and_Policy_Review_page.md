@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 1186724 bytes                           |
 | MD5             | dc91e02be76e39ea9cbb6299bf8d6353                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:41:01                             |
+| Original Link   | [https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/UNDP-CH-Legal-gender-recognition---China-180805.pdf](https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/UNDP-CH-Legal-gender-recognition---China-180805.pdf)                         |
 | Author          | 联合国开发计划署（UNDP）与中国女子大学                               |
 | Region          | 中国大陆                               |
 | Date            | 2018-01-01                                 |

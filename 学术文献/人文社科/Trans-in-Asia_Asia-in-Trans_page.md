@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 213244 bytes                           |
 | MD5             | bb6a1471fb8748915c1e98980704d04d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:38:43                             |
+| Original Link   | [https://www.sfu.ca/~hhl/resources/TSQ_Asia.pdf](https://www.sfu.ca/~hhl/resources/TSQ_Asia.pdf)                         |
 | Author          | Howard Chiang, Todd A. Henry, Helen Hok-Sze Leung                               |
 | Region          | 未知                               |
 | Date            | 2018-08-01                                 |

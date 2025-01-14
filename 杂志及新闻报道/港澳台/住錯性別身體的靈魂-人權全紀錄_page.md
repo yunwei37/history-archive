@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 20762963 bytes                           |
 | MD5             | f6861d402f7e29fd2ab3bcdc9f72d9e6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:05:30                             |
+| Original Link   | [https://www-ws.pthg.gov.tw/Upload/2015pthg/62/relfile/9295/391322/e2ad6427-cfdb-48a0-8e0e-9dcc3da1c8bf.pdf](https://www-ws.pthg.gov.tw/Upload/2015pthg/62/relfile/9295/391322/e2ad6427-cfdb-48a0-8e0e-9dcc3da1c8bf.pdf)                         |
 | Author          | 林春元，中原大学财经法律系副教授                               |
 | Region          | 台湾                               |
 | Date            | 2017-10-01                                 |

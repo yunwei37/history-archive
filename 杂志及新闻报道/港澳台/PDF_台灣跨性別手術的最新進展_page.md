@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 798700 bytes                           |
 | MD5             | 2a82a5d8243079fd307eca70a8f1cf69                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:06:21                             |
+| Original Link   | [https://www.cgmh.org.tw/cgmn/cgmn_file/2404036.pdf](https://www.cgmh.org.tw/cgmn/cgmn_file/2404036.pdf)                         |
 | Author          | 林口长庚性别置换医疗团队                               |
 | Region          | 台湾                               |
 | Date            | 未知                                 |

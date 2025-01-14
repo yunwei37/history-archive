@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 283855 bytes                           |
 | MD5             | 52712977340b4f80284e8fd7a5e967ee                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:22:27                             |
+| Original Link   | [https://law.unimelb.edu.au/__data/assets/pdf_file/0005/3966287/Nguyen_The-Anh.pdf](https://law.unimelb.edu.au/__data/assets/pdf_file/0005/3966287/Nguyen_The-Anh.pdf)                         |
 | Author          | 阮男 (Mr. Anh NGUYEN)，胡志明市工业大学法学院讲师                               |
 | Region          | 越南                               |
 | Date            | 未知                                 |

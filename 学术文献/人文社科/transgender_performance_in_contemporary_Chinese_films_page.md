@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 264318 bytes                           |
 | MD5             | cae1a481460d6da7a5b75f4e49010b4b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:28:05                             |
+| Original Link   | [https://transreads.org/wp-content/uploads/2022/02/2022-02-04_61fd962ef2743_performanceandthepoliticsofgendertransgenderperformanceincontemporarychinesefilmschengzhouhe.pdf](https://transreads.org/wp-content/uploads/2022/02/2022-02-04_61fd962ef2743_performanceandthepoliticsofgendertransgenderperformanceincontemporarychinesefilmschengzhouhe.pdf)                         |
 | Author          | Chengzhou He（何承洲）                               |
 | Region          | 中国                               |
 | Date            | 2013-07-09                                 |

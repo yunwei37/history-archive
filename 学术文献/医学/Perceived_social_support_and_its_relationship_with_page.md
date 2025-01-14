@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 120331 bytes                           |
 | MD5             | 580c3e382ca55f58a44e7251fdad0b3e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:32:53                             |
+| Original Link   | [https://www.emerald.com/insight/content/doi/10.1108/jhr-05-2020-0165/full/pdf](https://www.emerald.com/insight/content/doi/10.1108/jhr-05-2020-0165/full/pdf)                         |
 | Author          | Pankaew Tantirattanakulchai, Nuchanad Hounnaklang                               |
 | Region          | 泰国                               |
 | Date            | 2020-10-07                                 |

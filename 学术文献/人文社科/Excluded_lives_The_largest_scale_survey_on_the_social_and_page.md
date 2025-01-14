@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 183467 bytes                           |
 | MD5             | ead86d7ff2dee717b5f0b9cdaab38bbe                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:27:18                             |
+| Original Link   | [https://tgr.org.hk/attachments/article/340/TransReport%2020210512_English.pdf](https://tgr.org.hk/attachments/article/340/TransReport%2020210512_English.pdf)                         |
 | Author          | SUEN Yiu Tung, Randolph C.H. CHAN, Eliz Miu Yin WONG                               |
 | Region          | 香港                               |
 | Date            | 2021-05-01                                 |

@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 1976640 bytes                           |
 | MD5             | 40d905cb024539adbe263b540580fb94                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:15:39                             |
+| Original Link   | [https://asiacatalyst.org/wp-content/uploads/2014/09/Asia-Catalyst-TG-SW-Report.pdf](https://asiacatalyst.org/wp-content/uploads/2014/09/Asia-Catalyst-TG-SW-Report.pdf)                         |
 | Author          | Asia Catalyst                               |
 | Region          | 中国                               |
 | Date            | 2015-01-01                                 |

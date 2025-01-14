@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 100487 bytes                           |
 | MD5             | 3f060beb6bbe7d0033841cc4d0a50429                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:03:21                             |
+| Original Link   | [https://tnscg-agr.tainan.gov.tw/uploaded/1100825No10102.pdf](https://tnscg-agr.tainan.gov.tw/uploaded/1100825No10102.pdf)                         |
 | Author          | 未知                               |
 | Region          | 台湾                               |
 | Date            | 未知                                 |

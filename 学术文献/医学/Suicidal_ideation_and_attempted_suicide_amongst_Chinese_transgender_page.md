@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 756636 bytes                           |
 | MD5             | f576282f52e27838fe5643519b42e006                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:14:00                             |
+| Original Link   | [http://pure-oai.bham.ac.uk/ws/files/58194172/Chen_Suicidal_ideation_and_attempted_Journal_of_Affective_Disorders_2019.pdf](http://pure-oai.bham.ac.uk/ws/files/58194172/Chen_Suicidal_ideation_and_attempted_Journal_of_Affective_Disorders_2019.pdf)                         |
 | Author          | 陈润森，朱学权，怀特，杰克·德雷舍，高悦，吴丽娟，英鑫，齐军，陈晨，席英俊，季兰新，赵惠春，欧建军，马修·布鲁姆                               |
 | Region          | 中国大陆                               |
 | Date            | 2019-02-18                                 |

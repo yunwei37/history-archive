@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 409114 bytes                           |
 | MD5             | 457ae987a39f9fccbc96b2428f01362f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-13 23:59:15                             |
+| Original Link   | [https://cnlgbtdata.com/files/uploads/2019/05/88b01051-7852-4ad0-ad3d-283a40b9eb17.pdf](https://cnlgbtdata.com/files/uploads/2019/05/88b01051-7852-4ad0-ad3d-283a40b9eb17.pdf)                         |
 | Author          | 台湾内政部                               |
 | Region          | 台湾                               |
 | Date            | 2015-05-06                                 |

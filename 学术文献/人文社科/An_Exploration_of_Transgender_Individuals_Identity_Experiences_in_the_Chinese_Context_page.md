@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 1740803 bytes                           |
 | MD5             | eb76c665e7a2665e9aa277e1bbbda832                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:24:40                             |
+| Original Link   | [https://pdfs.semanticscholar.org/3ca0/8047554f49ca7297f715cd3247534782c314.pdf](https://pdfs.semanticscholar.org/3ca0/8047554f49ca7297f715cd3247534782c314.pdf)                         |
 | Author          | 施子琪                               |
 | Region          | 中国                               |
 | Date            | 2022-05-00                                 |

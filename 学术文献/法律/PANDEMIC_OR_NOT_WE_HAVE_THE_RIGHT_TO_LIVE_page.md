@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 2741181 bytes                           |
 | MD5             | 086c569e140af0c867a5de8d18052266                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:30:21                             |
+| Original Link   | [https://www.amnesty.org/en/wp-content/uploads/2022/11/ASA0161972022ENGLISH.pdf](https://www.amnesty.org/en/wp-content/uploads/2022/11/ASA0161972022ENGLISH.pdf)                         |
 | Author          | 国际特赦组织                               |
 | Region          | 亚洲及太平洋地区                               |
 | Date            | 2022-01-01                                 |

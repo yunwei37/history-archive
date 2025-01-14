@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 2980046 bytes                           |
 | MD5             | 6f062840fc1f9b9dacb7d4e7c517326b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:16:02                             |
+| Original Link   | [https://cdn.amegroups.cn/journals/amepc/files/journals/16/articles/66345/public/66345-PB14-5348-R2.pdf](https://cdn.amegroups.cn/journals/amepc/files/journals/16/articles/66345/public/66345-PB14-5348-R2.pdf)                         |
 | Author          | 李东, 许亮, 余哲元, 袁杰, 魏敏                               |
 | Region          | 中国                               |
 | Date            | 2021-01-26                                 |

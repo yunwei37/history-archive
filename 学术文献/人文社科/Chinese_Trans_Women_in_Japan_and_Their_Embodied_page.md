@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 732627 bytes                           |
 | MD5             | 492037c66b318924c1ed9ec0c0d55b20                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:31:42                             |
+| Original Link   | [https://www.berghahnjournals.com/downloadpdf/view/journals/transfers/12/3/trans120304.pdf](https://www.berghahnjournals.com/downloadpdf/view/journals/transfers/12/3/trans120304.pdf)                         |
 | Author          | Xinyu Promio Wang                               |
 | Region          | 日本                               |
 | Date            | 2022-12-01                                 |

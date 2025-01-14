@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 312588 bytes                           |
 | MD5             | 53e467dba9e38e299fbfc448595c5fde                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:30:53                             |
+| Original Link   | [https://www.atlantis-press.com/article/125974648.pdf](https://www.atlantis-press.com/article/125974648.pdf)                         |
 | Author          | Zhu Luo, Chuhan Shen, Jingyang Zheng                               |
 | Region          | 东亚                               |
 | Date            | 2022-01-01                                 |

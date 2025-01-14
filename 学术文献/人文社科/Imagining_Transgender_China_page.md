@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 362121 bytes                           |
 | MD5             | ec7bb8020688377983b48a785201939a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:29:28                             |
+| Original Link   | [https://warwick.ac.uk/fac/arts/history/students/modules/archive/sexuality_and_the_body/bibliography/22_imagining_transgender_china_121112.pdf](https://warwick.ac.uk/fac/arts/history/students/modules/archive/sexuality_and_the_body/bibliography/22_imagining_transgender_china_121112.pdf)                         |
 | Author          | Howard Chiang                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 508808 bytes                           |
 | MD5             | d91bdb6f05f0e95ad09f57e78da8b017                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:33:19                             |
+| Original Link   | [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1062601/pdf](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1062601/pdf)                         |
 | Author          | Cao Q, Zhang Q, Chen Y, He Z, Xiang Z, Guan H, Yan N, Qiang Y, Li M                               |
 | Region          | 中国大陆                               |
 | Date            | 2023-08-09                                 |

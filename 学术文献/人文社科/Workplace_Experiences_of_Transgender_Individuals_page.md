@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 817749 bytes                           |
 | MD5             | d977a2aa45a3f521da6ba0c5cd3f015c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:13:25                             |
+| Original Link   | [http://asiapacificcda.org/wp-content/uploads/2023/12/A0003_1_01.pdf](http://asiapacificcda.org/wp-content/uploads/2023/12/A0003_1_01.pdf)                         |
 | Author          | Danielle C. Lefebvre, José F. Domene, University of Calgary                               |
 | Region          | 未知                               |
 | Date            | 2020-03-01                                 |

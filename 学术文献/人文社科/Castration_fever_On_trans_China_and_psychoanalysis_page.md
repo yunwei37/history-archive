@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 255484 bytes                           |
 | MD5             | b982209706837f6b8516835da841ca49                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:21:45                             |
+| Original Link   | [https://howardchiang.faculty.ucdavis.edu/wp-content/uploads/sites/710/2021/09/61-Castration-Fever-072321.pdf](https://howardchiang.faculty.ucdavis.edu/wp-content/uploads/sites/710/2021/09/61-Castration-Fever-072321.pdf)                         |
 | Author          | Howard Chiang                               |
 | Region          | 美国                               |
 | Date            | 2021-04-13                                 |

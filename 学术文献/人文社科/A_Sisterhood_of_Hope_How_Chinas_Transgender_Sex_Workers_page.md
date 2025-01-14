@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 427885 bytes                           |
 | MD5             | d6248fbe3f3b9ce6715dbaba2a361164                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:26:31                             |
+| Original Link   | [https://scholars.cityu.edu.hk/files/70568928/ijerph_17_07959_v3.pdf](https://scholars.cityu.edu.hk/files/70568928/ijerph_17_07959_v3.pdf)                         |
 | Author          | Eileen Yuk-ha Tsang                               |
 | Region          | 香港                               |
 | Date            | 2020-10-29                                 |

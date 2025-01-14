@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 124942 bytes                           |
 | MD5             | aca06f70bddc0c7cf10ec5c5e4cebe31                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:35:55                             |
+| Original Link   | [https://www.medrxiv.org/content/10.1101/2022.08.26.22279241v1.full.pdf](https://www.medrxiv.org/content/10.1101/2022.08.26.22279241v1.full.pdf)                         |
 | Author          | Shamen Susan Chauma等                               |
 | Region          | 中国大陆                               |
 | Date            | 2022-08-26                                 |

@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 60104479 bytes                           |
 | MD5             | df67f5727f15b8fc2c4ecdccc87b39ff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:20:52                             |
+| Original Link   | [https://health.hawaii.gov/surveillance/files/2018/09/HawaiiSexualandGenderMinorityHealthReport2018.pdf](https://health.hawaii.gov/surveillance/files/2018/09/HawaiiSexualandGenderMinorityHealthReport2018.pdf)                         |
 | Author          | 夏威夷州卫生部门                               |
 | Region          | 美国，夏威夷州                               |
 | Date            | 2018-01-01                                 |

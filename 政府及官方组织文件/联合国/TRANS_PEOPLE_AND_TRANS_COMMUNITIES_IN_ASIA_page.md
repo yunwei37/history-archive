@@ -22,8 +22,8 @@
 | Format          | PDF Document                               |
 | Size            | 7991409 bytes                           |
 | MD5             | eeb20b8899907269513a6396bdb6f59d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:14:28                             |
+| Original Link   | [http://www.healthpolicyproject.com/pubs/484_APTBFINAL.pdf](http://www.healthpolicyproject.com/pubs/484_APTBFINAL.pdf)                         |
 | Author          | 卫生政策项目、亚洲太平洋跨性别网络、联合国开发计划署                               |
 | Region          | 亚洲及太平洋地区                               |
 | Date            | 2015-01-01                                 |

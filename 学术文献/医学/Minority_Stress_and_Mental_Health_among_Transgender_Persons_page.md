@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 1570952 bytes                           |
 | MD5             | 92f417bd524f7fb6e788a6fdc35cfcbb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:26:59                             |
+| Original Link   | [https://scholarworks.waldenu.edu/context/dissertations/article/6933/viewcontent/Sapareto_waldenu_0543D_21122.pdf](https://scholarworks.waldenu.edu/context/dissertations/article/6933/viewcontent/Sapareto_waldenu_0543D_21122.pdf)                         |
 | Author          | 埃丽莎白·爱丽丝·萨帕雷托（Elizabeth Alice Sapareto），沃尔登大学（Walden University）                               |
 | Region          | 美国                               |
 | Date            | 2018-08-01                                 |

@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 4568954 bytes                           |
 | MD5             | 7de52daff2522563ea15fd1c4ad2c153                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:16:22                             |
+| Original Link   | [https://chinadevelopmentbrief.org/wp-content/uploads/2020/04/2017-Chinese-Transgender-Population-General-Survey-Report.pdf](https://chinadevelopmentbrief.org/wp-content/uploads/2020/04/2017-Chinese-Transgender-Population-General-Survey-Report.pdf)                         |
 | Author          | 北京大学社会学系                               |
 | Region          | 中国大陆                               |
 | Date            | 2017-09-01                                 |

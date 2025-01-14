@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 591141 bytes                           |
 | MD5             | 3eda3e7b1a7b7d475388a3751145db23                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:31:21                             |
+| Original Link   | [https://www.atlantis-press.com/article/125974671.pdf](https://www.atlantis-press.com/article/125974671.pdf)                         |
 | Author          | Leshui Qiao, LinYi university                               |
 | Region          | 中国大陆                               |
 | Date            | 未知                                 |

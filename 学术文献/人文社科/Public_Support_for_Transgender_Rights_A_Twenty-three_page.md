@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 1179265 bytes                           |
 | MD5             | 30c7d99834d43fd308d7ed931731aa2a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:29:57                             |
+| Original Link   | [https://williamsinstitute.law.ucla.edu/wp-content/uploads/Public-Opinion-Trans-23-Countries-Dec-2016.pdf](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Public-Opinion-Trans-23-Countries-Dec-2016.pdf)                         |
 | Author          | Andrew R. Flores, Taylor N.T. Brown, Andrew S. Park                               |
 | Region          | 未知                               |
 | Date            | 2016-12-01                                 |

@@ -22,8 +22,8 @@
 | Format          | PDF Document                               |
 | Size            | 596532 bytes                           |
 | MD5             | aeb2c53afd55c8f9761fa5d593f362c8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:17:42                             |
+| Original Link   | [https://edizionicafoscari.unive.it/media/pdf/article/rivista-di-diritto-dellasia-orientale/2024/1/art-10.30687-RIDAO-4713-223X-2024-01-003.pdf](https://edizionicafoscari.unive.it/media/pdf/article/rivista-di-diritto-dellasia-orientale/2024/1/art-10.30687-RIDAO-4713-223X-2024-01-003.pdf)                         |
 | Author          | Valeria Fappani，博洛尼亚大学                               |
 | Region          | 中国                               |
 | Date            | 2024-12-18                                 |

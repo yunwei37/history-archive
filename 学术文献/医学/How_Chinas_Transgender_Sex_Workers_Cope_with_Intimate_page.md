@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 331268 bytes                           |
 | MD5             | e78890b8e8b8486865a27c218b6755ba                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:25:11                             |
+| Original Link   | [https://pdfs.semanticscholar.org/5103/dbd1fd3b39e4adc85bb6f052705bd4c331c4.pdf](https://pdfs.semanticscholar.org/5103/dbd1fd3b39e4adc85bb6f052705bd4c331c4.pdf)                         |
 | Author          | Eileen Yuk-ha Tsang                               |
 | Region          | 香港                               |
 | Date            | 2020-10-29                                 |

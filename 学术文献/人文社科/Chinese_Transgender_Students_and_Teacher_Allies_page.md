@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 208311 bytes                           |
 | MD5             | a4e264c1269169d2f2d59712629e057f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:22:56                             |
+| Original Link   | [https://link.springer.com/content/pdf/10.1007/978-3-030-95352-2_125-1](https://link.springer.com/content/pdf/10.1007/978-3-030-95352-2_125-1)                         |
 | Author          | Diana K. Kwok，香港教育大学特殊教育与辅导系                               |
 | Region          | 香港                               |
 | Date            | 未知                                 |

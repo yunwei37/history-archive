@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 4905725 bytes                           |
 | MD5             | 9b1a6ba9a723648db068ad593b20fa43                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:18:02                             |
+| Original Link   | [https://era.library.ualberta.ca/items/c0583573-582f-4a2f-ae7c-3a213ef944f0/view/6e5648a8-daca-45bc-bfa3-b40baa82d3a3/XIe_Wenjuan_201509_PhD.pdf](https://era.library.ualberta.ca/items/c0583573-582f-4a2f-ae7c-3a213ef944f0/view/6e5648a8-daca-45bc-bfa3-b40baa82d3a3/XIe_Wenjuan_201509_PhD.pdf)                         |
 | Author          | 谢文娟                               |
 | Region          | 未知                               |
 | Date            | 2015-01-01                                 |

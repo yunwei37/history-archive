@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 1150629 bytes                           |
 | MD5             | 5bb4e03f3e8a4b9245014bcd96814371                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:25:37                             |
+| Original Link   | [https://pureadmin.qub.ac.uk/ws/portalfiles/portal/148006596/JCN_Trans_review_paper_June_2017.pdf](https://pureadmin.qub.ac.uk/ws/portalfiles/portal/148006596/JCN_Trans_review_paper_June_2017.pdf)                         |
 | Author          | Edward McCann, Michael Brown                               |
 | Region          | 未知                               |
 | Date            | 2017-01-01                                 |

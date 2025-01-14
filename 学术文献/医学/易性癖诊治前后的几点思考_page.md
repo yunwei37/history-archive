@@ -24,8 +24,8 @@
 | Format          | PDF Document                               |
 | Size            | 297283 bytes                           |
 | MD5             | ab363d819dc22b6309d08dbc9961447c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:09:57                             |
+| Original Link   | [https://yizhe.dmu.edu.cn/data/article/yxyzx/preview/pdf/2007-8A-17.pdf](https://yizhe.dmu.edu.cn/data/article/yxyzx/preview/pdf/2007-8A-17.pdf)                         |
 | Author          | 梁晓琴, 唐胜建, 苗春雷, 牟少春                               |
 | Region          | 中国大陆                               |
 | Date            | 2007-08-01                                 |

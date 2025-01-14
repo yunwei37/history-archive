@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 665698 bytes                           |
 | MD5             | 8ac82f54777296582730d011ccd466e0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:36:23                             |
+| Original Link   | [https://www.medrxiv.org/content/10.1101/2022.10.05.22280725v1.full.pdf](https://www.medrxiv.org/content/10.1101/2022.10.05.22280725v1.full.pdf)                         |
 | Author          | Ben-tuo Zeng等                               |
 | Region          | 中国大陆                               |
 | Date            | 2022-10-06                                 |

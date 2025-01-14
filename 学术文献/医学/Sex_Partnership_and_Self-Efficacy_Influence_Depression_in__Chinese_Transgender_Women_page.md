@@ -20,8 +20,8 @@
 | Format          | PDF Document                               |
 | Size            | 241284 bytes                           |
 | MD5             | d5b4daae22b951a0a518ecd34aa1eac3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [Unknown link(update needed)]                         |
+| Archived Date   | 2025-01-14 00:16:45                             |
+| Original Link   | [https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=fe773e63f5e86577c31cad107ef3d75e9b894581](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=fe773e63f5e86577c31cad107ef3d75e9b894581)                         |
 | Author          | 杨小士, 王力, 郑春, 孙国伟, 宋威, 王剑, 玛格丽特·M·张, 赵群                               |
 | Region          | 中国大陆                               |
 | Date            | 2015-09-14                                 |
