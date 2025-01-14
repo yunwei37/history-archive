@@ -12,7 +12,7 @@ search:
 标签: `跨性别`, `社会科学`, `研究文献`, `文化研究`, `社会分析`
 
 
-总计 212 篇内容
+总计 229 篇内容
 
 
 
@@ -248,6 +248,30 @@ search:
 
 
 
+
+[An_Exploration_of_Transgender_Individuals_Identity_Experiences_in_the_Chinese_Context](An_Exploration_of_Transgender_Individuals_Identity_Experiences_in_the_Chinese_Context_page.md)<details><summary>查看摘要</summary>
+
+该文献摘自2022年5月出版的《国际社会科学与人文杂志》，主要探讨了中国跨性别个体的身份体验。研究显示，尽管中国社会对跨性别群体的关注逐渐增加，但他们的生活条件依然不乐观。研究的目的包括探索中国跨性别者在日常生活中面临的主要困难，提高对跨性别问题的社会意识，以及推动帮助跨性别者改善生活条件的措施。通过对四名成年跨性别个体的半结构化访谈，研究揭示了他们在心理健康、亲密关系、公共场所和跨性别手术相关药物方面的挑战。此外，研究还指出，中国跨性别者在新冠疫情期间面临着更大的困难，例如获取激素治疗和性别确认手术的障碍。尽管一些跨性别女性的研究已被关注，但对跨性别男性的关注仍显不足。作者希望通过该研究，增进公众对跨性别者的理解，提升社会对他们的支持，推动法律和社会环境的改善。
+</details>
+
+
+
+
+[Chinese_Trans_Women_in_Japan_and_Their_Embodied](Chinese_Trans_Women_in_Japan_and_Their_Embodied_page.md)<details><summary>查看摘要</summary>
+
+这篇文章探讨了生活在日本的中国跨性别女性在数字连接、国际流动性、性别和种族交叉性方面的经验。通过对居住在日本五个县的七位受访者的访谈，文章展示了她们如何以多种方式理解和表现性别身份的复杂现实。作者指出，这些跨性别女性的性别身份反映了她们对完整性和本体安全的个体追求，尤其是在处理在线和离线现实的紧张关系时。文章进一步分析了在线和离线生活经验是如何相互塑造的，强调了数字媒体在现代社会结构中所扮演的重要角色。文中还讨论了自1990年代以来，关于流动性与酷儿身份关系的研究变化，指出“迁出”并不一定意味着“出柜”，而此过程是复杂多变的，相互依存的。
+</details>
+
+
+
+
+[The_Negative_Influence_of_Social_Media_on_Transgender_Group_Self-identity_in_The_East_Asian__Society](The_Negative_Influence_of_Social_Media_on_Transgender_Group_Self-identity_in_The_East_Asian__Society_page.md)<details><summary>查看摘要</summary>
+
+这篇文献探讨了社交媒体对东亚跨性别群体自我认同的负面影响。作者包含来自澳大利亚和中国的学者，通过系统文献回顾，收集了16篇相关的学术文章，分析了这些文章中描述的跨性别者在互联网环境下面临的挑战。文献指出，由于传统的性别二元观念，跨性别者在社会上受到了不公正的对待，社交媒体上的负面舆论对他们的自我认知造成了进一步的影响。文章分为两个主要方面，一方面是社交层面，探讨了跨性别者内心的双重意识和身份认同的挣扎；另一方面则涉及他们在网络上因性别身份所遭遇的偏见和网络欺凌。这不仅使跨性别者在表达自我性向时面临危险，也进一步限制了他们的生活空间。文献提供了关于当前跨性别群体在立法和个人层面上所面对的社会困境的深刻见解，期望促使社会更加关注和理解这一弱势群体的现状。
+</details>
+
+
+
 #### 2021
 
 
@@ -337,6 +361,22 @@ search:
 [2021年卓芸萱_跨性別學生於友善校園成長的可能性](2021年卓芸萱_跨性別學生於友善校園成長的可能性_page.md)<details><summary>查看摘要</summary>
 
 该文件是关于跨性别学生在友善校园中成长的可能性的研究，主要由卓芸萱撰写，属于高雄医学大学性别研究所的研究成果。内容探讨了自《性别平等教育法》实施以来，虽然提倡打破二元性别角色的期待，鼓励学生探索不同性别身份，但跨性别学生在成长过程中仍面临许多挑战。根据2020年的调查报告，许多跨性别人员在国中时期便开始探索自己的性别认同，但近半数表示在校园内受到不友善对待，尤其是在国中阶段的比例最高。研究延伸自作者的硕士论文，分析了不同跨性别主体在青春期阶段的性别认同探索过程，并结合社会学的“做性别”观点，建议教育人员调整校内的性别规范，以支持跨性别学生的成长。文中提及多元性别教育的重要性以及如何在学校环境中营造友好的性别氛围，鼓励学生以真实自我面对他人，与传统的二元性别观念进行斗争。
+</details>
+
+
+
+
+[Castration_fever_On_trans_China_and_psychoanalysis](Castration_fever_On_trans_China_and_psychoanalysis_page.md)<details><summary>查看摘要</summary>
+
+本文探讨了昇华转型在中国历史与心理分析中的演变，重点关注了阉割这一历史问题的研究演变。作者Howard Chiang介绍了自己研究的重点从性别转换的科学转向跨文化心理分析的历史，分析了在中国历史上阉人的角色以及他们在政治系统中的影响。阉人，作为古代中国帝王的男性仆人，在许多朝代中曾经掌握着相当大的权力，同时也伴随着对他们的普遍指责。文章反映了在现代中国学术与社会讨论中，阉割及其文化意涵如何持续影响并塑造对性别与权力关系的理解。文章引用了多个历史案例，并探讨了阉割这一主题如何与中国的政治、性别和医学史交织在一起，迫使读者重新思考中国历史中的性别与文化身份构建。
+</details>
+
+
+
+
+[Excluded_lives_The_largest_scale_survey_on_the_social_and](Excluded_lives_The_largest_scale_survey_on_the_social_and_page.md)<details><summary>查看摘要</summary>
+
+该文件为一项关于香港跨性别者社会与法律边缘化现状的调查研究，名为《Excluded lives: The largest scale survey on the social and legal marginalisation of transgender people in Hong Kong so far》。该研究由香港中文大学的性别研究项目进行，调查时间为2019年至2020年，涉及234名跨性别参与者。研究结果显示，跨性别者在香港面临显著的社会和法律边缘化，许多人生活中遭遇拒绝、受害和歧视，尤其是在使用与自我认同性别相符的卫生间时，常常遭遇语言攻击、身体暴力甚至性侵犯。调查还表明，许多受访者因为多种原因未接受性别肯定医疗干预，导致他们在香港法律上无法进行性别标识的更改，严重影响了他们的公民、政治、经济、社会和文化权利。该研究强调，跨性别者的心理健康受到了极大的影响，42.8%的参与者呈现中度至重度抑郁症状，34.7%的参与者有中度至重度焦虑症状，76.9%的参与者曾考虑自杀。研究建议急需对公众进行教育和意识提升，以增强对跨性别者的理解，同时呼吁制定反歧视法律，改善公共空间的卫生间设施，并增加心理健康支持。
 </details>
 
 
@@ -440,6 +480,22 @@ search:
 [The__Slow__Depathologizing_of_Gender_Incongruence.11](The__Slow__Depathologizing_of_Gender_Incongruence.11_page.md)<details><summary>查看摘要</summary>
 
 该文献探讨了性别不一致的慢性去病理化过程，比较了针对同性恋的去病理化历史，以及对性别不一致的当代去病理化进程。文章指出，精神病学的病理分类常常反映了社会文化的道德规范与价值观，对性别和性取向的研究和分类在过去曾使得许多行为被标记为疾病，而这些分类实际上加深了被诊断个体在社会中的污名化和歧视。文中提到，性别不一致是指个体自我认知的性别与出生时分配的性别不一致的体验，这一术语包括那些自我认同为“相反性别”的个体以及那些不符合传统男女二元性别划分的个体。逐渐地，随着社会对性别及其构造的理解扩展，以及医学和社会观念的变迁，性别不一致的概念开始经历去病理化的进程。
+</details>
+
+
+
+
+[A_Sisterhood_of_Hope_How_Chinas_Transgender_Sex_Workers](A_Sisterhood_of_Hope_How_Chinas_Transgender_Sex_Workers_page.md)<details><summary>查看摘要</summary>
+
+该文件为一篇学术论文，题为《希望的姐妹情：如何应对中国跨性别性工作者的亲密伴侣暴力》。研究者Eileen Yuk-ha Tsang从社会和行为科学的角度探讨了跨性别性工作者（TSWs）在面对伴侣暴力时所经历的挑战和应对策略。通过对25位跨性别性工作者的深入访谈，文章揭示了许多TSWs在生活中面临的各种暴力，包括来自客户、警察和伴侣的暴力，而其中特别高的比例来自亲密伴侣。文中指出，跨性别性工作者常常受到社会的边缘化，社会对他们的虐待与孤立使他们无从通过正式渠道如警方寻求帮助。为生存，TSWs依赖与姐妹们建立的非正式网络，进行情感支持和建议，而这种支持在应对亲密伴侣暴力的问题上比官方的法律机制更为有效。研究强调了姐妹情的重要性，指出这种支持如何帮助她们应对常态化的暴力行为，以及在心理和生理健康管理中所起的重要作用。
+</details>
+
+
+
+
+[Workplace_Experiences_of_Transgender_Individuals](Workplace_Experiences_of_Transgender_Individuals_page.md)<details><summary>查看摘要</summary>
+
+该文献为一项针对跨性别个体在职场经历的系统性综述，搜集了已有的定量和定性研究，揭示了跨性别人士在职场中面临的各种挑战和障碍。文中探讨了职场支持、性别相关问题、结构和制度性障碍，以及跨性别个体的韧性等几个关键主题。作者强调了跨性别个体的适应性和灵活性，并提出了为安全和无歧视的职业发展实践、工作场所和政策提供建议的重要性。文献回顾指出，全球范围内，包括亚太地区的跨性别人士经常经历歧视，特别是在教育、住房和就业等领域，这一现象的严重性及其对职业发展和个人生活的影响不容忽视。为了深入理解跨性别个体在职场的生存现状，研究聚焦于跨性别个体所面临的挑战和社会支持的缺乏，强调了适应性及在逆境中的生存能力。文学的不足也在于，许多文献主要集中在性工作领域，而对跨性别人士职场经历的研究依然较少。因此，该文献为未来的研究提供了重要的基准和方向。
 </details>
 
 
@@ -592,6 +648,22 @@ search:
 
 
 
+
+[TG_transgender_GNC_gender_non-conforming](TG_transgender_GNC_gender_non-conforming_page.md)<details><summary>查看摘要</summary>
+
+该文件是2018年夏威夷州性别和性取向少数群体健康报告的一部分，重点关注跨性别青少年的健康问题。文件内容探讨了性别认同的定义、跨性别和性别不符合者在健康和社会方面所面临的不平等和偏见。文件指出，虽然夏威夷的性别和性取向少数群体经历了许多独特的健康挑战，但当地并没有足够的数据来全面了解这一人群的健康状况。通过对健康不平等现象的深入分析，报告强调了对这些社区的研究需求。例如，报告提及了青少年风险行为调查、健康服务获取、身体健康、心理健康、伤害和暴力、学业成就等多个方面，并且提供了相关的统计数据和表格，以支持这些论点。最后，文件还表达了对社区成员的感激之情，他们的反馈和建议使此次报告更加有意义。
+</details>
+
+
+
+
+[Trans-in-Asia_Asia-in-Trans](Trans-in-Asia_Asia-in-Trans_page.md)<details><summary>查看摘要</summary>
+
+《Trans-in-Asia, Asia-in-Trans》是一份专注于探索亚洲跨性别及多元性别文化的论文集导言。该文由Howard Chiang、Todd A. Henry和Helen Hok-Sze Leung等人撰写，旨在阐述跨性别研究和亚洲研究之间的交集与对话，呼吁学术界更加重视被边缘化的性别议题。文中提到，过去的二十年里，越来越多的学者和活动家开始检视亚洲社会中长期存在的跨性别文化，更希望通过跨学科的视角重新思考这些议题。文中特别提到，跨性别视角有助于学者们从新的视角理解在整体人类经验中被归类为少数的非规范身体。该文也对跨性别和酷儿的表现如何在亚洲不同社会中体现进行了探讨，强调了历史、语言和文化复杂性的重要性，同时呼吁重视非西方的视角。
+</details>
+
+
+
 #### 2017
 
 
@@ -663,6 +735,14 @@ search:
 [The_Bathroom_Case_Creating_a_Supportive_School__Environment_for_Transgender__and_Gender_Nonconforming__Students](The_Bathroom_Case_Creating_a_Supportive_School__Environment_for_Transgender__and_Gender_Nonconforming__Students_page.md)<details><summary>查看摘要</summary>
 
 该文档《浴室案例：为跨性别及性别不符合学生创造一个支持性学校环境》探讨了如何为跨性别学生提供适当的支持和设施。随着联邦指导方针和针对跨性别学生的诉讼增加，公众对跨性别学生法律权利的意识也在提高。文章分析了《第九条》法规对学校如何分隔男生和女生进行洗手间、淋浴和更衣室设施的要求，并关注跨性别学生如何访问与其性别认同相符的设施这一法律问题。这一案例虽然难以找到一致的学校标准，但强调了为跨性别学生使用他们的首选名字和代名词的重要性。此外，文章还结合了个人故事，例如引用了Jazz Jennings的话，她希望被称为Jazz，而不是仅仅一个标签。文中提到的主要参与者，鲍比·冈萨雷斯（Robert Gonzalez）是一名聪明的跨性别学生，他的经历突出了教育环境中对性别认同问题的关注。文献还引用了《家庭教育权利和隐私法案》（FERPA）来讨论在保护学生隐私的同时，如何分享有关跨性别学生的信息。总体上，该文章为学校管理者提供了如何合法和有效支持跨性别学生的指南。
+</details>
+
+
+
+
+[A_narrative_review_of_quantitative_research_s](A_narrative_review_of_quantitative_research_s_page.md)<details><summary>查看摘要</summary>
+
+这篇文献是对定量研究的叙述性综述，重点讨论了跨性别人士面临的歧视和韧性，以及他们的需求。作者McCann和Brown通过综合分析2006年至2016年间的研究，探讨了跨性别者在社会中遭遇的种种挑战。这些挑战主要体现在对性别认同的知识、理解和接受程度上。文献回顾的结果显示，跨性别人士的需求应该得到更明确的表达，并与改善他们的健康和生活质量的成果紧密相连。文章强调，如果不加以解决，这些歧视经历可能导致健康状况的恶化，而很多跨性别者则展现出韧性和积极的应对策略。文中还提出了护士和医疗工作者需要识别并适当响应跨性别群体的护理和治疗需求，以确保提供的医疗服务能够涵盖他们生活的各个方面。
 </details>
 
 
@@ -755,6 +835,14 @@ search:
 [Transgender_people:_health_at_the_margins_of_society_-_Winter_et_al-2016](Transgender_people:_health_at_the_margins_of_society_-_Winter_et_al-2016_page.md)<details><summary>查看摘要</summary>
 
 该文件是一篇关于跨性别者健康的学术论文，标题为《跨性别者：处于社会边缘的健康状况》。文章由Sam Winter等人撰写，发表于《柳叶刀》期刊。论文探讨了许多跨性别者所面临的社会和法律条件，强调他们在社会中面临的污名、歧视、排斥和暴力，从而直接影响到他们的健康和福祉。作者指出，尽管国际上对跨性别者的研究显示出更高的人群数量和与性别不符相关的生物因素，但许多跨性别者依然面临获取适当医疗服务的困难，尤其是在与其性别需求相关的健康照护方面。文章还提到，虽然有些政府开始采取措施改善跨性别者的权利和法律保护，但这一进展并不普遍。同时，当前主导的对跨性别者的精神疾病看法受到质疑，WHO可能很快就会弃用将跨性别者分类为精神障碍的现行诊断体系。文中强调，跨性别者的需求应得到更广泛的理解与支持，特别是在医疗保健和社会政策方面。
+</details>
+
+
+
+
+[Public_Support_for_Transgender_Rights_A_Twenty-three](Public_Support_for_Transgender_Rights_A_Twenty-three_page.md)<details><summary>查看摘要</summary>
+
+该文件为一项关于跨性别权利的国际调查报告，标题为《公众对跨性别权利的支持：23国调查》。研究由Andrew R. Flores、Taylor N.T. Brown和Andrew S. Park于2016年12月发布，涉及23个国家的17,105名成年人对跨性别者及其权利的态度。报告中的关键发现指出，在所有受访的国家中，绝大多数人认为跨性别者应有权更改身份文件以与其性别认同一致，尽管有相当一部分人认为需有医疗或政府的某种形式的监管。同时，21个国家的居民支持禁止针对跨性别者的歧视政策，16个国家支持跨性别者的结婚权，14个国家支持其收养权，以及15个国家支持根据跨性别者的性别认同开放公共厕所。调查表明，社会对跨性别权利的支持程度因国而异，分数从41到74不等，其中俄罗斯得分最低，西班牙得分最高。调查发现，年轻人、女性、高学历和高收入人群对跨性别权利的支持力度较大。与跨性别朋友或家庭成员的接触被认为是支持跨性别权利的强劲预测因素。
 </details>
 
 
@@ -892,6 +980,14 @@ search:
 
 
 
+
+[Reading_Transgender_Narratives_in_Late_Imperial_China_by](Reading_Transgender_Narratives_in_Late_Imperial_China_by_page.md)<details><summary>查看摘要</summary>
+
+该文件为一篇名为《(Trans)Culturally Transgendered: Reading Transgender Narratives in (Late) Imperial China》的学位论文，作者为谢文娟。论文探讨了清末民初的跨性别叙事及其文化历史意义，旨在填补现有中国跨性别研究中有关早期跨性别现象的空白。作者在文中提出了“帝国中国的跨性别”这一分析术语，描述了性别身份、性别表现被视为模糊或可变的个人群体。这篇论文系统地重新审视了在前现代中国的文学文本中存活的跨性别个体及其在形成前现代中国跨性别历史中的重要性。论文特别聚焦于三种主要类型的跨性别存在：二形(erxing)、女化男(nü hua nan)和男化女(nan hua nü)，并分别从文本的角度剖析了它们的多种叙事及表现方式，揭示了这些个体在道德行为中的客体化过程。通过分析清末和民国时期的跨性别现象，作者还探讨了跨性别叙事中性别的变化性、建构性和历史性。
+</details>
+
+
+
 #### 2014
 
 
@@ -976,6 +1072,14 @@ search:
 [Transgender_Representation_by_the_People’s_Daily_Since_1949](Transgender_Representation_by_the_People’s_Daily_Since_1949_page.md)<details><summary>查看摘要</summary>
 
 该文档名为《自1949年以来《人民日报》上的跨性别表现》，主要探讨了中国自1949年社做复兴以来跨性别者在《人民日报》中的表现及其社会、政治和文化背景。作者张青飞通过对《人民日报》的分析，揭示了性“偏差”是如何在经历了数十年的政治变迁后得以规范的，同时讨论性别意识如何随着时间的推移而变化，特别是在社会主义意识形态的影响下。文中指出，儒家思想对中国人特别是跨性别者的影响，强调了家庭观念与社会对跨性别者的压制之间的矛盾。此外，文中还回顾了历史上与跨性别相关的人物和文化现象，如太监和现代戏曲中的旦角角色，为理解当代中国跨性别现象提供了重要背景。文献综述部分对以往跨性别及其表现主题的相关研究进行了评析，对于理解跨性别在中国社会中的脉络及挑战具有重要价值。
+</details>
+
+
+
+
+[transgender_performance_in_contemporary_Chinese_films](transgender_performance_in_contemporary_Chinese_films_page.md)<details><summary>查看摘要</summary>
+
+本文探讨了当代中国电影中的跨性别表演及其所反映的性别政治。主要分析了两种性别变迁或伪装的不同类型：一是男性演员模仿女性角色，文中以《霸王别姬》（1993）和《梅兰芳》（2009）为例，探讨了基于京剧中的‘旦’的历史实践；二是女性为了挑战传统禁止她们进入公共领域的性别角色而男扮女装，代表性作品为2009年的真人电影《花木兰》，讲述了这位女性战士假装成男性以代替父亲参军的故事。作者通过对这三部电影的深度分析，结合西方性别理论（如Garber、Butler和Halberstam的研究），讨论了当代中国文化与政治中的性别和性取向的话语及政治，指出性别的表演并不一定是颠覆性的，而是表明异性恋规范的任意性和不自然性，揭示了当前性别等级制度的维持与强化。同时，文章挑战了西方性别理论的普遍性，提供了跨文化背景下的反思。
 </details>
 
 
@@ -1808,6 +1912,38 @@ search:
 [Transgender_patients_need_better_protection_in_China](Transgender_patients_need_better_protection_in_China_page.md)<details><summary>查看摘要</summary>
 
 本文件为学术论文，讨论了中国跨性别患者在医疗系统中的保护需求。文中指出，尽管有一定的统计数据表明中国约有40万名跨性别者，但是关于跨性别患者的详细记录和数据实际上是极其稀缺的。该文呼吁应当加强对跨性别患者的法律和医疗保护，尤其是在性别重置手术的监管上。文件中提到，医疗领域的沟通不畅是导致医疗纠纷的主要原因之一，建议加强医务人员的交流与沟通培训。文件还指出，部分手术由未经认证的医疗人员进行，这可能对患者造成严重后果。同时，政府虽已出台了一些技术管理规范，但实际执行中仍面临许多挑战。
+</details>
+
+
+
+
+[24_Transgender_in_China](24_Transgender_in_China_page.md)<details><summary>查看摘要</summary>
+
+本文件《Transgender in China》由Howard Chiang撰写，探讨了中国的跨性别现象及其学术研究的发展历程。文件回顾了20世纪初以来关于性别多样性的学术思想，以及过去二十年中跨性别主题学术兴趣的蓬勃发展。通过引用多位重要学者的理论，例如Judith Butler的《Gender Trouble》和Judith Halberstam的《Female Masculinity》，作者呈现了跨性别研究如何逐步形成并融入酷儿研究的广阔领域。此外，文件列举了众多在跨性别研究历史上具有重要意义的书籍和研究，如Vern和Bonnie Bullough的《Cross Dressing, Sex, and Gender》以及Susan Stryker的《Transgender History》。这些作品为跨性别研究提供了理论与实践的基础，而跨性别的社群与学者在这一领域中的合作，也促使了相关研究的进一步深化。
+</details>
+
+
+
+
+[Chinese_Transgender_Students_and_Teacher_Allies](Chinese_Transgender_Students_and_Teacher_Allies_page.md)<details><summary>查看摘要</summary>
+
+该文献探讨了香港跨性别学生在教育环境中面临的挑战与机遇，特别是教师作为盟友能够发挥的重要作用。文章引用了多项国内外对跨性别青年的研究，指出教育环境中的性别主义和偏见严重影响跨性别学生的身心健康和学习效果。研究强调，教师的支持能够创建安全的校园环境，有助于提升跨性别学生的正面校园经历及心理健康。此外，文中还定义了“盟友”的概念，描述了盟友如何利用其特权支持边缘化的跨性别群体。文章总结了对香港教师在支持跨性别学生方面的调查研究，讨论了有效支持策略与面临的障碍，以及提供情感安抚和身份确认空间的必要性。总体而言，这项研究旨在呼吁教育者积极介入，以改善校园中的性别包容性及提升跨性别学生的福祉。
+</details>
+
+
+
+
+[Imagining_Transgender_China](Imagining_Transgender_China_page.md)<details><summary>查看摘要</summary>
+
+该文献《Imagining Transgender China》由Howard Chiang撰写，探索了跨性别研究的发展历程，尤其是近二十年来学术界对跨性别主题的关注上升。文中回顾了20世纪一些重要的性别和跨性别相关的学术工作，例如性学家Magnus Hirschfeld和人类学家Esther Newton的作品，并分析了1970年代和1980年代社会文化趋势如何影响跨性别者与女性运动及同性恋运动的关系。\n\n此外，作者讨论了后现代主义及其对性别二元论批判的影响，以及跨性别研究如何在这些理论背景下逐渐形成。书中提到乔治·巴特勒和朱迪思·哈伯斯坦等学者的著作，如《Gender Trouble》和《Female Masculinity》，对跨性别研究的基础和发展产生了深远影响。此外，该书在最后探讨了跨性别研究如何通过合作项目和学术期刊，推动了这个边缘话题的讨论和学术关注。
+</details>
+
+
+
+
+[Mainland_Chinas_TERFs_Misogyny_Under_JK_Rowlings](Mainland_Chinas_TERFs_Misogyny_Under_JK_Rowlings_page.md)<details><summary>查看摘要</summary>
+
+本文调查了2020年6月至2022年2月间与JK Rowling反跨性别事件相关的评论，主要在中国的微博等社交平台上进行分析。作者通过语料库技术对相关评论进行了敏感样本的筛选，并运用词云技术展示结果。讨论了激进女性主义的定义、TERF(反跨性别的激进女性主义者)的产生与发展，以及JK Rowling事件对中国社会的影响。文章指出，TERFs在中国是本质主义与个体认同的“大他者”依附的混合产物，表现出对女性的厌女倾向，和一种试图代表女性团结的父权陷阱。创造更多的女性主义可能性是文章提倡的立场。
 </details>
 
 

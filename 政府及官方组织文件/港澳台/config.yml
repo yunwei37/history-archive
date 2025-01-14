@@ -115,6 +115,13 @@ files:
   size: 708870
   md5: c62ebf96918ddc1e0086db4b179f4226
   page: PDF_香港醫院管理局就性別不安所提供的治療_page.md
+- name: 內政部研商性別變更認定及登記程序
+  filename: 內政部研商性別變更認定及登記程序.pdf
+  type: document
+  format: PDF Document
+  size: 409114
+  md5: 457ae987a39f9fccbc96b2428f01362f
+  page: 內政部研商性別變更認定及登記程序_page.md
 - name: 反对國小性別平等教育內容_台湾
   filename: 反对國小性別平等教育內容_台湾.pdf
   type: document
@@ -143,6 +150,13 @@ files:
   size: 4861655
   md5: ff2ce95a467f83433b0c1309ad7db74d
   page: 性別承認跨部門工作小組諮詢文件_香港_page.md
+- name: 性別變更戶政法令研討及案例分享
+  filename: 性別變更戶政法令研討及案例分享.pdf
+  type: document
+  format: PDF Document
+  size: 100487
+  md5: 3f060beb6bbe7d0033841cc4d0a50429
+  page: 性別變更戶政法令研討及案例分享_page.md
 - name: 澳门大学法医学教程进度（2015-2016学年度）
   filename: 澳门大学法医学教程进度（2015-2016学年度）.pdf
   type: document

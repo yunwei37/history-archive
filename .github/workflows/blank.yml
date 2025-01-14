@@ -39,7 +39,7 @@ jobs:
       # New steps start here
       - name: Generate and update TOC, generate and config other things
         run: |
-          .github/build.sh
+          .github/scripts/workflows/build-documents.sh
       - name: Commit changes
         run: |
           git add .

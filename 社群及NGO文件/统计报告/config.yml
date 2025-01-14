@@ -66,6 +66,13 @@ files:
   size: 4170258
   md5: 71fbf28943fcdc5eb4b1db3273960235
   page: 2023_行政院多元性别生活状况调查研究报告_page.md
+- name: Chinese_Transgender_Population_General_Survey_Report
+  filename: Chinese_Transgender_Population_General_Survey_Report.pdf
+  type: document
+  format: PDF Document
+  size: 4568954
+  md5: 7de52daff2522563ea15fd1c4ad2c153
+  page: Chinese_Transgender_Population_General_Survey_Report_page.md
 - name: LGBTQ+_老年人调查报告
   filename: LGBTQ+_老年人调查报告.pdf
   type: document
@@ -73,6 +80,13 @@ files:
   size: 1249632
   md5: a2643014e16c9681d5393afbe4391ac0
   page: LGBTQ+_老年人调查报告_page.md
+- name: MY_LIFE_IS_TOO_DARK_TO_SEE_THE_LIGHT
+  filename: MY_LIFE_IS_TOO_DARK_TO_SEE_THE_LIGHT.pdf
+  type: document
+  format: PDF Document
+  size: 1976640
+  md5: 40d905cb024539adbe263b540580fb94
+  page: MY_LIFE_IS_TOO_DARK_TO_SEE_THE_LIGHT_page.md
 - name: PDF_中国大陆对LGBTQ_群体的正面态度
   filename: PDF_中国大陆对LGBTQ_群体的正面态度.pdf
   type: document

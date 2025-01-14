@@ -31,6 +31,20 @@ files:
   size: 3120548
   md5: a1e82a1c7df9f780ebeae3ef1ce06a8f
   page: 2021年中国跨性别权利公众舆论报告_page.md
+- name: LEGAL_GENDER_RECOGNITION_IN_CHINA_A_Legal_and_Policy_Review
+  filename: LEGAL_GENDER_RECOGNITION_IN_CHINA_A_Legal_and_Policy_Review.pdf
+  type: document
+  format: PDF Document
+  size: 1186724
+  md5: dc91e02be76e39ea9cbb6299bf8d6353
+  page: LEGAL_GENDER_RECOGNITION_IN_CHINA_A_Legal_and_Policy_Review_page.md
+- name: PANDEMIC_OR_NOT_WE_HAVE_THE_RIGHT_TO_LIVE
+  filename: PANDEMIC_OR_NOT_WE_HAVE_THE_RIGHT_TO_LIVE.pdf
+  type: document
+  format: PDF Document
+  size: 2741181
+  md5: 086c569e140af0c867a5de8d18052266
+  page: PANDEMIC_OR_NOT_WE_HAVE_THE_RIGHT_TO_LIVE_page.md
 - name: PDF_三個不利跨性身分的迷思_-_Dean_Spade
   filename: PDF_三個不利跨性身分的迷思_-_Dean_Spade.pdf
   type: document
@@ -80,6 +94,20 @@ files:
   size: 304255
   md5: 47765d504e20e408ac1c2fbadd9e4c8a
   page: SILENT_CHANGES_TRANSSEXUALS'_-郭晓飞_page.md
+- name: The_Protection_of_Transgender_Workers_in_China
+  filename: The_Protection_of_Transgender_Workers_in_China.pdf
+  type: document
+  format: PDF Document
+  size: 596532
+  md5: aeb2c53afd55c8f9761fa5d593f362c8
+  page: The_Protection_of_Transgender_Workers_in_China_page.md
+- name: transgender_peoples_right_to_marry_in_vietnam_and_other
+  filename: transgender_peoples_right_to_marry_in_vietnam_and_other.pdf
+  type: document
+  format: PDF Document
+  size: 283855
+  md5: 52712977340b4f80284e8fd7a5e967ee
+  page: transgender_peoples_right_to_marry_in_vietnam_and_other_page.md
 - name: 上政法律評論
   filename: 上政法律評論.pdf
   type: document

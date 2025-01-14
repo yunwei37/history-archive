@@ -11,6 +11,20 @@ tags:
 - 医疗资源
 license: ''
 files:
+- name: PDF_台灣跨性別手術的最新進展
+  filename: PDF_台灣跨性別手術的最新進展.pdf
+  type: document
+  format: PDF Document
+  size: 798700
+  md5: 2a82a5d8243079fd307eca70a8f1cf69
+  page: PDF_台灣跨性別手術的最新進展_page.md
+- name: 住錯性別身體的靈魂-人權全紀錄
+  filename: 住錯性別身體的靈魂-人權全紀錄.pdf
+  type: document
+  format: PDF Document
+  size: 20762963
+  md5: f6861d402f7e29fd2ab3bcdc9f72d9e6
+  page: 住錯性別身體的靈魂-人權全紀錄_page.md
 - name: 公視2023年性別平權節目紀錄
   filename: 公視2023年性別平權節目紀錄.pdf
   type: document

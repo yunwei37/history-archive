@@ -248,6 +248,13 @@ files:
   size: 515034
   md5: caf9cca6159f3e3aee5dafa8e06bc2a2
   page: PDF_预防和解决与猴痘有关的污名和歧视的公共卫生指导建议_page.md
+- name: TRANS_PEOPLE_AND_TRANS_COMMUNITIES_IN_ASIA
+  filename: TRANS_PEOPLE_AND_TRANS_COMMUNITIES_IN_ASIA.pdf
+  type: document
+  format: PDF Document
+  size: 7991409
+  md5: eeb20b8899907269513a6396bdb6f59d
+  page: TRANS_PEOPLE_AND_TRANS_COMMUNITIES_IN_ASIA_page.md
 - name: lost-in-transition_Transgender_People,__Rights_and_HIV_Vulnerability__in_the_Asia-Pacific_Region
   filename: lost-in-transition_Transgender_People,__Rights_and_HIV_Vulnerability__in_the_Asia-Pacific_Region.pdf
   type: document
