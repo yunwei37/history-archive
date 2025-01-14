@@ -499,7 +499,7 @@ search:
 
 ### 词云图
 
-![摘要词云图](abstracts_wordcloud.png)
+![./社群及NGO文件/统计报告摘要词云图](abstracts_wordcloud.png)
 
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板
