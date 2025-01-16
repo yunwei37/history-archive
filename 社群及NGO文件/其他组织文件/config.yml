@@ -32,6 +32,13 @@ files:
   size: 4336460
   md5: 46f1f1a1613ee32ce13776e8a9e71534
   page: 2021年拳头游戏多元与包容进展报告_page.md
+- name: 2023_多元性别_性别小熊_故事分享
+  filename: 2023_多元性别_性别小熊_故事分享.pdf
+  type: document
+  format: PDF Document
+  size: 1947237
+  md5: 92420ecf110efa3e5ef2550202b1d0b2
+  page: 2023_多元性别_性别小熊_故事分享_page.md
 - name: 2023_陪伴支持与多元文化社区服务报告
   filename: 2023_陪伴支持与多元文化社区服务报告.pdf
   type: document
@@ -137,6 +144,13 @@ files:
   size: 29959704
   md5: 01294e4b3b90a3f9713a4c1b13a5b35f
   page: 了解多元化家庭_资源书籍_2023_威利和伊莱恩奥利弗_page.md
+- name: 俄勒冈州中老年LGBTQ+健康需求调查
+  filename: 俄勒冈州中老年LGBTQ+健康需求调查.pdf
+  type: document
+  format: PDF Document
+  size: 162880
+  md5: 8e5deececc5230a5b287569a999329e6
+  page: 俄勒冈州中老年LGBTQ+健康需求调查_page.md
 - name: 全国心理援助热线机构联系信息心理服务与援助机构
   filename: 全国心理援助热线机构联系信息心理服务与援助机构.pdf
   type: document
