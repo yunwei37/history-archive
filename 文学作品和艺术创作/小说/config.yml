@@ -41,6 +41,20 @@ files:
   size: 4578282
   md5: 7bfaf624027b63116159d00b09b704d9
   page: 伟大小说的时间考量_page.md
+- name: 别样的天空（上）——变身小说精品推荐
+  filename: 别样的天空（上）——变身小说精品推荐.md
+  type: webpage
+  format: Markdown
+  size: 29130
+  md5: 7b5a0c323c8b715d85b7022fbd4741c3
+  page: 别样的天空（上）——变身小说精品推荐.md
+- name: 别样的天空（下）——什么才是“变身小说”？
+  filename: 别样的天空（下）——什么才是“变身小说”？.md
+  type: webpage
+  format: Markdown
+  size: 29919
+  md5: 928e19b0c2e7b8107db43417db334923
+  page: 别样的天空（下）——什么才是“变身小说”？.md
 - name: 变文研究
   filename: 变文研究.txt
   type: document
