@@ -39,7 +39,7 @@ jobs:
       # New steps start here
       - name: Generate and update TOC, generate and config other things
         run: |
-          python /workspaces/trans-digital-cn/.github/scripts/workflows/build_documents.py
+          python .github/scripts/workflows/build_documents.py
       - name: Commit changes
         run: |
           git add .
