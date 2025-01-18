@@ -25,3 +25,6 @@ ignore:
   - 'combined_index\.yml'
   - 'abstracts_wordcloud\.png'
   - 'abstracts_wordcloud\.html'
+
+build_config:
+  generate_wordcloud: true

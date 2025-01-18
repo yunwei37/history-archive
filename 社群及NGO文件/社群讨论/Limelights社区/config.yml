@@ -1,0 +1,102 @@
+name: Limelights社区
+description: ''
+curator: ''
+source: ''
+tags:
+- Limelights社区
+- 多元性别
+- 跨性别
+- 社群讨论
+- 用户体验
+- 社会偏见
+- 欺凌问题
+- 社群发展
+- 权益倡导
+- 文献记录
+license: ''
+files:
+- name: 20220330_凌子卿_关于limelight的用户视角讨论
+  filename: 20220330_凌子卿_关于limelight的用户视角讨论.pdf
+  type: document
+  format: PDF Document
+  size: 235124
+  md5: ccd0edc44d31d56e611e0af816c75e5e
+  page: 20220330_凌子卿_关于limelight的用户视角讨论_page.md
+- name: 2022年4月13日_苏暖暖偏见投诉讨论
+  filename: 2022年4月13日_苏暖暖偏见投诉讨论.pdf
+  type: document
+  format: PDF Document
+  size: 466754
+  md5: caa5231936b54d491dbe9a91225d7737
+  page: 2022年4月13日_苏暖暖偏见投诉讨论_page.md
+- name: 2022年5月21日_雪乃_关于站外争议的讨论
+  filename: 2022年5月21日_雪乃_关于站外争议的讨论.pdf
+  type: document
+  format: PDF Document
+  size: 70026
+  md5: 51ff633492227742f36aa6f8ba8df5bc
+  page: 2022年5月21日_雪乃_关于站外争议的讨论_page.md
+- name: Artrs_2023年Limelight欺凌社区公开信
+  filename: Artrs_2023年Limelight欺凌社区公开信.pdf
+  type: document
+  format: PDF Document
+  size: 4890865
+  md5: cd7b8dc3c11263b3711eee0d4d7d221f
+  page: Artrs_2023年Limelight欺凌社区公开信_page.md
+- name: Limelight_往事小记
+  filename: Limelight_往事小记.md
+  type: webpage
+  format: Markdown
+  size: 8389
+  md5: 26663162801bedb7c35400a579de02b2
+  page: Limelight_往事小记.md
+- name: limelight社群历程与发展记录
+  filename: limelight社群历程与发展记录.pdf
+  type: document
+  format: PDF Document
+  size: 109383
+  md5: 23e1ad2ced2aa0c18809e6def02c3e97
+  page: limelight社群历程与发展记录_page.md
+- name: 关于社区事务规范讨论的通知_2022年7月11日_雪乃
+  filename: 关于社区事务规范讨论的通知_2022年7月11日_雪乃.pdf
+  type: document
+  format: PDF Document
+  size: 100303
+  md5: c0a0010fc3c3887849f1ebb6df4e18b7
+  page: 关于社区事务规范讨论的通知_2022年7月11日_雪乃_page.md
+- name: 关于秋橙的讨论记录
+  filename: 关于秋橙的讨论记录.pdf
+  type: document
+  format: PDF Document
+  size: 3829908
+  md5: f2f0c2d795810f04fec13d8fdc4d7641
+  page: 关于秋橙的讨论记录_page.md
+- name: 关于秋橙被封禁的讨论记录_2022年
+  filename: 关于秋橙被封禁的讨论记录_2022年.pdf
+  type: document
+  format: PDF Document
+  size: 5521927
+  md5: b6f65f2e2d0f804ea2140efbcc7f1e70
+  page: 关于秋橙被封禁的讨论记录_2022年_page.md
+- name: 多元性别标签讨论记录_2022年7月5日_Salina
+  filename: 多元性别标签讨论记录_2022年7月5日_Salina.pdf
+  type: document
+  format: PDF Document
+  size: 62798
+  md5: e7beaaf94db662030a366f2a6e17a523
+  page: 多元性别标签讨论记录_2022年7月5日_Salina_page.md
+- name: 秋橙_20220329_关于增强torchlight用户权益的建议
+  filename: 秋橙_20220329_关于增强torchlight用户权益的建议.pdf
+  type: document
+  format: PDF Document
+  size: 597358
+  md5: d3df69de4d21b278963b8ab77295d747
+  page: 秋橙_20220329_关于增强torchlight用户权益的建议_page.md
+- name: 秋橙违规处理通告_2022年8月13日_雪乃
+  filename: 秋橙违规处理通告_2022年8月13日_雪乃.pdf
+  type: document
+  format: PDF Document
+  size: 140364
+  md5: 3ffe0af5d6074c98aaf96e61210ec28c
+  page: 秋橙违规处理通告_2022年8月13日_雪乃_page.md
+subdirs: []

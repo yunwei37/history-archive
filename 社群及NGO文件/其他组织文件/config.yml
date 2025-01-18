@@ -74,13 +74,6 @@ files:
   size: 3187617
   md5: bd6ca4045bbc71c8fa81b67e3e7b0087
   page: PDF_LGBTQ_History_and_Culture_Since_1940_-_Gale_page.md
-- name: PDF_中意综合保障团体医疗保险条款
-  filename: PDF_中意综合保障团体医疗保险条款.pdf
-  type: document
-  format: PDF Document
-  size: 357379
-  md5: bed6affb9bc2d53410bf0d3ee708898b
-  page: PDF_中意综合保障团体医疗保险条款_page.md
 - name: PDF_为青年跨性别女权运动筹措资源并参与其中
   filename: PDF_为青年跨性别女权运动筹措资源并参与其中.pdf
   type: document
@@ -95,27 +88,6 @@ files:
   size: 2596598
   md5: cae5cd7d07fb67042e5753ac90489a13
   page: PDF_国内LGBTQ社区建设经验分享_page.md
-- name: PDF_国华华宝无忧个人税收优惠型健康保险万能型B款产品说明书
-  filename: PDF_国华华宝无忧个人税收优惠型健康保险万能型B款产品说明书.pdf
-  type: document
-  format: PDF Document
-  size: 345874
-  md5: 10bfda14c2ad7313d32e8b320bd6a414
-  page: PDF_国华华宝无忧个人税收优惠型健康保险万能型B款产品说明书_page.md
-- name: PDF_招商信诺附加家庭住院手术医疗保险条款阅读指引
-  filename: PDF_招商信诺附加家庭住院手术医疗保险条款阅读指引.pdf
-  type: document
-  format: PDF Document
-  size: 372027
-  md5: aaae17c1b87e997663f35fcb0df84d66
-  page: PDF_招商信诺附加家庭住院手术医疗保险条款阅读指引_page.md
-- name: PDF_环球尊尚医疗计划指南_-_永诚保险
-  filename: PDF_环球尊尚医疗计划指南_-_永诚保险.pdf
-  type: document
-  format: PDF Document
-  size: 3989242
-  md5: 1888b0b81c928be8ee7e37183c40c6cf
-  page: PDF_环球尊尚医疗计划指南_-_永诚保险_page.md
 - name: PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間
   filename: PDF_與人士相遇於工作間_-_Gender_Empowerment_性別空間.pdf
   type: document
