@@ -144,6 +144,20 @@ files:
   size: 783975
   md5: 5d2f3c7b6311e00ebe18e46c1a5704ce
   page: 团体咨询服务会面记录_多元性别支持_2023_page.md
+- name: 寒涟漪庇护所五年工作简报
+  filename: 寒涟漪庇护所五年工作简报.pdf
+  type: document
+  format: PDF Document
+  size: 1017790
+  md5: 6ecc1a609ef78b0738c5e6f82814b5b1
+  page: 寒涟漪庇护所五年工作简报_page.md
+- name: 寒涟漪庇护所五年工作简报补充说明
+  filename: 寒涟漪庇护所五年工作简报补充说明.pdf
+  type: document
+  format: PDF Document
+  size: 1024332
+  md5: 156572e13cf2499c78505acc68dd6a43
+  page: 寒涟漪庇护所五年工作简报补充说明_page.md
 - name: 寒涟漪庇护所介绍第一版
   filename: 寒涟漪庇护所介绍第一版.pdf
   type: document
@@ -151,6 +165,13 @@ files:
   size: 381122
   md5: 097c484a15b0423e75d3e29aec5e1ae3
   page: 寒涟漪庇护所介绍第一版_page.md
+- name: 寒涟漪庇护所后续工作计划声明
+  filename: 寒涟漪庇护所后续工作计划声明.pdf
+  type: document
+  format: PDF Document
+  size: 862109
+  md5: 93988fee4bb9dbed388be877581cb805
+  page: 寒涟漪庇护所后续工作计划声明_page.md
 - name: 对歧视骚扰零容忍政策报告
   filename: 对歧视骚扰零容忍政策报告.pdf
   type: document
