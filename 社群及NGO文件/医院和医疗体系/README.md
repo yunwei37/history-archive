@@ -300,7 +300,7 @@ search:
 
 
 
-### 词云图
+### 词云图 { data-search-exclude }
 
 ![./社群及NGO文件/医院和医疗体系摘要词云图](abstracts_wordcloud.png)
 

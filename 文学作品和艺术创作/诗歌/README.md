@@ -53,7 +53,7 @@ search:
 
 
 
-### 词云图
+### 词云图 { data-search-exclude }
 
 ![./文学作品和艺术创作/诗歌摘要词云图](abstracts_wordcloud.png)
 

@@ -40,7 +40,7 @@ search:
 
 
 
-### 词云图
+### 词云图 { data-search-exclude }
 
 ![./社群及NGO文件/生活与性体验/乳首开发摘要词云图](abstracts_wordcloud.png)
 

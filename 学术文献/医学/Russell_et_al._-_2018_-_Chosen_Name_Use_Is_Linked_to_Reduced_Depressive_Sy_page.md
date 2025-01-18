@@ -7,7 +7,7 @@
 ## 摘要
 
 <!-- tcd_abstract -->
-这篇文章《选择名字的使用与跨性别青少年抑郁症状、自杀意向和自杀行为的减少相关》由Stephen T. Russell博士等人于2018年发表，目的是考察选择名字的使用如何与跨性别青少年的心理健康状况相联系。研究基于来自美国三座城市的129名跨性别及性别不符合的青少年样本，采用问卷调查的方式，评估了他们在家庭、学校、工作及朋友之间使用选择名字的情况。研究结果显示，能够在多种情境下使用选择名字的青少年，抑郁得分、自杀意向与自杀行为均显著降低，这表明在多个社交环境中获得性别认同能够显著改善青少年的心理健康。这项研究为公共卫生和政策领域提供了重要的启示，强调了跨性别青少年使用选择名字对其心理健康的积极影响。
+这篇名为《Chosen Name Use Is Linked to Reduced Depressive Symptoms, Suicidal Ideation, and Suicidal Behavior Among Transgender Youth》的研究文章发表于2018年，主要探讨了跨性别青少年使用选择名的情况，以及这种选择名的使用如何与他们的心理健康状况相关联。文章的作者包括来自德克萨斯大学奥斯汀分校、英属哥伦比亚大学以及纽约大学的多位研究人员。研究的目的是为了了解跨性别青少年在多种环境下使用选择名的情况，并分析这些使用情况与抑郁、外显自杀意念及自杀行为之间的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -20,15 +20,14 @@
 | Format          | PDF Document                               |
 | Size            | 117906 bytes                           |
 | MD5             | 95b53cd236453c70f73d77b08bcfdf65                                  |
-| Archived Date   | 2025-01-10                             |
+| Archived Date   | 2025-01-18                             |
 | Original Link   | [Unknown link(update needed)]                         |
-| Author          | Stephen T. Russell博士等人                               |
+| Author          | Stephen T. Russell, Ph.D., Amanda M. Pollitt, Ph.D., Gu Li, Ph.D., Arnold H. Grossman, Ph.D.                               |
 | Region          | 美国                               |
 | Date            | 2018-02-01                                 |
-| Tags            | 跨性别, 青少年, 选择名字, 抑郁症, 自杀意向, 心理健康, 社会支持                                 |
+| Tags            | 跨性别, 青少年, 心理健康, 选择名, 抑郁症, 自杀意念, 社会支持                                 |
 
-本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
-
+本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有，所有内容仅为历史资料保存及研究之用。如果原作者或相关方希望移除存档内容，请通过电子邮件与我们联系。
 
 ## 正文 { data-search-exclude }
 

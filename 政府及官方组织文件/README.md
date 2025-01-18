@@ -50,7 +50,7 @@ search:
 
 
 
-### 词云图
+### 词云图 { data-search-exclude }
 
 ![./政府及官方组织文件摘要词云图](abstracts_wordcloud.png)
 

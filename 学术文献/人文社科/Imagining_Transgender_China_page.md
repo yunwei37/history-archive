@@ -7,7 +7,7 @@
 ## 摘要
 
 <!-- tcd_abstract -->
-该文献《Imagining Transgender China》由Howard Chiang撰写，探索了跨性别研究的发展历程，尤其是近二十年来学术界对跨性别主题的关注上升。文中回顾了20世纪一些重要的性别和跨性别相关的学术工作，例如性学家Magnus Hirschfeld和人类学家Esther Newton的作品，并分析了1970年代和1980年代社会文化趋势如何影响跨性别者与女性运动及同性恋运动的关系。\n\n此外，作者讨论了后现代主义及其对性别二元论批判的影响，以及跨性别研究如何在这些理论背景下逐渐形成。书中提到乔治·巴特勒和朱迪思·哈伯斯坦等学者的著作，如《Gender Trouble》和《Female Masculinity》，对跨性别研究的基础和发展产生了深远影响。此外，该书在最后探讨了跨性别研究如何通过合作项目和学术期刊，推动了这个边缘话题的讨论和学术关注。
+《Imagining Transgender China》是一篇由Howard Chiang撰写的学术文献，旨在探讨中国跨性别研究的演变及其在学术界的影响。文章开篇引用了性学家Magnus Hirschfeld和人类学家Esther Newton的相关著作，标志着二十世纪在性别多样性研究方面的重要学术传统。通过引入二十世纪末和二十一世纪初在跨性别研究领域中涌现的多个学术理论与作品，Chiang试图展示跨性别话题在学术界获得关注的演变历程。文中提到，尽管在20世纪70年代和80年代跨性别人士开始逐渐脱离女性主义运动与同性恋运动，在随后的数十年中，酷儿研究作为一个统一领域的出现促使跨性别研究的迅速发展。利用Judith Butler在其代表作《Gender Trouble》中的理论，Chiang论证了跨性别议题在酷儿研究中逐步获得中心地位的过程。文章还回顾了1990年代至2000年代初期的一批具有影响力的跨性别研究著作，如Halberstam、Butler、Bornstein和Meyerowitz等人的作品，这些著作从不同的学术角度，如女性与男性气质的关系、性别表现的文化戏剧性、跨性别历史等，推动了跨性别学术研究的丰富与成熟。此外，文章特别强调了合作项目在推动跨性别研究发展中的重要性，例如Susan Stryker主编的《Transgender Studies Reader》大大丰富了学术交流的平台。总之，Chiang通过分析一系列学术作品与理论，描述了跨性别议题在现代中国的理论预设和研究现状，并指出此类研究如何挑战传统性别二元对立的学术话语。
 
 <!-- tcd_abstract_end -->
 
@@ -20,12 +20,12 @@
 | Format          | PDF Document                               |
 | Size            | 362121 bytes                           |
 | MD5             | ec7bb8020688377983b48a785201939a                                  |
-| Archived Date   | 2025-01-14 00:29:28                             |
-| Original Link   | [https://warwick.ac.uk/fac/arts/history/students/modules/archive/sexuality_and_the_body/bibliography/22_imagining_transgender_china_121112.pdf](https://warwick.ac.uk/fac/arts/history/students/modules/archive/sexuality_and_the_body/bibliography/22_imagining_transgender_china_121112.pdf)                         |
+| Archived Date   | 2025-01-18                             |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | Howard Chiang                               |
-| Region          | 未知                               |
-| Date            | 未知                                 |
-| Tags            | 跨性别研究, 性别多元, 学术文献, 文化批评, 后现代理论, 社会运动, 性别研究                                 |
+| Region          | 中国大陆                               |
+| Date            | 2012                                 |
+| Tags            | 跨性别, 性别研究, 学术文献, 酷儿理论, 中国                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有，所有内容仅为历史资料保存及研究之用。如果原作者或相关方希望移除存档内容，请通过电子邮件与我们联系。
 

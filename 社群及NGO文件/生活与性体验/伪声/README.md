@@ -59,7 +59,7 @@ search:
 [伪声基础整理以及教学](伪声基础整理以及教学.pptx)
 
 
-### 词云图
+### 词云图 { data-search-exclude }
 
 ![./社群及NGO文件/生活与性体验/伪声摘要词云图](abstracts_wordcloud.png)
 

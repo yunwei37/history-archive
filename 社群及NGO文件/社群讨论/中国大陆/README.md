@@ -193,7 +193,7 @@ search:
 [学历修改](学历修改.pptx)
 
 
-### 词云图
+### 词云图 { data-search-exclude }
 
 ![./社群及NGO文件/社群讨论/中国大陆摘要词云图](abstracts_wordcloud.png)
 

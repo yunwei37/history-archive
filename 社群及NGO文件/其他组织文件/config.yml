@@ -158,6 +158,13 @@ files:
   size: 285216
   md5: 83c96a3b6987780b70f3882f01e013a8
   page: 对歧视骚扰零容忍政策报告_page.md
+- name: 我们内心的偏见展览脚本
+  filename: 我们内心的偏见展览脚本.pdf
+  type: document
+  format: PDF Document
+  size: 6531353
+  md5: 8d06178e8309c5549ba5466c5b123ff0
+  page: 我们内心的偏见展览脚本_page.md
 - name: 我骄傲我奉献真色彩_麦肯锡
   filename: 我骄傲我奉献真色彩_麦肯锡.pdf
   type: document
@@ -186,6 +193,13 @@ files:
   size: 5438248
   md5: e8c1de8b27ba432ce207bce9642912be
   page: 第五届中国性别肯定医疗论坛照片.png
+- name: 艾滋病与性别议题书目
+  filename: 艾滋病与性别议题书目.pdf
+  type: document
+  format: PDF Document
+  size: 689471
+  md5: 393c96230ea94d9e49b05391e7994ba3
+  page: 艾滋病与性别议题书目_page.md
 - name: 药明生物员工多元化政策_2023
   filename: 药明生物员工多元化政策_2023.pdf
   type: document

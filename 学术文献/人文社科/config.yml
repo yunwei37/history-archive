@@ -122,13 +122,6 @@ files:
   size: 2647680
   md5: 2ebe45d184bec02dd67ce52561a507f3
   page: 2022-02-05_马骋Yura_酷儿女性看爱情与百合文化解构异性恋关系_page.md
-- name: 2023_多元性别与媒体再现
-  filename: 2023_多元性别与媒体再现.pdf
-  type: document
-  format: PDF Document
-  size: 4514
-  md5: e94162284dd1358d987ada6abc7444de
-  page: 2023_多元性别与媒体再现_page.md
 - name: 2023_廖昱凱_酷兒跨性別生態學與河川正義書評
   filename: 2023_廖昱凱_酷兒跨性別生態學與河川正義書評.pdf
   type: document
@@ -451,13 +444,6 @@ files:
   size: 1576564
   md5: 72b06172eddb058ac8eb076869b128a0
   page: PDF_認識多元性別_分享人處王振圍_好性會秘書長__page.md
-- name: PDF_認識多元性別打開性別的眼睛第183期
-  filename: PDF_認識多元性別打開性別的眼睛第183期.pdf
-  type: document
-  format: PDF Document
-  size: 318
-  md5: fa172c77abd7b03605d83cd1ae373657
-  page: PDF_認識多元性別打開性別的眼睛第183期_page.md
 - name: PDF_跨性別_-_中央大學性別研究室
   filename: PDF_跨性別_-_中央大學性別研究室.pdf
   type: document
@@ -892,6 +878,13 @@ files:
   size: 2927337
   md5: 3a26a6ffe548b828e1354cb90867836f
   page: 台湾酷儿小说中跨性别与父权的关系（一九九〇——一九九九__page.md
+- name: 台灣當代服裝反抗行動的性／別論述及意識分析：以Vieso拒男客試女褲事件
+  filename: 台灣當代服裝反抗行動的性／別論述及意識分析：以Vieso拒男客試女褲事件.pdf
+  type: document
+  format: PDF Document
+  size: 786790
+  md5: 9b5cd4345e9802ccfb37739c6656837a
+  page: 台灣當代服裝反抗行動的性／別論述及意識分析：以Vieso拒男客試女褲事件_page.md
 - name: 叶面纱曳叙事时空研究_唐玫_池州学院
   filename: 叶面纱曳叙事时空研究_唐玫_池州学院.pdf
   type: document
@@ -1109,13 +1102,6 @@ files:
   size: 1420021
   md5: 2119092da1ccf35d20e3045a6d41f12a
   page: 成为安迪沃霍尔：性别与社会的对话_2022年2月19日_page.md
-- name: 我们内心的偏见展览脚本
-  filename: 我们内心的偏见展览脚本.pdf
-  type: document
-  format: PDF Document
-  size: 6531353
-  md5: 8d06178e8309c5549ba5466c5b123ff0
-  page: 我们内心的偏见展览脚本_page.md
 - name: 我国心理健康研究现状的文献计量学分析
   filename: 我国心理健康研究现状的文献计量学分析.pdf
   type: document
@@ -1277,13 +1263,6 @@ files:
   size: 2761111
   md5: 37b23931ae3c8f9f77766c90ff65eeae
   page: 翻译的公共_爱滋_同志_酷儿_纪大伟_台湾文学学报_page.md
-- name: 艾滋病与性别议题书目
-  filename: 艾滋病与性别议题书目.pdf
-  type: document
-  format: PDF Document
-  size: 689471
-  md5: 393c96230ea94d9e49b05391e7994ba3
-  page: 艾滋病与性别议题书目_page.md
 - name: 英汉文化词汇探讨_徐东林
   filename: 英汉文化词汇探讨_徐东林.pdf
   type: document
@@ -1305,13 +1284,13 @@ files:
   size: 811333
   md5: ca1e0879f357dbe64921bf40280e7799
   page: 萨克森女性主义论坛_多元交叉视角_2023年9月.pdf_page.md
-- name: 虛實之間Cosplay_中的反串行為與性別認同
-  filename: 虛實之間Cosplay_中的反串行為與性別認同.pdf
+- name: 虛實之間：Cospaly中的反串行為與性別認同
+  filename: 虛實之間：Cospaly中的反串行為與性別認同.pdf
   type: document
   format: PDF Document
-  size: 162
-  md5: b6a1a37fc4ff7a4133530bd086b1e7ca
-  page: 虛實之間Cosplay_中的反串行為與性別認同_page.md
+  size: 1825180
+  md5: 0a1fc699b5720364675483df7e9125a0
+  page: 虛實之間：Cospaly中的反串行為與性別認同_page.md
 - name: 西方大学生身份研究及其启示
   filename: 西方大学生身份研究及其启示.pdf
   type: document

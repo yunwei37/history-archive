@@ -60,7 +60,7 @@ search:
 [银荆的告白.05](银荆的告白.05.epub)
 
 
-### 词云图
+### 词云图 { data-search-exclude }
 
 ![./文学作品和艺术创作/小说/《银荆的告白》1-5卷摘要词云图](abstracts_wordcloud.png)
 

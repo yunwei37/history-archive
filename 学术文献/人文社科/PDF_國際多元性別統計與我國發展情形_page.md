@@ -7,7 +7,7 @@
 ## 摘要
 
 <!-- tcd_abstract -->
-该文件为《国际多元性别统计与我国发展情形》的报告，由行政院主计处发布。文件内容主要围绕性别多元性的发展和统计，提出了全球多个国家（如澳大利亚、欧盟和加拿大）在多元性别分类和统计方面的进展与经验，同时对我国在这方面的现状进行了梳理和分析。报告中首先强调了性别的多元性，指出传统的男女二元性别无法涵盖所有个体的性别认同，还提到了交叉性别歧视的概念及其对社会政策的影响。各个章节对多元性别的统计方式、性别分析的三面向，以及性别与社会、心理方面的交互影响进行了详细论述。此外，文件还引用了各国对性别的分类方法和所获得的数据，强调了多元性别统计的重要性和当前面临的挑战，呼吁加强相关的法律与政策以支持多元性别群体的权益。
+该文件是由行政院主计总处在113年发布的关于国际多元性别统计及我国多元性别发展的详细报告。文件首先探讨性别的多元性，包括非二元性别概念和LGBTI群体的定义和统计。文中详细介绍了澳洲、欧盟和加拿大在多元性别统计方面的经验和方法，包括如何通过性别识别的问题调查多元性别群体的分布情况。文中提到，传统男女性别二元化的概念已经不能满足现代的多元性别观念，因此提出了非二元性别、人们的性别认同和交织性别歧视问题。同时，还讲述了澳洲和欧盟最近的多元性别调查及其结果，分析这些国家在生理性别与社会性别上的分类方式以及性倾向调查方式，例如澳大利亚在2021年的多元性别调查试图通过生理性别、社会性别、性特征变异和性倾向几个方面进行分类。这种统计方式不仅强调了多元性别的复杂性，还展示了社会性别认同与出生时性别之间可能存在的差异。最后，文件提到，尽管我国在多元性别统计上与国际接轨，但仍然存在诸多挑战，并需要更为周密的性别平等政策规划，以应对各种社会结构的变化和挑战。该文件不仅是在政策制定层面的重要文献，也是理解社会性别多样性和推动性别平等的重要理论依据。
 
 <!-- tcd_abstract_end -->
 
@@ -20,15 +20,14 @@
 | Format          | PDF Document                               |
 | Size            | 2906089 bytes                           |
 | MD5             | fc642581c72ea8ece3d72549178481ea                                  |
-| Archived Date   | 2024-11-07 19:34:31                             |
-| Original Link   | [https://ws.dgbas.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDYxL3JlbGZpbGUvMTA3NjgvMjMzNzExL%2BWkmuWFg%2BaAp%2BWIpee1seioiOWIhumhnuaVmeadkO%2B8jeOAjOWci%2Bmam%2BWkmuWFg%2BaAp%2BWIpee1seioiOiIh%2BaIkeWci%2BeZvOWxleaDheW9ouOAjS5wZGY%3D&n=5aSa5YWD5oCn5Yil57Wx6KiI5YiG6aGe5pWZ5p2Q77yN44CM5ZyL6Zqb5aSa5YWD5oCn5Yil57Wx6KiI6IiH5oiR5ZyL55m85bGV5oOF5b2i44CNLnBkZg%3D%3D&icon=.pdf](https://ws.dgbas.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDYxL3JlbGZpbGUvMTA3NjgvMjMzNzExL%2BWkmuWFg%2BaAp%2BWIpee1seioiOWIhumhnuaVmeadkO%2B8jeOAjOWci%2Bmam%2BWkmuWFg%2BaAp%2BWIpee1seioiOiIh%2BaIkeWci%2BeZvOWxleaDheW9ouOAjS5wZGY%3D&n=5aSa5YWD5oCn5Yil57Wx6KiI5YiG6aGe5pWZ5p2Q77yN44CM5ZyL6Zqb5aSa5YWD5oCn5Yil57Wx6KiI6IiH5oiR5ZyL55m85bGV5oOF5b2i44CNLnBkZg%3D%3D&icon=.pdf)                         |
-| Author          | 行政院主计处                               |
+| Archived Date   | 2025-01-18                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 行政院主计总处                               |
 | Region          | 台湾                               |
-| Date            | 2024-01-01                                 |
-| Tags            | 跨性别, 性别多元性, 统计分析, 法律政策, 社会环境, 国际比较, 性别认同, 交叉性别歧视                                 |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 性别统计, 性别平等, LGBTI, 性别认同, 社会性别                                 |
 
-本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
-
+本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有，所有内容仅为历史资料保存及研究之用。如果原作者或相关方希望移除存档内容，请通过电子邮件与我们联系。
 
 ## 正文 { data-search-exclude }
 

@@ -85,7 +85,7 @@ Alternative name: 女装入门到精通
 
 
 
-### 词云图
+### 词云图 { data-search-exclude }
 
 ![./社群及NGO文件/生活与性体验/伪娘教程或训练摘要词云图](abstracts_wordcloud.png)
 

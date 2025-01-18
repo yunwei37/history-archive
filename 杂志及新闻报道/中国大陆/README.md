@@ -399,7 +399,7 @@ search:
 
 
 
-### 词云图
+### 词云图 { data-search-exclude }
 
 ![./杂志及新闻报道/中国大陆摘要词云图](abstracts_wordcloud.png)
 

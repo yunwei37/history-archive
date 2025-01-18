@@ -7,7 +7,7 @@
 ## 摘要
 
 <!-- tcd_abstract -->
-本文件为《国际跨性别杂志》（International Journal of Transgenderism）上发表的文章，标题为《世界跨性别健康专业协会对拟议中的DSM-5性别不一致标准的回应》。该文的主要作者包括Griet De Cuypere、Gail Knudson和Walter Bockting，并讨论了DSM-IV-TR当前性别身份障碍诊断的主要问题。他们对拟议的DSM-5性别不一致标准提供了反馈，认为这一标准更好地考虑了性别和跨性别身份的多样性，展现了从病态化到确认跨性别身份谱系的转变。文章中指出，新的诊断标准可以减少对表现出性别变异的儿童的误诊，并强调跨性别身份并不构成精神疾病。整体而言，作者表达了对DSM工作组努力改进和响应临床实践中面临的性别身份障碍问题的尊重。文件还包括对拟议变更的具体批评点及其阐释。
+这篇文章是《国际跨性别主义期刊》上发表的一篇重要论文，标题为《世界跨性别健康专业协会对拟议的 DSM-5 性别不一致诊断标准的回应》。该论文的主要作者包括 Griet De Cuypere、Gail Knudson 和 Walter Bockting，发表于 2010 年 9 月 17 日。本文的目的是对 DSM-5 工作组提出的性别不一致诊断标准进行回应，针对当前 DSM-IV-TR 中的性别认同障碍诊断标准提出了一系列的改进建议和批评。
 
 <!-- tcd_abstract_end -->
 
@@ -20,15 +20,14 @@
 | Format          | PDF Document                               |
 | Size            | 259745 bytes                           |
 | MD5             | bea78784385b6a14e7b6fb32df795cab                                  |
-| Archived Date   | 2025-01-10                             |
+| Archived Date   | 2025-01-18                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Griet De Cuypere, Gail Knudson, Walter Bockting                               |
 | Region          | 美国                               |
 | Date            | 2010-09-17                                 |
-| Tags            | 跨性别, 性别不一致, DSM-5, 心理健康, 医疗资源, 社会认同                                 |
+| Tags            | 跨性别, 性别不一致, 心理健康, 医学文献, DSM-5, 性别认同障碍, 社会态度, 医疗资源                                 |
 
-本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
-
+本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有，所有内容仅为历史资料保存及研究之用。如果原作者或相关方希望移除存档内容，请通过电子邮件与我们联系。
 
 ## 正文 { data-search-exclude }
 
