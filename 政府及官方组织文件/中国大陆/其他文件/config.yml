@@ -1,0 +1,74 @@
+name: 其他文件
+description: 这个目录位于政府及官方组织文件的中国大陆部分，属于其他文件的分类，包含了多份与政府和公共事务相关的文档。这些文件涵盖了各种不同的主题，如科研项目评审结果、社会科学研究拨款细节、促进多元性别与LGBTQ群体交流的论坛会议、医疗救助项目指南、国家级医学教育项目清单、企业健康建设优秀案例，以及有关性别变更服务的指南和户籍管理公开标准目录。\n\n例如，在目录中可以找到2018年度教育部人文社会科学研究项目的评审结果和拨款细节。这类文件详尽地描述了各个科研课题的审核、评估过程，以及政府对这些人文及社会科学研究所给予的财政支持。另一方面，备受关注的2019中国多元与共融论坛会议则提供了丰富的LGBTQ相关主题的探讨，促进多元化表达和跨领域的合作。\n\n此外，目录中还包括国家层面的医学教育计划，展现了各种医学领域的教育内容及其教学安排，这为专业人员的继续教育提供了广泛的学习可能。性别变更办理服务的指南为跨性别人士提供了详细的行政操作流程，确保其在进行合法性别更改时获得准确的信息和支持。同时，户籍管理领域的政务公开标准目录则详细列举了涉及性别变更在内的各类户籍事务的办理流程，为公民提供了透明的政府服务指南。
+curator: ''
+source: ''
+tags:
+- 政府文件
+- 科研项目
+- 教育部
+- 社会科学
+- LGBTQ
+- 跨性别
+- 医疗救助
+- 医学教育
+- 性别变更
+- 户籍管理
+license: ''
+files:
+- name: 2018教育部人文社会科学研究基金项目评审结果
+  filename: 2018教育部人文社会科学研究基金项目评审结果.pdf
+  type: document
+  format: PDF Document
+  size: 2660856
+  md5: 281047f6b1f353309b370e4ef4af2f18
+  page: 2018教育部人文社会科学研究基金项目评审结果_page.md
+- name: 2018教育部人文社科项目拨款明细
+  filename: 2018教育部人文社科项目拨款明细.pdf
+  type: document
+  format: PDF Document
+  size: 3151456
+  md5: 2d68da5d593b9814e0d09a3176944608
+  page: 2018教育部人文社科项目拨款明细_page.md
+- name: 2019中国多元与共融论坛会议议程
+  filename: 2019中国多元与共融论坛会议议程.pdf
+  type: document
+  format: PDF Document
+  size: 2149862
+  md5: 2792fbd7d5c0512e38906e37dde00dc4
+  page: 2019中国多元与共融论坛会议议程_page.md
+- name: PDF_先天性结构畸形救助项目_2021年版_
+  filename: PDF_先天性结构畸形救助项目_2021年版_.pdf
+  type: document
+  format: PDF Document
+  size: 4279230
+  md5: 629ba870448d274ab34cb4484bcc1a81
+  page: PDF_先天性结构畸形救助项目_2021年版__page.md
+- name: PDF_附件_2021年国家级继续医学教育项目表
+  filename: PDF_附件_2021年国家级继续医学教育项目表.pdf
+  type: document
+  format: PDF Document
+  size: 2884702
+  md5: 5d67f33724879db341ad3903bde0fe05
+  page: PDF_附件_2021年国家级继续医学教育项目表_page.md
+- name: 健康企业建设优秀案例报告_国家卫生健康委员会_2022
+  filename: 健康企业建设优秀案例报告_国家卫生健康委员会_2022.pdf
+  type: document
+  format: PDF Document
+  size: 40852174
+  md5: ff3fc52feb43c00d668bb5e01031cf5d
+  page: 健康企业建设优秀案例报告_国家卫生健康委员会_2022_page.md
+- name: 性别变更更正办理服务指南
+  filename: 性别变更更正办理服务指南.pdf
+  type: document
+  format: PDF Document
+  size: 134382
+  md5: 999c6055a38b260861819b3787d59385
+  page: 性别变更更正办理服务指南_page.md
+- name: 户籍管理领域基层政务公开标准目录
+  filename: 户籍管理领域基层政务公开标准目录.pdf
+  type: document
+  format: PDF Document
+  size: 209839
+  md5: ea9b84b452f3320a701119ed085ded81
+  page: 户籍管理领域基层政务公开标准目录_page.md
+subdirs: []

@@ -645,6 +645,13 @@ files:
   size: 982995
   md5: ce7afb9b21832d923ffd4d6cca14ea40
   page: 性别危机何去何从_自闭症AD__性别焦虑GD_的真相_page.md
+- name: 性别发育异常中国专家诊疗共识
+  filename: 性别发育异常中国专家诊疗共识.pdf
+  type: document
+  format: PDF Document
+  size: 826928
+  md5: 4091030cee26bdc71165f84949c8a09b
+  page: 性别发育异常中国专家诊疗共识_page.md
 - name: 性别烦躁的诊断和治疗
   filename: 性别烦躁的诊断和治疗.pdf
   type: document

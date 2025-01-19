@@ -1,4 +1,4 @@
-# 第二部分整形外科专科医师规范化培训细则试行
+# 整形外科专科医师规范化培训细则试行（上海市试行）
 
 <!-- tcd_download_link -->
 下载: <a href="../第二部分整形外科专科医师规范化培训细则试行.pdf" download>第二部分整形外科专科医师规范化培训细则试行.pdf</a>
@@ -24,7 +24,7 @@
 | Original Link   | [https://www.shsmu.edu.cn/__local/8/FD/1D/6E46C79E4F940D2ADD346720740_2DB43E6B_4D0F0.pdf?e=.pdf](https://www.shsmu.edu.cn/__local/8/FD/1D/6E46C79E4F940D2ADD346720740_2DB43E6B_4D0F0.pdf?e=.pdf)                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
-| Date            | 未知                                 |
+| Date            | 2024-03-26                                 |
 | Tags            | 整形外科, 专科医生培训, 规范化培训, 跨性别医疗, 阴道再造, 阴茎再造, 医学教育, 手术培训                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。

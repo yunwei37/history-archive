@@ -24,7 +24,7 @@
 | Original Link   | [https://www.qiluhospital.com/site75/cyxz/images/2012/11/01/2C72DDF5D733DF9F5F8503D31C4528B2.pdf](https://www.qiluhospital.com/site75/cyxz/images/2012/11/01/2C72DDF5D733DF9F5F8503D31C4528B2.pdf)                         |
 | Author          | 中华人民共和国卫生部                               |
 | Region          | 中国大陆                               |
-| Date            | 未知                                 |
+| Date            | 2009                                 |
 | Tags            | 跨性别医疗, 第三类医疗技术, 卫生部, 临床应用, 政策通知, 医疗安全                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
