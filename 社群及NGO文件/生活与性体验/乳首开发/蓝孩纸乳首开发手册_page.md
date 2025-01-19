@@ -1,7 +1,7 @@
 # 蓝孩纸乳首开发手册
 
 <!-- tcd_download_link -->
-下载: [蓝孩纸乳首开发手册.pdf](蓝孩纸乳首开发手册.pdf)
+下载: <a href="蓝孩纸乳首开发手册.pdf" download>蓝孩纸乳首开发手册.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

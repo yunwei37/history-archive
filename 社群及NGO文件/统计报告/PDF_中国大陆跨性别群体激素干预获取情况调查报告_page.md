@@ -1,7 +1,7 @@
 # PDF_中国大陆跨性别群体激素干预获取情况调查报告
 
 <!-- tcd_download_link -->
-下载: [PDF_中国大陆跨性别群体激素干预获取情况调查报告.pdf](PDF_中国大陆跨性别群体激素干预获取情况调查报告.pdf)
+下载: <a href="PDF_中国大陆跨性别群体激素干预获取情况调查报告.pdf" download>PDF_中国大陆跨性别群体激素干预获取情况调查报告.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

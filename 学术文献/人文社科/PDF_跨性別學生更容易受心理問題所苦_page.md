@@ -1,7 +1,7 @@
 # PDF_跨性別學生更容易受心理問題所苦
 
 <!-- tcd_download_link -->
-下载: [PDF_跨性別學生更容易受心理問題所苦.pdf](PDF_跨性別學生更容易受心理問題所苦.pdf)
+下载: <a href="PDF_跨性別學生更容易受心理問題所苦.pdf" download>PDF_跨性別學生更容易受心理問題所苦.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

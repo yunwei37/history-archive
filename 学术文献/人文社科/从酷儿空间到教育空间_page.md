@@ -1,7 +1,7 @@
 # 从酷儿空间到教育空间
 
 <!-- tcd_download_link -->
-下载: [从酷儿空间到教育空间.pdf](从酷儿空间到教育空间.pdf)
+下载: <a href="从酷儿空间到教育空间.pdf" download>从酷儿空间到教育空间.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

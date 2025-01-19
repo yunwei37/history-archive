@@ -1,7 +1,7 @@
 # 2021年Bubble_T亚裔酷儿派对报道
 
 <!-- tcd_download_link -->
-下载: [2021年Bubble_T亚裔酷儿派对报道.pdf](2021年Bubble_T亚裔酷儿派对报道.pdf)
+下载: <a href="2021年Bubble_T亚裔酷儿派对报道.pdf" download>2021年Bubble_T亚裔酷儿派对报道.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

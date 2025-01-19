@@ -1,7 +1,7 @@
 # Supporting_Transgender_Children_New_Legal_Social_and_Medical_Approaches
 
 <!-- tcd_download_link -->
-下载: [Supporting_Transgender_Children_New_Legal_Social_and_Medical_Approaches.pdf](Supporting_Transgender_Children_New_Legal_Social_and_Medical_Approaches.pdf)
+下载: <a href="Supporting_Transgender_Children_New_Legal_Social_and_Medical_Approaches.pdf" download>Supporting_Transgender_Children_New_Legal_Social_and_Medical_Approaches.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

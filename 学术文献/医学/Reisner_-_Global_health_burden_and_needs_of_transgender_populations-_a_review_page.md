@@ -1,7 +1,7 @@
 # Reisner_-_Global_health_burden_and_needs_of_transgender_populations-_a_review
 
 <!-- tcd_download_link -->
-下载: [Reisner_-_Global_health_burden_and_needs_of_transgender_populations-_a_review.pdf](Reisner_-_Global_health_burden_and_needs_of_transgender_populations-_a_review.pdf)
+下载: <a href="Reisner_-_Global_health_burden_and_needs_of_transgender_populations-_a_review.pdf" download>Reisner_-_Global_health_burden_and_needs_of_transgender_populations-_a_review.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

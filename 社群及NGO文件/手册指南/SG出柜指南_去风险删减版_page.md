@@ -1,7 +1,7 @@
 # SG出柜指南_去风险删减版
 
 <!-- tcd_download_link -->
-下载: [SG出柜指南_去风险删减版.pdf](SG出柜指南_去风险删减版.pdf)
+下载: <a href="SG出柜指南_去风险删减版.pdf" download>SG出柜指南_去风险删减版.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

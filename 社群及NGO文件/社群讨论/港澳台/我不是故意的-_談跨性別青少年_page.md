@@ -1,7 +1,7 @@
 # 我不是故意的-_談跨性別青少年
 
 <!-- tcd_download_link -->
-下载: [我不是故意的-_談跨性別青少年.pdf](我不是故意的-_談跨性別青少年.pdf)
+下载: <a href="我不是故意的-_談跨性別青少年.pdf" download>我不是故意的-_談跨性別青少年.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

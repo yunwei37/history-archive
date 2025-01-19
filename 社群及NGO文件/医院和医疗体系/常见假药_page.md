@@ -1,7 +1,7 @@
 # 常见假药
 
 <!-- tcd_download_link -->
-下载: [常见假药.pdf](常见假药.pdf)
+下载: <a href="常见假药.pdf" download>常见假药.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

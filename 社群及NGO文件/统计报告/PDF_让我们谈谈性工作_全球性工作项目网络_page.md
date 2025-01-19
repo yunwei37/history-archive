@@ -1,7 +1,7 @@
 # PDF_让我们谈谈性工作_全球性工作项目网络
 
 <!-- tcd_download_link -->
-下载: [PDF_让我们谈谈性工作_全球性工作项目网络.pdf](PDF_让我们谈谈性工作_全球性工作项目网络.pdf)
+下载: <a href="PDF_让我们谈谈性工作_全球性工作项目网络.pdf" download>PDF_让我们谈谈性工作_全球性工作项目网络.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

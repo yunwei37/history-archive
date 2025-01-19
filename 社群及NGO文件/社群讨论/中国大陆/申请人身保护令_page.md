@@ -1,7 +1,7 @@
 # 申请人身保护令
 
 <!-- tcd_download_link -->
-下载: [申请人身保护令.docx](申请人身保护令.docx)
+下载: <a href="申请人身保护令.docx" download>申请人身保护令.docx</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

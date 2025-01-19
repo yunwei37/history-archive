@@ -1,7 +1,7 @@
 # 是非男女-3
 
 <!-- tcd_download_link -->
-下载: [是非男女-3.pdf](是非男女-3.pdf)
+下载: <a href="是非男女-3.pdf" download>是非男女-3.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

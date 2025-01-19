@@ -1,7 +1,7 @@
 # 同聲同氣_香港年長女同志口述史_鄧芝珊_伍詠欣Chinese_手民出版社
 
 <!-- tcd_download_link -->
-下载: [同聲同氣_香港年長女同志口述史_鄧芝珊_伍詠欣Chinese_手民出版社.pdf](同聲同氣_香港年長女同志口述史_鄧芝珊_伍詠欣Chinese_手民出版社.pdf)
+下载: <a href="同聲同氣_香港年長女同志口述史_鄧芝珊_伍詠欣Chinese_手民出版社.pdf" download>同聲同氣_香港年長女同志口述史_鄧芝珊_伍詠欣Chinese_手民出版社.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 儿童及青少年精神心理异常问题
 
 <!-- tcd_download_link -->
-下载: [儿童及青少年精神心理异常问题.pdf](儿童及青少年精神心理异常问题.pdf)
+下载: <a href="儿童及青少年精神心理异常问题.pdf" download>儿童及青少年精神心理异常问题.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

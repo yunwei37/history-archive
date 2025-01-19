@@ -1,7 +1,7 @@
 # 一个变性手术专家的手记_何清濂
 
 <!-- tcd_download_link -->
-下载: [一个变性手术专家的手记_何清濂.pdf](一个变性手术专家的手记_何清濂.pdf)
+下载: <a href="一个变性手术专家的手记_何清濂.pdf" download>一个变性手术专家的手记_何清濂.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

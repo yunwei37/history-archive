@@ -1,7 +1,7 @@
 # SOGIE_Report_-_Being_LGBTI_in_China
 
 <!-- tcd_download_link -->
-下载: [SOGIE_Report_-_Being_LGBTI_in_China.pdf](SOGIE_Report_-_Being_LGBTI_in_China.pdf)
+下载: <a href="SOGIE_Report_-_Being_LGBTI_in_China.pdf" download>SOGIE_Report_-_Being_LGBTI_in_China.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

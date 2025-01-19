@@ -1,7 +1,7 @@
 # 烦恼多多话变性_项力
 
 <!-- tcd_download_link -->
-下载: [烦恼多多话变性_项力.pdf](烦恼多多话变性_项力.pdf)
+下载: <a href="烦恼多多话变性_项力.pdf" download>烦恼多多话变性_项力.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

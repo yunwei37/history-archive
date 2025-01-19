@@ -1,7 +1,7 @@
 # PDF_我的雙性人生_-_OII_Europe_歐洲雙性人自我敘說
 
 <!-- tcd_download_link -->
-下载: [PDF_我的雙性人生_-_OII_Europe_歐洲雙性人自我敘說.pdf](PDF_我的雙性人生_-_OII_Europe_歐洲雙性人自我敘說.pdf)
+下载: <a href="PDF_我的雙性人生_-_OII_Europe_歐洲雙性人自我敘說.pdf" download>PDF_我的雙性人生_-_OII_Europe_歐洲雙性人自我敘說.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

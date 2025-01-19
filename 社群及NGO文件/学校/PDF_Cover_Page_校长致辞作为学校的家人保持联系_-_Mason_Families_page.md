@@ -1,7 +1,7 @@
 # PDF_Cover_Page_校长致辞作为学校的家人保持联系_-_Mason_Families
 
 <!-- tcd_download_link -->
-下载: [PDF_Cover_Page_校长致辞作为学校的家人保持联系_-_Mason_Families.pdf](PDF_Cover_Page_校长致辞作为学校的家人保持联系_-_Mason_Families.pdf)
+下载: <a href="PDF_Cover_Page_校长致辞作为学校的家人保持联系_-_Mason_Families.pdf" download>PDF_Cover_Page_校长致辞作为学校的家人保持联系_-_Mason_Families.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

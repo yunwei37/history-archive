@@ -1,7 +1,7 @@
 # LGBTQ+_老年人调查报告
 
 <!-- tcd_download_link -->
-下载: [LGBTQ+_老年人调查报告.pdf](LGBTQ+_老年人调查报告.pdf)
+下载: <a href="LGBTQ+_老年人调查报告.pdf" download>LGBTQ+_老年人调查报告.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

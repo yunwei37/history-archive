@@ -1,7 +1,7 @@
 # 限制人身自由案_证据清单
 
 <!-- tcd_download_link -->
-下载: [限制人身自由案_证据清单.docx](限制人身自由案_证据清单.docx)
+下载: <a href="限制人身自由案_证据清单.docx" download>限制人身自由案_证据清单.docx</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

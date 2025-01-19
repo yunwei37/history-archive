@@ -1,7 +1,7 @@
 # PDF_在美亚裔美国人和太平洋岛民的LGBT_成年人
 
 <!-- tcd_download_link -->
-下载: [PDF_在美亚裔美国人和太平洋岛民的LGBT_成年人.pdf](PDF_在美亚裔美国人和太平洋岛民的LGBT_成年人.pdf)
+下载: <a href="PDF_在美亚裔美国人和太平洋岛民的LGBT_成年人.pdf" download>PDF_在美亚裔美国人和太平洋岛民的LGBT_成年人.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

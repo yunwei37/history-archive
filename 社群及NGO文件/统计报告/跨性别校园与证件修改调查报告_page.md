@@ -1,7 +1,7 @@
 # 跨性别校园与证件修改调查报告
 
 <!-- tcd_download_link -->
-下载: [跨性别校园与证件修改调查报告.pdf](跨性别校园与证件修改调查报告.pdf)
+下载: <a href="跨性别校园与证件修改调查报告.pdf" download>跨性别校园与证件修改调查报告.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

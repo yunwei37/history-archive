@@ -1,7 +1,7 @@
 # 中国LGBTQ活动家社会分类研究
 
 <!-- tcd_download_link -->
-下载: [中国LGBTQ活动家社会分类研究.pdf](中国LGBTQ活动家社会分类研究.pdf)
+下载: <a href="中国LGBTQ活动家社会分类研究.pdf" download>中国LGBTQ活动家社会分类研究.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

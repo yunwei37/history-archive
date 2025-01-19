@@ -1,7 +1,7 @@
 # 跨性别工作者厕所通行指南
 
 <!-- tcd_download_link -->
-下载: [跨性别工作者厕所通行指南.pdf](跨性别工作者厕所通行指南.pdf)
+下载: <a href="跨性别工作者厕所通行指南.pdf" download>跨性别工作者厕所通行指南.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

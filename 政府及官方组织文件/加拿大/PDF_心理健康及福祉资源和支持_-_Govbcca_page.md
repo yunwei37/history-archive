@@ -1,7 +1,7 @@
 # PDF_心理健康及福祉资源和支持_-_Govbcca
 
 <!-- tcd_download_link -->
-下载: [PDF_心理健康及福祉资源和支持_-_Govbcca.pdf](PDF_心理健康及福祉资源和支持_-_Govbcca.pdf)
+下载: <a href="PDF_心理健康及福祉资源和支持_-_Govbcca.pdf" download>PDF_心理健康及福祉资源和支持_-_Govbcca.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

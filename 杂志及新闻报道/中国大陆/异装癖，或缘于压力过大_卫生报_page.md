@@ -1,7 +1,7 @@
 # 异装癖，或缘于压力过大_卫生报
 
 <!-- tcd_download_link -->
-下载: [异装癖，或缘于压力过大_卫生报.pdf](异装癖，或缘于压力过大_卫生报.pdf)
+下载: <a href="异装癖，或缘于压力过大_卫生报.pdf" download>异装癖，或缘于压力过大_卫生报.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

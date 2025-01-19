@@ -1,7 +1,7 @@
 # The__Slow__Depathologizing_of_Gender_Incongruence.11
 
 <!-- tcd_download_link -->
-下载: [The__Slow__Depathologizing_of_Gender_Incongruence.11.pdf](The__Slow__Depathologizing_of_Gender_Incongruence.11.pdf)
+下载: <a href="The__Slow__Depathologizing_of_Gender_Incongruence.11.pdf" download>The__Slow__Depathologizing_of_Gender_Incongruence.11.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

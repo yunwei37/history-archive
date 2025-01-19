@@ -1,7 +1,7 @@
 # 性别治理_性／別研究丛書
 
 <!-- tcd_download_link -->
-下载: [性别治理_性／別研究丛書.pdf](性别治理_性／別研究丛書.pdf)
+下载: <a href="性别治理_性／別研究丛書.pdf" download>性别治理_性／別研究丛書.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

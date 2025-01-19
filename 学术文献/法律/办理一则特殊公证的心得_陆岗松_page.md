@@ -1,7 +1,7 @@
 # 办理一则特殊公证的心得_陆岗松
 
 <!-- tcd_download_link -->
-下载: [办理一则特殊公证的心得_陆岗松.pdf](办理一则特殊公证的心得_陆岗松.pdf)
+下载: <a href="办理一则特殊公证的心得_陆岗松.pdf" download>办理一则特殊公证的心得_陆岗松.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

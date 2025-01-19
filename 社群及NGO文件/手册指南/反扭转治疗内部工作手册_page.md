@@ -1,7 +1,7 @@
 # 反扭转治疗内部工作手册
 
 <!-- tcd_download_link -->
-下载: [反扭转治疗内部工作手册.docx](反扭转治疗内部工作手册.docx)
+下载: <a href="反扭转治疗内部工作手册.docx" download>反扭转治疗内部工作手册.docx</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

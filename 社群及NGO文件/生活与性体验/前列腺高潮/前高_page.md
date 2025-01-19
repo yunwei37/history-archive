@@ -1,7 +1,7 @@
 # 前高
 
 <!-- tcd_download_link -->
-下载: [前高.pdf](前高.pdf)
+下载: <a href="前高.pdf" download>前高.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

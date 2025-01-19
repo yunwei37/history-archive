@@ -1,7 +1,7 @@
 # PDF_有机奥诺黛拉
 
 <!-- tcd_download_link -->
-下载: [PDF_有机奥诺黛拉.pdf](PDF_有机奥诺黛拉.pdf)
+下载: <a href="PDF_有机奥诺黛拉.pdf" download>PDF_有机奥诺黛拉.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

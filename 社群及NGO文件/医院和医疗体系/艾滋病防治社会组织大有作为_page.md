@@ -1,7 +1,7 @@
 # 艾滋病防治社会组织大有作为
 
 <!-- tcd_download_link -->
-下载: [艾滋病防治社会组织大有作为.pdf](艾滋病防治社会组织大有作为.pdf)
+下载: <a href="艾滋病防治社会组织大有作为.pdf" download>艾滋病防治社会组织大有作为.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

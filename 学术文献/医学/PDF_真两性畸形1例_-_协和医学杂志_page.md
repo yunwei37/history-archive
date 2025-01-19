@@ -1,7 +1,7 @@
 # PDF_真两性畸形1例_-_协和医学杂志
 
 <!-- tcd_download_link -->
-下载: [PDF_真两性畸形1例_-_协和医学杂志.pdf](PDF_真两性畸形1例_-_协和医学杂志.pdf)
+下载: <a href="PDF_真两性畸形1例_-_协和医学杂志.pdf" download>PDF_真两性畸形1例_-_协和医学杂志.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

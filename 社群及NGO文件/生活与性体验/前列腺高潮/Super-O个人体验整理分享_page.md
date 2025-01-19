@@ -1,7 +1,7 @@
 # Super-O个人体验整理分享
 
 <!-- tcd_download_link -->
-下载: [Super-O个人体验整理分享.docx](Super-O个人体验整理分享.docx)
+下载: <a href="Super-O个人体验整理分享.docx" download>Super-O个人体验整理分享.docx</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

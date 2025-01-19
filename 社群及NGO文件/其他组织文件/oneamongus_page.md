@@ -1,7 +1,7 @@
 # oneamongus
 
 <!-- tcd_download_link -->
-下载: [oneamongus.pdf](oneamongus.pdf)
+下载: <a href="oneamongus.pdf" download>oneamongus.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

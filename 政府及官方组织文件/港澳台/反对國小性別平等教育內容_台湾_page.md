@@ -1,7 +1,7 @@
 # 反对國小性別平等教育內容_台湾
 
 <!-- tcd_download_link -->
-下载: [反对國小性別平等教育內容_台湾.pdf](反对國小性別平等教育內容_台湾.pdf)
+下载: <a href="反对國小性別平等教育內容_台湾.pdf" download>反对國小性別平等教育內容_台湾.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

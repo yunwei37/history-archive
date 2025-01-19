@@ -1,7 +1,7 @@
 # PDF_跨性別人士在保安部門遇到的性騷擾
 
 <!-- tcd_download_link -->
-下载: [PDF_跨性別人士在保安部門遇到的性騷擾.pdf](PDF_跨性別人士在保安部門遇到的性騷擾.pdf)
+下载: <a href="PDF_跨性別人士在保安部門遇到的性騷擾.pdf" download>PDF_跨性別人士在保安部門遇到的性騷擾.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

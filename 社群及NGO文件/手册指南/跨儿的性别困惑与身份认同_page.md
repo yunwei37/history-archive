@@ -1,7 +1,7 @@
 # 跨儿的性别困惑与身份认同
 
 <!-- tcd_download_link -->
-下载: [跨儿的性别困惑与身份认同.pdf](跨儿的性别困惑与身份认同.pdf)
+下载: <a href="跨儿的性别困惑与身份认同.pdf" download>跨儿的性别困惑与身份认同.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

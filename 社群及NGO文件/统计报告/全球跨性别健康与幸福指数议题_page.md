@@ -1,7 +1,7 @@
 # 全球跨性别健康与幸福指数议题
 
 <!-- tcd_download_link -->
-下载: [全球跨性别健康与幸福指数议题.pdf](全球跨性别健康与幸福指数议题.pdf)
+下载: <a href="全球跨性别健康与幸福指数议题.pdf" download>全球跨性别健康与幸福指数议题.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

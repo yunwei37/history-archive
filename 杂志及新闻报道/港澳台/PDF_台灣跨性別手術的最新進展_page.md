@@ -1,7 +1,7 @@
 # PDF_台灣跨性別手術的最新進展
 
 <!-- tcd_download_link -->
-下载: [PDF_台灣跨性別手術的最新進展.pdf](PDF_台灣跨性別手術的最新進展.pdf)
+下载: <a href="PDF_台灣跨性別手術的最新進展.pdf" download>PDF_台灣跨性別手術的最新進展.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

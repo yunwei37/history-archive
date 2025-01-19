@@ -1,7 +1,7 @@
 # 跨性别_【性／別研究】丛書
 
 <!-- tcd_download_link -->
-下载: [跨性别_【性／別研究】丛書.pdf](跨性别_【性／別研究】丛書.pdf)
+下载: <a href="跨性别_【性／別研究】丛書.pdf" download>跨性别_【性／別研究】丛書.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

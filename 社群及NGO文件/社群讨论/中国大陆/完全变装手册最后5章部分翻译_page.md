@@ -1,7 +1,7 @@
 # 完全变装手册最后5章部分翻译
 
 <!-- tcd_download_link -->
-下载: [完全变装手册最后5章部分翻译.pdf](完全变装手册最后5章部分翻译.pdf)
+下载: <a href="完全变装手册最后5章部分翻译.pdf" download>完全变装手册最后5章部分翻译.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # Suicidal_ideation_and_attempted_suicide_amongst_Chinese_transgender
 
 <!-- tcd_download_link -->
-下载: [Suicidal_ideation_and_attempted_suicide_amongst_Chinese_transgender.pdf](Suicidal_ideation_and_attempted_suicide_amongst_Chinese_transgender.pdf)
+下载: <a href="Suicidal_ideation_and_attempted_suicide_amongst_Chinese_transgender.pdf" download>Suicidal_ideation_and_attempted_suicide_amongst_Chinese_transgender.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

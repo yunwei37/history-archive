@@ -1,7 +1,7 @@
 # 幼兒成長發育_性別認同
 
 <!-- tcd_download_link -->
-下载: [幼兒成長發育_性別認同.pdf](幼兒成長發育_性別認同.pdf)
+下载: <a href="幼兒成長發育_性別認同.pdf" download>幼兒成長發育_性別認同.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

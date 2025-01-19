@@ -1,7 +1,7 @@
 # PDF_性別手冊學生版
 
 <!-- tcd_download_link -->
-下载: [PDF_性別手冊學生版.pdf](PDF_性別手冊學生版.pdf)
+下载: <a href="PDF_性別手冊學生版.pdf" download>PDF_性別手冊學生版.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 女人梦——中国变性第一人
 
 <!-- tcd_download_link -->
-下载: [女人梦——中国变性第一人.pdf](女人梦——中国变性第一人.pdf)
+下载: <a href="女人梦——中国变性第一人.pdf" download>女人梦——中国变性第一人.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

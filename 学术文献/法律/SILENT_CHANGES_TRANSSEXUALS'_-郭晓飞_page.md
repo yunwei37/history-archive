@@ -1,7 +1,7 @@
 # SILENT_CHANGES_TRANSSEXUALS'_-郭晓飞
 
 <!-- tcd_download_link -->
-下载: [SILENT_CHANGES_TRANSSEXUALS'_-郭晓飞.pdf](SILENT_CHANGES_TRANSSEXUALS'_-郭晓飞.pdf)
+下载: <a href="SILENT_CHANGES_TRANSSEXUALS'_-郭晓飞.pdf" download>SILENT_CHANGES_TRANSSEXUALS'_-郭晓飞.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

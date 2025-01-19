@@ -1,7 +1,7 @@
 # PDF_性別意識與醫療現場
 
 <!-- tcd_download_link -->
-下载: [PDF_性別意識與醫療現場.pdf](PDF_性別意識與醫療現場.pdf)
+下载: <a href="PDF_性別意識與醫療現場.pdf" download>PDF_性別意識與醫療現場.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

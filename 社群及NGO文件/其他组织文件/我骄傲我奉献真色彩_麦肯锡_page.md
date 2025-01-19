@@ -1,7 +1,7 @@
 # 我骄傲我奉献真色彩_麦肯锡
 
 <!-- tcd_download_link -->
-下载: [我骄傲我奉献真色彩_麦肯锡.pdf](我骄傲我奉献真色彩_麦肯锡.pdf)
+下载: <a href="我骄傲我奉献真色彩_麦肯锡.pdf" download>我骄傲我奉献真色彩_麦肯锡.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

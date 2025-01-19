@@ -1,7 +1,7 @@
 # PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源
 
 <!-- tcd_download_link -->
-下载: [PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源.pdf](PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源.pdf)
+下载: <a href="PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源.pdf" download>PDF_提供给LGBTQI_社区内的纽约市民的心理健康资源.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

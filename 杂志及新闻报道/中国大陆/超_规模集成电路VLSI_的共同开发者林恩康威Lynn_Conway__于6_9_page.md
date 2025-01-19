@@ -1,7 +1,7 @@
 # 超_规模集成电路VLSI_的共同开发者林恩康威Lynn_Conway__于6_9
 
 <!-- tcd_download_link -->
-下载: [超_规模集成电路VLSI_的共同开发者林恩康威Lynn_Conway__于6_9.pdf](超_规模集成电路VLSI_的共同开发者林恩康威Lynn_Conway__于6_9.pdf)
+下载: <a href="超_规模集成电路VLSI_的共同开发者林恩康威Lynn_Conway__于6_9.pdf" download>超_规模集成电路VLSI_的共同开发者林恩康威Lynn_Conway__于6_9.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

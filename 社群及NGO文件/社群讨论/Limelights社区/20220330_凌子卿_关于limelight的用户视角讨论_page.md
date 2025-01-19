@@ -1,7 +1,7 @@
 # 20220330_凌子卿_关于limelight的用户视角讨论
 
 <!-- tcd_download_link -->
-下载: [20220330_凌子卿_关于limelight的用户视角讨论.pdf](20220330_凌子卿_关于limelight的用户视角讨论.pdf)
+下载: <a href="20220330_凌子卿_关于limelight的用户视角讨论.pdf" download>20220330_凌子卿_关于limelight的用户视角讨论.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

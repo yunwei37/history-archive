@@ -1,7 +1,7 @@
 # 性别认同障碍_人格_心理病理及社_省略_适应水平的术前术后变化的比较研究_Iris_Monteiro
 
 <!-- tcd_download_link -->
-下载: [性别认同障碍_人格_心理病理及社_省略_适应水平的术前术后变化的比较研究_Iris_Monteiro.pdf](性别认同障碍_人格_心理病理及社_省略_适应水平的术前术后变化的比较研究_Iris_Monteiro.pdf)
+下载: <a href="性别认同障碍_人格_心理病理及社_省略_适应水平的术前术后变化的比较研究_Iris_Monteiro.pdf" download>性别认同障碍_人格_心理病理及社_省略_适应水平的术前术后变化的比较研究_Iris_Monteiro.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

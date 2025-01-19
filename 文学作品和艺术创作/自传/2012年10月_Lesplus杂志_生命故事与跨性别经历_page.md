@@ -1,7 +1,7 @@
 # 2012年10月_Lesplus杂志_生命故事与跨性别经历
 
 <!-- tcd_download_link -->
-下载: [2012年10月_Lesplus杂志_生命故事与跨性别经历.pdf](2012年10月_Lesplus杂志_生命故事与跨性别经历.pdf)
+下载: <a href="2012年10月_Lesplus杂志_生命故事与跨性别经历.pdf" download>2012年10月_Lesplus杂志_生命故事与跨性别经历.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

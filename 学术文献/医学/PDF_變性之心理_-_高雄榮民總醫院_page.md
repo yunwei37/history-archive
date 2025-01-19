@@ -1,7 +1,7 @@
 # PDF_變性之心理_-_高雄榮民總醫院
 
 <!-- tcd_download_link -->
-下载: [PDF_變性之心理_-_高雄榮民總醫院.pdf](PDF_變性之心理_-_高雄榮民總醫院.pdf)
+下载: <a href="PDF_變性之心理_-_高雄榮民總醫院.pdf" download>PDF_變性之心理_-_高雄榮民總醫院.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

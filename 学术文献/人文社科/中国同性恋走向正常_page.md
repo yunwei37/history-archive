@@ -1,7 +1,7 @@
 # 中国同性恋走向正常
 
 <!-- tcd_download_link -->
-下载: [中国同性恋走向正常.pdf](中国同性恋走向正常.pdf)
+下载: <a href="中国同性恋走向正常.pdf" download>中国同性恋走向正常.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

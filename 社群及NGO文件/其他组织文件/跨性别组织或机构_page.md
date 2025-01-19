@@ -1,7 +1,7 @@
 # 跨性别组织或机构
 
 <!-- tcd_download_link -->
-下载: [跨性别组织或机构.docx](跨性别组织或机构.docx)
+下载: <a href="跨性别组织或机构.docx" download>跨性别组织或机构.docx</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

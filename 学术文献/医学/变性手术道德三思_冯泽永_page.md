@@ -1,7 +1,7 @@
 # 变性手术道德三思_冯泽永
 
 <!-- tcd_download_link -->
-下载: [变性手术道德三思_冯泽永.pdf](变性手术道德三思_冯泽永.pdf)
+下载: <a href="变性手术道德三思_冯泽永.pdf" download>变性手术道德三思_冯泽永.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

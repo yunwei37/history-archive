@@ -1,7 +1,7 @@
 # PDF_被消費的跨性別表達國內Bilibili_平臺上的變裝皇后
 
 <!-- tcd_download_link -->
-下载: [PDF_被消費的跨性別表達國內Bilibili_平臺上的變裝皇后.pdf](PDF_被消費的跨性別表達國內Bilibili_平臺上的變裝皇后.pdf)
+下载: <a href="PDF_被消費的跨性別表達國內Bilibili_平臺上的變裝皇后.pdf" download>PDF_被消費的跨性別表達國內Bilibili_平臺上的變裝皇后.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

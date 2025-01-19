@@ -1,7 +1,7 @@
 # 变性手术资料(1)
 
 <!-- tcd_download_link -->
-下载: [变性手术资料_1_.doc](变性手术资料_1_.doc)
+下载: <a href="变性手术资料_1_.doc" download>变性手术资料_1_.doc</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # PDF_5_性別不安有甚麼治療方法_-_醫院管理局
 
 <!-- tcd_download_link -->
-下载: [PDF_5_性別不安有甚麼治療方法_-_醫院管理局.pdf](PDF_5_性別不安有甚麼治療方法_-_醫院管理局.pdf)
+下载: <a href="PDF_5_性別不安有甚麼治療方法_-_醫院管理局.pdf" download>PDF_5_性別不安有甚麼治療方法_-_醫院管理局.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

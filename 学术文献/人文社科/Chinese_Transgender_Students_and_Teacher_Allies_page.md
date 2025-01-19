@@ -1,7 +1,7 @@
 # Chinese_Transgender_Students_and_Teacher_Allies
 
 <!-- tcd_download_link -->
-下载: [Chinese_Transgender_Students_and_Teacher_Allies.pdf](Chinese_Transgender_Students_and_Teacher_Allies.pdf)
+下载: <a href="Chinese_Transgender_Students_and_Teacher_Allies.pdf" download>Chinese_Transgender_Students_and_Teacher_Allies.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

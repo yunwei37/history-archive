@@ -1,7 +1,7 @@
 # 艾滋病与性别议题书目
 
 <!-- tcd_download_link -->
-下载: [艾滋病与性别议题书目.pdf](艾滋病与性别议题书目.pdf)
+下载: <a href="艾滋病与性别议题书目.pdf" download>艾滋病与性别议题书目.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

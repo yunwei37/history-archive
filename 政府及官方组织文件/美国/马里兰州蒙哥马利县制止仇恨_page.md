@@ -1,7 +1,7 @@
 # 马里兰州蒙哥马利县制止仇恨
 
 <!-- tcd_download_link -->
-下载: [马里兰州蒙哥马利县制止仇恨.pdf](马里兰州蒙哥马利县制止仇恨.pdf)
+下载: <a href="马里兰州蒙哥马利县制止仇恨.pdf" download>马里兰州蒙哥马利县制止仇恨.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

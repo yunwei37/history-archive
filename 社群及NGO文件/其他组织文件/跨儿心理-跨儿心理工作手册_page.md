@@ -1,7 +1,7 @@
 # 跨儿心理-跨儿心理工作手册
 
 <!-- tcd_download_link -->
-下载: [跨儿心理-跨儿心理工作手册.pdf](跨儿心理-跨儿心理工作手册.pdf)
+下载: <a href="跨儿心理-跨儿心理工作手册.pdf" download>跨儿心理-跨儿心理工作手册.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

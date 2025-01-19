@@ -1,7 +1,7 @@
 # 变性人先色诱再抢劫 法治时空
 
 <!-- tcd_download_link -->
-下载: [法治时空.pdf](变性人先色诱再抢劫.pdf)
+下载: <a href="变性人先色诱再抢劫.pdf" download>法治时空.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 银荆的告白_全卷
 
 <!-- tcd_download_link -->
-下载: [银荆的告白_全卷.txt](银荆的告白_全卷.txt)
+下载: <a href="银荆的告白_全卷.txt" download>银荆的告白_全卷.txt</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

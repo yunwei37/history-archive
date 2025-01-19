@@ -1,7 +1,7 @@
 # 跨越兩代的性別鴻溝
 
 <!-- tcd_download_link -->
-下载: [跨越兩代的性別鴻溝.pdf](跨越兩代的性別鴻溝.pdf)
+下载: <a href="跨越兩代的性別鴻溝.pdf" download>跨越兩代的性別鴻溝.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

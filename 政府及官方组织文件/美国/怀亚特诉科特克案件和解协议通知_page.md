@@ -1,7 +1,7 @@
 # 怀亚特诉科特克案件和解协议通知
 
 <!-- tcd_download_link -->
-下载: [怀亚特诉科特克案件和解协议通知.pdf](怀亚特诉科特克案件和解协议通知.pdf)
+下载: <a href="怀亚特诉科特克案件和解协议通知.pdf" download>怀亚特诉科特克案件和解协议通知.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

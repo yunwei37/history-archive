@@ -1,7 +1,7 @@
 # 变文研究
 
 <!-- tcd_download_link -->
-下载: [变文研究.txt](变文研究.txt)
+下载: <a href="变文研究.txt" download>变文研究.txt</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # PDF_防止性取向和性别认同的暴力和歧视问题独立专家的任务_-_ohchr
 
 <!-- tcd_download_link -->
-下载: [PDF_防止性取向和性别认同的暴力和歧视问题独立专家的任务_-_ohchr.pdf](PDF_防止性取向和性别认同的暴力和歧视问题独立专家的任务_-_ohchr.pdf)
+下载: <a href="PDF_防止性取向和性别认同的暴力和歧视问题独立专家的任务_-_ohchr.pdf" download>PDF_防止性取向和性别认同的暴力和歧视问题独立专家的任务_-_ohchr.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

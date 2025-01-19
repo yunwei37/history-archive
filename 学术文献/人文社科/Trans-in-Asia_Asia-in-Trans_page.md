@@ -1,7 +1,7 @@
 # Trans-in-Asia_Asia-in-Trans
 
 <!-- tcd_download_link -->
-下载: [Trans-in-Asia_Asia-in-Trans.pdf](Trans-in-Asia_Asia-in-Trans.pdf)
+下载: <a href="Trans-in-Asia_Asia-in-Trans.pdf" download>Trans-in-Asia_Asia-in-Trans.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

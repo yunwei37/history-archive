@@ -1,7 +1,7 @@
 # TG_transgender_GNC_gender_non-conforming
 
 <!-- tcd_download_link -->
-下载: [TG_transgender_GNC_gender_non-conforming.pdf](TG_transgender_GNC_gender_non-conforming.pdf)
+下载: <a href="TG_transgender_GNC_gender_non-conforming.pdf" download>TG_transgender_GNC_gender_non-conforming.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

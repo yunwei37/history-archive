@@ -1,7 +1,7 @@
 # shizu's_跨性别女性HRT资料兼指南__v1.0_
 
 <!-- tcd_download_link -->
-下载: [shizu's_跨性别女性HRT资料兼指南__v1.0_.pdf](shizu's_跨性别女性HRT资料兼指南__v1.0_.pdf)
+下载: <a href="shizu's_跨性别女性HRT资料兼指南__v1.0_.pdf" download>shizu's_跨性别女性HRT资料兼指南__v1.0_.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 药娘的天空
 
 <!-- tcd_download_link -->
-下载: [药娘的天空.pdf](药娘的天空.pdf)
+下载: <a href="药娘的天空.pdf" download>药娘的天空.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

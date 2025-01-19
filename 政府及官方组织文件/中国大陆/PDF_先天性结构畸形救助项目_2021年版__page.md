@@ -1,7 +1,7 @@
 # PDF_先天性结构畸形救助项目(2021年版)
 
 <!-- tcd_download_link -->
-下载: [PDF_先天性结构畸形救助项目_2021年版_.pdf](PDF_先天性结构畸形救助项目_2021年版_.pdf)
+下载: <a href="PDF_先天性结构畸形救助项目_2021年版_.pdf" download>PDF_先天性结构畸形救助项目_2021年版_.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

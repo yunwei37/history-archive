@@ -1,7 +1,7 @@
 # 新泽西州反歧视法指南
 
 <!-- tcd_download_link -->
-下载: [新泽西州反歧视法指南.pdf](新泽西州反歧视法指南.pdf)
+下载: <a href="新泽西州反歧视法指南.pdf" download>新泽西州反歧视法指南.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

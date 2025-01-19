@@ -1,7 +1,7 @@
 # 中华人民共和国精神卫生法
 
 <!-- tcd_download_link -->
-下载: [中华人民共和国精神卫生法.docx](中华人民共和国精神卫生法.docx)
+下载: <a href="中华人民共和国精神卫生法.docx" download>中华人民共和国精神卫生法.docx</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

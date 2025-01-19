@@ -1,0 +1,78 @@
+name: 自行去势手术（切除睾丸）全过程分析总结
+description: ''
+curator: ''
+source: ''
+tags: []
+license: ''
+files:
+- name: 10_充实经历记录
+  filename: 10_充实经历记录.jpg
+  type: image
+  format: JPEG Image
+  size: 325544
+  md5: 1078d6750dcba0772d1fd366595a7d1c
+  page: 10_充实经历记录.jpg
+- name: 1_观前提醒
+  filename: 1_观前提醒.jpg
+  type: image
+  format: JPEG Image
+  size: 174560
+  md5: be45c61f45ab1a7fda6f9c26a919caf7
+  page: 1_观前提醒.jpg
+- name: 2_观察记录
+  filename: 2_观察记录.jpg
+  type: image
+  format: JPEG Image
+  size: 186834
+  md5: c6d6ac72bc4aeb4ceabf3582e8fa770e
+  page: 2_观察记录.jpg
+- name: 3_术前准备_文件记录
+  filename: 3_术前准备_文件记录.jpg
+  type: image
+  format: JPEG Image
+  size: 180907
+  md5: d52d8ee15da574e13abf652ed093d099
+  page: 3_术前准备_文件记录.jpg
+- name: 4_医疗准备与注意事项
+  filename: 4_医疗准备与注意事项.jpg
+  type: image
+  format: JPEG Image
+  size: 177675
+  md5: 18000cc8e0243236e721b4ae6eff6dfb
+  page: 4_医疗准备与注意事项.jpg
+- name: 5_手术初步流程_2025-01-18
+  filename: 5_手术初步流程_2025-01-18.jpg
+  type: image
+  format: JPEG Image
+  size: 184818
+  md5: 07a7ce9b60502c338744b173b9acda5b
+  page: 5_手术初步流程_2025-01-18.jpg
+- name: 6_多元性别护理注意事项
+  filename: 6_多元性别护理注意事项.jpg
+  type: image
+  format: JPEG Image
+  size: 181295
+  md5: cd18162022be5e32af7c301535d98f82
+  page: 6_多元性别护理注意事项.jpg
+- name: 7_正是开刀_2025-01-18
+  filename: 7_正是开刀_2025-01-18.jpg
+  type: image
+  format: JPEG Image
+  size: 184017
+  md5: 01549538d4a0a37de40efe6994bd8d12
+  page: 7_正是开刀_2025-01-18.jpg
+- name: 8_生活经历分享
+  filename: 8_生活经历分享.jpg
+  type: image
+  format: JPEG Image
+  size: 185967
+  md5: b7957b4c68fcbcac01fec1f250bc0ad7
+  page: 8_生活经历分享.jpg
+- name: 9_多元性别医疗经验分享
+  filename: 9_多元性别医疗经验分享.jpg
+  type: image
+  format: JPEG Image
+  size: 356105
+  md5: 28f0fbbdb3d1f36474ccb7c6442cab64
+  page: 9_多元性别医疗经验分享.jpg
+subdirs: []

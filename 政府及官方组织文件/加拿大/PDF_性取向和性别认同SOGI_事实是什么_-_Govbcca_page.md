@@ -1,7 +1,7 @@
 # PDF_性取向和性别认同SOGI_事实是什么_-_Govbcca
 
 <!-- tcd_download_link -->
-下载: [PDF_性取向和性别认同SOGI_事实是什么_-_Govbcca.pdf](PDF_性取向和性别认同SOGI_事实是什么_-_Govbcca.pdf)
+下载: <a href="PDF_性取向和性别认同SOGI_事实是什么_-_Govbcca.pdf" download>PDF_性取向和性别认同SOGI_事实是什么_-_Govbcca.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

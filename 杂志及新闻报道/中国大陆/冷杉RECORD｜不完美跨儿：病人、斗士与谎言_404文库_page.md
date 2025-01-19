@@ -1,7 +1,7 @@
 # 冷杉RECORD｜不完美跨儿：病人、斗士与谎言_404文库
 
 <!-- tcd_download_link -->
-下载: [冷杉RECORD｜不完美跨儿：病人、斗士与谎言_404文库.pdf](冷杉RECORD｜不完美跨儿：病人、斗士与谎言_404文库.pdf)
+下载: <a href="冷杉RECORD｜不完美跨儿：病人、斗士与谎言_404文库.pdf" download>冷杉RECORD｜不完美跨儿：病人、斗士与谎言_404文库.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

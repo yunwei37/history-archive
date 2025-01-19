@@ -1,7 +1,7 @@
 # PDF_国际不再恐同日_联合国教科文组织新闻稿
 
 <!-- tcd_download_link -->
-下载: [PDF_国际不再恐同日_联合国教科文组织新闻稿.pdf](PDF_国际不再恐同日_联合国教科文组织新闻稿.pdf)
+下载: <a href="PDF_国际不再恐同日_联合国教科文组织新闻稿.pdf" download>PDF_国际不再恐同日_联合国教科文组织新闻稿.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

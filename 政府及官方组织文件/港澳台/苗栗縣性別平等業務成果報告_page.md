@@ -1,7 +1,7 @@
 # 苗栗縣性別平等業務成果報告
 
 <!-- tcd_download_link -->
-下载: [苗栗縣性別平等業務成果報告.pdf](苗栗縣性別平等業務成果報告.pdf)
+下载: <a href="苗栗縣性別平等業務成果報告.pdf" download>苗栗縣性別平等業務成果報告.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

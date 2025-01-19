@@ -1,7 +1,7 @@
 # Hormone_overdose_and_misuse_in_Chinese_transgender
 
 <!-- tcd_download_link -->
-下载: [Hormone_overdose_and_misuse_in_Chinese_transgender.pdf](Hormone_overdose_and_misuse_in_Chinese_transgender.pdf)
+下载: <a href="Hormone_overdose_and_misuse_in_Chinese_transgender.pdf" download>Hormone_overdose_and_misuse_in_Chinese_transgender.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

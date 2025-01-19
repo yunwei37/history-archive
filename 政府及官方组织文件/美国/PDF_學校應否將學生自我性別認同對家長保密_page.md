@@ -1,7 +1,7 @@
 # PDF_學校應否將學生自我性別認同對家長保密
 
 <!-- tcd_download_link -->
-下载: [PDF_學校應否將學生自我性別認同對家長保密.pdf](PDF_學校應否將學生自我性別認同對家長保密.pdf)
+下载: <a href="PDF_學校應否將學生自我性別認同對家長保密.pdf" download>PDF_學校應否將學生自我性別認同對家長保密.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

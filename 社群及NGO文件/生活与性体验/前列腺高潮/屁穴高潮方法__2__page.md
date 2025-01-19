@@ -1,7 +1,7 @@
 # 屁穴高潮方法_(2)
 
 <!-- tcd_download_link -->
-下载: [屁穴高潮方法__2_.pdf](屁穴高潮方法__2_.pdf)
+下载: <a href="屁穴高潮方法__2_.pdf" download>屁穴高潮方法__2_.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

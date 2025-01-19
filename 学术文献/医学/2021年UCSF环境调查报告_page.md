@@ -1,7 +1,7 @@
 # 2021年UCSF环境调查报告
 
 <!-- tcd_download_link -->
-下载: [2021年UCSF环境调查报告.pdf](2021年UCSF环境调查报告.pdf)
+下载: <a href="2021年UCSF环境调查报告.pdf" download>2021年UCSF环境调查报告.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

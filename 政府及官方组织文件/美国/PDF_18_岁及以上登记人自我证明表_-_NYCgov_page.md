@@ -1,7 +1,7 @@
 # PDF_18_岁及以上登记人自我证明表_-_NYCgov
 
 <!-- tcd_download_link -->
-下载: [PDF_18_岁及以上登记人自我证明表_-_NYCgov.pdf](PDF_18_岁及以上登记人自我证明表_-_NYCgov.pdf)
+下载: <a href="PDF_18_岁及以上登记人自我证明表_-_NYCgov.pdf" download>PDF_18_岁及以上登记人自我证明表_-_NYCgov.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

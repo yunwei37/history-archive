@@ -1,7 +1,7 @@
 # 人權教育教案_性別與職業影響
 
 <!-- tcd_download_link -->
-下载: [人權教育教案_性別與職業影響.pdf](人權教育教案_性別與職業影響.pdf)
+下载: <a href="人權教育教案_性別與職業影響.pdf" download>人權教育教案_性別與職業影響.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

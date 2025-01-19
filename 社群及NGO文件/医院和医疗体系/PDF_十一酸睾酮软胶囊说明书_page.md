@@ -1,7 +1,7 @@
 # PDF_十一酸睾酮软胶囊说明书
 
 <!-- tcd_download_link -->
-下载: [PDF_十一酸睾酮软胶囊说明书.pdf](PDF_十一酸睾酮软胶囊说明书.pdf)
+下载: <a href="PDF_十一酸睾酮软胶囊说明书.pdf" download>PDF_十一酸睾酮软胶囊说明书.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

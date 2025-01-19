@@ -1,7 +1,7 @@
 # KS_故事-_克氏综合征
 
 <!-- tcd_download_link -->
-下载: [KS_故事-_克氏综合征.pdf](KS_故事-_克氏综合征.pdf)
+下载: <a href="KS_故事-_克氏综合征.pdf" download>KS_故事-_克氏综合征.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

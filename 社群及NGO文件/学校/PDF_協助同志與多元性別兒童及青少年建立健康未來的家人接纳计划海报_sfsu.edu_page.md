@@ -1,7 +1,7 @@
 # PDF_協助同志與多元性別兒童及青少年建立健康未來的家人接纳计划海报_sfsu.edu
 
 <!-- tcd_download_link -->
-下载: [PDF_協助同志與多元性別兒童及青少年建立健康未來的家人接纳计划海报_sfsu.edu.pdf](PDF_協助同志與多元性別兒童及青少年建立健康未來的家人接纳计划海报_sfsu.edu.pdf)
+下载: <a href="PDF_協助同志與多元性別兒童及青少年建立健康未來的家人接纳计划海报_sfsu.edu.pdf" download>PDF_協助同志與多元性別兒童及青少年建立健康未來的家人接纳计划海报_sfsu.edu.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

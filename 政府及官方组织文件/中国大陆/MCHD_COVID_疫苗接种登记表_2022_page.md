@@ -1,7 +1,7 @@
 # MCHD_COVID_疫苗接种登记表_2022
 
 <!-- tcd_download_link -->
-下载: [MCHD_COVID_疫苗接种登记表_2022.pdf](MCHD_COVID_疫苗接种登记表_2022.pdf)
+下载: <a href="MCHD_COVID_疫苗接种登记表_2022.pdf" download>MCHD_COVID_疫苗接种登记表_2022.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

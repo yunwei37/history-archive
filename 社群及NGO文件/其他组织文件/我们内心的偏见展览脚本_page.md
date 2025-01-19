@@ -1,7 +1,7 @@
 # 我们内心的偏见展览脚本
 
 <!-- tcd_download_link -->
-下载: [我们内心的偏见展览脚本.pdf](我们内心的偏见展览脚本.pdf)
+下载: <a href="我们内心的偏见展览脚本.pdf" download>我们内心的偏见展览脚本.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # The_Protection_of_Transgender_Workers_in_China
 
 <!-- tcd_download_link -->
-下载: [The_Protection_of_Transgender_Workers_in_China.pdf](The_Protection_of_Transgender_Workers_in_China.pdf)
+下载: <a href="The_Protection_of_Transgender_Workers_in_China.pdf" download>The_Protection_of_Transgender_Workers_in_China.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # PDF_心理健康与COVID-19
 
 <!-- tcd_download_link -->
-下载: [PDF_心理健康与COVID-19.pdf](PDF_心理健康与COVID-19.pdf)
+下载: <a href="PDF_心理健康与COVID-19.pdf" download>PDF_心理健康与COVID-19.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

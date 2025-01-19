@@ -1,7 +1,7 @@
 # Transgender_health_-_an_opportunity_for_global_health_equity
 
 <!-- tcd_download_link -->
-下载: [Transgender_health_-_an_opportunity_for_global_health_equity.pdf](Transgender_health_-_an_opportunity_for_global_health_equity.pdf)
+下载: <a href="Transgender_health_-_an_opportunity_for_global_health_equity.pdf" download>Transgender_health_-_an_opportunity_for_global_health_equity.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

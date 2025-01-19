@@ -1,7 +1,7 @@
 # Transgender_Marriage_and_the_Legal_Obligation_to_Disclose_Gender_History
 
 <!-- tcd_download_link -->
-下载: [Transgender_Marriage_and_the_Legal_Obligation_to_Disclose_Gender_History.pdf](Transgender_Marriage_and_the_Legal_Obligation_to_Disclose_Gender_History.pdf)
+下载: <a href="Transgender_Marriage_and_the_Legal_Obligation_to_Disclose_Gender_History.pdf" download>Transgender_Marriage_and_the_Legal_Obligation_to_Disclose_Gender_History.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

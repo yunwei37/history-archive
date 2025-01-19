@@ -1,7 +1,7 @@
 # 2023_联合国_LGBTI企业行为准则
 
 <!-- tcd_download_link -->
-下载: [2023_联合国_LGBTI企业行为准则.pdf](2023_联合国_LGBTI企业行为准则.pdf)
+下载: <a href="2023_联合国_LGBTI企业行为准则.pdf" download>2023_联合国_LGBTI企业行为准则.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

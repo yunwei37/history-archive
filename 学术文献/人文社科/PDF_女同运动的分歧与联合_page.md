@@ -1,7 +1,7 @@
 # PDF_女同运动的分歧与联合
 
 <!-- tcd_download_link -->
-下载: [PDF_女同运动的分歧与联合.pdf](PDF_女同运动的分歧与联合.pdf)
+下载: <a href="PDF_女同运动的分歧与联合.pdf" download>PDF_女同运动的分歧与联合.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

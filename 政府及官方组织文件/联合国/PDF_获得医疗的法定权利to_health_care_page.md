@@ -1,7 +1,7 @@
 # PDF_获得医疗的法定权利to_health_care
 
 <!-- tcd_download_link -->
-下载: [PDF_获得医疗的法定权利to_health_care.pdf](PDF_获得医疗的法定权利to_health_care.pdf)
+下载: <a href="PDF_获得医疗的法定权利to_health_care.pdf" download>PDF_获得医疗的法定权利to_health_care.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

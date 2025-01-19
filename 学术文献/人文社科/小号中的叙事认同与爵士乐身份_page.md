@@ -1,7 +1,7 @@
 # 小号中的叙事认同与爵士乐身份
 
 <!-- tcd_download_link -->
-下载: [小号中的叙事认同与爵士乐身份.pdf](小号中的叙事认同与爵士乐身份.pdf)
+下载: <a href="小号中的叙事认同与爵士乐身份.pdf" download>小号中的叙事认同与爵士乐身份.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

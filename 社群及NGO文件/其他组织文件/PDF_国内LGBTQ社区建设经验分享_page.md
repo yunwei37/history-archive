@@ -1,7 +1,7 @@
 # PDF_国内LGBTQ社区建设经验分享
 
 <!-- tcd_download_link -->
-下载: [PDF_国内LGBTQ社区建设经验分享.pdf](PDF_国内LGBTQ社区建设经验分享.pdf)
+下载: <a href="PDF_国内LGBTQ社区建设经验分享.pdf" download>PDF_国内LGBTQ社区建设经验分享.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

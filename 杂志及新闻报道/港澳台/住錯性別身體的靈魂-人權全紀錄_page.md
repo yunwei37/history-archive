@@ -1,7 +1,7 @@
 # 住錯性別身體的靈魂-人權全紀錄
 
 <!-- tcd_download_link -->
-下载: [住錯性別身體的靈魂-人權全紀錄.pdf](住錯性別身體的靈魂-人權全紀錄.pdf)
+下载: <a href="住錯性別身體的靈魂-人權全紀錄.pdf" download>住錯性別身體的靈魂-人權全紀錄.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

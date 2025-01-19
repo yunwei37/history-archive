@@ -1,7 +1,7 @@
 # 劳动仲裁
 
 <!-- tcd_download_link -->
-下载: [劳动仲裁.docx](劳动仲裁.docx)
+下载: <a href="劳动仲裁.docx" download>劳动仲裁.docx</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

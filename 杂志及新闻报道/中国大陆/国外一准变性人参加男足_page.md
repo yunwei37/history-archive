@@ -1,7 +1,7 @@
 # 国外一准变性人参加男足
 
 <!-- tcd_download_link -->
-下载: [国外一准变性人参加男足.PDF](国外一准变性人参加男足.PDF)
+下载: <a href="国外一准变性人参加男足.PDF" download>国外一准变性人参加男足.PDF</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

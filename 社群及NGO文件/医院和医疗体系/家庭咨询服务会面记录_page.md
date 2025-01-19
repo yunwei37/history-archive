@@ -1,7 +1,7 @@
 # 家庭咨询服务会面记录
 
 <!-- tcd_download_link -->
-下载: [家庭咨询服务会面记录.pdf](家庭咨询服务会面记录.pdf)
+下载: <a href="家庭咨询服务会面记录.pdf" download>家庭咨询服务会面记录.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

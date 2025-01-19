@@ -1,7 +1,7 @@
 # PDF_香港愛滋病情況概覽-跨性別人士
 
 <!-- tcd_download_link -->
-下载: [PDF_香港愛滋病情況概覽-跨性別人士.pdf](PDF_香港愛滋病情況概覽-跨性別人士.pdf)
+下载: <a href="PDF_香港愛滋病情況概覽-跨性別人士.pdf" download>PDF_香港愛滋病情況概覽-跨性別人士.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要
