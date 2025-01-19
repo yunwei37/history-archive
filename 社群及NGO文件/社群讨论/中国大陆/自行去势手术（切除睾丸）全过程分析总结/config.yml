@@ -20,6 +20,20 @@ files:
   size: 325544
   md5: 1078d6750dcba0772d1fd366595a7d1c
   page: 10_充实经历记录.jpg
+- name: '11'
+  filename: 11.jpg
+  type: image
+  format: JPEG Image
+  size: 341153
+  md5: c21d9b416d36b715d7b171b73b2778ae
+  page: 11.jpg
+- name: '12'
+  filename: 12.jpg
+  type: image
+  format: JPEG Image
+  size: 356464
+  md5: 6ac12f1b5105d765451c053f77f054d3
+  page: 12.jpg
 - name: 1_观前提醒
   filename: 1_观前提醒.jpg
   type: image
