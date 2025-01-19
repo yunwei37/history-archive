@@ -1,7 +1,7 @@
 # 如何应对扭转治疗——李晓晨
 
 <!-- tcd_download_link -->
-下载: <a href="如何应对扭转治疗——李晓晨.docx" download>如何应对扭转治疗——李晓晨.docx</a>
+下载: <a href="../如何应对扭转治疗——李晓晨.docx" download>如何应对扭转治疗——李晓晨.docx</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

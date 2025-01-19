@@ -1,7 +1,7 @@
 # 术语英文术语及背景知识存在年龄差异的关系Age-disparate
 
 <!-- tcd_download_link -->
-下载: <a href="术语英文术语及背景知识存在年龄差异的关系Age-disparate.pdf" download>术语英文术语及背景知识存在年龄差异的关系Age-disparate.pdf</a>
+下载: <a href="../术语英文术语及背景知识存在年龄差异的关系Age-disparate.pdf" download>术语英文术语及背景知识存在年龄差异的关系Age-disparate.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

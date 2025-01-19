@@ -1,7 +1,7 @@
 # G05_性别重置技术临床应用管理规范
 
 <!-- tcd_download_link -->
-下载: <a href="G05_性别重置技术临床应用管理规范.pdf" download>G05_性别重置技术临床应用管理规范.pdf</a>
+下载: <a href="../G05_性别重置技术临床应用管理规范.pdf" download>G05_性别重置技术临床应用管理规范.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # PDF_LGBTI_包容指数拟议指标
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_LGBTI_包容指数拟议指标.pdf" download>PDF_LGBTI_包容指数拟议指标.pdf</a>
+下载: <a href="../PDF_LGBTI_包容指数拟议指标.pdf" download>PDF_LGBTI_包容指数拟议指标.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

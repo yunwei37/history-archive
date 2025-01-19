@@ -1,7 +1,7 @@
 # Response_of_the_World_Professional_Association_for_Transgender_Health_to_the_Proposed_DSM_5_Criteria_for_Gender_Incongruence
 
 <!-- tcd_download_link -->
-下载: <a href="Response_of_the_World_Professional_Association_for_Transgender_Health_to_the_Proposed_DSM_5_Criteria_for_Gender_Incongruence.pdf" download>Response_of_the_World_Professional_Association_for_Transgender_Health_to_the_Proposed_DSM_5_Criteria_for_Gender_Incongruence.pdf</a>
+下载: <a href="../Response_of_the_World_Professional_Association_for_Transgender_Health_to_the_Proposed_DSM_5_Criteria_for_Gender_Incongruence.pdf" download>Response_of_the_World_Professional_Association_for_Transgender_Health_to_the_Proposed_DSM_5_Criteria_for_Gender_Incongruence.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

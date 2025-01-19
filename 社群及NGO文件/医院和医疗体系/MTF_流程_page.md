@@ -1,7 +1,7 @@
 # MTF_流程
 
 <!-- tcd_download_link -->
-下载: <a href="MTF_流程.pdf" download>MTF_流程.pdf</a>
+下载: <a href="../MTF_流程.pdf" download>MTF_流程.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

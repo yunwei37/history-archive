@@ -1,7 +1,7 @@
 # transgender_peoples_right_to_marry_in_vietnam_and_other
 
 <!-- tcd_download_link -->
-下载: <a href="transgender_peoples_right_to_marry_in_vietnam_and_other.pdf" download>transgender_peoples_right_to_marry_in_vietnam_and_other.pdf</a>
+下载: <a href="../transgender_peoples_right_to_marry_in_vietnam_and_other.pdf" download>transgender_peoples_right_to_marry_in_vietnam_and_other.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

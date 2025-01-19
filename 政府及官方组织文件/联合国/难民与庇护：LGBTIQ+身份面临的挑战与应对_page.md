@@ -1,7 +1,7 @@
 # 难民与庇护：LGBTIQ+身份面临的挑战与应对
 
 <!-- tcd_download_link -->
-下载: <a href="难民与庇护：LGBTIQ+身份面临的挑战与应对.pdf" download>难民与庇护：LGBTIQ+身份面临的挑战与应对.pdf</a>
+下载: <a href="../难民与庇护：LGBTIQ+身份面临的挑战与应对.pdf" download>难民与庇护：LGBTIQ+身份面临的挑战与应对.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

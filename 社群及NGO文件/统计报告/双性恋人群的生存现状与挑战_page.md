@@ -1,7 +1,7 @@
 # 双性恋人群的生存现状与挑战
 
 <!-- tcd_download_link -->
-下载: <a href="双性恋人群的生存现状与挑战.pdf" download>双性恋人群的生存现状与挑战.pdf</a>
+下载: <a href="../双性恋人群的生存现状与挑战.pdf" download>双性恋人群的生存现状与挑战.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

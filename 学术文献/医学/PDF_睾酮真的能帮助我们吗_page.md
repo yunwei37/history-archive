@@ -1,7 +1,7 @@
 # PDF_睾酮真的能帮助我们吗
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_睾酮真的能帮助我们吗.pdf" download>PDF_睾酮真的能帮助我们吗.pdf</a>
+下载: <a href="../PDF_睾酮真的能帮助我们吗.pdf" download>PDF_睾酮真的能帮助我们吗.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

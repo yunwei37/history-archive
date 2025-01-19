@@ -1,7 +1,7 @@
 # 出柜手册-620
 
 <!-- tcd_download_link -->
-下载: <a href="出柜手册-620.pdf" download>出柜手册-620.pdf</a>
+下载: <a href="../出柜手册-620.pdf" download>出柜手册-620.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

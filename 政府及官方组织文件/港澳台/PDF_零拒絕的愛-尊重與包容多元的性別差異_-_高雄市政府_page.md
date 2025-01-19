@@ -1,7 +1,7 @@
 # PDF_零拒絕的愛-尊重與包容多元的性別差異_-_高雄市政府
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_零拒絕的愛-尊重與包容多元的性別差異_-_高雄市政府.pdf" download>PDF_零拒絕的愛-尊重與包容多元的性別差異_-_高雄市政府.pdf</a>
+下载: <a href="../PDF_零拒絕的愛-尊重與包容多元的性別差異_-_高雄市政府.pdf" download>PDF_零拒絕的愛-尊重與包容多元的性別差異_-_高雄市政府.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

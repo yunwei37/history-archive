@@ -1,7 +1,7 @@
 # CareOregon_性别认定护理
 
 <!-- tcd_download_link -->
-下载: <a href="CareOregon_性别认定护理.pdf" download>CareOregon_性别认定护理.pdf</a>
+下载: <a href="../CareOregon_性别认定护理.pdf" download>CareOregon_性别认定护理.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

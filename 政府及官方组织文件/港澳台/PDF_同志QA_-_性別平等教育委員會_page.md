@@ -1,7 +1,7 @@
 # PDF_同志QA_-_性別平等教育委員會
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_同志QA_-_性別平等教育委員會.pdf" download>PDF_同志QA_-_性別平等教育委員會.pdf</a>
+下载: <a href="../PDF_同志QA_-_性別平等教育委員會.pdf" download>PDF_同志QA_-_性別平等教育委員會.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

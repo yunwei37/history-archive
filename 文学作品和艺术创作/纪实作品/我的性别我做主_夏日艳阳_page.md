@@ -1,7 +1,7 @@
 # 我的性别我做主_夏日艳阳
 
 <!-- tcd_download_link -->
-下载: <a href="我的性别我做主_夏日艳阳.pdf" download>我的性别我做主_夏日艳阳.pdf</a>
+下载: <a href="../我的性别我做主_夏日艳阳.pdf" download>我的性别我做主_夏日艳阳.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

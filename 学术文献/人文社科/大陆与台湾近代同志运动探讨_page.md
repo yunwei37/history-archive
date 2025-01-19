@@ -1,7 +1,7 @@
 # 大陆与台湾近代同志运动探讨
 
 <!-- tcd_download_link -->
-下载: <a href="大陆与台湾近代同志运动探讨.pdf" download>大陆与台湾近代同志运动探讨.pdf</a>
+下载: <a href="../大陆与台湾近代同志运动探讨.pdf" download>大陆与台湾近代同志运动探讨.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # PDF_歧视性骚扰_-_OSPI
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_歧视性骚扰_-_OSPI.pdf" download>PDF_歧视性骚扰_-_OSPI.pdf</a>
+下载: <a href="../PDF_歧视性骚扰_-_OSPI.pdf" download>PDF_歧视性骚扰_-_OSPI.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

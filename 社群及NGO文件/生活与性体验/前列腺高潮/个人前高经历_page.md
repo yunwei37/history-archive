@@ -1,7 +1,7 @@
 # 个人前高经历
 
 <!-- tcd_download_link -->
-下载: <a href="个人前高经历.txt" download>个人前高经历.txt</a>
+下载: <a href="../个人前高经历.txt" download>个人前高经历.txt</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

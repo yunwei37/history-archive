@@ -1,7 +1,7 @@
 # 跨性别组织现状第二版
 
 <!-- tcd_download_link -->
-下载: <a href="跨性别组织现状第二版.pdf" download>跨性别组织现状第二版.pdf</a>
+下载: <a href="../跨性别组织现状第二版.pdf" download>跨性别组织现状第二版.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

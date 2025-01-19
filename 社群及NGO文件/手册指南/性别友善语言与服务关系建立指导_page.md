@@ -1,7 +1,7 @@
 # 性别友善语言与服务关系建立指导
 
 <!-- tcd_download_link -->
-下载: <a href="性别友善语言与服务关系建立指导.pdf" download>性别友善语言与服务关系建立指导.pdf</a>
+下载: <a href="../性别友善语言与服务关系建立指导.pdf" download>性别友善语言与服务关系建立指导.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

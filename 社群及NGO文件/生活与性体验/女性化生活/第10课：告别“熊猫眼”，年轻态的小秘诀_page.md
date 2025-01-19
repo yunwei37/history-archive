@@ -1,7 +1,7 @@
 # 第10课：告别“熊猫眼”，年轻态的小秘诀
 
 <!-- tcd_download_link -->
-下载: <a href="第10课：告别“熊猫眼”，年轻态的小秘诀.pdf" download>第10课：告别“熊猫眼”，年轻态的小秘诀.pdf</a>
+下载: <a href="../第10课：告别“熊猫眼”，年轻态的小秘诀.pdf" download>第10课：告别“熊猫眼”，年轻态的小秘诀.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

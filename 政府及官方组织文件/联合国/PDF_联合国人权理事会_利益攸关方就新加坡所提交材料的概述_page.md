@@ -1,7 +1,7 @@
 # PDF_联合国人权理事会_利益攸关方就新加坡所提交材料的概述
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_联合国人权理事会_利益攸关方就新加坡所提交材料的概述.pdf" download>PDF_联合国人权理事会_利益攸关方就新加坡所提交材料的概述.pdf</a>
+下载: <a href="../PDF_联合国人权理事会_利益攸关方就新加坡所提交材料的概述.pdf" download>PDF_联合国人权理事会_利益攸关方就新加坡所提交材料的概述.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # PDF_双性INTERSEX_-_ohchr_概况介绍_联合国
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_双性INTERSEX_-_ohchr_概况介绍_联合国.pdf" download>PDF_双性INTERSEX_-_ohchr_概况介绍_联合国.pdf</a>
+下载: <a href="../PDF_双性INTERSEX_-_ohchr_概况介绍_联合国.pdf" download>PDF_双性INTERSEX_-_ohchr_概况介绍_联合国.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

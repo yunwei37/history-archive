@@ -1,7 +1,7 @@
 # 变性手术算病假_整容手术算病假吗
 
 <!-- tcd_download_link -->
-下载: <a href="变性手术算病假_整容手术算病假吗.pdf" download>变性手术算病假_整容手术算病假吗.pdf</a>
+下载: <a href="../变性手术算病假_整容手术算病假吗.pdf" download>变性手术算病假_整容手术算病假吗.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

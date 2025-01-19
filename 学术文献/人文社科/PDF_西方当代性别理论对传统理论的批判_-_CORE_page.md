@@ -1,7 +1,7 @@
 # PDF_西方当代性别理论对传统理论的批判_-_CORE
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_西方当代性别理论对传统理论的批判_-_CORE.pdf" download>PDF_西方当代性别理论对传统理论的批判_-_CORE.pdf</a>
+下载: <a href="../PDF_西方当代性别理论对传统理论的批判_-_CORE.pdf" download>PDF_西方当代性别理论对传统理论的批判_-_CORE.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

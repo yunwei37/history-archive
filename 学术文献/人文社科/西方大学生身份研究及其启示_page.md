@@ -1,7 +1,7 @@
 # 西方大学生身份研究及其启示
 
 <!-- tcd_download_link -->
-下载: <a href="西方大学生身份研究及其启示.pdf" download>西方大学生身份研究及其启示.pdf</a>
+下载: <a href="../西方大学生身份研究及其启示.pdf" download>西方大学生身份研究及其启示.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

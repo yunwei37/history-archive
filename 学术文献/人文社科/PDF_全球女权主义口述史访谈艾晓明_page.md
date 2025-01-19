@@ -1,7 +1,7 @@
 # PDF_全球女权主义口述史访谈艾晓明
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_全球女权主义口述史访谈艾晓明.pdf" download>PDF_全球女权主义口述史访谈艾晓明.pdf</a>
+下载: <a href="../PDF_全球女权主义口述史访谈艾晓明.pdf" download>PDF_全球女权主义口述史访谈艾晓明.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

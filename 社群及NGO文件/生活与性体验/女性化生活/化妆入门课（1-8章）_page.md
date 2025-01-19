@@ -1,7 +1,7 @@
 # 化妆入门课（1-8章）
 
 <!-- tcd_download_link -->
-下载: <a href="化妆入门课（1-8章）.pdf" download>化妆入门课（1-8章）.pdf</a>
+下载: <a href="../化妆入门课（1-8章）.pdf" download>化妆入门课（1-8章）.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 伪娘的一年自我调教任务
 
 <!-- tcd_download_link -->
-下载: <a href="伪娘的一年自我调教任务.txt" download>伪娘的一年自我调教任务.txt</a>
+下载: <a href="../伪娘的一年自我调教任务.txt" download>伪娘的一年自我调教任务.txt</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

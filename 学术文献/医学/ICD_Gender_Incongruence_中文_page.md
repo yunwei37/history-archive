@@ -1,7 +1,7 @@
 # ICD_Gender_Incongruence_中文
 
 <!-- tcd_download_link -->
-下载: <a href="ICD_Gender_Incongruence_中文.docx" download>ICD_Gender_Incongruence_中文.docx</a>
+下载: <a href="../ICD_Gender_Incongruence_中文.docx" download>ICD_Gender_Incongruence_中文.docx</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

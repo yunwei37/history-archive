@@ -1,7 +1,7 @@
 # 北医三院易性症序列医疗团队
 
 <!-- tcd_download_link -->
-下载: <a href="北医三院易性症序列医疗团队.pdf" download>北医三院易性症序列医疗团队.pdf</a>
+下载: <a href="../北医三院易性症序列医疗团队.pdf" download>北医三院易性症序列医疗团队.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

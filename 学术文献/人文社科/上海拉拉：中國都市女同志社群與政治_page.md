@@ -1,7 +1,7 @@
 # 上海拉拉：中國都市女同志社群與政治
 
 <!-- tcd_download_link -->
-下载: <a href="上海拉拉：中國都市女同志社群與政治.pdf" download>上海拉拉：中國都市女同志社群與政治.pdf</a>
+下载: <a href="../上海拉拉：中國都市女同志社群與政治.pdf" download>上海拉拉：中國都市女同志社群與政治.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

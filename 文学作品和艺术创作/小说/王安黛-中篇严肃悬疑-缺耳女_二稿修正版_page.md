@@ -1,7 +1,7 @@
 # 王安黛-中篇严肃悬疑-缺耳女_二稿修正版
 
 <!-- tcd_download_link -->
-下载: <a href="王安黛-中篇严肃悬疑-缺耳女_二稿修正版.docx" download>王安黛-中篇严肃悬疑-缺耳女_二稿修正版.docx</a>
+下载: <a href="../王安黛-中篇严肃悬疑-缺耳女_二稿修正版.docx" download>王安黛-中篇严肃悬疑-缺耳女_二稿修正版.docx</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

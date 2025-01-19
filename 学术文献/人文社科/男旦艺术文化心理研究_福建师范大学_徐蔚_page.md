@@ -1,7 +1,7 @@
 # 男旦艺术文化心理研究_福建师范大学_徐蔚
 
 <!-- tcd_download_link -->
-下载: <a href="男旦艺术文化心理研究_福建师范大学_徐蔚.pdf" download>男旦艺术文化心理研究_福建师范大学_徐蔚.pdf</a>
+下载: <a href="../男旦艺术文化心理研究_福建师范大学_徐蔚.pdf" download>男旦艺术文化心理研究_福建师范大学_徐蔚.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 我国心理健康研究现状的文献计量学分析
 
 <!-- tcd_download_link -->
-下载: <a href="我国心理健康研究现状的文献计量学分析.pdf" download>我国心理健康研究现状的文献计量学分析.pdf</a>
+下载: <a href="../我国心理健康研究现状的文献计量学分析.pdf" download>我国心理健康研究现状的文献计量学分析.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

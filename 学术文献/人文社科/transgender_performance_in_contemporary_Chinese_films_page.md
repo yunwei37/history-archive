@@ -1,7 +1,7 @@
 # transgender_performance_in_contemporary_Chinese_films
 
 <!-- tcd_download_link -->
-下载: <a href="transgender_performance_in_contemporary_Chinese_films.pdf" download>transgender_performance_in_contemporary_Chinese_films.pdf</a>
+下载: <a href="../transgender_performance_in_contemporary_Chinese_films.pdf" download>transgender_performance_in_contemporary_Chinese_films.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # limelight社群历程与发展记录
 
 <!-- tcd_download_link -->
-下载: <a href="limelight社群历程与发展记录.pdf" download>limelight社群历程与发展记录.pdf</a>
+下载: <a href="../limelight社群历程与发展记录.pdf" download>limelight社群历程与发展记录.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

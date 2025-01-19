@@ -1,7 +1,7 @@
 # 我的跨性别孩子-_父母手册上册
 
 <!-- tcd_download_link -->
-下载: <a href="我的跨性别孩子-_父母手册上册.pdf" download>我的跨性别孩子-_父母手册上册.pdf</a>
+下载: <a href="../我的跨性别孩子-_父母手册上册.pdf" download>我的跨性别孩子-_父母手册上册.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

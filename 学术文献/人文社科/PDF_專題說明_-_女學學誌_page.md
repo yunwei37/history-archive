@@ -1,7 +1,7 @@
 # PDF_專題說明_-_女學學誌
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_專題說明_-_女學學誌.pdf" download>PDF_專題說明_-_女學學誌.pdf</a>
+下载: <a href="../PDF_專題說明_-_女學學誌.pdf" download>PDF_專題說明_-_女學學誌.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

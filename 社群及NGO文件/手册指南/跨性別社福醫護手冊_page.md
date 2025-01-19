@@ -1,7 +1,7 @@
 # 跨性別社福醫護手冊
 
 <!-- tcd_download_link -->
-下载: <a href="跨性別社福醫護手冊.pdf" download>跨性別社福醫護手冊.pdf</a>
+下载: <a href="../跨性別社福醫護手冊.pdf" download>跨性別社福醫護手冊.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

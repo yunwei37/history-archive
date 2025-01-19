@@ -1,7 +1,7 @@
 # 公众对变性人士权利的看法_中国_-_Williams_Institute
 
 <!-- tcd_download_link -->
-下载: <a href="公众对变性人士权利的看法_中国_-_Williams_Institute.pdf" download>公众对变性人士权利的看法_中国_-_Williams_Institute.pdf</a>
+下载: <a href="../公众对变性人士权利的看法_中国_-_Williams_Institute.pdf" download>公众对变性人士权利的看法_中国_-_Williams_Institute.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

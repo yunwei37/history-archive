@@ -1,7 +1,7 @@
 # 拯救可橙：被父母强送矫治的跨性别者
 
 <!-- tcd_download_link -->
-下载: <a href="拯救可橙：被父母强送矫治的跨性别者.pdf" download>拯救可橙：被父母强送矫治的跨性别者.pdf</a>
+下载: <a href="../拯救可橙：被父母强送矫治的跨性别者.pdf" download>拯救可橙：被父母强送矫治的跨性别者.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

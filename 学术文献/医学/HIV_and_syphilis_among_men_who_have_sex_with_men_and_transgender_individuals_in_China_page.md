@@ -1,7 +1,7 @@
 # HIV_and_syphilis_among_men_who_have_sex_with_men_and_transgender_individuals_in_China
 
 <!-- tcd_download_link -->
-下载: <a href="HIV_and_syphilis_among_men_who_have_sex_with_men_and_transgender_individuals_in_China.pdf" download>HIV_and_syphilis_among_men_who_have_sex_with_men_and_transgender_individuals_in_China.pdf</a>
+下载: <a href="../HIV_and_syphilis_among_men_who_have_sex_with_men_and_transgender_individuals_in_China.pdf" download>HIV_and_syphilis_among_men_who_have_sex_with_men_and_transgender_individuals_in_China.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

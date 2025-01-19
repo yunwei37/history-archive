@@ -1,7 +1,7 @@
 # 24_Transgender_in_China
 
 <!-- tcd_download_link -->
-下载: <a href="24_Transgender_in_China.pdf" download>24_Transgender_in_China.pdf</a>
+下载: <a href="../24_Transgender_in_China.pdf" download>24_Transgender_in_China.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

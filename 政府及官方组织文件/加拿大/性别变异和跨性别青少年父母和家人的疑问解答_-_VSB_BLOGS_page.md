@@ -1,7 +1,7 @@
 # 性别变异和跨性别青少年父母和家人的疑问解答_-_VSB_BLOGS
 
 <!-- tcd_download_link -->
-下载: <a href="性别变异和跨性别青少年父母和家人的疑问解答_-_VSB_BLOGS.pdf" download>性别变异和跨性别青少年父母和家人的疑问解答_-_VSB_BLOGS.pdf</a>
+下载: <a href="../性别变异和跨性别青少年父母和家人的疑问解答_-_VSB_BLOGS.pdf" download>性别变异和跨性别青少年父母和家人的疑问解答_-_VSB_BLOGS.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

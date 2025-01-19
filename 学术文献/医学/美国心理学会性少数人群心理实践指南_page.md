@@ -1,7 +1,7 @@
 # 美国心理学会性少数人群心理实践指南
 
 <!-- tcd_download_link -->
-下载: <a href="美国心理学会性少数人群心理实践指南.pdf" download>美国心理学会性少数人群心理实践指南.pdf</a>
+下载: <a href="../美国心理学会性少数人群心理实践指南.pdf" download>美国心理学会性少数人群心理实践指南.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

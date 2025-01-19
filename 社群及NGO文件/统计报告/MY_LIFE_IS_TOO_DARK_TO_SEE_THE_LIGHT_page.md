@@ -1,7 +1,7 @@
 # MY_LIFE_IS_TOO_DARK_TO_SEE_THE_LIGHT
 
 <!-- tcd_download_link -->
-下载: <a href="MY_LIFE_IS_TOO_DARK_TO_SEE_THE_LIGHT.pdf" download>MY_LIFE_IS_TOO_DARK_TO_SEE_THE_LIGHT.pdf</a>
+下载: <a href="../MY_LIFE_IS_TOO_DARK_TO_SEE_THE_LIGHT.pdf" download>MY_LIFE_IS_TOO_DARK_TO_SEE_THE_LIGHT.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

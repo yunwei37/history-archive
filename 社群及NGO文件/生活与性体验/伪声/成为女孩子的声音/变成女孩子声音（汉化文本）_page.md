@@ -1,7 +1,7 @@
 # 变成女孩子声音（汉化文本）
 
 <!-- tcd_download_link -->
-下载: <a href="变成女孩子声音（汉化文本）.txt" download>变成女孩子声音（汉化文本）.txt</a>
+下载: <a href="../变成女孩子声音（汉化文本）.txt" download>变成女孩子声音（汉化文本）.txt</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

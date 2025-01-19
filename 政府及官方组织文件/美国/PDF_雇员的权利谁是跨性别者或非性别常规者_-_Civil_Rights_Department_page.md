@@ -1,7 +1,7 @@
 # PDF_雇员的权利谁是跨性别者或非性别常规者_-_Civil_Rights_Department
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_雇员的权利谁是跨性别者或非性别常规者_-_Civil_Rights_Department.pdf" download>PDF_雇员的权利谁是跨性别者或非性别常规者_-_Civil_Rights_Department.pdf</a>
+下载: <a href="../PDF_雇员的权利谁是跨性别者或非性别常规者_-_Civil_Rights_Department.pdf" download>PDF_雇员的权利谁是跨性别者或非性别常规者_-_Civil_Rights_Department.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

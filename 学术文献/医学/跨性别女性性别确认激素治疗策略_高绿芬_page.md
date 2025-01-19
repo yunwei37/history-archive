@@ -1,7 +1,7 @@
 # 跨性别女性性别确认激素治疗策略_高绿芬
 
 <!-- tcd_download_link -->
-下载: <a href="跨性别女性性别确认激素治疗策略_高绿芬.pdf" download>跨性别女性性别确认激素治疗策略_高绿芬.pdf</a>
+下载: <a href="../跨性别女性性别确认激素治疗策略_高绿芬.pdf" download>跨性别女性性别确认激素治疗策略_高绿芬.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

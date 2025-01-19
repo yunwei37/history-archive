@@ -1,7 +1,7 @@
 # Transgender_people:_health_at_the_margins_of_society_-_Winter_et_al-2016
 
 <!-- tcd_download_link -->
-下载: <a href="Transgender_people:_health_at_the_margins_of_society_-_Winter_et_al-2016.pdf" download>Transgender_people:_health_at_the_margins_of_society_-_Winter_et_al-2016.pdf</a>
+下载: <a href="../Transgender_people:_health_at_the_margins_of_society_-_Winter_et_al-2016.pdf" download>Transgender_people:_health_at_the_margins_of_society_-_Winter_et_al-2016.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

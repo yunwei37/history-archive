@@ -1,7 +1,7 @@
 # The_relationship_between_non-suicidal_self-injury_and_childhood_abuse_in_transgender_people
 
 <!-- tcd_download_link -->
-下载: <a href="The_relationship_between_non-suicidal_self-injury_and_childhood_abuse_in_transgender_people.pdf" download>The_relationship_between_non-suicidal_self-injury_and_childhood_abuse_in_transgender_people.pdf</a>
+下载: <a href="../The_relationship_between_non-suicidal_self-injury_and_childhood_abuse_in_transgender_people.pdf" download>The_relationship_between_non-suicidal_self-injury_and_childhood_abuse_in_transgender_people.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

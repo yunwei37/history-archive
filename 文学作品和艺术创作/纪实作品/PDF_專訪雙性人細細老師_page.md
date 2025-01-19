@@ -1,7 +1,7 @@
 # PDF_專訪雙性人細細老師
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_專訪雙性人細細老師.pdf" download>PDF_專訪雙性人細細老師.pdf</a>
+下载: <a href="../PDF_專訪雙性人細細老師.pdf" download>PDF_專訪雙性人細細老師.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

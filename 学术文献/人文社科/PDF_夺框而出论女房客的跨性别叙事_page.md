@@ -1,7 +1,7 @@
 # PDF_夺框而出论女房客的跨性别叙事
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_夺框而出论女房客的跨性别叙事.pdf" download>PDF_夺框而出论女房客的跨性别叙事.pdf</a>
+下载: <a href="../PDF_夺框而出论女房客的跨性别叙事.pdf" download>PDF_夺框而出论女房客的跨性别叙事.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

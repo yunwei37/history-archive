@@ -1,7 +1,7 @@
 # 易性癖外科治疗八例_杨东
 
 <!-- tcd_download_link -->
-下载: <a href="易性癖外科治疗八例_杨东.pdf" download>易性癖外科治疗八例_杨东.pdf</a>
+下载: <a href="../易性癖外科治疗八例_杨东.pdf" download>易性癖外科治疗八例_杨东.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

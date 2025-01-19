@@ -1,7 +1,7 @@
 # Report_on_The_Mental_Health_of_LGBT_People_in_China
 
 <!-- tcd_download_link -->
-下载: <a href="Report_on_The_Mental_Health_of_LGBT_People_in_China.pdf" download>Report_on_The_Mental_Health_of_LGBT_People_in_China.pdf</a>
+下载: <a href="../Report_on_The_Mental_Health_of_LGBT_People_in_China.pdf" download>Report_on_The_Mental_Health_of_LGBT_People_in_China.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

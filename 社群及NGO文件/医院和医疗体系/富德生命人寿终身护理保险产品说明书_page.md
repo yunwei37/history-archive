@@ -1,7 +1,7 @@
 # 富德生命人寿终身护理保险产品说明书
 
 <!-- tcd_download_link -->
-下载: <a href="富德生命人寿终身护理保险产品说明书.pdf" download>富德生命人寿终身护理保险产品说明书.pdf</a>
+下载: <a href="../富德生命人寿终身护理保险产品说明书.pdf" download>富德生命人寿终身护理保险产品说明书.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

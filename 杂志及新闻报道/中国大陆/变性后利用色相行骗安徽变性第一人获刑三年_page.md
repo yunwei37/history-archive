@@ -1,7 +1,7 @@
 # 变性后利用色相行骗安徽变性第一人获刑三年
 
 <!-- tcd_download_link -->
-下载: <a href="变性后利用色相行骗安徽变性第一人获刑三年.pdf" download>变性后利用色相行骗安徽变性第一人获刑三年.pdf</a>
+下载: <a href="../变性后利用色相行骗安徽变性第一人获刑三年.pdf" download>变性后利用色相行骗安徽变性第一人获刑三年.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

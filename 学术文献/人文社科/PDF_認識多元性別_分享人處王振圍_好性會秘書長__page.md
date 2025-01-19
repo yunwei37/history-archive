@@ -1,7 +1,7 @@
 # PDF_認識多元性別_分享人處王振圍_好性會秘書長_
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_認識多元性別_分享人處王振圍_好性會秘書長_.pdf" download>PDF_認識多元性別_分享人處王振圍_好性會秘書長_.pdf</a>
+下载: <a href="../PDF_認識多元性別_分享人處王振圍_好性會秘書長_.pdf" download>PDF_認識多元性別_分享人處王振圍_好性會秘書長_.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

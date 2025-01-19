@@ -1,7 +1,7 @@
 # 成瘾_21_世纪的流行病
 
 <!-- tcd_download_link -->
-下载: <a href="成瘾_21_世纪的流行病.pdf" download>成瘾_21_世纪的流行病.pdf</a>
+下载: <a href="../成瘾_21_世纪的流行病.pdf" download>成瘾_21_世纪的流行病.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

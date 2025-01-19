@@ -1,7 +1,7 @@
 # Mountain_Valley_Health_Plan_非歧视通知
 
 <!-- tcd_download_link -->
-下载: <a href="Mountain_Valley_Health_Plan_非歧视通知.pdf" download>Mountain_Valley_Health_Plan_非歧视通知.pdf</a>
+下载: <a href="../Mountain_Valley_Health_Plan_非歧视通知.pdf" download>Mountain_Valley_Health_Plan_非歧视通知.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

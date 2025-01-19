@@ -1,7 +1,7 @@
 # 远大医药集团人权与多元化政策报告
 
 <!-- tcd_download_link -->
-下载: <a href="远大医药集团人权与多元化政策报告.pdf" download>远大医药集团人权与多元化政策报告.pdf</a>
+下载: <a href="../远大医药集团人权与多元化政策报告.pdf" download>远大医药集团人权与多元化政策报告.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

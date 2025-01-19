@@ -1,7 +1,7 @@
 # PDF_心理健康资源_portland_public_schools
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_心理健康资源_portland_public_schools.pdf" download>PDF_心理健康资源_portland_public_schools.pdf</a>
+下载: <a href="../PDF_心理健康资源_portland_public_schools.pdf" download>PDF_心理健康资源_portland_public_schools.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

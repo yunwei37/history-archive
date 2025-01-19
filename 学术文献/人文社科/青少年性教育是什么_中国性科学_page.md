@@ -1,7 +1,7 @@
 # 青少年性教育是什么_中国性科学
 
 <!-- tcd_download_link -->
-下载: <a href="青少年性教育是什么_中国性科学.pdf" download>青少年性教育是什么_中国性科学.pdf</a>
+下载: <a href="../青少年性教育是什么_中国性科学.pdf" download>青少年性教育是什么_中国性科学.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

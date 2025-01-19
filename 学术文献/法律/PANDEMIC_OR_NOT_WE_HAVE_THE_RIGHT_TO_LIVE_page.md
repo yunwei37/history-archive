@@ -1,7 +1,7 @@
 # PANDEMIC_OR_NOT_WE_HAVE_THE_RIGHT_TO_LIVE
 
 <!-- tcd_download_link -->
-下载: <a href="PANDEMIC_OR_NOT_WE_HAVE_THE_RIGHT_TO_LIVE.pdf" download>PANDEMIC_OR_NOT_WE_HAVE_THE_RIGHT_TO_LIVE.pdf</a>
+下载: <a href="../PANDEMIC_OR_NOT_WE_HAVE_THE_RIGHT_TO_LIVE.pdf" download>PANDEMIC_OR_NOT_WE_HAVE_THE_RIGHT_TO_LIVE.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

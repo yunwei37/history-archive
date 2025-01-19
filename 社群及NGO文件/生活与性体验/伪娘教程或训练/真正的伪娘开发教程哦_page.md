@@ -1,7 +1,7 @@
 # 真正的伪娘开发教程哦
 
 <!-- tcd_download_link -->
-下载: <a href="真正的伪娘开发教程哦.txt" download>真正的伪娘开发教程哦.txt</a>
+下载: <a href="../真正的伪娘开发教程哦.txt" download>真正的伪娘开发教程哦.txt</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

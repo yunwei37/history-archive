@@ -1,7 +1,7 @@
 # Mainland_Chinas_TERFs_Misogyny_Under_JK_Rowlings
 
 <!-- tcd_download_link -->
-下载: <a href="Mainland_Chinas_TERFs_Misogyny_Under_JK_Rowlings.pdf" download>Mainland_Chinas_TERFs_Misogyny_Under_JK_Rowlings.pdf</a>
+下载: <a href="../Mainland_Chinas_TERFs_Misogyny_Under_JK_Rowlings.pdf" download>Mainland_Chinas_TERFs_Misogyny_Under_JK_Rowlings.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

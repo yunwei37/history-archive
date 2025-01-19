@@ -1,7 +1,7 @@
 # 中国跨性别群体-_生存现状调查报告
 
 <!-- tcd_download_link -->
-下载: <a href="中国跨性别群体-_生存现状调查报告.pdf" download>中国跨性别群体-_生存现状调查报告.pdf</a>
+下载: <a href="../中国跨性别群体-_生存现状调查报告.pdf" download>中国跨性别群体-_生存现状调查报告.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

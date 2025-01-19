@@ -1,7 +1,7 @@
 # 2022年青少年COVID-19疫苗接种登记表
 
 <!-- tcd_download_link -->
-下载: <a href="2022年青少年COVID-19疫苗接种登记表.pdf" download>2022年青少年COVID-19疫苗接种登记表.pdf</a>
+下载: <a href="../2022年青少年COVID-19疫苗接种登记表.pdf" download>2022年青少年COVID-19疫苗接种登记表.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

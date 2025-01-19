@@ -1,7 +1,7 @@
 # 2020年迈克尔·尤因印度尼西亚LGBT应用影响研究
 
 <!-- tcd_download_link -->
-下载: <a href="2020年迈克尔·尤因印度尼西亚LGBT应用影响研究.pdf" download>2020年迈克尔·尤因印度尼西亚LGBT应用影响研究.pdf</a>
+下载: <a href="../2020年迈克尔·尤因印度尼西亚LGBT应用影响研究.pdf" download>2020年迈克尔·尤因印度尼西亚LGBT应用影响研究.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

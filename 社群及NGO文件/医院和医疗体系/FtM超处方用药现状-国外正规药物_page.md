@@ -1,7 +1,7 @@
 # FtM超处方用药现状-国外正规药物
 
 <!-- tcd_download_link -->
-下载: <a href="FtM超处方用药现状-国外正规药物.pdf" download>FtM超处方用药现状-国外正规药物.pdf</a>
+下载: <a href="../FtM超处方用药现状-国外正规药物.pdf" download>FtM超处方用药现状-国外正规药物.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

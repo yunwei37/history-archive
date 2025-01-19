@@ -1,7 +1,7 @@
 # 曼谷雨变性医生简介
 
 <!-- tcd_download_link -->
-下载: <a href="曼谷雨变性医生简介.docx" download>曼谷雨变性医生简介.docx</a>
+下载: <a href="../曼谷雨变性医生简介.docx" download>曼谷雨变性医生简介.docx</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

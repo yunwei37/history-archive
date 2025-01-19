@@ -1,7 +1,7 @@
 # 性别认同障碍
 
 <!-- tcd_download_link -->
-下载: <a href="性别认同障碍.doc" download>性别认同障碍.doc</a>
+下载: <a href="../性别认同障碍.doc" download>性别认同障碍.doc</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

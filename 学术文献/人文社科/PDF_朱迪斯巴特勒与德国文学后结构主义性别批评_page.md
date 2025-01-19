@@ -1,7 +1,7 @@
 # PDF_朱迪斯巴特勒与德国文学后结构主义性别批评
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_朱迪斯巴特勒与德国文学后结构主义性别批评.pdf" download>PDF_朱迪斯巴特勒与德国文学后结构主义性别批评.pdf</a>
+下载: <a href="../PDF_朱迪斯巴特勒与德国文学后结构主义性别批评.pdf" download>PDF_朱迪斯巴特勒与德国文学后结构主义性别批评.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

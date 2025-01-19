@@ -1,7 +1,7 @@
 # 基督徒医学联谊会_性别意识障碍
 
 <!-- tcd_download_link -->
-下载: <a href="基督徒医学联谊会_性别意识障碍.pdf" download>基督徒医学联谊会_性别意识障碍.pdf</a>
+下载: <a href="../基督徒医学联谊会_性别意识障碍.pdf" download>基督徒医学联谊会_性别意识障碍.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

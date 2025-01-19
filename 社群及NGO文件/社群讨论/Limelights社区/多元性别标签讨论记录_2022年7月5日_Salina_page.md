@@ -1,7 +1,7 @@
 # 多元性别标签讨论记录_2022年7月5日_Salina
 
 <!-- tcd_download_link -->
-下载: <a href="多元性别标签讨论记录_2022年7月5日_Salina.pdf" download>多元性别标签讨论记录_2022年7月5日_Salina.pdf</a>
+下载: <a href="../多元性别标签讨论记录_2022年7月5日_Salina.pdf" download>多元性别标签讨论记录_2022年7月5日_Salina.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

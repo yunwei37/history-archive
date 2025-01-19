@@ -1,7 +1,7 @@
 # PDF_联合国人口基金和联合国项目事务署执行局
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_联合国人口基金和联合国项目事务署执行局.pdf" download>PDF_联合国人口基金和联合国项目事务署执行局.pdf</a>
+下载: <a href="../PDF_联合国人口基金和联合国项目事务署执行局.pdf" download>PDF_联合国人口基金和联合国项目事务署执行局.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

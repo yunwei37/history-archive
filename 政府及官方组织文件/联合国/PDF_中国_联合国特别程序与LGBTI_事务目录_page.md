@@ -1,7 +1,7 @@
 # PDF_中国_联合国特别程序与LGBTI_事务目录
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_中国_联合国特别程序与LGBTI_事务目录.pdf" download>PDF_中国_联合国特别程序与LGBTI_事务目录.pdf</a>
+下载: <a href="../PDF_中国_联合国特别程序与LGBTI_事务目录.pdf" download>PDF_中国_联合国特别程序与LGBTI_事务目录.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 跨性别者生存现状
 
 <!-- tcd_download_link -->
-下载: <a href="跨性别者生存现状.pdf" download>跨性别者生存现状.pdf</a>
+下载: <a href="../跨性别者生存现状.pdf" download>跨性别者生存现状.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

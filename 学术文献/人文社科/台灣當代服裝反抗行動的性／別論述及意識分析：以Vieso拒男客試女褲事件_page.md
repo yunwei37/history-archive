@@ -1,7 +1,7 @@
 # 台灣當代服裝反抗行動的性／別論述及意識分析：以Vieso拒男客試女褲事件
 
 <!-- tcd_download_link -->
-下载: <a href="台灣當代服裝反抗行動的性／別論述及意識分析：以Vieso拒男客試女褲事件.pdf" download>台灣當代服裝反抗行動的性／別論述及意識分析：以Vieso拒男客試女褲事件.pdf</a>
+下载: <a href="../台灣當代服裝反抗行動的性／別論述及意識分析：以Vieso拒男客試女褲事件.pdf" download>台灣當代服裝反抗行動的性／別論述及意識分析：以Vieso拒男客試女褲事件.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

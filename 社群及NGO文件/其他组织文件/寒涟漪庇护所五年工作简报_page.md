@@ -1,7 +1,7 @@
 # 寒涟漪庇护所五年工作简报
 
 <!-- tcd_download_link -->
-下载: <a href="寒涟漪庇护所五年工作简报.pdf" download>寒涟漪庇护所五年工作简报.pdf</a>
+下载: <a href="../寒涟漪庇护所五年工作简报.pdf" download>寒涟漪庇护所五年工作简报.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

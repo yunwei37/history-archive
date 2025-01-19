@@ -1,7 +1,7 @@
 # 他们在家门口书写生命终章
 
 <!-- tcd_download_link -->
-下载: <a href="他们在家门口书写生命终章.pdf" download>他们在家门口书写生命终章.pdf</a>
+下载: <a href="../他们在家门口书写生命终章.pdf" download>他们在家门口书写生命终章.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 跨性别群体抑郁、焦虑与防御机制研究
 
 <!-- tcd_download_link -->
-下载: <a href="跨性别群体抑郁、焦虑与防御机制研究.pdf" download>跨性别群体抑郁、焦虑与防御机制研究.pdf</a>
+下载: <a href="../跨性别群体抑郁、焦虑与防御机制研究.pdf" download>跨性别群体抑郁、焦虑与防御机制研究.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 论社会性别理论视域下的女性研究及其争论
 
 <!-- tcd_download_link -->
-下载: <a href="论社会性别理论视域下的女性研究及其争论.pdf" download>论社会性别理论视域下的女性研究及其争论.pdf</a>
+下载: <a href="../论社会性别理论视域下的女性研究及其争论.pdf" download>论社会性别理论视域下的女性研究及其争论.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

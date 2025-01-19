@@ -1,7 +1,7 @@
 # PC肌收缩分解教程
 
 <!-- tcd_download_link -->
-下载: <a href="PC肌收缩分解教程.pdf" download>PC肌收缩分解教程.pdf</a>
+下载: <a href="../PC肌收缩分解教程.pdf" download>PC肌收缩分解教程.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

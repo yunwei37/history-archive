@@ -1,7 +1,7 @@
 # 变性手术患者的心理护理
 
 <!-- tcd_download_link -->
-下载: <a href="变性手术患者的心理护理.pdf" download>变性手术患者的心理护理.pdf</a>
+下载: <a href="../变性手术患者的心理护理.pdf" download>变性手术患者的心理护理.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

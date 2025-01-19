@@ -1,7 +1,7 @@
 # 性少数人群的心理健康理论模型与研究取向
 
 <!-- tcd_download_link -->
-下载: <a href="性少数人群的心理健康理论模型与研究取向.pdf" download>性少数人群的心理健康理论模型与研究取向.pdf</a>
+下载: <a href="../性少数人群的心理健康理论模型与研究取向.pdf" download>性少数人群的心理健康理论模型与研究取向.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

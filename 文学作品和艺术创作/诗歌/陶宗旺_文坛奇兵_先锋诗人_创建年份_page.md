@@ -1,7 +1,7 @@
 # 陶宗旺_文坛奇兵_先锋诗人_创建年份
 
 <!-- tcd_download_link -->
-下载: <a href="陶宗旺_文坛奇兵_先锋诗人_创建年份.pdf" download>陶宗旺_文坛奇兵_先锋诗人_创建年份.pdf</a>
+下载: <a href="../陶宗旺_文坛奇兵_先锋诗人_创建年份.pdf" download>陶宗旺_文坛奇兵_先锋诗人_创建年份.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

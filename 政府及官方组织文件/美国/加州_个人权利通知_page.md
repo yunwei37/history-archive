@@ -1,7 +1,7 @@
 # 加州_个人权利通知
 
 <!-- tcd_download_link -->
-下载: <a href="加州_个人权利通知.pdf" download>加州_个人权利通知.pdf</a>
+下载: <a href="../加州_个人权利通知.pdf" download>加州_个人权利通知.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

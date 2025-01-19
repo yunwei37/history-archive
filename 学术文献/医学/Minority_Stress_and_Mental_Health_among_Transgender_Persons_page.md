@@ -1,7 +1,7 @@
 # Minority_Stress_and_Mental_Health_among_Transgender_Persons
 
 <!-- tcd_download_link -->
-下载: <a href="Minority_Stress_and_Mental_Health_among_Transgender_Persons.pdf" download>Minority_Stress_and_Mental_Health_among_Transgender_Persons.pdf</a>
+下载: <a href="../Minority_Stress_and_Mental_Health_among_Transgender_Persons.pdf" download>Minority_Stress_and_Mental_Health_among_Transgender_Persons.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

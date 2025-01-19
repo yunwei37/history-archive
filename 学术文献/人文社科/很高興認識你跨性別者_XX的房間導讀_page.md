@@ -1,7 +1,7 @@
 # 很高興認識你跨性別者_XX的房間導讀
 
 <!-- tcd_download_link -->
-下载: <a href="很高興認識你跨性別者_XX的房間導讀.pdf" download>很高興認識你跨性別者_XX的房間導讀.pdf</a>
+下载: <a href="../很高興認識你跨性別者_XX的房間導讀.pdf" download>很高興認識你跨性別者_XX的房間導讀.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

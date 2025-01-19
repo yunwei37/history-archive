@@ -1,7 +1,7 @@
 # 从一个变性人的痛苦说起……_储兆瑞
 
 <!-- tcd_download_link -->
-下载: <a href="从一个变性人的痛苦说起……_储兆瑞.pdf" download>从一个变性人的痛苦说起……_储兆瑞.pdf</a>
+下载: <a href="../从一个变性人的痛苦说起……_储兆瑞.pdf" download>从一个变性人的痛苦说起……_储兆瑞.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 艾滋病疟疾与公共健康对策报告
 
 <!-- tcd_download_link -->
-下载: <a href="艾滋病疟疾与公共健康对策报告.pdf" download>艾滋病疟疾与公共健康对策报告.pdf</a>
+下载: <a href="../艾滋病疟疾与公共健康对策报告.pdf" download>艾滋病疟疾与公共健康对策报告.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

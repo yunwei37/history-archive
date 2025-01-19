@@ -1,7 +1,7 @@
 # 拉拉的故事与经历
 
 <!-- tcd_download_link -->
-下载: <a href="拉拉的故事与经历.pdf" download>拉拉的故事与经历.pdf</a>
+下载: <a href="../拉拉的故事与经历.pdf" download>拉拉的故事与经历.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

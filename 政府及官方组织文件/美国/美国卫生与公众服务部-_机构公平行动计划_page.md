@@ -1,7 +1,7 @@
 # 美国卫生与公众服务部-_机构公平行动计划
 
 <!-- tcd_download_link -->
-下载: <a href="美国卫生与公众服务部-_机构公平行动计划.pdf" download>美国卫生与公众服务部-_机构公平行动计划.pdf</a>
+下载: <a href="../美国卫生与公众服务部-_机构公平行动计划.pdf" download>美国卫生与公众服务部-_机构公平行动计划.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

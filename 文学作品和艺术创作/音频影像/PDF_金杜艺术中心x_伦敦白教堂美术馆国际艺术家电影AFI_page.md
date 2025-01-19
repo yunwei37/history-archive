@@ -1,7 +1,7 @@
 # PDF_金杜艺术中心x_伦敦白教堂美术馆国际艺术家电影AFI
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_金杜艺术中心x_伦敦白教堂美术馆国际艺术家电影AFI.pdf" download>PDF_金杜艺术中心x_伦敦白教堂美术馆国际艺术家电影AFI.pdf</a>
+下载: <a href="../PDF_金杜艺术中心x_伦敦白教堂美术馆国际艺术家电影AFI.pdf" download>PDF_金杜艺术中心x_伦敦白教堂美术馆国际艺术家电影AFI.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

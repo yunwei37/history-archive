@@ -1,7 +1,7 @@
 # PDF_跨性別是泛指任何人的性別認同及或其性別表達
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_跨性別是泛指任何人的性別認同及或其性別表達.pdf" download>PDF_跨性別是泛指任何人的性別認同及或其性別表達.pdf</a>
+下载: <a href="../PDF_跨性別是泛指任何人的性別認同及或其性別表達.pdf" download>PDF_跨性別是泛指任何人的性別認同及或其性別表達.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

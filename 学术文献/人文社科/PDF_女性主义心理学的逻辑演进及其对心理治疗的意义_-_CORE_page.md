@@ -1,7 +1,7 @@
 # PDF_女性主义心理学的逻辑演进及其对心理治疗的意义_-_CORE
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_女性主义心理学的逻辑演进及其对心理治疗的意义_-_CORE.pdf" download>PDF_女性主义心理学的逻辑演进及其对心理治疗的意义_-_CORE.pdf</a>
+下载: <a href="../PDF_女性主义心理学的逻辑演进及其对心理治疗的意义_-_CORE.pdf" download>PDF_女性主义心理学的逻辑演进及其对心理治疗的意义_-_CORE.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

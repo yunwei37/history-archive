@@ -1,7 +1,7 @@
 # PDF_法律中性别二元范式的批判及重构
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_法律中性别二元范式的批判及重构.pdf" download>PDF_法律中性别二元范式的批判及重构.pdf</a>
+下载: <a href="../PDF_法律中性别二元范式的批判及重构.pdf" download>PDF_法律中性别二元范式的批判及重构.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

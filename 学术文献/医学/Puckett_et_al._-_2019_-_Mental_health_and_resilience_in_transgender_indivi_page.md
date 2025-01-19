@@ -1,7 +1,7 @@
 # Puckett_et_al._-_2019_-_Mental_health_and_resilience_in_transgender_indivi
 
 <!-- tcd_download_link -->
-下载: <a href="Puckett_et_al._-_2019_-_Mental_health_and_resilience_in_transgender_indivi.pdf" download>Puckett_et_al._-_2019_-_Mental_health_and_resilience_in_transgender_indivi.pdf</a>
+下载: <a href="../Puckett_et_al._-_2019_-_Mental_health_and_resilience_in_transgender_indivi.pdf" download>Puckett_et_al._-_2019_-_Mental_health_and_resilience_in_transgender_indivi.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

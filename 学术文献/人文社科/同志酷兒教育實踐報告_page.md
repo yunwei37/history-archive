@@ -1,7 +1,7 @@
 # 同志酷兒教育實踐報告
 
 <!-- tcd_download_link -->
-下载: <a href="同志酷兒教育實踐報告.pdf" download>同志酷兒教育實踐報告.pdf</a>
+下载: <a href="../同志酷兒教育實踐報告.pdf" download>同志酷兒教育實踐報告.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

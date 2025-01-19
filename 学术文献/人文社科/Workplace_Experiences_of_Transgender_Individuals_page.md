@@ -1,7 +1,7 @@
 # Workplace_Experiences_of_Transgender_Individuals
 
 <!-- tcd_download_link -->
-下载: <a href="Workplace_Experiences_of_Transgender_Individuals.pdf" download>Workplace_Experiences_of_Transgender_Individuals.pdf</a>
+下载: <a href="../Workplace_Experiences_of_Transgender_Individuals.pdf" download>Workplace_Experiences_of_Transgender_Individuals.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

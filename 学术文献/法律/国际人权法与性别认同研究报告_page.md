@@ -1,7 +1,7 @@
 # 国际人权法与性别认同研究报告
 
 <!-- tcd_download_link -->
-下载: <a href="国际人权法与性别认同研究报告.pdf" download>国际人权法与性别认同研究报告.pdf</a>
+下载: <a href="../国际人权法与性别认同研究报告.pdf" download>国际人权法与性别认同研究报告.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

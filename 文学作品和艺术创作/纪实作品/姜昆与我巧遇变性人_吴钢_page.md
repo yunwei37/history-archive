@@ -1,7 +1,7 @@
 # 姜昆与我巧遇变性人_吴钢
 
 <!-- tcd_download_link -->
-下载: <a href="姜昆与我巧遇变性人_吴钢.pdf" download>姜昆与我巧遇变性人_吴钢.pdf</a>
+下载: <a href="../姜昆与我巧遇变性人_吴钢.pdf" download>姜昆与我巧遇变性人_吴钢.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

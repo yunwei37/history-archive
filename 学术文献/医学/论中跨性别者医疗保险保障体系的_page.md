@@ -1,7 +1,7 @@
 # 论中跨性别者医疗保险保障体系的
 
 <!-- tcd_download_link -->
-下载: <a href="论中跨性别者医疗保险保障体系的.pdf" download>论中跨性别者医疗保险保障体系的.pdf</a>
+下载: <a href="../论中跨性别者医疗保险保障体系的.pdf" download>论中跨性别者医疗保险保障体系的.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

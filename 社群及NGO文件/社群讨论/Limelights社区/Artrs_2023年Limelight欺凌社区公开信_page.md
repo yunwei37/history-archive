@@ -1,7 +1,7 @@
 # Artrs_2023年Limelight欺凌社区公开信
 
 <!-- tcd_download_link -->
-下载: <a href="Artrs_2023年Limelight欺凌社区公开信.pdf" download>Artrs_2023年Limelight欺凌社区公开信.pdf</a>
+下载: <a href="../Artrs_2023年Limelight欺凌社区公开信.pdf" download>Artrs_2023年Limelight欺凌社区公开信.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

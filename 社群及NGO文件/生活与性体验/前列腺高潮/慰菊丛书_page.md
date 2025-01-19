@@ -1,7 +1,7 @@
 # 慰菊丛书
 
 <!-- tcd_download_link -->
-下载: <a href="慰菊丛书.pdf" download>慰菊丛书.pdf</a>
+下载: <a href="../慰菊丛书.pdf" download>慰菊丛书.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

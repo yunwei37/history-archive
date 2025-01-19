@@ -1,7 +1,7 @@
 # A_Sisterhood_of_Hope_How_Chinas_Transgender_Sex_Workers
 
 <!-- tcd_download_link -->
-下载: <a href="A_Sisterhood_of_Hope_How_Chinas_Transgender_Sex_Workers.pdf" download>A_Sisterhood_of_Hope_How_Chinas_Transgender_Sex_Workers.pdf</a>
+下载: <a href="../A_Sisterhood_of_Hope_How_Chinas_Transgender_Sex_Workers.pdf" download>A_Sisterhood_of_Hope_How_Chinas_Transgender_Sex_Workers.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

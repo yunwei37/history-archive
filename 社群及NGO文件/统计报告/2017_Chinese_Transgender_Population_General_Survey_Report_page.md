@@ -1,7 +1,7 @@
 # 2017_Chinese_Transgender_Population_General_Survey_Report
 
 <!-- tcd_download_link -->
-下载: <a href="2017_Chinese_Transgender_Population_General_Survey_Report.pdf" download>2017_Chinese_Transgender_Population_General_Survey_Report.pdf</a>
+下载: <a href="../2017_Chinese_Transgender_Population_General_Survey_Report.pdf" download>2017_Chinese_Transgender_Population_General_Survey_Report.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

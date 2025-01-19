@@ -1,7 +1,7 @@
 # PDF_接受性別重置手術人仕的簡介_-_立法會
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_接受性別重置手術人仕的簡介_-_立法會.pdf" download>PDF_接受性別重置手術人仕的簡介_-_立法會.pdf</a>
+下载: <a href="../PDF_接受性別重置手術人仕的簡介_-_立法會.pdf" download>PDF_接受性別重置手術人仕的簡介_-_立法會.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

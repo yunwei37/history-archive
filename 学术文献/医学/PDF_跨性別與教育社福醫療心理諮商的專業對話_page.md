@@ -1,7 +1,7 @@
 # PDF_跨性別與教育社福醫療心理諮商的專業對話
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_跨性別與教育社福醫療心理諮商的專業對話.pdf" download>PDF_跨性別與教育社福醫療心理諮商的專業對話.pdf</a>
+下载: <a href="../PDF_跨性別與教育社福醫療心理諮商的專業對話.pdf" download>PDF_跨性別與教育社福醫療心理諮商的專業對話.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 性别选择权性质界定与法权塑造
 
 <!-- tcd_download_link -->
-下载: <a href="性别选择权性质界定与法权塑造.pdf" download>性别选择权性质界定与法权塑造.pdf</a>
+下载: <a href="../性别选择权性质界定与法权塑造.pdf" download>性别选择权性质界定与法权塑造.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

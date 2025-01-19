@@ -1,7 +1,7 @@
 # Dialnet-How_a_Chinese_Male-_to-Female_Manages_Gender_Nonconformity-7639547
 
 <!-- tcd_download_link -->
-下载: <a href="Dialnet-How_a_Chinese_Male-_to-Female_Manages_Gender_Nonconformity-7639547.pdf" download>Dialnet-How_a_Chinese_Male-_to-Female_Manages_Gender_Nonconformity-7639547.pdf</a>
+下载: <a href="../Dialnet-How_a_Chinese_Male-_to-Female_Manages_Gender_Nonconformity-7639547.pdf" download>Dialnet-How_a_Chinese_Male-_to-Female_Manages_Gender_Nonconformity-7639547.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

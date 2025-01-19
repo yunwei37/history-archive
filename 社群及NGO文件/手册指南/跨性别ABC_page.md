@@ -1,7 +1,7 @@
 # 跨性别ABC
 
 <!-- tcd_download_link -->
-下载: <a href="跨性别ABC.pdf" download>跨性别ABC.pdf</a>
+下载: <a href="../跨性别ABC.pdf" download>跨性别ABC.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

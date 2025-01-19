@@ -1,7 +1,7 @@
 # 霓虹流光下的性別逾越_周美玲導演
 
 <!-- tcd_download_link -->
-下载: <a href="霓虹流光下的性別逾越_周美玲導演.pdf" download>霓虹流光下的性別逾越_周美玲導演.pdf</a>
+下载: <a href="../霓虹流光下的性別逾越_周美玲導演.pdf" download>霓虹流光下的性別逾越_周美玲導演.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

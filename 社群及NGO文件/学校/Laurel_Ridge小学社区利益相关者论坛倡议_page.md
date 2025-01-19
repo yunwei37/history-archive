@@ -1,7 +1,7 @@
 # Laurel_Ridge小学社区利益相关者论坛倡议
 
 <!-- tcd_download_link -->
-下载: <a href="Laurel_Ridge小学社区利益相关者论坛倡议.pdf" download>Laurel_Ridge小学社区利益相关者论坛倡议.pdf</a>
+下载: <a href="../Laurel_Ridge小学社区利益相关者论坛倡议.pdf" download>Laurel_Ridge小学社区利益相关者论坛倡议.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

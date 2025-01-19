@@ -1,7 +1,7 @@
 # 性別認同及雙性人身份歧視的研究報告
 
 <!-- tcd_download_link -->
-下载: <a href="性別認同及雙性人身份歧視的研究報告.pdf" download>性別認同及雙性人身份歧視的研究報告.pdf</a>
+下载: <a href="../性別認同及雙性人身份歧視的研究報告.pdf" download>性別認同及雙性人身份歧視的研究報告.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

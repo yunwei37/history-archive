@@ -1,7 +1,7 @@
 # 北同跨性别医疗照护手册
 
 <!-- tcd_download_link -->
-下载: <a href="北同跨性别医疗照护手册.pdf" download>北同跨性别医疗照护手册.pdf</a>
+下载: <a href="../北同跨性别医疗照护手册.pdf" download>北同跨性别医疗照护手册.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 不列颠哥伦比亚省跨性别护理提供的服务
 
 <!-- tcd_download_link -->
-下载: <a href="不列颠哥伦比亚省跨性别护理提供的服务.pdf" download>不列颠哥伦比亚省跨性别护理提供的服务.pdf</a>
+下载: <a href="../不列颠哥伦比亚省跨性别护理提供的服务.pdf" download>不列颠哥伦比亚省跨性别护理提供的服务.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

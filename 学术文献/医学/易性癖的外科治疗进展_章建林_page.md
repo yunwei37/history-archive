@@ -1,7 +1,7 @@
 # 易性癖的外科治疗进展_章建林
 
 <!-- tcd_download_link -->
-下载: <a href="易性癖的外科治疗进展_章建林.pdf" download>易性癖的外科治疗进展_章建林.pdf</a>
+下载: <a href="../易性癖的外科治疗进展_章建林.pdf" download>易性癖的外科治疗进展_章建林.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 州長CUOMO_宣佈擬議法規以讓醫療補助覆蓋對跨性別者的__-_NYgov
 
 <!-- tcd_download_link -->
-下载: <a href="州長CUOMO_宣佈擬議法規以讓醫療補助覆蓋對跨性別者的__-_NYgov.pdf" download>州長CUOMO_宣佈擬議法規以讓醫療補助覆蓋對跨性別者的__-_NYgov.pdf</a>
+下载: <a href="../州長CUOMO_宣佈擬議法規以讓醫療補助覆蓋對跨性別者的__-_NYgov.pdf" download>州長CUOMO_宣佈擬議法規以讓醫療補助覆蓋對跨性別者的__-_NYgov.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

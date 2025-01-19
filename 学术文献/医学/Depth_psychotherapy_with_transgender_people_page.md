@@ -1,7 +1,7 @@
 # Depth_psychotherapy_with_transgender_people
 
 <!-- tcd_download_link -->
-下载: <a href="Depth_psychotherapy_with_transgender_people.pdf" download>Depth_psychotherapy_with_transgender_people.pdf</a>
+下载: <a href="../Depth_psychotherapy_with_transgender_people.pdf" download>Depth_psychotherapy_with_transgender_people.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

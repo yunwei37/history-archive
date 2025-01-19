@@ -1,7 +1,7 @@
 # 性别手册学生版
 
 <!-- tcd_download_link -->
-下载: <a href="性别手册学生版.pdf" download>性别手册学生版.pdf</a>
+下载: <a href="../性别手册学生版.pdf" download>性别手册学生版.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

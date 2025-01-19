@@ -1,7 +1,7 @@
 # 家庭虐待服务需求研究报告
 
 <!-- tcd_download_link -->
-下载: <a href="家庭虐待服务需求研究报告.pdf" download>家庭虐待服务需求研究报告.pdf</a>
+下载: <a href="../家庭虐待服务需求研究报告.pdf" download>家庭虐待服务需求研究报告.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

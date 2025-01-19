@@ -1,7 +1,7 @@
 # 前列腺高潮新方法1
 
 <!-- tcd_download_link -->
-下载: <a href="前列腺高潮新方法1.pdf" download>前列腺高潮新方法1.pdf</a>
+下载: <a href="../前列腺高潮新方法1.pdf" download>前列腺高潮新方法1.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

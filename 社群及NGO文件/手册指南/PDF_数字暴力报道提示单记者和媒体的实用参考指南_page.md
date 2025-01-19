@@ -1,7 +1,7 @@
 # PDF_数字暴力报道提示单记者和媒体的实用参考指南
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_数字暴力报道提示单记者和媒体的实用参考指南.pdf" download>PDF_数字暴力报道提示单记者和媒体的实用参考指南.pdf</a>
+下载: <a href="../PDF_数字暴力报道提示单记者和媒体的实用参考指南.pdf" download>PDF_数字暴力报道提示单记者和媒体的实用参考指南.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # PDF_翻译受到规训得到学科化现在关于酷儿研究的跨性
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_翻译受到规训得到学科化现在关于酷儿研究的跨性.pdf" download>PDF_翻译受到规训得到学科化现在关于酷儿研究的跨性.pdf</a>
+下载: <a href="../PDF_翻译受到规训得到学科化现在关于酷儿研究的跨性.pdf" download>PDF_翻译受到规训得到学科化现在关于酷儿研究的跨性.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

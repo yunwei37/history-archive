@@ -1,7 +1,7 @@
 # 維納斯_夜晚的靜_七月大暑的秘密
 
 <!-- tcd_download_link -->
-下载: <a href="維納斯_夜晚的靜_七月大暑的秘密.pdf" download>維納斯_夜晚的靜_七月大暑的秘密.pdf</a>
+下载: <a href="../維納斯_夜晚的靜_七月大暑的秘密.pdf" download>維納斯_夜晚的靜_七月大暑的秘密.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

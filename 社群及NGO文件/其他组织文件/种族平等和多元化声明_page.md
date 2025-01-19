@@ -1,7 +1,7 @@
 # 种族平等和多元化声明
 
 <!-- tcd_download_link -->
-下载: <a href="种族平等和多元化声明.pdf" download>种族平等和多元化声明.pdf</a>
+下载: <a href="../种族平等和多元化声明.pdf" download>种族平等和多元化声明.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

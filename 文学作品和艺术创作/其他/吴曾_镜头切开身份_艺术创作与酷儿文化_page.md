@@ -1,7 +1,7 @@
 # 吴曾_镜头切开身份_艺术创作与酷儿文化
 
 <!-- tcd_download_link -->
-下载: <a href="吴曾_镜头切开身份_艺术创作与酷儿文化.pdf" download>吴曾_镜头切开身份_艺术创作与酷儿文化.pdf</a>
+下载: <a href="../吴曾_镜头切开身份_艺术创作与酷儿文化.pdf" download>吴曾_镜头切开身份_艺术创作与酷儿文化.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 人工智能与性别伦理一个新时代
 
 <!-- tcd_download_link -->
-下载: <a href="人工智能与性别伦理一个新时代.pdf" download>人工智能与性别伦理一个新时代.pdf</a>
+下载: <a href="../人工智能与性别伦理一个新时代.pdf" download>人工智能与性别伦理一个新时代.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

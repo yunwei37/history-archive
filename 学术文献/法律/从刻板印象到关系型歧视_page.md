@@ -1,7 +1,7 @@
 # 从刻板印象到关系型歧视
 
 <!-- tcd_download_link -->
-下载: <a href="从刻板印象到关系型歧视.pdf" download>从刻板印象到关系型歧视.pdf</a>
+下载: <a href="../从刻板印象到关系型歧视.pdf" download>从刻板印象到关系型歧视.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

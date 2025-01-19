@@ -1,7 +1,7 @@
 # 跨性别女性的特征及艾滋病相关知识行为调查
 
 <!-- tcd_download_link -->
-下载: <a href="跨性别女性的特征及艾滋病相关知识行为调查.pdf" download>跨性别女性的特征及艾滋病相关知识行为调查.pdf</a>
+下载: <a href="../跨性别女性的特征及艾滋病相关知识行为调查.pdf" download>跨性别女性的特征及艾滋病相关知识行为调查.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

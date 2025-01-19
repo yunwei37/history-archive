@@ -1,7 +1,7 @@
 # 学校性骚扰应对指南
 
 <!-- tcd_download_link -->
-下载: <a href="学校性骚扰应对指南.pdf" download>学校性骚扰应对指南.pdf</a>
+下载: <a href="../学校性骚扰应对指南.pdf" download>学校性骚扰应对指南.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

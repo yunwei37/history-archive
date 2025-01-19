@@ -1,7 +1,7 @@
 # PDF_情况介绍平等和不歧视_-_ohchr
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_情况介绍平等和不歧视_-_ohchr.pdf" download>PDF_情况介绍平等和不歧视_-_ohchr.pdf</a>
+下载: <a href="../PDF_情况介绍平等和不歧视_-_ohchr.pdf" download>PDF_情况介绍平等和不歧视_-_ohchr.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

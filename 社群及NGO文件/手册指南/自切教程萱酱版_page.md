@@ -1,7 +1,7 @@
 # 自切教程萱酱版
 
 <!-- tcd_download_link -->
-下载: <a href="自切教程萱酱版.doc" download>自切教程萱酱版.doc</a>
+下载: <a href="../自切教程萱酱版.doc" download>自切教程萱酱版.doc</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

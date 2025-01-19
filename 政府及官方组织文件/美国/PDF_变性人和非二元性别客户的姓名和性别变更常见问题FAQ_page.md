@@ -1,7 +1,7 @@
 # PDF_变性人和非二元性别客户的姓名和性别变更常见问题FAQ
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_变性人和非二元性别客户的姓名和性别变更常见问题FAQ.pdf" download>PDF_变性人和非二元性别客户的姓名和性别变更常见问题FAQ.pdf</a>
+下载: <a href="../PDF_变性人和非二元性别客户的姓名和性别变更常见问题FAQ.pdf" download>PDF_变性人和非二元性别客户的姓名和性别变更常见问题FAQ.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

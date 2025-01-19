@@ -1,7 +1,7 @@
 # 中國版河莉秀欲造子宮生子
 
 <!-- tcd_download_link -->
-下载: <a href="中國版河莉秀欲造子宮生子.pdf" download>中國版河莉秀欲造子宮生子.pdf</a>
+下载: <a href="../中國版河莉秀欲造子宮生子.pdf" download>中國版河莉秀欲造子宮生子.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

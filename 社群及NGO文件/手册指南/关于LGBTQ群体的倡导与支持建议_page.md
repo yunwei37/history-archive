@@ -1,7 +1,7 @@
 # 关于LGBTQ群体的倡导与支持建议
 
 <!-- tcd_download_link -->
-下载: <a href="关于LGBTQ群体的倡导与支持建议.pdf" download>关于LGBTQ群体的倡导与支持建议.pdf</a>
+下载: <a href="../关于LGBTQ群体的倡导与支持建议.pdf" download>关于LGBTQ群体的倡导与支持建议.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

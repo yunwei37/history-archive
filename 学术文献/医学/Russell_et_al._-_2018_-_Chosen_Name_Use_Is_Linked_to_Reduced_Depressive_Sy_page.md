@@ -1,7 +1,7 @@
 # Russell_et_al._-_2018_-_Chosen_Name_Use_Is_Linked_to_Reduced_Depressive_Sy
 
 <!-- tcd_download_link -->
-下载: <a href="Russell_et_al._-_2018_-_Chosen_Name_Use_Is_Linked_to_Reduced_Depressive_Sy.pdf" download>Russell_et_al._-_2018_-_Chosen_Name_Use_Is_Linked_to_Reduced_Depressive_Sy.pdf</a>
+下载: <a href="../Russell_et_al._-_2018_-_Chosen_Name_Use_Is_Linked_to_Reduced_Depressive_Sy.pdf" download>Russell_et_al._-_2018_-_Chosen_Name_Use_Is_Linked_to_Reduced_Depressive_Sy.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

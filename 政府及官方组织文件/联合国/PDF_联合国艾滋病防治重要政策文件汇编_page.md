@@ -1,7 +1,7 @@
 # PDF_联合国艾滋病防治重要政策文件汇编
 
 <!-- tcd_download_link -->
-下载: <a href="PDF_联合国艾滋病防治重要政策文件汇编.pdf" download>PDF_联合国艾滋病防治重要政策文件汇编.pdf</a>
+下载: <a href="../PDF_联合国艾滋病防治重要政策文件汇编.pdf" download>PDF_联合国艾滋病防治重要政策文件汇编.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

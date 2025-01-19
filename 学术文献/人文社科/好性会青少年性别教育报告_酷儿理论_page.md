@@ -1,7 +1,7 @@
 # 好性会青少年性别教育报告_酷儿理论
 
 <!-- tcd_download_link -->
-下载: <a href="好性会青少年性别教育报告_酷儿理论.pdf" download>好性会青少年性别教育报告_酷儿理论.pdf</a>
+下载: <a href="../好性会青少年性别教育报告_酷儿理论.pdf" download>好性会青少年性别教育报告_酷儿理论.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -1,7 +1,7 @@
 # 04第4课：不做“黑人”，简单有效的防晒
 
 <!-- tcd_download_link -->
-下载: <a href="04第4课：不做“黑人”，简单有效的防晒.pdf" download>04第4课：不做“黑人”，简单有效的防晒.pdf</a>
+下载: <a href="../04第4课：不做“黑人”，简单有效的防晒.pdf" download>04第4课：不做“黑人”，简单有效的防晒.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

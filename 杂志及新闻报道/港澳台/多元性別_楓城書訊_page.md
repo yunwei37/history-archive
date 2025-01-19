@@ -1,7 +1,7 @@
 # 多元性別_楓城書訊
 
 <!-- tcd_download_link -->
-下载: <a href="多元性別_楓城書訊.pdf" download>多元性別_楓城書訊.pdf</a>
+下载: <a href="../多元性別_楓城書訊.pdf" download>多元性別_楓城書訊.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

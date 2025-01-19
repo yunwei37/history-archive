@@ -1,7 +1,7 @@
 # 第39届飞天奖颁奖典礼分析与报道
 
 <!-- tcd_download_link -->
-下载: <a href="第39届飞天奖颁奖典礼分析与报道.pdf" download>第39届飞天奖颁奖典礼分析与报道.pdf</a>
+下载: <a href="../第39届飞天奖颁奖典礼分析与报道.pdf" download>第39届飞天奖颁奖典礼分析与报道.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

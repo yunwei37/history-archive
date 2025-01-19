@@ -1,7 +1,7 @@
 # 变性后欲望唤起
 
 <!-- tcd_download_link -->
-下载: <a href="变性后欲望唤起.txt" download>变性后欲望唤起.txt</a>
+下载: <a href="../变性后欲望唤起.txt" download>变性后欲望唤起.txt</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

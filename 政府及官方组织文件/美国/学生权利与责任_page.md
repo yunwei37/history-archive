@@ -1,7 +1,7 @@
 # 学生权利与责任
 
 <!-- tcd_download_link -->
-下载: <a href="学生权利与责任.pdf" download>学生权利与责任.pdf</a>
+下载: <a href="../学生权利与责任.pdf" download>学生权利与责任.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

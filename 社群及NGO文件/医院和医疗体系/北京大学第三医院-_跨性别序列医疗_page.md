@@ -1,7 +1,7 @@
 # 北京大学第三医院-_跨性别序列医疗
 
 <!-- tcd_download_link -->
-下载: <a href="北京大学第三医院-_跨性别序列医疗.pdf" download>北京大学第三医院-_跨性别序列医疗.pdf</a>
+下载: <a href="../北京大学第三医院-_跨性别序列医疗.pdf" download>北京大学第三医院-_跨性别序列医疗.pdf</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要
