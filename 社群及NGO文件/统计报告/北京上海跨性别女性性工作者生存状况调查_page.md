@@ -32,7 +32,7 @@
 | Original Link   | [https://asiacatalyst.org/wp-content/uploads/2014/09/TG-Report_CN_contentFN.pdf](https://asiacatalyst.org/wp-content/uploads/2014/09/TG-Report_CN_contentFN.pdf)                         |
 | Author          | 未知                               |
 | Region          | 中国大陆                               |
-| Date            | 未知                                 |
+| Date            | 2015-1                                 |
 | Tags            | 跨性别女性, 性工作者, 生存状况, 社会调查, 数据统计, 心理健康, 法律政策                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有，所有内容仅为历史资料保存及研究之用。如果原作者或相关方希望移除存档内容，请通过电子邮件与我们联系。
