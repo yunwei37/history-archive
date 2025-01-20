@@ -26,13 +26,6 @@ tags:
 - 心理健康
 license: ''
 files:
-- name: 1997_關注婦女性暴力協會_性別承認諮詢意見書
-  filename: 1997_關注婦女性暴力協會_性別承認諮詢意見書.pdf
-  type: document
-  format: PDF Document
-  size: 2086783
-  md5: aebcccd72f55aa1d6f24b3ddc28d3298
-  page: 1997_關注婦女性暴力協會_性別承認諮詢意見書_page.md
 - name: 2014年婚姻修訂條例草案公聽會關於變性手術的意見摘要
   filename: 2014年婚姻修訂條例草案公聽會關於變性手術的意見摘要.pdf
   type: document
@@ -47,34 +40,6 @@ files:
   size: 250092
   md5: f359d900a01d6fbcf25b0697d0594571
   page: 2024_全國大專校院運動會_跨性別學生運動員參與政策_page.md
-- name: LGBTQIA性少数族群+咨询代表会问答_警察改革工作组
-  filename: LGBTQIA性少数族群+咨询代表会问答_警察改革工作组.pdf
-  type: document
-  format: PDF Document
-  size: 311790
-  md5: 412f78fbe86075da80195395464b0d83
-  page: LGBTQIA性少数族群+咨询代表会问答_警察改革工作组_page.md
-- name: PDF_5_性別不安有甚麼治療方法_-_醫院管理局
-  filename: PDF_5_性別不安有甚麼治療方法_-_醫院管理局.pdf
-  type: document
-  format: PDF Document
-  size: 959835
-  md5: 8566283881b7dfad3a3794477b8920a4
-  page: PDF_5_性別不安有甚麼治療方法_-_醫院管理局_page.md
-- name: PDF_CB420917-1819_-_立法會
-  filename: PDF_CB420917-1819_-_立法會.pdf
-  type: document
-  format: PDF Document
-  size: 1078150
-  md5: 3bbeaf499e90e0822cde256f4774443e
-  page: PDF_CB420917-1819_-_立法會_page.md
-- name: PDF_同志QA_-_性別平等教育委員會
-  filename: PDF_同志QA_-_性別平等教育委員會.pdf
-  type: document
-  format: PDF Document
-  size: 26485212
-  md5: ebfd539f235ed6b5fbff1d833d2308f8
-  page: PDF_同志QA_-_性別平等教育委員會_page.md
 - name: PDF_性別承認議題公眾諮詢FAQ1_-_立法會
   filename: PDF_性別承認議題公眾諮詢FAQ1_-_立法會.pdf
   type: document
@@ -110,13 +75,6 @@ files:
   size: 391903
   md5: 9dc5e41bfab24f330ffbb51c41f05204
   page: PDF_跨性別是泛指任何人的性別認同及或其性別表達_page.md
-- name: PDF_跨性別者的日常生活_跨性別QA_大臺北跨性別友善資源_-_臺北市首座
-  filename: PDF_跨性別者的日常生活_跨性別QA_大臺北跨性別友善資源_-_臺北市首座.pdf
-  type: document
-  format: PDF Document
-  size: 2885483
-  md5: cd8185b572c73ee6246293dcdc44378a
-  page: PDF_跨性別者的日常生活_跨性別QA_大臺北跨性別友善資源_-_臺北市首座_page.md
 - name: PDF_零拒絕的愛-尊重與包容多元的性別差異_-_高雄市政府
   filename: PDF_零拒絕的愛-尊重與包容多元的性別差異_-_高雄市政府.pdf
   type: document
@@ -145,13 +103,6 @@ files:
   size: 1331888
   md5: e53ecd69064261c155e45359de3b27ab
   page: 反对國小性別平等教育內容_台湾_page.md
-- name: 各國跨性別登記制度_中华民国內政部委託研究報告
-  filename: 各國跨性別登記制度_中华民国內政部委託研究報告.pdf
-  type: document
-  format: PDF Document
-  size: 2019808
-  md5: 8b0617cf0a6358de0cb4929aaf7b2d9d
-  page: 各國跨性別登記制度_中华民国內政部委託研究報告_page.md
 - name: 性別平等教育委員會_性平大學堂徵答題目
   filename: 性別平等教育委員會_性平大學堂徵答題目.pdf
   type: document
@@ -208,20 +159,13 @@ files:
   size: 930772
   md5: dd4b817df10ce2f91dc1ac19e7aa47e6
   page: 苗栗縣性別平等業務成果報告_page.md
-- name: 跨性别资源中心-港澳地区信息汇总
-  filename: 跨性别资源中心-港澳地区信息汇总.pdf
+- name: 香港公民党就《性别承认法》提交的意见书
+  filename: 香港公民党就《性别承认法》提交的意见书.pdf
   type: document
   format: PDF Document
-  size: 4281256
-  md5: e79a7204a124e22e2f11d1cd589c823a
-  page: 跨性别资源中心-港澳地区信息汇总_page.md
-- name: 香港性教育現狀與挑戰報告_2021
-  filename: 香港性教育現狀與挑戰報告_2021.pdf
-  type: document
-  format: PDF Document
-  size: 1385188
-  md5: 396371f64bc55c6b3df3cfc468e3a6b0
-  page: 香港性教育現狀與挑戰報告_2021_page.md
+  size: 1078150
+  md5: 3bbeaf499e90e0822cde256f4774443e
+  page: 香港公民党就《性别承认法》提交的意见书_page.md
 - name: 高雄市性別友善觀光報告_2023
   filename: 高雄市性別友善觀光報告_2023.pdf
   type: document

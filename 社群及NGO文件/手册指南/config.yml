@@ -66,6 +66,13 @@ files:
   size: 1170374
   md5: 95612521202218e4ef57e8256f7895dc
   page: PDF_社群指南_性少数性工作者经历的恐同与恐跨性别_page.md
+- name: PDF_跨性別者的日常生活_跨性別QA_大臺北跨性別友善資源_-_臺北市首座
+  filename: PDF_跨性別者的日常生活_跨性別QA_大臺北跨性別友善資源_-_臺北市首座.pdf
+  type: document
+  format: PDF Document
+  size: 2885483
+  md5: cd8185b572c73ee6246293dcdc44378a
+  page: PDF_跨性別者的日常生活_跨性別QA_大臺北跨性別友善資源_-_臺北市首座_page.md
 - name: PDF_跨性别_反暴力_手册_跨青年教育中心
   filename: PDF_跨性别_反暴力_手册_跨青年教育中心.pdf
   type: document
@@ -290,6 +297,13 @@ files:
   size: 214124
   md5: d4d9dbdc8eb4f5dc0f04143daebe0afc
   page: 泰国手术指导_page.md
+- name: 港澳知识分子专题杂志新闻_跨性别者抗争_2016年9月
+  filename: 港澳知识分子专题杂志新闻_跨性别者抗争_2016年9月.pdf
+  type: document
+  format: PDF Document
+  size: 4281256
+  md5: e79a7204a124e22e2f11d1cd589c823a
+  page: 港澳知识分子专题杂志新闻_跨性别者抗争_2016年9月_page.md
 - name: 自切教程萱酱版
   filename: 自切教程萱酱版.doc
   type: document

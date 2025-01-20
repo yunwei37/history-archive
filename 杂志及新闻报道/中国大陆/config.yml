@@ -115,6 +115,13 @@ files:
   size: 1848295
   md5: 34eea651a3753f5fe651fdd566cfae59
   page: 人民日报_1993_我国变性手术达到世界先进水平_page.md
+- name: 人民日报_从性别观说开去（2005年11月12日_第7版_副刊）
+  filename: 人民日报_从性别观说开去（2005年11月12日_第7版_副刊）.pdf
+  type: document
+  format: PDF Document
+  size: 282502
+  md5: c9e27c6b9a83d7ad94ad87c66692d98f
+  page: 人民日报_从性别观说开去（2005年11月12日_第7版_副刊）_page.md
 - name: 他们在家门口书写生命终章
   filename: 他们在家门口书写生命终章.pdf
   type: document
