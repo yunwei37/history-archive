@@ -31,7 +31,7 @@
 | Archived Date   | 2025-01-14 00:16:45                             |
 | Original Link   | [https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=fe773e63f5e86577c31cad107ef3d75e9b894581](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=fe773e63f5e86577c31cad107ef3d75e9b894581)                         |
 | Author          | Xiaoshi Yang等                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 2015-09-14                                 |
 | Tags            | 跨性别, 心理健康, 抑郁症, 中国女性, 性伴侣关系, 自我效能, 社会支持, 医学研究                                 |
 

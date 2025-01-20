@@ -29,7 +29,7 @@
 | Archived Date   | 2025-01-18                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 潘永久                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 变性人, 性别判定, 法律政策, 跨性别研究, 生存现状, 医学与法律, 性别认同, 社会性别, 案例研究                                 |
 

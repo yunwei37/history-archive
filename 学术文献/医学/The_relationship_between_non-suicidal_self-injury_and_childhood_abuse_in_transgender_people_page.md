@@ -27,7 +27,7 @@
 | Archived Date   | 2025-01-14 00:33:19                             |
 | Original Link   | [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1062601/pdf](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1062601/pdf)                         |
 | Author          | Cao Qiang 等                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 2023-08-09                                 |
 | Tags            | 跨性别者, 非自杀性自伤, 童年虐待, 情感调节障碍, 心理健康, 医学研究                                 |
 

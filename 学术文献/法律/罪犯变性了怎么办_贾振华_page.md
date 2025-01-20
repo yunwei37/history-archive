@@ -29,7 +29,7 @@
 | Archived Date   | 2025-01-18                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 贾振华                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 变性, 法律问题, 变性人的权利, 心理健康, 社会认知, 法律认可                                 |
 

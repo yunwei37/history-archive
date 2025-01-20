@@ -25,7 +25,7 @@
 | Archived Date   | 2025-01-18                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 高绿芬、高琳芝、谢杏美、谢丽姗、宋羽葳、赖顺凯、贾艳滨、王晓玉                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 2022-12-01                                 |
 | Tags            | 跨性别女性, 性别确认, 激素治疗, 性别焦虑, 医疗资源, 中国跨性别医疗, 生殖内分泌学                                 |
 

@@ -27,7 +27,7 @@
 | Archived Date   | 2024-11-07 20:06:50                             |
 | Original Link   | [https://xhyxzz.pumch.cn/cn/article/pdf/preview/10.3969/j.issn.1674-9081.2011.02.020.pdf](https://xhyxzz.pumch.cn/cn/article/pdf/preview/10.3969/j.issn.1674-9081.2011.02.020.pdf)                         |
 | Author          | 刘思邈, 张颖, 田秦杰                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 2011-02-14                                 |
 | Tags            | 真两性畸形, 性发育异常, 临床报告, 医学研究, 性别认同, 手术案例, 患者经历                                 |
 

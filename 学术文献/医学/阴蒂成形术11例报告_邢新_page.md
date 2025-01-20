@@ -29,7 +29,7 @@
 | Archived Date   | 2025-01-18                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 邢新、欧阳天祥、李军辉、季正伦、宋建星、陈江萍、郭恩覃                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 2001-05-01                                 |
 | Tags            | 阴蒂成形术, 跨性别手术, 医疗资源, 假两性畸形, Klinefelter综合征, 性别重置, 整形外科, 中华整形外科杂志                                 |
 

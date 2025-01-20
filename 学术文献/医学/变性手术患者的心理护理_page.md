@@ -23,7 +23,7 @@
 | Archived Date   | 2025-01-18                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 王大方, 曹艳, 扬国荣                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 2002-06-01                                 |
 | Tags            | 变性手术, 心理护理, 易性癖, 社交接受, 医学研究, 心理特点, 护理措施                                 |
 

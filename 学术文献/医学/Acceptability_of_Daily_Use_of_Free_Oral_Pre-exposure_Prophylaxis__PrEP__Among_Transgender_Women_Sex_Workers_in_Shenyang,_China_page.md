@@ -29,7 +29,7 @@
 | Archived Date   | 2025-01-18                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Zixin Wang, Joseph T. F. Lau, Xueying Yang, Yong Cai, Danielle L. Gross, Tiecheng Ma, Yan Liu                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 2017-07-27                                 |
 | Tags            | 跨性别女性, PrEP, 性工作者, HIV预防, 医学研究, 社会健康                                 |
 

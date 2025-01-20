@@ -27,7 +27,7 @@
 | Archived Date   | 2025-01-18                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Eileen Yuk-ha Tsang                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 2020-10-29                                 |
 | Tags            | 跨性别, 性工作者, 亲密伴侣暴力, 社会支持, 姐妹情谊, 商业性工作, 心理健康, 艾滋病, 法律与政策                                 |
 

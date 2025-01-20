@@ -23,7 +23,7 @@
 | Archived Date   | 2024-11-07 19:55:14                             |
 | Original Link   | [https://www.sciengine.com/doi/pdfView/8B784CAEC3414765B338B1242BF2DB47](https://www.sciengine.com/doi/pdfView/8B784CAEC3414765B338B1242BF2DB47)                         |
 | Author          | 陈光杰, 王晓豪, 唐达星                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 2019-08-01                                 |
 | Tags            | 性别发育异常, 医疗资源, 跨性别研究, 多元性别, 医学文献, 儿童泌尿外科, 多学科合作, 心理评估, 生殖健康                                 |
 

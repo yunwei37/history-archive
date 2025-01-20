@@ -29,7 +29,7 @@
 | Archived Date   | 2025-01-18                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Chen, Runsen; Zhu, Xuequan; Wright, Lucy; Drescher, Jack; Gao, Yue; Wu, Lijuan; Ying, Xin; Qi, Ji; Chen, Chen; Xi, Yingjun; Ji, Lanxin; Zhao, Huichun; Ou, Jianjun; Broome, Matthew R                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 2019-01-01                                 |
 | Tags            | 跨性别, 自杀意念, 心理健康, 中国, 社会研究, 医学文献, 临床研究, 抑郁症                                 |
 

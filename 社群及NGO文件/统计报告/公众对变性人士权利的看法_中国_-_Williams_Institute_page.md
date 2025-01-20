@@ -33,7 +33,7 @@
 | Archived Date   | 2024-11-02 02:40:04                             |
 | Original Link   | [https://williamsinstitute.law.ucla.edu/wp-content/uploads/Public-Opinion-Trans-China-Chinese-Jun-2021.pdf](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Public-Opinion-Trans-China-Chinese-Jun-2021.pdf)                         |
 | Author          | 卢奕嘉 (Winston Luhur), 泰勒·布朗 (Taylor N.T. Brown), 刘明珂 (Mingke Liu), 阿里·绍 (Ari Shaw)                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 2021-06-01                                 |
 | Tags            | 变性人士, 权利, 公众态度, 社会研究, 中国, 法律政策, 人权, 家庭接纳, 社会歧视, 心理健康                                 |
 

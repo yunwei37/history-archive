@@ -27,7 +27,7 @@
 | Archived Date   | 2025-01-14 00:36:23                             |
 | Original Link   | [https://www.medrxiv.org/content/10.1101/2022.10.05.22280725v1.full.pdf](https://www.medrxiv.org/content/10.1101/2022.10.05.22280725v1.full.pdf)                         |
 | Author          | Ben-tuo Zeng, Hui-qing Pan, Li-ping Li, Tian-meng Lan, Zhen-yu Ye, Peng-fei Wang, Yang Liu                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 2022-10-06                                 |
 | Tags            | 跨性别, 激素过量, 健康研究, 医学, 社会影响, 混合方法, 中国跨性别者                                 |
 

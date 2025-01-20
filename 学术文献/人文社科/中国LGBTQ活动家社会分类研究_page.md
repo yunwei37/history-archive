@@ -29,7 +29,7 @@
 | Archived Date   | 2024-11-23 04:39:00                             |
 | Original Link   | [https://researchoutput.csu.edu.au/files/498114315/392787194_published_article.pdf](https://researchoutput.csu.edu.au/files/498114315/392787194_published_article.pdf)                         |
 | Author          | 未知                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | LGBTQ, 社会分类, 中国, 活动家, 性别多元化                                 |
 

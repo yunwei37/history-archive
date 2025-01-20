@@ -29,7 +29,7 @@
 | Archived Date   | 2025-01-18                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 梁咏恩 Joanne Leung                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 2014-12-31                                 |
 | Tags            | 跨性别, 家长手册, 社会支持, 性别认同, 跨性别资源中心, 家庭教育, 心理支持, 性别研究                                 |
 

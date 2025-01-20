@@ -23,7 +23,7 @@
 | Archived Date   | 2025-01-18                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 牛建英                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 性激素, 免疫系统, 自身免疫性疾病, 临床研究, 性别差异, 跨性别医疗, 生物医学, 免疫应答                                 |
 

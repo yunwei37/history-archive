@@ -29,7 +29,7 @@
 | Archived Date   | 2024-11-01 08:52:51                             |
 | Original Link   | [https://www.zgggws.com/cn/article/pdf/preview/10.11847/zgggws1118684.pdf](https://www.zgggws.com/cn/article/pdf/preview/10.11847/zgggws1118684.pdf)                         |
 | Author          | 吕翠霞，张晓菲，傅继华                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 2018-11-01                                 |
 | Tags            | 跨性别女性, 心理特征, 行为分析, 艾滋病预防, 行为统计, 社会心理, 山东省                                 |
 

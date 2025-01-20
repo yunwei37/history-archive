@@ -23,7 +23,7 @@
 | Archived Date   | 2024-11-07 18:49:09                             |
 | Original Link   | [http://www.cjmit.com/cjmit/ch/reader/download_pdf.aspx?file_no=20070943&year_id=2007&quarter_id=9&falg=1](http://www.cjmit.com/cjmit/ch/reader/download_pdf.aspx?file_no=20070943&year_id=2007&quarter_id=9&falg=1)                         |
 | Author          | 严文静, 刘蜻蜻, 周跃兴, 马红梅                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 2007-09-01                                 |
 | Tags            | 真两性畸形, 超声检查, 医学影像, 性别发育障碍, 儿科医学, 案例研究, 云南                                 |
 

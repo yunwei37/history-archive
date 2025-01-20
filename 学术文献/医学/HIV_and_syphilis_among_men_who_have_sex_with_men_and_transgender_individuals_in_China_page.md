@@ -29,7 +29,7 @@
 | Archived Date   | 2025-01-18                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | Songyuan Tang等                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 2016-10-30                                 |
 | Tags            | 跨性别, HIV, 梅毒, 男男性行为者, 公共卫生, 社会政策, 性健康, 医学研究                                 |
 

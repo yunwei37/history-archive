@@ -23,7 +23,7 @@
 | Archived Date   | 2025-01-18                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | 粟进英，龚双萍                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 2014-06                                 |
 | Tags            | 大学生身份, 心理学研究, 社会学研究, 心理社会学, 个体与环境理论                                 |
 

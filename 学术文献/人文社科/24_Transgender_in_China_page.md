@@ -29,7 +29,7 @@
 | Archived Date   | 2025-01-14 00:21:15                             |
 | Original Link   | [https://howardchiang.faculty.ucdavis.edu/wp-content/uploads/sites/710/2021/09/43-Transgender-in-China-1217.pdf](https://howardchiang.faculty.ucdavis.edu/wp-content/uploads/sites/710/2021/09/43-Transgender-in-China-1217.pdf)                         |
 | Author          | Howard Chiang                               |
-| Region          | 中国                               |
+ | Region          | 中国大陆                               |
 | Date            | 未知                                 |
 | Tags            | 跨性别, 中国, 性别研究, 酷儿研究, 社会文化                                 |
 
