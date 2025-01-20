@@ -32,7 +32,7 @@
 | Original Link   | [https://cnlgbtdata.com/files/uploads/2020/04/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BE%A4%E4%BD%93%E6%BF%80%E7%B4%A0%E5%B9%B2%E9%A2%84%E8%8E%B7%E5%8F%96%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A.pdf](https://cnlgbtdata.com/files/uploads/2020/04/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BE%A4%E4%BD%93%E6%BF%80%E7%B4%A0%E5%B9%B2%E9%A2%84%E8%8E%B7%E5%8F%96%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A.pdf)                         |
 | Author          | 卓卉莐, 梦怡, 跨儿文化                               |
 | Region          | 中国大陆                               |
-| Date            | 未知                                 |
+| Date            | 2018-12                                 |
 | Tags            | 跨性别, 激素干预, 中国大陆, 社群调查, 医学指导                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有，所有内容仅为历史资料保存及研究之用。如果原作者或相关方希望移除存档内容，请通过电子邮件与我们联系。
