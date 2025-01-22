@@ -17,6 +17,8 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 
 <!-- tcd_abstract_end -->
 
+> 摘要与附加信息为自动生成，仅供检索与参考。如有错误或遗漏（未知），请在本页面协助编辑指正，不胜感激。
+
 ## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
