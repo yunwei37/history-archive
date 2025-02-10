@@ -1,0 +1,25 @@
+name: 社群
+description: 该目录包含了与跨性别社群相关的组织和非政府组织（NGO）的信息，包括中国大陆及海外的社群动态和资源。
+curator: ''
+source: ''
+tags:
+- 跨性别
+- 社群
+- NGO
+- 中国大陆
+- 海外
+- 港澳台
+license: ''
+files:
+- name: 性别独角兽
+  filename: 性别独角兽.jpg
+  type: image
+  format: JPEG Image
+  size: 108064
+  md5: 4a7ce0a06a8cccefb080638076c9714e
+  page: 性别独角兽.jpg
+subdirs:
+- Limelights社区
+- 中国大陆
+- 海外
+- 港澳台
