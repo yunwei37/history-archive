@@ -37,7 +37,7 @@ search:
 <tr data-name="5医学与哲学6人文社会医学版2007_年_第28_卷_易性癖及其手术治疗的全面审视" data-year="2007" data-date="2024-11-02 02:46:09">
                 <td><a href="5医学与哲学6人文社会医学版2007_年_第28_卷_易性癖及其手术治疗的全面审视_page" class="md-button">5医学与哲学6人文社会医学版2007_年_第28_卷_易性癖及其手术治疗的全面审视</a></td>
                 <td class="year-cell">2007</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文献为《医学与哲学（人文社会医学版）》...</summary>
                     <div class="description">
                         该文献为《医学与哲学（人文社会医学版）》2007年12月第28卷第12期的一个专辑，主要聚焦于医疗与社会的多重关系，特别是从人文社会医学的视角出发，探讨医疗改革、医学伦理及其他相关议题。论文中汇集了多位学者的研究成果，包括对中国人群死亡及其危险因素的流行水平、趋势和分布的深入分析。文中提到，医学专业面临一系列危机，特别是医生与药业的关系、医生职业的潜规则，以及医学伦理学的必要性和挑战。
@@ -49,7 +49,7 @@ search:
 <tr data-name="2007年变性人及手术态度研究_冯泽永" data-year="2007" data-date="2024-11-23 06:51:59">
                 <td><a href="2007年变性人及手术态度研究_冯泽永_page" class="md-button">2007年变性人及手术态度研究_冯泽永</a></td>
                 <td class="year-cell">2007</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为冯泽永在《医学与哲学（人文社会医...</summary>
                     <div class="description">
                         本文件为冯泽永在《医学与哲学（人文社会医学版）》第28卷第8期发表的一篇关于变性人及其手术态度的研究文章。文章的摘要指出，我们必须以人道主义的价值观为基础，来确立对变性人的态度，尊重变性人的理性自主选择，同时增强对变性人性别价值观的包容与理解。文件深入探讨了自1990年上海首次成功开展变性手术以来，变性医学在中国的迅猛发展，并强调了对变性人心理、伦理以及法律等方面的关注。
@@ -67,7 +67,7 @@ search:
 <tr data-name="2014年变性手术问题分析_医师报" data-year="2014" data-date="2024-11-23 06:10:35">
                 <td><a href="2014年变性手术问题分析_医师报_page" class="md-button">2014年变性手术问题分析_医师报</a></td>
                 <td class="year-cell">2014</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>在这篇名为《2014年变性手术问题分析》...</summary>
                     <div class="description">
                         在这篇名为《2014年变性手术问题分析》的文章中，主要探讨了我国变性手术领域内存在的一系列问题。其中提到的数据显示，我国的变性者数量已达40万，然而变性手术的门槛相对较高，加之监管缺失，导致了违法行为的滋生。文章指出，变性手术受限于现行法规，许多求助者因无法支付高额费用而寻求无执照诊所的服务，极有可能面临手术风险和后续的医疗问题。通过引用上海长征医院与上海交通大学医学院的数据，提到这两大手术中心在过去30年间已进行过至少800例变性手术。与此同时，李青峰教授及其团队在《柳叶刀》等国际期刊上发表了关于变性手术政策的相关研究。他们对现行的变性手术治疗标准提出质疑，强调这一政策并未全面反映国际变性手术的治疗指南，缺乏更新与修订，造成了对变性者的隐私与自主权的侵犯。 
@@ -83,7 +83,7 @@ search:
 <tr data-name="2016_蔡泳研究组_中国跨性别男男性行为者HIV感染风险研究" data-year="2016" data-date="2024-11-23 06:47:20">
                 <td><a href="2016_蔡泳研究组_中国跨性别男男性行为者HIV感染风险研究_page" class="md-button">2016_蔡泳研究组_中国跨性别男男性行为者HIV感染风险研究</a></td>
                 <td class="year-cell">2016</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>《中国跨性别男男性行为者HIV感染风险研...</summary>
                     <div class="description">
                         《中国跨性别男男性行为者HIV感染风险研究》研究的主要内容是关于中国跨性别男男性行为者（transgender men who have sex with men, TGMSM）群体HIV/AIDS感染风险的深入分析。研究由上海交通大学公共卫生学院的蔡泳副教授及香港中文大学的刘德辉教授联合进行，聚焦于中国范围内这一边缘人群的病毒感染率及相关的社会心理因素。
@@ -103,7 +103,7 @@ search:
 <tr data-name="2018年愛滋病預防項目調查報告-男跨女跨性別人士" data-year="2019" data-date="2024-11-23 05:32:35">
                 <td><a href="2018年愛滋病預防項目調查報告-男跨女跨性別人士_page" class="md-button">2018年愛滋病預防項目調查報告-男跨女跨性別人士</a></td>
                 <td class="year-cell">2019</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这份文件是《2018年爱滋病预防项目调查...</summary>
                     <div class="description">
                         这份文件是《2018年爱滋病预防项目调查报告—男跨女跨性别人士》的详细记录，发表于2019年5月，旨在探讨和分析香港男跨女跨性别人士在性爱行为和健康状况方面的现状和挑战。在这份调查中，男跨女跨性别人士作为一个往往被忽视和难以接触的社群，其艾滋病病毒感染率普遍较高。为了更好地了解这一群体的健康状况，调查团队于2014年将其纳入高危群体，并在2018年持续进行相关研究与数据收集。
@@ -123,7 +123,7 @@ search:
 <tr data-name="2020_年美国内分泌协会临床实践指南_内分泌疾病患者的血脂管理" data-year="2021" data-date="2024-11-01 08:47:44">
                 <td><a href="2020_年美国内分泌协会临床实践指南_内分泌疾病患者的血脂管理_page" class="md-button">2020_年美国内分泌协会临床实践指南_内分泌疾病患者的血脂管理</a></td>
                 <td class="year-cell">2021</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文档为2020年美国内分泌协会发布的《...</summary>
                     <div class="description">
                         该文档为2020年美国内分泌协会发布的《临床实践指南：内分泌疾病患者的血脂管理》解读，由邓臣前和陈树春共同撰写。文章详细阐述了近年来内分泌疾病患者血脂管理的重要性，指出血脂异常在这些患者中的普遍存在并提出针对性的管理建议。本文首先提到，在近些年，多个国家，包括中国相继发布了关于内分泌疾病的血脂管理指南，强调这一方面在治疗中的重要性。然而，大多数指南只针对单一内分泌疾病的管理，而未能对伴有多种内分泌疾病且存在血脂异常的患者进行系统性的阐述。这一背景下，2020年美国内分泌协会的指南首次综合地描述了内分泌疾病患者的血脂管理，为临床实践提供了重要的指导依据。
@@ -135,7 +135,7 @@ search:
 <tr data-name="2021年UCSF环境调查报告" data-year="2022" data-date="2024-11-23 05:07:24">
                 <td><a href="2021年UCSF环境调查报告_page" class="md-button">2021年UCSF环境调查报告</a></td>
                 <td class="year-cell">2022</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件是由加州大学旧金山分校（UCSF）...</summary>
                     <div class="description">
                         本文件是由加州大学旧金山分校（UCSF）于2021年进行的环境调查报告，由Emma White Research实施。该调查旨在评估UCSF社区的工作和学习环境，尤其关注多元化、公平性和包容性。在问卷设计过程中，调查组参考了之前的多项调查，以确保能全面反映不同群体的体验与感受。调查从2021年10月11日至12月3日进行，收集了14,579份回应，包括教师、工作人员和学习者的数据。
@@ -153,7 +153,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="2023_國立臺灣大學_跨性別男性情慾與性風險研究報告" data-year="2023" data-date="2025-01-18">
                 <td><a href="2023_國立臺灣大學_跨性別男性情慾與性風險研究報告_page" class="md-button">2023_國立臺灣大學_跨性別男性情慾與性風險研究報告</a></td>
                 <td class="year-cell">2023</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件是由国立台湾大学医学院护理学系完成...</summary>
                     <div class="description">
                         该文件是由国立台湾大学医学院护理学系完成的关于跨性别男性情欲与性风险的研究报告。本研究旨在深入探讨跨性别男性（Transgender Male，TM）在情欲和性风险方面的经验。跨性别男性作为一个少数且难以触及的族群，相关的研究与数据十分匮乏，尤其是在他们的情欲文化与性风险行为方面。本报告详细描述了研究的背景、方法以及结果，试图为今后的性健康照护提供数据支持。
@@ -171,7 +171,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="2023_年兒童青少年精神科專科醫師繼續教育課程_跨性別與性別多元化" data-year="2023" data-date="2024-11-02 02:43:58">
                 <td><a href="2023_年兒童青少年精神科專科醫師繼續教育課程_跨性別與性別多元化_page" class="md-button">2023_年兒童青少年精神科專科醫師繼續教育課程_跨性別與性別多元化</a></td>
                 <td class="year-cell">2023</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件是2023年儿童青少年精神科专科医...</summary>
                     <div class="description">
                         本文件是2023年儿童青少年精神科专科医师继续教育课程的资料，主题为跨性别与性别多元化青年的整合性照护与精神健康。该文档详细列出了课程的日程安排及讲者信息，以帮助医师们深入了解如何为跨性别及性别多元的青少年提供全面的心理健康支持与照护。
@@ -193,7 +193,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="2023_杜思誠_多元性別友善醫療報告" data-year="2023" data-date="2025-01-18">
                 <td><a href="2023_杜思誠_多元性別友善醫療報告_page" class="md-button">2023_杜思誠_多元性別友善醫療報告</a></td>
                 <td class="year-cell">2023</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件为《多元性别友善医疗报告》，由杜思...</summary>
                     <div class="description">
                         该文件为《多元性别友善医疗报告》，由杜思诚撰写，目的是为推动和改善对多元性别群体的医疗保障与支持。这份报告首先从作者杜思诚的背景出发，描述了其在同志性健康与艾滋病议题、职场多元性别平等、国际事务及婚姻平权推进方面的经验和贡献。作者强调，作为一位活跃的社群参与者，他对于多元性别的理解不仅是理论上的，更是亲身经历与长期关注的结果。
@@ -213,7 +213,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="2023_腹腔镜手术在女性易性癖患者性再赋手术中的应用价值研究" data-year="2023" data-date="2024-11-23 06:48:06">
                 <td><a href="2023_腹腔镜手术在女性易性癖患者性再赋手术中的应用价值研究_page" class="md-button">2023_腹腔镜手术在女性易性癖患者性再赋手术中的应用价值研究</a></td>
                 <td class="year-cell">2023</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本研究文件名为《腹腔镜手术在女性易性癖患...</summary>
                     <div class="description">
                         本研究文件名为《腹腔镜手术在女性易性癖患者性再赋手术中的应用价值研究》，主要探讨腹腔镜手术在女性易性癖患者进行性别再赋手术（也称为性别确认手术）中的实际应用及其效果。这项研究重点分析了腹腔镜手术方法的优势，包括其低侵入性、较短的恢复时间及减轻手术后并发症的风险等。由于传统的开放手术可能导致更长的恢复期和更高的感染风险，因此利用腹腔镜技术能够为患者提供更为人性化的医疗选择。
@@ -231,7 +231,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="2023年台灣性學會研究冊" data-year="2023" data-date="2024-11-23 02:48:07">
                 <td><a href="2023年台灣性學會研究冊_page" class="md-button">2023年台灣性學會研究冊</a></td>
                 <td class="year-cell">2023</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件为2023年台湾性学会研究册，是一...</summary>
                     <div class="description">
                         该文件为2023年台湾性学会研究册，是一份专注于性别多元性及相关领域的学术文献。由于从PDF中提取文本时出现错误，导致具体内容未能显示，但就一般而言，这类文献通常包括了关于性别研究的最新发现、案例分析、理论探讨、医疗资源、社会环境以及法律政策等方面的重要议题。虽然无法直接获取文本内容，预计文中可能包含台湾地区关于跨性别、多元性别群体的生命故事与过渡经历的具体案例，提供了许多第一手的研究数据与个体经验分享。文献还可能涉及到跨性别群体所面临的医疗挑战和资源，探讨了医疗体系对多元性别人士的支持及其不足之处，梳理了法律框架对这些群体的保护或者限制。另一个潜在的主题则是社会环境对于性别认同的接受度和支持程度，这在台湾社会的背景下更具现实意义。结合当前台湾对性别平等的推动以及反对歧视的立法进展，这份研究册无疑为了解性别多元性的问题提供了宝贵的视角和数据。文献可能还囊括一些重要的学术观点，提供有关生存现状的真实记录，以及相关的统计数据与社会研究成果，为读者揭示多元性别群体所经历的种种挑战与希望的变化。虽然无法提供具体的文本摘录，但文件的重要性在于其为性别研究领域提供了全面的学术贡献和实证数据，强调了学术界与社会对多元性别议题的重视与关注。
@@ -243,7 +243,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="2023年鲁琳_双性人手术干预知情同意分析与后现代哲学思考" data-year="2023" data-date="2024-11-23 06:50:32">
                 <td><a href="2023年鲁琳_双性人手术干预知情同意分析与后现代哲学思考_page" class="md-button">2023年鲁琳_双性人手术干预知情同意分析与后现代哲学思考</a></td>
                 <td class="year-cell">2023</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这篇论文题为《双性人手术干预知情同意分析...</summary>
                     <div class="description">
                         这篇论文题为《双性人手术干预知情同意分析与后现代哲学思考》，由鲁琳博士撰写，刊登在2023年9月的《医学与哲学》杂志第44卷第18期。文中深入探讨了关于双性人手术干预的知情同意的伦理问题，并提出了三种不同的立场。肯定立场，即支持由医务人员作出手术决定，认为这符合社会主流性别规范的要求，但作者指出，这种立场并未考虑双性人自身对性别的感受，违反了知情同意原则的基本伦理。中间立场主张手术的必要性并强调父母的决定权，认为在某种程度上符合临床的知情同意伦理规范，但同样忽略了双性人个体的情感和需求。最后，否定立场提倡完全停止不必要的外科手术，认为应当在儿童认知能力足够的时候由其自行决定是否接受手术。这一立场得到了后现代哲学的支持，倡导多元性和对弱势群体的关注，为否定立场提供了更为充分的理论依据。论文引用了哥伦比亚法律的实践，探讨了手术知情同意应在法律监督下进行，以确保做出完全符合儿童利益的决定。这一系列分析不仅针对双性人医疗干预的伦理困境，也引发了对性别认同、身体自主权以及医疗伦理的更广泛思考。整体而言，这篇文章不仅具有理论深度，还对双性人群体的生存现状及其在医务系统中的地位提出了质疑和反思，呼吁在医学实践中更加关注双性人的个体化需求和人权。
@@ -255,7 +255,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="2024年医学与哲学_跨性别技术的伦理困境_俞玲玲" data-year="2024" data-date="2024-11-23 06:49:43">
                 <td><a href="2024年医学与哲学_跨性别技术的伦理困境_俞玲玲_page" class="md-button">2024年医学与哲学_跨性别技术的伦理困境_俞玲玲</a></td>
                 <td class="year-cell">2024</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这篇文章的标题为《跨性别技术的伦理困境》...</summary>
                     <div class="description">
                         这篇文章的标题为《跨性别技术的伦理困境》，由俞玲玲撰写，发表于2024年11月的《医学与哲学》期刊。该文探讨了跨性别技术作为一种医学手段在实现跨性别者身心统一过程中所面临的伦理难题。文章首先明确跨性别技术的定义，包括性别确认激素疗法和性别确认手术，并指出随着社会的进步和大众对性别多样性认知的提升，这一医疗技术的合法性逐渐被认可。然而，尽管技术存在合法性，跨性别者在寻求治疗的过程中，依然面临严重的社会歧视和生存困境，这种困境在个体与社会的双重层面上显得尤为突出。
@@ -271,7 +271,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="A_cross-sectional_study_of_associations_between_casual_partner,_friend_discrimination,_social_support_and_anxiety_symptoms_among_Chinese_transgender_women" data-year="2016" data-date="2025-01-18">
                 <td><a href="A_cross-sectional_study_of_associations_between_casual_partner,_friend_discrimination,_social_support_and_anxiety_symptoms_among_Chinese_transgender_women_page" class="md-button">A_cross-sectional_study_of_associations_between_casual_partner,_friend_discrimination,_social_support_and_anxiety_symptoms_among_Chinese_transgender_women</a></td>
                 <td class="year-cell">2016</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件是发表在《情感障碍杂志》上的一篇学...</summary>
                     <div class="description">
                         该文件是发表在《情感障碍杂志》上的一篇学术论文，研究了中国跨性别女性的焦虑症状与随意伴侣、朋友歧视和社会支持之间的关系。文章指出焦虑症状是跨性别女性中常见的心理障碍，但目前有关中国跨性别女性的相关研究仍然较少。研究以中国辽宁省沈阳的209名跨性别女性为样本进行横断面研究，采用了自评焦虑量表(Zung Self-Rating Anxiety Scale, SAS)来评估参与者的焦虑症状。根据结果显示，34.5%的参与者被诊断为具有显著焦虑症状。
@@ -287,7 +287,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="Acceptability_of_Daily_Use_of_Free_Oral_Pre-exposure_Prophylaxis__PrEP__Among_Transgender_Women_Sex_Workers_in_Shenyang,_China" data-year="2017" data-date="2025-01-18">
                 <td><a href="Acceptability_of_Daily_Use_of_Free_Oral_Pre-exposure_Prophylaxis__PrEP__Among_Transgender_Women_Sex_Workers_in_Shenyang,_China_page" class="md-button">Acceptability_of_Daily_Use_of_Free_Oral_Pre-exposure_Prophylaxis__PrEP__Among_Transgender_Women_Sex_Workers_in_Shenyang,_China</a></td>
                 <td class="year-cell">2017</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为一篇关于中国沈阳跨性别女性性工作...</summary>
                     <div class="description">
                         本文件为一篇关于中国沈阳跨性别女性性工作者每日免费预防性暴露（PrEP）使用接受度的研究，发表于2017年。研究旨在调查跨性别女性性工作者对每日使用口服PrEP的接受度及相关因素。文件内容涉及到183名HIV阴性或HIV状态未知的参与者，参与者在接受PrEP的简报后完成了横断面调查。研究结果表明，接受每日免费PrEP的比例为61.2%。
@@ -305,7 +305,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="CCDM3_中国精神障碍分类及诊断标准_全文（易性症在74页）" data-year="None" data-date="2025-01-18">
                 <td><a href="CCDM3_中国精神障碍分类及诊断标准_全文（易性症在74页）_page" class="md-button">CCDM3_中国精神障碍分类及诊断标准_全文（易性症在74页）</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>此文件为《中国精神障碍分类及诊断标准》（...</summary>
                     <div class="description">
                         此文件为《中国精神障碍分类及诊断标准》（CCMD-3）的全文，内容涵盖了精神障碍的分类、诊断标准以及相关的背景信息。CCMD-3是中国特有的精神障碍分类系统，绘制的分类与国际通用的《国际疾病分类》（ICD-10）相关，但又有其独特性，特别是考虑到中国的社会文化和实际情况。文件中详细列出了各类精神障碍的诊断标准，分类的原则、具体项目以及编码等。在文件的开头部分，作者陈彦方指出了CCMD-3编写的原则，即遵循以病人为中心的服务理念，以更好地满足病人和社会的需求，强调具有中国特色。CCMD-3不仅承袭了先前版本的优点，还致力于与国际标准接轨，同时又保持一定的易于理解和操作性。文件对分类及诊断标准的制定经过了充分的科学研究和现场测试，与《ICD-10》的分类存在相对的兼顾与对应，诸如器质性精神障碍、情感性精神障碍等都有详尽的分类。在具体内容布局上，文件包括了各类精神障碍的多项分类，例如器质性精神障碍、心理因子相关生理障碍、人格障碍等。文件中针对每种障碍的具体症状和诊断标准进行了详细描述，如对精神分裂症的定义及其相应的临床表现，说明了不同类型的精神分娩可出现的症状以及诊断依据。这些指标和分类将为临床医生在精神卫生评估与干预提供模型和框架。在引言部分，文件的作者强调了药物或其他因素引发的精神障碍的重要性，着重指出了对发达国家和地区的诊断标准不应简单照搬，而是要因地制宜，考虑到中国的社会文化背景和特点。这种设计思路表明了对患者多元化需求的关注，尤其对心理健康的理解和干预也在不断演进。因此，在处理精神障碍值问题时，CCMD-3旨在提供更为科学的指导，减少社会对精神病患者的误解和偏见。文件的附录部分包含了一些精神障碍英文名称的翻译，以便于国际间的交流与比较，这无疑为在中国特色理论下开展心理健康问题的研究提供了便利。整体来看，CCMD-3作为中国精神卫生系统的重要部分，兼具了临床实用性和理论研究的必要性，为未来中国精神健康事业的发展打下了坚实基础。
@@ -317,7 +317,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="Depth_psychotherapy_with_transgender_people" data-year="2009" data-date="2025-01-18">
                 <td><a href="Depth_psychotherapy_with_transgender_people_page" class="md-button">Depth_psychotherapy_with_transgender_people</a></td>
                 <td class="year-cell">2009</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这篇论文的标题为《与跨性别者的深度心理治...</summary>
                     <div class="description">
                         这篇论文的标题为《与跨性别者的深度心理治疗》，由林·弗雷泽（Lin Fraser）撰写，发表于2009年5月的《性与关系治疗》期刊中。文章探讨了为跨性别者提供深度心理治疗的初步转变和积极的治疗方法，结合了当代心理动力学、荣格理论及性别认同理论。弗雷泽在文章中指出，跨性别认同的发展过程是独特的，不应被视为固有的病理状态，而是一个涉及自我与外部现实之间关系的复杂过程。 文章的引言部分明确表示，这一模型的基础在于假设跨性别自我是一种合法和真实的自我，而不是早期理论所认为的虚假自我或防御机制。
@@ -335,7 +335,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="Disclosure_of_Gender_Identity_among_Transgender_Individuals_to_Healthcare__Professionals_in_China" data-year="2022" data-date="2025-01-14 00:35:55">
                 <td><a href="Disclosure_of_Gender_Identity_among_Transgender_Individuals_to_Healthcare__Professionals_in_China_page" class="md-button">Disclosure_of_Gender_Identity_among_Transgender_Individuals_to_Healthcare__Professionals_in_China</a></td>
                 <td class="year-cell">2022</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为一项名为《跨性别个体向医疗专业人...</summary>
                     <div class="description">
                         本文件为一项名为《跨性别个体向医疗专业人员披露性别身份的情况：一项在线横断面研究》的学术研究预印本，发布于2022年8月26日，由Shamen Susan Chauma等人在中国大陆九个城市进行。研究的目的是评估影响跨性别个体向健康专业人员披露其性别身份的因素，探讨此次披露如何影响跨性别个体的健康服务获取，以及可能面临的文化和社会污名问题。研究的样本依据来自2019年12月至2020年6月间的问卷调查，包括324名跨性别参与者，其中277人符合参与研究的标准，平均年龄为29岁。  
@@ -351,7 +351,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="HIV_and_syphilis_among_men_who_have_sex_with_men_and_transgender_individuals_in_China" data-year="2016" data-date="2025-01-18">
                 <td><a href="HIV_and_syphilis_among_men_who_have_sex_with_men_and_transgender_individuals_in_China_page" class="md-button">HIV_and_syphilis_among_men_who_have_sex_with_men_and_transgender_individuals_in_China</a></td>
                 <td class="year-cell">2016</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件是关于在中国的男男性行为者（MSM...</summary>
                     <div class="description">
                         该文件是关于在中国的男男性行为者（MSM）和跨性别个体中HIV和梅毒流行的综述研究，标题为《在中国，男男性行为者和跨性别个体中的HIV和梅毒：一个范围审查》，由Songyuan Tang等人撰写。文中首先介绍了背景，指出尽管政府进行了大量关注，HIV和梅毒在MSM群体中的流行现象仍持续增长。研究团队旨在通过文献综述整合HIV和梅毒流行及应对措施的主要特征，从而为政策制定者和项目管理者提供基于证据的推荐。
@@ -369,7 +369,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="Hormone_overdose_and_misuse_in_Chinese_transgender" data-year="2022" data-date="2025-01-14 00:36:23">
                 <td><a href="Hormone_overdose_and_misuse_in_Chinese_transgender_page" class="md-button">Hormone_overdose_and_misuse_in_Chinese_transgender</a></td>
                 <td class="year-cell">2022</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这份论文题为《Chinese trans...</summary>
                     <div class="description">
                         这份论文题为《Chinese transgender and gender non-conforming population的激素过量和误用：混合方法研究方案》，主要探讨了在中国跨性别及性别非顺应人群中，激素过量和误用（Hormone Overdose and Misuse, HODM）的现象。通过这项研究，作者希望对HODM的定义和标准进行评估，调查在中国跨性别和性别非顺应者中HODM的发生率。同时，研究将探索与HODM相关的因素、行为风险，识别潜在原因，并探讨长期影响。该研究背景中提到，目前中国的文献中几乎没有关于HODM的研究，对于这一问题的了解非常有限。
@@ -385,7 +385,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="hormones_MTF" data-year="None" data-date="2025-01-18">
                 <td><a href="hormones_MTF_page" class="md-button">hormones_MTF</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件《Hormones: A guid...</summary>
                     <div class="description">
                         该文件《Hormones: A guide for MTFs》是一本关于跨性别者特别是跨性别女性（MTF，Male to Female）在激素治疗方面的指南。本指南重点介绍了激素治疗的基本知识，包括激素的作用、MTF激素疗法的类型、治疗过程中可能发生的身体变化以及相关的健康风险等细节。文件指出，激素作为化学信使，由身体的某一部分产生，影响身体其他部分的功能，包括生长、分化等诸多生理反应。在跨性别女性的转变过程中，激素主要用于促进女性化特征的发育，从而使身体与个人性别认同更加契合。
@@ -403,7 +403,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="How_Chinas_Transgender_Sex_Workers_Cope_with_Intimate" data-year="2020" data-date="2025-01-18">
                 <td><a href="How_Chinas_Transgender_Sex_Workers_Cope_with_Intimate_page" class="md-button">How_Chinas_Transgender_Sex_Workers_Cope_with_Intimate</a></td>
                 <td class="year-cell">2020</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件为一篇名为《希望的姐妹情：如何应对...</summary>
                     <div class="description">
                         该文件为一篇名为《希望的姐妹情：如何应对中国跨性别性工作者的亲密伴侣暴力》的学术论文。文章主要探讨了跨性别性工作者（Transgender Sex Workers, TSW）在面对亲密伴侣暴力（Intimate Partner Violence, IPV）时所遭受的困境，以及她们通过非正式的社会支持网络来应对这些挑战的策略。文中提到，跨性别性工作者在中国社会中面临着极大的孤立和歧视，常常受到来自客户、警察及其他人的暴力，而估计有50%的暴力事件发生在亲密伴侣之间。这样的边缘化使得跨性别性工作者在寻求帮助时面临巨大障碍，导致她们很难通过法律或咨询服务获得支持。
@@ -419,7 +419,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="ICD_Gender_Incongruence_中文" data-year="None" data-date="2025-01-18">
                 <td><a href="ICD_Gender_Incongruence_中文_page" class="md-button">ICD_Gender_Incongruence_中文</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>此文档为《国际疾病分类（ICD-11）》...</summary>
                     <div class="description">
                         此文档为《国际疾病分类（ICD-11）》中有关性别不一致的部分，引述了18章中与性健康相关的情况，并对不同年龄段的性别不一致进行了详细阐述。性别不一致（Gender Incongruence）被定义为个体的性别体验与被指派的性别之间显著且持续的不一致。文中明确指出，单纯的性别变异行为和偏好不足以作为该诊断的依据。接着，针对青少年和成年人的性别不一致，文件描述了个体在经历上所表现出的不适感，以及对性别特征的强烈期望，包括对自身性特征的强烈不满、渴望摆脱不符合自身性别体验的性特征，并希望被社会接受为其经历的性别。这种不一致的体验必须持续存在至少数月，且该诊断不适用于青春期开始之前。为了清晰起见，该文件列出了与性别不一致相关的排除责任，例如性倒错障碍等。对于儿童时期的性别不一致，文中指出，儿童时期表现出来的性别不一致特征包含强烈的性别改变欲望，以及对自身性器官或性征的不满。这种不一致的表现需持续大约两年时间，且同样，性别变异行为和偏好并不足以构成该诊断。文件还提及了一系列性别不一致的情况，包括未特定的性别不一致和其他与性健康相关的情况。整体来看，这份文档为理解性别不一致提供了科学的依据，明确了其各个阶段的标准与特征，有助于在医疗和社会服务中更好地为有需要的人群提供支持和帮助。
@@ -431,7 +431,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="Minority_Stress_and_Mental_Health_among_Transgender_Persons" data-year="2018" data-date="2025-01-14 00:26:59">
                 <td><a href="Minority_Stress_and_Mental_Health_among_Transgender_Persons_page" class="md-button">Minority_Stress_and_Mental_Health_among_Transgender_Persons</a></td>
                 <td class="year-cell">2018</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这篇名为《跨性别者的少数族裔压力与心理健...</summary>
                     <div class="description">
                         这篇名为《跨性别者的少数族裔压力与心理健康》的论文是由伊丽莎白·艾丽斯·萨帕雷托（Elizabeth Alice Sapareto）于2018年在沃尔登大学完成的博士学位论文。论文探讨了跨性别者这一少数群体面临的独特心理健康挑战，特别是少数族裔压力如何影响他们的心理健康。论文的摘要部分指出，跨性别者由于受到社会的深刻歧视和污名化，面临更高的健康和心理健康风险。现有的研究表明，少数族裔压力与心理健康之间存在强烈关联，但针对跨性别者群体的研究仍然很少。为此，该研究通过少数族裔压力理论、积极心理学、生物心理社会模型及跨性别模型为基础，试图阐明跨性别者群体心理健康与少数族裔压力之间的关系。论文中提出了四个研究问题，并最终招募了29名跨性别参与者完成了在线问卷，问卷内容包括3个少数族裔压力测量（内化的跨性别恐惧、污名化和偏见事件）和5个心理健康测量（抑郁、自杀、焦虑及药物和酒精的滥用）。结果表明，具有更高感知污名评分的参与者，自杀意念评分也较高。与预期相反，内化的跨性别恐惧与自杀意念评分之间并没有显著的正相关。研究结果表明，少数族裔的压力对于心理健康的影响是独立的，而当这些压力的影响合并在一起时，对心理健康的总体影响会大于其单独影响。这些研究结果为社会变革倡导提供了支持，意在为卫生保健机构、专业人士及跨性别客户营造一个更加友好的环境。整篇论文企图通过展示一个尚未被充分理解的少数群体的信息，来推动社会变革，尤其是在医疗环境中，为跨性别者提供更安全和有效的健康服务。研究所提到的少数族裔压力的来源包括社会的偏见和制度的障碍，这些因素共同作用使跨性别者在获取医疗资源时面临重重困难。论文的回顾性分析与心理健康变数间的关联，反映出跨性别者在日常生活中所承受的心理负担，这也促使该领域需要更多的深入研究和政策方面的关注。
@@ -443,7 +443,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="Necessity_of_facial_contouring_in_feminization_surgery_for" data-year="2021" data-date="2025-01-14 00:16:02">
                 <td><a href="Necessity_of_facial_contouring_in_feminization_surgery_for_page" class="md-button">Necessity_of_facial_contouring_in_feminization_surgery_for</a></td>
                 <td class="year-cell">2021</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文为一篇关于中国跨性别女性面部轮廓手术...</summary>
                     <div class="description">
                         本文为一篇关于中国跨性别女性面部轮廓手术（FFS）的专业学术文章，标题为《女性化手术中面部轮廓成型的必要性》。文章由上海交通大学附属上海第九人民医院的重建与整形外科团队撰写，团队成员包括董丽、徐亮、余哲园、袁杰和魏敏。本研究的背景在于，越来越多的跨性别女性面临严重的性别认同障碍，这种障碍常常导致抑郁和自我伤害行为。面部女性化手术被认为是缓解性别认同障碍的一种有效方法，对于中国患者来说，其重要性可能甚至超过生殖器重置手术。 文章中指出，面部轮廓手术被视为改善面部外貌的普通FFS，颧骨和下颌是女性化面部轮廓的关键区域。 
@@ -459,7 +459,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_2018年男同性戀雙性戀及跨性別女性的精神健康" data-year="2021" data-date="2024-11-07 19:37:49">
                 <td><a href="PDF_2018年男同性戀雙性戀及跨性別女性的精神健康_page" class="md-button">PDF_2018年男同性戀雙性戀及跨性別女性的精神健康</a></td>
                 <td class="year-cell">2021</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这份文件名为《2018年男同性恋/双性恋...</summary>
                     <div class="description">
                         这份文件名为《2018年男同性恋/双性恋及跨性别女性的精神健康、物质使用及性健康调查》，由香港特区政府卫生署卫生防护中心发布，时间标注为2021年6月。该调查旨在了解男男性接触者（GBT社群）的生活风险因素和心理健康问题，探讨心理健康与物质使用及性健康之间的关系。调查的背景指出，尽管针对性行为风险因素进行过一系列监测，但针对GBT社群的精神健康问题与性健康风险之间的关联尚未得到充分研究，因此该项调查于2018年11月在香港同志游行期间进行。调查使用了一份由GBT社群自行填写的电子问卷，总共招募了504名男性受访者，其中93%为华人，涵盖了本地出生及在大陆或其他地区出生的受访者，年齡中位数为26岁。这些受访者中有73.4%自我认定为同性恋者，26.6%为双性恋或泛性恋者。
@@ -477,7 +477,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_Medicare_和跨性别老年人" data-year="2023" data-date="2024-11-07 19:12:48">
                 <td><a href="PDF_Medicare_和跨性别老年人_page" class="md-button">PDF_Medicare_和跨性别老年人</a></td>
                 <td class="year-cell">2023</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件名为《Medicare 和跨性别老...</summary>
                     <div class="description">
                         本文件名为《Medicare 和跨性别老年人: 跨性别者需要知道的内容》，是关于美国 Medicare 系统如何满足跨性别老年人的独特医疗需求的详细指南。文件首先讨论了 Medicare 的历史背景，指出自卫生与公众服务部（HHS）改变长期政策，并开始承保必要的性别认同手术以来，已经过去将近十年。在这段时间内， Medicare 针对跨性别成年人所提供的许多服务进行了重要的澄清和更新。
@@ -497,7 +497,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_低剂量阴道雌激素治疗患者指南" data-year="2011" data-date="2024-11-07 20:03:14">
                 <td><a href="PDF_低剂量阴道雌激素治疗患者指南_page" class="md-button">PDF_低剂量阴道雌激素治疗患者指南</a></td>
                 <td class="year-cell">2011</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件是由国际妇科泌尿协会（IUGA）发...</summary>
                     <div class="description">
                         该文件是由国际妇科泌尿协会（IUGA）发布的《低剂量阴道雌激素治疗患者指南》，它主要针对女性在经历泌尿生殖道萎缩性变化时的治疗需求。本指南详细介绍了局部使用阴道雌激素的重要性，它用于治疗因绝经引起的阴道干燥、薄弱及不适等症状。文中提到，随着绝经后卵巢不再合成雌激素，女性会经历一系列生理变化，包括阴道及尿道的萎缩、干燥及痛感，而局部使用阴道雌激素能显著改善这些情况。该文开头就指出了局部雌激素的目的在于缓解泌尿生殖道的萎缩性皮肤变化，通过直接将雌激素涂抹到阴道内来改善皮肤质量，避免全身治疗对其他器官的不良影响。
@@ -509,7 +509,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_先天性肾上腺增生症致女性假两性畸形1例" data-year="2020" data-date="2024-11-07 19:13:59">
                 <td><a href="PDF_先天性肾上腺增生症致女性假两性畸形1例_page" class="md-button">PDF_先天性肾上腺增生症致女性假两性畸形1例</a></td>
                 <td class="year-cell">2020</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为一篇发表在《中国临床泌尿外科杂志...</summary>
                     <div class="description">
                         本文件为一篇发表在《中国临床泌尿外科杂志》上的病例报告，题目为《先天性肾上腺增生症致女性假两性畸形1例》。文章主要记录了一个患有先天性肾上腺增生症（CAH）患者的具体病例，并详细分析了其临床表现、实验室检查、影像学结果和病理诊断等信息。病例中的患者为一名30岁的女性，进入医院时被诊断出存在左侧肾上腺区的病灶，表现为腹包块并伴有间断性四肢无力及肉眼血尿。通过CT扫描及其他影像学检查，发现了多发混杂密度的肿块，考虑到其生理特征，最终判定为先天性肾上腺增生症引发的假两性畸形。
@@ -525,7 +525,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_北京2019_年跨性别医疗学术研讨会_-_WPATH" data-year="2019" data-date="2024-11-07 20:02:10">
                 <td><a href="PDF_北京2019_年跨性别医疗学术研讨会_-_WPATH_page" class="md-button">PDF_北京2019_年跨性别医疗学术研讨会_-_WPATH</a></td>
                 <td class="year-cell">2019</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件为《北京2019年跨性别医疗学术研...</summary>
                     <div class="description">
                         该文件为《北京2019年跨性别医疗学术研讨会》会议记录，详细介绍了于2019年11月29日在北京大学第三医院举办的第三届中国跨性别者医学研讨会的情况。这次会议邀请了来自两岸三地26位专业人士，重点在于交流和讨论如何提升中国跨性别人群的医疗服务。会议特邀世界跨性别健康专业协会（WPATH）的前主席盖尔·克努森医生（Dr. Gail Knudson）及跨性别全球培训项目负责人参与，会议的内容涵盖了跨性别医疗的多个重要方面，包括心理健康、声音调整、激素治疗和性别重置手术等。
@@ -543,7 +543,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_性別意識與醫療現場" data-year="None" data-date="2025-01-18">
                 <td><a href="PDF_性別意識與醫療現場_page" class="md-button">PDF_性別意識與醫療現場</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件名为《性別意識與醫療現場》，由林口...</summary>
                     <div class="description">
                         本文件名为《性別意識與醫療現場》，由林口長庚紀念醫院精神科的陳姵蓉醫師撰寫，主要探討性別意識在醫療專業中的重要性。文件首先定義了性別意識（gender consciousness），即個人對性別差異的認知，並提到性別差異可以分為生理性別（sex）、社會性別（gender）和性傾向（sexual orientation）。陳醫師指出，醫療從業人員對這些不同層次的性別差異的理解，會直接影響到醫療處遇的精確度。為提升性別意識的敏感度，推廣性別主流化的策略尤其關鍵。1985年在肯亞奈洛比的第三屆世界婦女會議上首次提出性別主流化概念，自此成為推動性別意識和實現性別平等的重要手段。
@@ -555,7 +555,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_性别发育异常的评估诊断和治疗研究进展_-_SciEngine" data-year="2019" data-date="2024-11-07 19:55:14">
                 <td><a href="PDF_性别发育异常的评估诊断和治疗研究进展_-_SciEngine_page" class="md-button">PDF_性别发育异常的评估诊断和治疗研究进展_-_SciEngine</a></td>
                 <td class="year-cell">2019</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文献为《浙江大学学报（医学版）》的一篇...</summary>
                     <div class="description">
                         本文献为《浙江大学学报（医学版）》的一篇研究论文，题目为《性别发育异常的评估、诊断和治疗研究进展》，由陈光杰、王晓豪、唐达星等学者撰写，发表于2019年8月。文章的摘要指出性别发育异常（DSD）是一组因先天性染色体、性腺或性别解剖结构的发育异常而引发的疾病。这些异常可能导致广泛的临床表现，包括新生儿生殖器畸形，以及青少年在青春期表现出的性发育异常。近年来，随着对性别发育异常的研究深入，国际社会已经形成共识，认为对其评估、诊断和治疗需要多学科的协作。包括小儿内分泌科、小儿泌尿外科、临床心理科、遗传学科、影像学科等。文章详细回顾了性别发育异常的基本临床评估，包括内外生殖器及内分泌激素的检测、染色体和基因诊断、心理评估、治疗方案选择等。 文章强调，性别发育异常的研究和治疗是复杂的，需要综合考虑患儿及其家庭的心理与社会因素，并确保在评估和治疗过程中给予家庭充分的沟通和选择权。总之，此文献为了解性别发育异常的前沿研究与进展提供了重要的参考资料，并强调了多学科合作在现代医学中不可或缺的重要性。
@@ -567,7 +567,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_性癖症之精神病理及治療相關議題" data-year="None" data-date="2024-11-07 19:58:08">
                 <td><a href="PDF_性癖症之精神病理及治療相關議題_page" class="md-button">PDF_性癖症之精神病理及治療相關議題</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文档为一篇关于性癖症的论文，探讨了性癖...</summary>
                     <div class="description">
                         该文档为一篇关于性癖症的论文，探讨了性癖症的精神病理及其相关的治疗问题。虽然从PDF文件中未能提取具体的文本内容，但根据文件标题和主题，我们可以推测这篇论文主要集中在两个方面：性癖症的定义及分类，以及对现有治疗方法的评估与探讨。性癖症，通常指的是一种对于特定对象或情境的强烈偏好或依恋，其在心理学上具有复杂的意义。论文可能会通过文献综述的方式，探讨其在治疗中的挑战与机遇，尤其是在多元性别和性取向愈发被社会重视的背景下。这篇论文的研究可能涉及对患者的临床案例分析，以及对不同治疗手段（如认知行为疗法、药物治疗等）的效果评估。作者可能会讨论性癖症患者在社会生活中面临的心理、情感及法律问题，并结合实际案例分析性癖症在生命故事及过渡经历中的表现。总的来说，该文档旨在为性癖症的研究提供重要的心理学视角，以及为临床实践中的治疗方案提供参考。
@@ -579,7 +579,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_真两性畸形1例_-_协和医学杂志" data-year="2011" data-date="2024-11-07 20:06:50">
                 <td><a href="PDF_真两性畸形1例_-_协和医学杂志_page" class="md-button">PDF_真两性畸形1例_-_协和医学杂志</a></td>
                 <td class="year-cell">2011</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文档为《协和医学杂志》的一篇病例报告，...</summary>
                     <div class="description">
                         该文档为《协和医学杂志》的一篇病例报告，题为《真两性畸形1例》，由刘思邈、张颖和田秦杰等医务人员撰写，主要讨论了一个罕见的性发育异常病例。文中详细介绍了真两性畸形的病理特点、临床表现及其治疗方案。本病例的患者为一名13岁的女性，因“月经从未来潮，发现无子宫、阴道7个月”于2010年10月25日入院。患者的出生史、体格检查和各项检查结果均表明其存在明显的性发育异常。根据报告，患者出生时即有阴蒂肥大，伴有内生殖器发育不全、月经失调等。这些表现提示患者体内存在有功能的睾丸组织，尽管染色体核型显示为46, XX。
@@ -595,7 +595,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_真两性畸形伴右侧睾丸异位一例" data-year="2015" data-date="2024-11-07 18:49:40">
                 <td><a href="PDF_真两性畸形伴右侧睾丸异位一例_page" class="md-button">PDF_真两性畸形伴右侧睾丸异位一例</a></td>
                 <td class="year-cell">2015</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文记录了一例患有真两性畸形伴右侧睾丸异...</summary>
                     <div class="description">
                         本文记录了一例患有真两性畸形伴右侧睾丸异位的病例，发表于《放射学实践》2015年第30卷第2期，由赵志强和仲建全撰写。病例的详细内容包含患者的基本信息与临床表现：这位49岁的男性患者因持续20余年的左侧腹股沟疝而入院。入院时，医生观察到左侧腹股沟区有一个包块，大小约为2.0 cm × 3.0 cm，且质地稍硬，伴有压痛。术前超声检查显示左侧阴囊内存在异常回声，并且有左侧睾丸鞘膜腔积液的迹象。
@@ -613,7 +613,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_真两性畸形合并先天性无子宫1例" data-year="2008" data-date="2024-11-07 18:52:54">
                 <td><a href="PDF_真两性畸形合并先天性无子宫1例_page" class="md-button">PDF_真两性畸形合并先天性无子宫1例</a></td>
                 <td class="year-cell">2008</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这份文件的标题为《真两性畸形合并先天性无...</summary>
                     <div class="description">
                         这份文件的标题为《真两性畸形合并先天性无子宫1例》，是一篇有关真实病例的医学报告，主要通过对一名患者的详细病历分析，探讨了真两性畸形的诊断与鉴别。文章的作者包括甘肃省兰州市第一人民医院的多位临床医生，涉及普通外科、妇产科和病理科的专家。该病例报告的患者是一名72岁的已婚女性，入院原因是因右下腹的压痛并合并可复性肿块的症状。
@@ -625,7 +625,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_睾酮真的能帮助我们吗" data-year="2019" data-date="2024-11-07 19:45:05">
                 <td><a href="PDF_睾酮真的能帮助我们吗_page" class="md-button">PDF_睾酮真的能帮助我们吗</a></td>
                 <td class="year-cell">2019</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件《睾酮真的能帮助我们吗》详细探讨了...</summary>
                     <div class="description">
                         本文件《睾酮真的能帮助我们吗》详细探讨了睾酮在女性健康中的作用，尤其是在更年期后女性症状缓解方面的影响。文中指出睾酮是男女体内都存在的一种激素，尽管女性体内的睾酮分泌量远低于男性。对女性来说，睾酮是调节性欲和性满足感的重要激素，尤其是在绝经后的女性中，适量的睾酮可能显著提升她们的性欲和性满足感。规定女性身体中睾酮的正常范围，以及低睾酮水平可能带来的性欲下降等健康问题，为女性特别是绝经后女性的健康管理提供了参考。
@@ -643,7 +643,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_罹患前列腺癌的LGBTIQA_人群" data-year="None" data-date="2024-11-07 19:54:12">
                 <td><a href="PDF_罹患前列腺癌的LGBTIQA_人群_page" class="md-button">PDF_罹患前列腺癌的LGBTIQA_人群</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为《了解罹患前列腺癌的LGBTIQ...</summary>
                     <div class="description">
                         本文件为《了解罹患前列腺癌的LGBTIQA+人群》医学指南，面向包括女同性恋者、男同性恋者、双性恋者、变性者、双性人、无性恋和疑性恋在内的LGBTIQA+人群，提供有关前列腺癌的诊疗建议。这一指南详细介绍了前列腺癌的基本知识、治疗选择及其副作用，并特别关注LGBTIQA+人群在诊断、治疗及情感支持方面的独特需求。前列腺位于男性膀胱下和直肠前方，受男性荷尔蒙的影响，其健康状况直接关系到男性的生殖及泌尿功能。文件分析了前列腺癌的类型，包括局限性前列腺癌及晚期或转移性前列腺癌，指出尽管大多数前列腺癌生长缓慢，但对患者的生活质量却有重大影响。
@@ -659,7 +659,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_药物性女性假两性畸形9例临床分析" data-year="2006" data-date="2024-11-07 20:07:15">
                 <td><a href="PDF_药物性女性假两性畸形9例临床分析_page" class="md-button">PDF_药物性女性假两性畸形9例临床分析</a></td>
                 <td class="year-cell">2006</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文为一篇关于药物性女性假两性畸形的临床...</summary>
                     <div class="description">
                         本文为一篇关于药物性女性假两性畸形的临床分析，主要探讨了因药物使用导致女性假两性畸形的多种原因，包括临床特点、治疗方法及预后。该研究回顾了在1998至2004年间收治的9例患者，所有患者在外阴畸形手术矫正后均恢复了女性特征。文章开头明确了研究的目的，即探讨药物导致女性假两性畸形的原因以及相应的临床处理方案。文中提到，9名患者均因其母在怀孕期间服用“转胎药”而导致外生殖器出现部分男性化，出生时外生殖器模糊，部分患者在性成熟前容易发生心理性别的调适。手术后，所有患者均恢复正常的月经规律，结果显示了药物性女性假两性畸形的治疗价值。文章详细分析了在不同情况下进行的手术方法，包括如何重建外生殖器，以及手术时机的选择等。本文还特别强调，手术的基本原则是将性混淆的外生殖器重建为女性外生殖器，推荐在患者性成熟后进行这类手术。对于假两性畸形的形成原因，文中也有详细讨论，如来自母亲的雄激素影响以及用药时间、剂量对外生殖器发育的影响等，使得此研究在医学和社会性别认知方面具有一定的参考价值。文章阐明了存在的愈合状况与具体手术操作的关系，为今后类似病例的治疗提供了有效的指导。
@@ -671,7 +671,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_荷尔蒙代替疗法_KK_Women’s_and_Children’s_Hospital" data-year="2023" data-date="2024-11-07 19:55:59">
                 <td><a href="PDF_荷尔蒙代替疗法_KK_Women’s_and_Children’s_Hospital_page" class="md-button">PDF_荷尔蒙代替疗法_KK_Women’s_and_Children’s_Hospital</a></td>
                 <td class="year-cell">2023</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为一份关于荷尔蒙替代疗法（Horm...</summary>
                     <div class="description">
                         本文件为一份关于荷尔蒙替代疗法（Hormone Replacement Therapy, HRT）的药物信息手册，来自KK妇女与儿童医院，旨在为女性在更年期期间提供必要的医学指导。文中详细介绍了荷尔蒙替代疗法的功用与适用人群，强调了在接受治疗时，女性体内荷尔蒙的变化可能带来的不适症状，如热潮红、盗汗、情绪焦虑及阴道萎缩等。这些症状通常是由于体内雌激素水平的下降所引起，HRT能够通过补充人造雌激素来缓解这些不适并减少其他健康问题，如骨质疏松症的风险。
@@ -689,7 +689,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_變性之心理_-_高雄榮民總醫院" data-year="2018" data-date="2025-01-18">
                 <td><a href="PDF_變性之心理_-_高雄榮民總醫院_page" class="md-button">PDF_變性之心理_-_高雄榮民總醫院</a></td>
                 <td class="year-cell">2018</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件的标题为《變性之心理評估簡介》，由...</summary>
                     <div class="description">
                         该文件的标题为《變性之心理評估簡介》，由来自高雄荣民总医院的胡力予医生撰写。文件主要探讨了与性别变更相关的心理评估问题，强调了在处理性别变更议题时，心理学在医疗中的重要性和必要性。文中详细介绍了性别认同的成长过程，特别是个体如何意识到自己的性别身份与生理性别不相符，以及这一认知过程如何影响个体的情感与社交能力。在描述性别变更的心理评估时，作者提出评估通常分为三个主要方面：首先是自我及性别认同的评估，包括个人的成长背景以及他们在性别认同上的自我觉察，特别是个体在何时、何种情况下意识到生理性别与心理性别不符；第二方面重点是认知功能评估，涉及个案的智力水平和当前的职业功能表现；评估个体在情感调节与社交适应方面的能力也是不可或缺的。作者指出，尽管目前台湾在性别变更的行政和医疗措施上仍有待改进，但精神医学在这个领域还是扮演了非常重要的角色，尤其在评估过程中，临床医生必须以严谨的态度来面对变性者的需求。文件中提到，往往个案在评估时已经经历了很长一段自我探索的过程，因此当个案来到医院时，心理评估的旅程已经伴随他们数年。当评估期间，个案如有明显的情绪困扰或社交适应不良，医疗团队通常会优先处理这些问题，以确保个案在接受性别变更相关的治疗和支持时有良好的情绪基础。文件的结尾部分提到了评估时间的灵活性，医生强调评估并非只是简单地在个案抵达医院时开始，而是当个体开始认真面对自我性别议题时，评估的脚步就已悄然展开。因此，应着眼于个案的整体心理健康，而非时间的长短。通过这一系列的心理评估，不仅能够帮助个体更好地理解自己的性别认同，还能为他们的变性之路铺平健康的心理基础。
@@ -701,7 +701,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_變性慾與性別認同障礙-_文榮光_-_長庚醫院" data-year="None" data-date="2025-01-18">
                 <td><a href="PDF_變性慾與性別認同障礙-_文榮光_-_長庚醫院_page" class="md-button">PDF_變性慾與性別認同障礙-_文榮光_-_長庚醫院</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件的名称为《变性欲与性别认同障碍》，...</summary>
                     <div class="description">
                         该文件的名称为《变性欲与性别认同障碍》，由长庚医院的文荣光撰写。文中探讨了变性欲和性别认同障碍的相关主题，结合了医学背景与心理学理论。内容涵盖了变性人的生命故事、过渡经历以及随之而来的生理和心理变化，特别是在医疗资源和法律政策方面的影响。文中还提到了跨性别者面临的社会环境和生存现状，提供了真实的记录与经验分享。
@@ -717,7 +717,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_變性者跨性別者_和非性別常規者的健康照護準則_-_AWS" data-year="2012" data-date="2024-11-07 18:54:25">
                 <td><a href="PDF_變性者跨性別者_和非性別常規者的健康照護準則_-_AWS_page" class="md-button">PDF_變性者跨性別者_和非性別常規者的健康照護準則_-_AWS</a></td>
                 <td class="year-cell">2012</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件为《变性者、跨性别者和非性别常规者...</summary>
                     <div class="description">
                         该文件为《变性者、跨性别者和非性别常规者的健康照护准备标准》第七版的中文翻译版，由世界跨性别健康专业协会（WPATH）发布，其主要目的是提供临床健康专业人员关于变性者与跨性别者在健康照护上的最佳实践指南。文件指出，WPATH致力于基于证据的照护、教育、研究、倡导与公共政策的推动，并寻求在所有文化背景下促进性别多样性的健康、尊重与平等。
@@ -737,7 +737,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_认识性别认同障碍-_醫院管理局" data-year="None" data-date="2024-11-07 20:05:33">
                 <td><a href="PDF_认识性别认同障碍-_醫院管理局_page" class="md-button">PDF_认识性别认同障碍-_醫院管理局</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为《认识性别认同障碍-医院管理局》...</summary>
                     <div class="description">
                         本文件为《认识性别认同障碍-医院管理局》一文的详细介绍，主要探讨了性别认同障碍（Gender Identity Disorder）这一心理健康问题的医学概念及治疗过程。性别认同障碍，亦称为性别不安症，是指个体对其生理性别与自我认同之间的强烈矛盾体验。文中提到，该疾病在《精神疾病诊断与统计手册》中有所定义，任何处于该状态的人，往往在心理上感受到极大的不安，并出现相应的心理症状。 
@@ -757,7 +757,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_跨性別與教育社福醫療心理諮商的專業對話" data-year="2023" data-date="2024-11-07 19:57:14">
                 <td><a href="PDF_跨性別與教育社福醫療心理諮商的專業對話_page" class="md-button">PDF_跨性別與教育社福醫療心理諮商的專業對話</a></td>
                 <td class="year-cell">2023</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为台湾民主基金会出版的报告，专注于...</summary>
                     <div class="description">
                         本文件为台湾民主基金会出版的报告，专注于跨性别与教育、社会福利、医疗及心理咨询领域的专业对话。该项目编号为G23057，由台湾伴侣权益推动联盟主持并执行，计划执行期间为中华民国112年5月1日至112年11月30日，印刷日期为112年11月30日。报告讨论了跨性别者在社会中所面临的歧视和排斥现象，指出跨性别者常常需要与医疗、心理咨询等专业人员进行互动，但却经常未能获得友好的对待，导致在寻求帮助时感到困难。
@@ -773,7 +773,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_雌二醇凝胶临床应用指导建议" data-year="2017" data-date="2024-11-07 18:47:05">
                 <td><a href="PDF_雌二醇凝胶临床应用指导建议_page" class="md-button">PDF_雌二醇凝胶临床应用指导建议</a></td>
                 <td class="year-cell">2017</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文档是关于雌二醇凝胶临床应用指导建议的...</summary>
                     <div class="description">
                         该文档是关于雌二醇凝胶临床应用指导建议的一项专家共识，发表于《中国实用妇科与产科杂志》2017年第33卷第7期，文章的目的是为临床医生提供有关雌二醇凝胶应用的详细指导和推荐。雌二醇在女性身体中发挥着多方面的生理作用，不仅影响生殖系统，同时也作用于骨骼、心血管及中枢神经系统等多个关键靶器官。随着老年女性群体的增多，绝经带来的雌激素缺乏症状日益显著，因此针对雌激素缺乏患者的治疗方案显得尤为重要。 
@@ -791,7 +791,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="PDF_香港愛滋病情況概覽-跨性別人士" data-year="2021" data-date="2025-01-18">
                 <td><a href="PDF_香港愛滋病情況概覽-跨性別人士_page" class="md-button">PDF_香港愛滋病情況概覽-跨性別人士</a></td>
                 <td class="year-cell">2021</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为《香港爱滋病情况概览 - 跨性别...</summary>
                     <div class="description">
                         本文件为《香港爱滋病情况概览 - 跨性别人士》，由香港爱滋病顾问局制作，发布于2021年6月。文件的目的是为了调查和分析跨性别群体在暴露于爱滋病病毒方面的风险及相关的医疗资源与社会支持。这份概览着重讨论了跨性别人士在性别认同和性别表现方面的相关问题，并引用了若干研究数据以体现跨性别人士在爱滋病病毒感染风险方面的现实状况。文中提及，跨性别人士，特别是男跨女群体的爱滋病病毒感染风险极高，是其他15至49岁成年人感染风险的13倍。根据全球范围内的数据，男跨女群体的爱滋病病毒感染率大约在14.2%至19.1%之间。
@@ -811,7 +811,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="Perceived_social_support_and_its_relationship_with" data-year="2020" data-date="2025-01-14 00:32:53">
                 <td><a href="Perceived_social_support_and_its_relationship_with_page" class="md-button">Perceived_social_support_and_its_relationship_with</a></td>
                 <td class="year-cell">2020</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为一篇研究论文，题为《感知社会支持...</summary>
                     <div class="description">
                         本文件为一篇研究论文，题为《感知社会支持与曼谷跨性别女性抑郁症的关系》。研究者Pankaew Tantirattanakulchai和Nuchanad Hounnaklang来自泰国朱拉隆功大学公共卫生科学学院，研究的主要目的是评估抑郁症的流行程度，并确定社会支持与曼谷跨性别女性抑郁症之间的关系。论文的摘要提到，抑郁症是最常见的心理障碍之一，已成为全球重要的公共卫生问题。根据2015年的数据，全球大约有4.4%的人口遭受抑郁症，而跨性别女性的抑郁症发生率更是高于一般人群。根据该研究，280名参与者在2019年3月至2019年5月间参与了一项横断面调查，数据通过自我管理问卷收集。问卷包括人口统计问题以及对社会支持（MSPSS）和抑郁（CES-D）的测量。多变量逻辑回归分析显示，跨性别女性中抑郁症的发生率为58.2%，并且感知到的低社会支持显著与抑郁症相关。参与者信仰、收入水平及饮酒情况在统计学分析中也得到了控制。研究结果指出，跨性别女性较一般人口更容易经历抑郁，而社会支持的存在则可能减轻抑郁症的风险。因此，论文建议应该在有关组织中建立社会支持服务系统，以帮助跨性别女性应对各种心理健康问题。总体来看，这项研究揭示了跨性别女性在心理健康方面的高风险，同时也强调了社会支持的重要性。
@@ -823,7 +823,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="Puckett_et_al._-_2019_-_Mental_health_and_resilience_in_transgender_indivi" data-year="2019" data-date="2025-01-18">
                 <td><a href="Puckett_et_al._-_2019_-_Mental_health_and_resilience_in_transgender_indivi_page" class="md-button">Puckett_et_al._-_2019_-_Mental_health_and_resilience_in_transgender_indivi</a></td>
                 <td class="year-cell">2019</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文发表于《家庭心理学期刊》，标题为《跨...</summary>
                     <div class="description">
                         本文发表于《家庭心理学期刊》，标题为《跨性别个体的心理健康与韧性：哪种支持最有效？》由Jae A. Puckett、Emmie Matsuno、Christina Dyar、Brian Mustanski和Michael E. Newcomb共同撰写，首次在线出版于2019年7月18日。在这项研究中，作者探讨了不同类型的社会支持如何影响跨性别个体的心理健康和韧性，尤其是在面临生活压力的情况下。
@@ -843,7 +843,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="Recommendations_for_Revision_of_the_DSM_Diagnoses_of_Gender_Identity_Disorders_Consensus_Statement_of_the_World_Professional_Association_for" data-year="2010" data-date="2025-01-18">
                 <td><a href="Recommendations_for_Revision_of_the_DSM_Diagnoses_of_Gender_Identity_Disorders_Consensus_Statement_of_the_World_Professional_Association_for_page" class="md-button">Recommendations_for_Revision_of_the_DSM_Diagnoses_of_Gender_Identity_Disorders_Consensus_Statement_of_the_World_Professional_Association_for</a></td>
                 <td class="year-cell">2010</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为《国际跨性别主义杂志》上发表的文...</summary>
                     <div class="description">
                         本文件为《国际跨性别主义杂志》上发表的文章，标题为《对性别认同障碍 DSM 诊断修订的建议：世界跨性别健康专业协会的共识声明》。文中的三位主要作者为 Gait Knudson、Griet De Cuypere 和 Walter Bockting，他们分别来自不同的学术和医疗机构。根据文章的摘要，此共识声明是基于2009年一个由九个工作组和37名来自世界跨性别健康协会(WPATH)的成员参与的合作过程，旨在对即将修订的DSM（美国精神障碍诊断与统计手册）提供有关性别认同障碍诊断的建议。
@@ -855,7 +855,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="Reisner_-_Global_health_burden_and_needs_of_transgender_populations-_a_review" data-year="2016" data-date="2025-01-18">
                 <td><a href="Reisner_-_Global_health_burden_and_needs_of_transgender_populations-_a_review_page" class="md-button">Reisner_-_Global_health_burden_and_needs_of_transgender_populations-_a_review</a></td>
                 <td class="year-cell">2016</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这篇名为《跨性别群体的全球健康负担及需求...</summary>
                     <div class="description">
                         这篇名为《跨性别群体的全球健康负担及需求：一项综述》的文献，详细探讨了跨性别族群在全球范围内面临的健康挑战和需求。论文中指出，跨性别者是一个多元化的人群，其健康状况受多种负面健康指标的影响，无论是在高收入、中等收入还是低收入国家，这些指标的高普遍性令人关注。根据2016年的研究，跨性别者群体普遍面临着诸如艾滋病毒和其他性传播感染、心理健康困扰、药物滥用等健康问题。尽管有少量的针对跨性别者的纵向研究和基于人群的代表性样本，但整体上，关于这一人群健康状况的研究仍显得不足。缺乏在一般调查中识别跨性别者的调查选项，限制了数据的可获得性，使得我们难以有效评估健康不平等的严重程度和跨性别群体的总体健康状况。
@@ -873,7 +873,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="Response_of_the_World_Professional_Association_for_Transgender_Health_to_the_Proposed_DSM_5_Criteria_for_Gender_Incongruence" data-year="2010" data-date="2025-01-18">
                 <td><a href="Response_of_the_World_Professional_Association_for_Transgender_Health_to_the_Proposed_DSM_5_Criteria_for_Gender_Incongruence_page" class="md-button">Response_of_the_World_Professional_Association_for_Transgender_Health_to_the_Proposed_DSM_5_Criteria_for_Gender_Incongruence</a></td>
                 <td class="year-cell">2010</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这篇文章是《国际跨性别主义期刊》上发表的...</summary>
                     <div class="description">
                         这篇文章是《国际跨性别主义期刊》上发表的一篇重要论文，标题为《世界跨性别健康专业协会对拟议的 DSM-5 性别不一致诊断标准的回应》。该论文的主要作者包括 Griet De Cuypere、Gail Knudson 和 Walter Bockting，发表于 2010 年 9 月 17 日。本文的目的是对 DSM-5 工作组提出的性别不一致诊断标准进行回应，针对当前 DSM-IV-TR 中的性别认同障碍诊断标准提出了一系列的改进建议和批评。
@@ -885,7 +885,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="Russell_et_al._-_2018_-_Chosen_Name_Use_Is_Linked_to_Reduced_Depressive_Sy" data-year="2018" data-date="2025-01-18">
                 <td><a href="Russell_et_al._-_2018_-_Chosen_Name_Use_Is_Linked_to_Reduced_Depressive_Sy_page" class="md-button">Russell_et_al._-_2018_-_Chosen_Name_Use_Is_Linked_to_Reduced_Depressive_Sy</a></td>
                 <td class="year-cell">2018</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这篇名为《Chosen Name Use...</summary>
                     <div class="description">
                         这篇名为《Chosen Name Use Is Linked to Reduced Depressive Symptoms, Suicidal Ideation, and Suicidal Behavior Among Transgender Youth》的研究文章发表于2018年，主要探讨了跨性别青少年使用选择名的情况，以及这种选择名的使用如何与他们的心理健康状况相关联。文章的作者包括来自德克萨斯大学奥斯汀分校、英属哥伦比亚大学以及纽约大学的多位研究人员。研究的目的是为了了解跨性别青少年在多种环境下使用选择名的情况，并分析这些使用情况与抑郁、外显自杀意念及自杀行为之间的关系。
@@ -897,7 +897,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="Sex_Partnership_and_Self-Efficacy_Influence_Depression_in__Chinese_Transgender_Women" data-year="2015" data-date="2025-01-14 00:16:45">
                 <td><a href="Sex_Partnership_and_Self-Efficacy_Influence_Depression_in__Chinese_Transgender_Women_page" class="md-button">Sex_Partnership_and_Self-Efficacy_Influence_Depression_in__Chinese_Transgender_Women</a></td>
                 <td class="year-cell">2015</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文档为一篇关于中国跨性别女性的研究文章...</summary>
                     <div class="description">
                         本文档为一篇关于中国跨性别女性的研究文章，标题为《性伴侣关系及自我效能对中国跨性别女性抑郁症的影响：一项横断面研究》。该研究由多位作者完成，主要揭示了跨性别女性在性伴侣关系和自我效能与抑郁症之间的互动关系。
@@ -917,7 +917,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="Suicidal_ideation_and_attempted_suicide_amongst_Chinese_transgender" data-year="2019" data-date="2025-01-18">
                 <td><a href="Suicidal_ideation_and_attempted_suicide_amongst_Chinese_transgender_page" class="md-button">Suicidal_ideation_and_attempted_suicide_amongst_Chinese_transgender</a></td>
                 <td class="year-cell">2019</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文献为一项关于中国跨性别群体的自杀意念...</summary>
                     <div class="description">
                         该文献为一项关于中国跨性别群体的自杀意念与自杀尝试的全国性研究，首次深入探讨了这个在我国相对较少被关注的群体的心理健康现状。研究作者包括来自伯明翰大学的一组学者，如陈润森、朱学全、赖茜、德瑞舍等。文献发表于2019年，标题为《Suicidal ideation and attempted suicide amongst Chinese transgender persons: National population study》，它的DOI为10.1016/j.jad.2018.12.011，整篇研究基于对1309名跨性别者的横断面调查数据进行分析。
@@ -935,7 +935,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="The_relationship_between_non-suicidal_self-injury_and_childhood_abuse_in_transgender_people" data-year="2023" data-date="2025-01-14 00:33:19">
                 <td><a href="The_relationship_between_non-suicidal_self-injury_and_childhood_abuse_in_transgender_people_page" class="md-button">The_relationship_between_non-suicidal_self-injury_and_childhood_abuse_in_transgender_people</a></td>
                 <td class="year-cell">2023</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该研究论文题为《跨性别者非自杀性自伤与童...</summary>
                     <div class="description">
                         该研究论文题为《跨性别者非自杀性自伤与童年虐待的关系：一项横断面队列研究》，围绕跨性别群体中非自杀性自伤（NSSI）行为与童年虐待之间的关系展开。研究的目的是探讨童年虐待如何通过情感调节障碍Traits影响跨性别者的非自杀性自伤行为。文章指出，非自杀性自伤被定义为直接对身体组织的故意损害，且并非自杀意图。这种行为尽管不是致命的，但与临床紧急情况的发生密切相关。特别是在跨性别者中，由于在社会上往往受到歧视和排斥，他们面临更大的心理健康挑战，并更易出现自残行为。研究通过在广东省进行的匿名问卷调查，在2021年5月至10月期间招募了296名女性转男性（FTM）和675名男性转女性（MTF）参与者。研究团队使用了儿童虐待问卷（CTQ-SF）、人格诊断问卷（PDQ-4+）、情感调节能力量表及DSM-5临床检查等工具测量参与者的童年虐待经历、情感调节障碍特征以及自伤行为。 
@@ -951,7 +951,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="“性别不一致”去精神病化的思考" data-year="None" data-date="2025-02-05">
                 <td><a href="“性别不一致”去精神病化的思考_page" class="md-button">“性别不一致”去精神病化的思考</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这份文件探讨了关于跨性别者及性别不一致人...</summary>
                     <div class="description">
                         这份文件探讨了关于跨性别者及性别不一致人士在医疗体系中去精神病化的趋势与挑战。性别不一致曾长期被视为一种精神病理现象，在许多国家的医疗诊断体系中被归类为精神疾病。然而，随着社会观念的逐步开放和对跨性别者权利的尊重，关于去精神病化的讨论愈发受到关注。本文无法从 PDF 中提取内容。
@@ -963,7 +963,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="两性畸形的超声特征_-_中国医学影像技术" data-year="None" data-date="2024-11-07 18:48:53">
                 <td><a href="两性畸形的超声特征_-_中国医学影像技术_page" class="md-button">两性畸形的超声特征_-_中国医学影像技术</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件为一篇关于两性畸形超声特征的学术论...</summary>
                     <div class="description">
                         该文件为一篇关于两性畸形超声特征的学术论文，主要探讨了两性畸形患者的超声表现及其临床价值。论文首先明确了两性畸形的定义，即同一个体具有男女两性特征，临床上可分为真两性畸形与假两性畸形。本研究通过回顾性分析，收集了数例两性畸形患者的临床、超声和病理资料，旨在总结两性畸形的超声特征，推动相关领域的研究与临床实践。
@@ -981,7 +981,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="中国医患社会心态分问卷的跨性别测量等值性" data-year="2020" data-date="2024-10-29 06:01:27">
                 <td><a href="中国医患社会心态分问卷的跨性别测量等值性_page" class="md-button">中国医患社会心态分问卷的跨性别测量等值性</a></td>
                 <td class="year-cell">2020</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这篇论文题为《中国医患社会心态分问卷的跨...</summary>
                     <div class="description">
                         这篇论文题为《中国医患社会心态分问卷的跨性别测量等值性》，发表于2020年，属于心理技术与应用领域。文章的核心在于对中国医患社会心态分问卷的因子结构进行验证，并考察其在不同性别医患群体间的测量等值性。
@@ -1003,7 +1003,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="中国易性症多学科诊疗专家共识" data-year="2022" data-date="2025-01-18">
                 <td><a href="中国易性症多学科诊疗专家共识_page" class="md-button">中国易性症多学科诊疗专家共识</a></td>
                 <td class="year-cell">2022</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文是《临床精神医学杂志》2022年第3...</summary>
                     <div class="description">
                         本文是《临床精神医学杂志》2022年第32卷增刊的一部分，主要讨论中国易性症的多学科诊疗专家共识。这一共识由中国心理卫生协会性心理健康专业委员会的多位专家共同制定，旨在规范和提升国内对易性症的评估、诊断和治疗标准，填补我国该领域的空白。易性症，又称跨性别，主要指个体的内在性别身份与其出生时的生理性别不一致，患者常常希望通过医治手段（如激素疗法或外科手术）使身体尽可能与其内心感觉认同的性别一致。
@@ -1023,7 +1023,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="中国跨性别者非自杀倾向自残行为研究——流行率和风险因素的横断研究" data-year="2022" data-date="2025-02-05">
                 <td><a href="中国跨性别者非自杀倾向自残行为研究——流行率和风险因素的横断研究_page" class="md-button">中国跨性别者非自杀倾向自残行为研究——流行率和风险因素的横断研究</a></td>
                 <td class="year-cell">2022</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>《中国跨性别者非自杀倾向自残行为研究——...</summary>
                     <div class="description">
                         《中国跨性别者非自杀倾向自残行为研究——流行率和风险因素的横断研究》是发表在《心理学进展》期刊上的一篇关于中国跨性别者的心理健康状况的研究文章。作者黄心蕊通过对703名年龄介于18至51岁的中国跨性别个体进行线上调查，以研究非自杀倾向自残行为（NSSI）的流行率和相关风险因素。根据调查结果，63%的参与者报告经历过NSSI，其中跨性别女性的发生率更高。她们通常还伴随着较高的焦虑水平，较低的身体满意度、社区归属感和自尊水平。研究指出，报告有NSSI经历的受试者表现出更多的心理症状，并感受到更高水平的社会歧视和内化的恐跨现象。低身体满意度和心理健康问题显著预测了跨性别者的NSSI行为历史。这项研究不仅突显了NSSI在中国跨性别群体中的普遍性，还强调了通过改善心理健康和提高身体接受度来降低NSSI的重要性。同时，研究呼吁社会应该采取措施消除社会歧视，提高跨性别者的自尊并缓解他们的内化恐跨感受。作者指出，全球范围内跨性别群体约占总人口的0.1%至0.5%，而在中国，这一数字可能达到40万。然而，对于这个群体的研究在中国却相对较少，这项研究试图填补这一空白。文章通过深入分析跨性别个体面临的社会和心理压力，特别是长期暴露于歧视和污名化的负面影响，帮助学术界和社会更好地理解并改善这一群体的生活质量和心理健康。
@@ -1035,7 +1035,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="亚洲男性学杂志_2013年15卷2期_精子质量与男性生殖健康研究文献汇总" data-year="2013" data-date="2025-01-18">
                 <td><a href="亚洲男性学杂志_2013年15卷2期_精子质量与男性生殖健康研究文献汇总_page" class="md-button">亚洲男性学杂志_2013年15卷2期_精子质量与男性生殖健康研究文献汇总</a></td>
                 <td class="year-cell">2013</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为《亚洲男性学杂志》2013年第1...</summary>
                     <div class="description">
                         本文件为《亚洲男性学杂志》2013年第15卷第2期的文献汇总，主要集中讨论男性生殖健康和精子质量的相关研究。该期特别聚焦于“精子数下降和全球雌激素污染”这一主题，汇集了诸多国际知名专家的观点和研究结果。文章通过多项研究证实和探讨了现代社会中可能影响男性生育能力的环境因素，包括内分泌干扰物及其对精子质量的潜在影响。
@@ -1053,7 +1053,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="例经腹腔镜下带血管蒂回肠段移植阴道再造术围手术期护理" data-year="2006" data-date="2024-11-02 02:55:19">
                 <td><a href="例经腹腔镜下带血管蒂回肠段移植阴道再造术围手术期护理_page" class="md-button">例经腹腔镜下带血管蒂回肠段移植阴道再造术围手术期护理</a></td>
                 <td class="year-cell">2006</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这份文件是来自于《实用临床医药杂志（护理...</summary>
                     <div class="description">
                         这份文件是来自于《实用临床医药杂志（护理版）》2006年第2卷第4期的一篇护理个案报告，主要介绍了经腹腔镜下带血管蒂回肠段移植阴道再造术的围手术期护理经验。该研究由南京医科大学第一附属医院的护理人员许腊梅、陈菊兰和林静共同撰写，聚焦于阴道再造手术中的护理过程，分析了患者在手术前后的护理要点、潜在并发症及其护理对策。报告指出，近年来外科学家将腹腔镜技术应用于阴道再造手术中，这一技术显著降低了手术的复杂程度，且由于回肠血运丰富、无异味且感染几率低，手术后的恢复情况相对良好。
@@ -1071,7 +1071,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="儿童及青少年精神心理异常问题" data-year="None" data-date="2024-11-01 08:49:12">
                 <td><a href="儿童及青少年精神心理异常问题_page" class="md-button">儿童及青少年精神心理异常问题</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文档《儿童及青少年精神心理异常问题》详...</summary>
                     <div class="description">
                         该文档《儿童及青少年精神心理异常问题》详细探讨了性别烦躁（Gender Dysphoria）的多个方面，尤其是与儿童和青少年相关的情况。文中首先对性别烦躁的定义进行了深入分析，指出这种现象是指个体在心理上无法认同与其出生性别相符的身份，而坚持认为自己应属于另一种性别。根据DSM-IV-TR和DSM-5的分类标准，文献中介绍了性别烦躁的临床特征，并详细描述了儿童和青少年的性别烦躁表现尤为关键。
@@ -1093,7 +1093,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="兒童及青少年性別不安文獻回顧" data-year="2021" data-date="2024-11-02 02:45:06">
                 <td><a href="兒童及青少年性別不安文獻回顧_page" class="md-button">兒童及青少年性別不安文獻回顧</a></td>
                 <td class="year-cell">2021</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文文献回顾由鄭弋撰写，聚焦于儿童及青少...</summary>
                     <div class="description">
                         本文文献回顾由鄭弋撰写，聚焦于儿童及青少年性别不安的相关研究与现状。现代医学领域中，性别不安（gender dysphoria）这一概念已由过去的「性别认同疾患」转变为一种更为科学和细致的描述，强调个体在性别表达及其出生时生理性别间的显著不一致，这种状况常在社会及职业功能上造成显著的困扰或痛苦。近年来，对于未成年性别不安的研究逐渐获得重视，统计显示，性别不安情形在青少年中呈上升趋势，这一点尤其在青春期的表现上更为显著。
@@ -1111,7 +1111,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="全球范围内感染HIV的跨性别者数量在不断攀升" data-year="None" data-date="2024-11-07 19:22:56">
                 <td><a href="全球范围内感染HIV的跨性别者数量在不断攀升_page" class="md-button">全球范围内感染HIV的跨性别者数量在不断攀升</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文档名为《全球范围内感染HIV的跨性别...</summary>
                     <div class="description">
                         该文档名为《全球范围内感染HIV的跨性别者数量在不断攀升》，虽然目前无法从PDF中直接提取文本内容，但这一主题显然聚焦于全球跨性别群体中HIV感染率的变化和影响。近年来，公众对跨性别者及其健康问题的关注逐渐增加，尤其是在HIV/AIDS预防和治疗领域。跨性别者由于社会歧视、医疗资源不足以及生理和心理健康问题，常面临较高的HIV感染风险。该文档可能会探讨与这方面相关的多种因素，包括性别认同对心理健康的影响、社会隔离对获取医疗资源的障碍以及针对LGBTQ+群体的公共卫生政策的有效性。
@@ -1123,7 +1123,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="内分泌协会指南2017" data-year="2017" data-date="2025-01-18">
                 <td><a href="内分泌协会指南2017_page" class="md-button">内分泌协会指南2017</a></td>
                 <td class="year-cell">2017</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>《Hembree et al Guide...</summary>
                     <div class="description">
                         《Hembree et al Guidelines on Gender-Dysphoric/Gender-Incongruent Persons》是由Wylie C. Hembree等人在2017年11月发表的一份关于性别焦虑/性别不一致人群的内分泌治疗的临床实践指南。该指南旨在更新2009年发布的《关于跨性别人群的内分泌治疗：内分泌学会临床实践指南》，并由多个医学和心理健康专业领域的专家参与指导。文件中的摘要说明了性别肯定治疗作为一种跨学科的治疗方法的重要性，强调内分泌医生在这一过程中扮演着关键角色。
@@ -1135,7 +1135,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="医学教育中的跨性别健康政策与实践研究-汤米·哈纳" data-year="None" data-date="2024-11-23 04:33:16">
                 <td><a href="医学教育中的跨性别健康政策与实践研究-汤米·哈纳_page" class="md-button">医学教育中的跨性别健康政策与实践研究-汤米·哈纳</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文档是由汤米·哈纳及其团队撰写的一项研...</summary>
                     <div class="description">
                         该文档是由汤米·哈纳及其团队撰写的一项研究，探讨了医学教育中跨性别健康政策与实践的问题，旨在通过改善医疗教育来提升对跨性别和多元性别个体健康需求的关注。文中的摘要指出，全球的跨性别及多元性别个体在健康方面面临显著的不平等，包括负面的健康结果以及获取医疗服务的多重障碍。研究首先强调了跨性别与多元性别人士在全球范围内面临的健康不平等，并详尽描述了跨性别和多元性别健康护理的重要方面，包括医疗服务的设计和提供、流行病学考虑、过渡相关的护理、过渡目标的变化、文化考量以及政治和法律议题。
@@ -1147,7 +1147,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="医护患对优质护理服务工作评价的调查研究" data-year="2012" data-date="2025-01-18">
                 <td><a href="医护患对优质护理服务工作评价的调查研究_page" class="md-button">医护患对优质护理服务工作评价的调查研究</a></td>
                 <td class="year-cell">2012</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这篇名为《医护患对优质护理服务工作评价的...</summary>
                     <div class="description">
                         这篇名为《医护患对优质护理服务工作评价的调查研究》的文件，刊登在《中华护理管理》期刊上，主要探讨了中国医务人员及患者对优质护理服务的看法及其评价。文中，由肖晓玲、张东华、胡秋秋、高建智和吴小红等专业人士共同撰写，通过调查研究的方式，旨在了解医生、护士和患者对优质护理服务的整体认知和评价，以期为医疗服务的改进提供指导和支持。
@@ -1167,7 +1167,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="医生与跨性别患者沟通的十个建议" data-year="None" data-date="2024-11-23 02:28:20">
                 <td><a href="医生与跨性别患者沟通的十个建议_page" class="md-button">医生与跨性别患者沟通的十个建议</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件《医生与跨性别患者沟通的十个建议》...</summary>
                     <div class="description">
                         该文件《医生与跨性别患者沟通的十个建议》是由跨性别法律中心发布的一份指南，旨在为医疗工作者提供与跨性别患者沟通的策略和技巧。文件开头提到，跨性别者是指那些自我性别认同与出生时赋予的性别不符的人。该指南中详细描述了跨性别者所面临的独特医疗挑战，以及医疗提供者如何通过敏感和尊重的沟通方式改善跨性别患者的就医体验。
@@ -1185,7 +1185,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="变性人健康照护标准_WPATH_第七版" data-year="2011" data-date="2024-11-23 06:42:41">
                 <td><a href="变性人健康照护标准_WPATH_第七版_page" class="md-button">变性人健康照护标准_WPATH_第七版</a></td>
                 <td class="year-cell">2011</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件题为《变性人健康照护标准_WPAT...</summary>
                     <div class="description">
                         本文件题为《变性人健康照护标准_WPATH_第七版》，由世界跨性别健康专业协会（WPATH）发布，文件中详细描述了变性人、跨性别者以及性别不符合者的健康照护标准。这是该标准的第七个版本，最早版本发布于1979年，此次更新版包含了在该领域的最新研究成果与专家共识，目的是为跨性别群体提供安全有效的医疗服务。文件开篇阐述了健康照护标准的主要目标和使用方法，强调了根据最佳可用科学和专业共识制定的标准能够促进跨性别者的健康和心理幸福感。
@@ -1201,7 +1201,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="变性手术患者的心理护理" data-year="2002" data-date="2025-01-18">
                 <td><a href="变性手术患者的心理护理_page" class="md-button">变性手术患者的心理护理</a></td>
                 <td class="year-cell">2002</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件为一篇有关变性手术患者心理护理的医...</summary>
                     <div class="description">
                         该文件为一篇有关变性手术患者心理护理的医学文章，主要探讨了易性癖患者在经历变性手术前后的心理护理措施及其心理特点。作者王大方与曹艳以及扬国荣，就该领域的研究展开了深入的探讨。文章指出，易性癖患者在生物性别与心理性别之间存在明显的冲突，常常因为缺乏社会的认可而感受到孤独和焦虑。手术被认为是改善这类患者心理状态的有效措施，能够使他们的生物性别与心理性别协调一致。
@@ -1213,7 +1213,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="变性手术的术中配合与护理" data-year="2006" data-date="2025-01-18">
                 <td><a href="变性手术的术中配合与护理_page" class="md-button">变性手术的术中配合与护理</a></td>
                 <td class="year-cell">2006</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文档是关于变性手术的术中配合与护理的学...</summary>
                     <div class="description">
                         本文档是关于变性手术的术中配合与护理的学术研究，主要由李秋明在北京大学深圳医院手术室撰写。其摘要部分提到，研究的目的在于总结复性手术术中配合和护理要点，以提高手术配合的质量。通过对8例变性手术的临床护理和资料的回顾性分析，得出了各项手术的细节、时间和出血量等临床数据。研究结果表明：8例患者的平均手术时间为5.5小时，平均出血量为500毫升，且未见术中并发症，全体患者顺利度过手术期。
@@ -1233,7 +1233,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="变性手术道德三思_冯泽永" data-year="None" data-date="2025-01-18">
                 <td><a href="变性手术道德三思_冯泽永_page" class="md-button">变性手术道德三思_冯泽永</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文档《变性手术道德三思》由冯泽永撰写，...</summary>
                     <div class="description">
                         本文档《变性手术道德三思》由冯泽永撰写，论述了变性手术的伦理和医学问题，探讨了变性手术的实施及其对患者及社会产生的影响。文章从历史角度回顾了变性手术在中国的发展，提到随着社会对变性问题重视度的提高，变性手术已成为讨论的热点，尤其是其对患者的心理性别和生理性的影响。在文中，作者引用了古人的名言，引发对性别认同问题的深思，指出许多患者在成长过程中因父母和社会的错误性别培养，导致他们形成病态的心理性别。在这一过程中，家长如果在关键时期未按照孩子的生理性别进行培养，可能会导致患者在成年后面临深刻的身份认同危机。
@@ -1251,7 +1251,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="图解现代人心理新话题" data-year="2006" data-date="2024-11-02 02:29:36">
                 <td><a href="图解现代人心理新话题_page" class="md-button">图解现代人心理新话题</a></td>
                 <td class="year-cell">2006</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>《图解现代人心理新话题》是一本由张明主编...</summary>
                     <div class="description">
                         《图解现代人心理新话题》是一本由张明主编，围绕现代心理学问题展开深入探讨的书籍。本书是系列丛书中的一部分，旨在帮助读者理解和应对当今社会中人们普遍面临的心理问题，包括成瘾行为。书中详细分析了针对成瘾的各种心理机制，以及如何有效地识别、处理和克服这些心理困扰。
@@ -1271,7 +1271,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="基督徒医学联谊会_性别意识障碍" data-year="1999" data-date="2024-11-02 02:29:48">
                 <td><a href="基督徒医学联谊会_性别意识障碍_page" class="md-button">基督徒医学联谊会_性别意识障碍</a></td>
                 <td class="year-cell">1999</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这份文件是由基督徒医学联谊会于1999年...</summary>
                     <div class="description">
                         这份文件是由基督徒医学联谊会于1999年发布的期刊文章，题目为《性别意识障碍》，作者为安德烈·西姆斯（Andrew Sims）。文中探讨了性别意识障碍（GID）这一概念，及其在后现代社会中的体现与法律上的影响。西姆斯在文章中指出，后现代的世界观使得每个人都有可能成为任何他们想成为的人，但这种认知也引发了一系列复杂的法律与伦理议题。在某些欧洲国家，法律允许人们在出生证上更改性别，这使得性别意识障碍者的生活发生了前所未有的变革，但这也提出了更深层次的问题：调整身体和法律身份是否真的可以解决内心的困扰？
@@ -1287,7 +1287,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="声带截短术用于跨性别女性音调提升的疗效分析" data-year="2023" data-date="2024-11-01 08:52:32">
                 <td><a href="声带截短术用于跨性别女性音调提升的疗效分析_page" class="md-button">声带截短术用于跨性别女性音调提升的疗效分析</a></td>
                 <td class="year-cell">2023</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件为一篇关于声带截短术在跨性别女性中...</summary>
                     <div class="description">
                         该文件为一篇关于声带截短术在跨性别女性中用于音调提升的疗效分析的医学论文，发表于《中华耳鼻咽喉头颈外科》杂志。研究的主要目的是评估声带截短术对于跨性别女性的音高改善效果。在跨性别女性经历性别过渡的过程中，许多人寻求通过手术手段来提高其声音的女性化特征，以期更好地促进其在社会和日常生活中的性别认同和表达。
@@ -1305,7 +1305,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="大学生性健康教育_江剑平_第二版" data-year="2011" data-date="2024-11-23 05:48:39">
                 <td><a href="大学生性健康教育_江剑平_第二版_page" class="md-button">大学生性健康教育_江剑平_第二版</a></td>
                 <td class="year-cell">2011</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>《大学生性健康教育（第二版）》是由江剑平...</summary>
                     <div class="description">
                         《大学生性健康教育（第二版）》是由江剑平编著的一部重要性教育教材，旨在通过系统的性健康教育来提高大学生的性知识水平，促进性心理和生理的健康发展。本书详细阐述了生殖系统的结构与功能、性发育、性行为与性反应、性生活与性保健、性心理及其障碍、性功能障碍、计划生育与生育调节、性传播疾病、性道德与性法律以及性美学等多个方面的内容。该书的目标是消除性愚昧与性无知，帮助学生掌握基本性知识，预防性传播疾病，并为和谐的人际关系及未来的恋爱、婚姻生活做好准备。
@@ -1325,7 +1325,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="天津市跨性别女性新型毒品使用现状与影响因素分析_龚卉" data-year="2023" data-date="2025-01-18">
                 <td><a href="天津市跨性别女性新型毒品使用现状与影响因素分析_龚卉_page" class="md-button">天津市跨性别女性新型毒品使用现状与影响因素分析_龚卉</a></td>
                 <td class="year-cell">2023</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为2023年5月出版的学术论文，标...</summary>
                     <div class="description">
                         本文件为2023年5月出版的学术论文，标题为《天津市跨性别女性新型毒品使用现状与影响因素分析》，其主要研究旨在深入了解天津市跨性别女性（TGW）在新型毒品使用方面的现状及影响因素，以为相关的防控策略提供数据支持与依据。该研究由龚卉、柳忠泉、杨杰联合撰写，发布于中国预防医学杂志第24卷第5期。文中提出的研究目标为通过对TGW群体的调查，揭示其新型毒品使用的程度和相关的行为特征，以便更加有效地进行艾滋病的防治和毒品教育。
@@ -1343,7 +1343,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="女同性恋与双性恋女性健康议题报告_国际同性恋者协会" data-year="None" data-date="2024-11-23 02:29:29">
                 <td><a href="女同性恋与双性恋女性健康议题报告_国际同性恋者协会_page" class="md-button">女同性恋与双性恋女性健康议题报告_国际同性恋者协会</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本报告由国际同性恋者协会（ILGA）发布...</summary>
                     <div class="description">
                         本报告由国际同性恋者协会（ILGA）发布，标题为《女同性恋与双性恋女性健康报告：共同的关切，各地的问题》。报告旨在阐述全球范围内女同性恋和双性恋女性面临的健康问题，旨在增加对此类问题的关注，并寻求改善她们的健康状况。文中提到，自1973年美国精神病学协会删除同性恋相关条目以来，女孩和女性的性别问题在国际场合中日渐受到重视，但与女同性恋和双性恋女性相关的健康问题仍未在研究和政策中得到应有的重视。  
@@ -1359,7 +1359,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="女女性接触者群体及艾滋病相关危险行为" data-year="None" data-date="2024-10-29 06:57:44">
                 <td><a href="女女性接触者群体及艾滋病相关危险行为_page" class="md-button">女女性接触者群体及艾滋病相关危险行为</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件是一篇关于女女性接触者和艾滋病相关...</summary>
                     <div class="description">
                         本文件是一篇关于女女性接触者和艾滋病相关危险行为的研究文献，主要由曾春娥、黄水群、田利光、罗玫、汪宁等人合作完成。文章通过对女女性接触者（WSW）的特征及其艾滋病（AIDS）相关行为进行总结与分析，为深入探讨这一群体的健康风险和社会文化背景提供了基础素材。文中首先定义了女女性接触者的概念与分类，指出WSW并不仅限于女同性恋者，还包括了一部分非固定性别倾向的女性。根据2005年北京女同性恋社区的研究数据，文章提到了在华人社会中对WSW群体和艾滋病问题的关注程度相对较低，缺乏系统的调查和传播。文章中列举了包括但不限于接吻、手部刺激及其他多种性接触方式，并指出虽然女性之间的性接触相对危险较低，但WSW群体依旧面临多重艾滋病感染风险。
@@ -1375,7 +1375,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="女性生殖器整形美容_陈敏亮_主译_徐潇_副主译_Z_Library" data-year="None" data-date="2025-01-18">
                 <td><a href="女性生殖器整形美容_陈敏亮_主译_徐潇_副主译_Z_Library_page" class="md-button">女性生殖器整形美容_陈敏亮_主译_徐潇_副主译_Z_Library</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>文件《女性生殖器整形美容》由陈敏亮主译，...</summary>
                     <div class="description">
                         文件《女性生殖器整形美容》由陈敏亮主译，徐潇副主译，涵盖了多元性别在整形美容领域中的重要性。整形美容，尤其是针对女性生殖器的整形手术，近年来备受关注，尤其是在跨性别者和多元性别群体中。这项研究文献对该主题进行了深入探讨，结合了相关的医学知识、社会背景和个人经历。
@@ -1397,7 +1397,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="彭晓辉_性科学概论_高等院校教材_2002" data-year="2002" data-date="2024-11-23 02:33:54">
                 <td><a href="彭晓辉_性科学概论_高等院校教材_2002_page" class="md-button">彭晓辉_性科学概论_高等院校教材_2002</a></td>
                 <td class="year-cell">2002</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本书《性科学概论》由彭晓辉主编，作为21...</summary>
                     <div class="description">
                         本书《性科学概论》由彭晓辉主编，作为21世纪高等院校教材，由科学出版社于2002年出版。该书全面系统地阐述了性科学作为一门多学科交融的理论体系，其内容涵盖性生物学、性医学、性心理学、性伦理学、性美学、性法学、性社会学及性教育学等领域，致力于为教育和科研提供理论支持和实用参考。 
@@ -1417,7 +1417,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="從「性別認同障礙」到「性別不安」" data-year="None" data-date="2025-01-18">
                 <td><a href="從「性別認同障礙」到「性別不安」_page" class="md-button">從「性別認同障礙」到「性別不安」</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件名为《從「性別認同障礙」到「性別不...</summary>
                     <div class="description">
                         本文件名为《從「性別認同障礙」到「性別不安」》，由醫師黃璨瑜撰寫，探討了性別認同及其在精神醫學中的診斷歷程，尤其是在《診斷與統計手冊》第五版（DSM-5）中對於性別相關診斷的重大變更。這篇論文深入分析了「性別不安」（gender dysphoria）這一概念的演變及其對多元性別認同的影響。
@@ -1437,7 +1437,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="循证医学与性医学研究探讨" data-year="2014" data-date="2024-11-23 02:52:33">
                 <td><a href="循证医学与性医学研究探讨_page" class="md-button">循证医学与性医学研究探讨</a></td>
                 <td class="year-cell">2014</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件《循证医学与性医学研究探讨》发表于...</summary>
                     <div class="description">
                         本文件《循证医学与性医学研究探讨》发表于2014年，刊登在《中华性科学》杂志第23卷第1期，主要讨论了循证医学在性医学研究中的应用。文章由方俊和秦雪英两位作者撰写，方俊来自北京大学医学部性学研究中心，秦雪英来自北京大学公共卫生学院流行病与卫生统计学系。
@@ -1457,7 +1457,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="心理实践指南_跨性别与性别多元" data-year="None" data-date="2024-11-23 05:35:52">
                 <td><a href="心理实践指南_跨性别与性别多元_page" class="md-button">心理实践指南_跨性别与性别多元</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>《心理实践指南：跨性别与性别多元》，虽未...</summary>
                     <div class="description">
                         《心理实践指南：跨性别与性别多元》，虽未能提取具体内容，但根据其标题可以推测，该文件旨在为心理健康专业人士提供有关跨性别及性别多元个体的心理支持和治疗的指导。这类文献通常包括对跨性别人士的心理健康需求的分析，强调理解性别认同的重要性，以及涵盖在心理咨询中应采取的敏感和包容的策略。该指南可能还会建议使用最优的沟通技巧，以促进跨性别患者在咨询环境中的舒适感和安全感，从而提高治疗效果。这个领域内的最佳实践，包含对跨性别者及性别多元群体的贡献、挑战及所需的心理服务的全面介绍。文件可能会探讨医疗健康系统中对跨性别者支持不足的问题，包含法律政策对其心理健康服务的影响，以及如何减少因此带来的心理健康障碍。相关的统计数据和实证研究可能会进一步支持上述论点，提供对跨性别者心理健康现状的真实记录。整体而言，该指南的目标似乎是填补医疗和心理健康领域对跨性别个体需求了解的空白，为专业人士提供逻辑和实用的工具，以更好地支持跨性别及非二元性别群体。
@@ -1469,7 +1469,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="急性氯化钡中毒致恶性心律失常、反复心脏骤停一例" data-year="2021" data-date="2025-01-18">
                 <td><a href="急性氯化钡中毒致恶性心律失常、反复心脏骤停一例_page" class="md-button">急性氯化钡中毒致恶性心律失常、反复心脏骤停一例</a></td>
                 <td class="year-cell">2021</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文探讨了一例急性氯化钡中毒引起的恶性心...</summary>
                     <div class="description">
                         本文探讨了一例急性氯化钡中毒引起的恶性心律失常及反复心脏骤停的临床救治经过。氯化钡作为一种剧毒化合物，其口服中毒剂量令人担忧，约为0.2至0.5克，致死量为0.8至1.0克。文章首先交代了患者的基本信息：23岁男性，抑郁症患者，因在2019年12月5日口服200克氯化钡后出现恶心呕吐等症状被送至首都医科大学附属北京朝阳医院急诊，入院时表现为意识不清、全身大量出汗及流涎。入院后，医生立即开展急救措施，包括洗胃、吸氧和心电监护。
@@ -1487,7 +1487,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="性别不一致去精神病化的思考" data-year="2021" data-date="2024-11-02 02:34:00">
                 <td><a href="性别不一致去精神病化的思考_page" class="md-button">性别不一致去精神病化的思考</a></td>
                 <td class="year-cell">2021</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这篇论文题为《性别不一致去精神病化的思考...</summary>
                     <div class="description">
                         这篇论文题为《性别不一致去精神病化的思考》，收录于《医学与哲学》2021年6月第42卷第11期，作者包括贺莹、彭会清、崔夕龙和陈晓岗，主要探讨了“性别不一致”这一概念在医学和社会认知上的变化。随着社会对性别认识的逐步深化，性别认同的差异越来越不被视为一种精神疾病，反而被认为是多元性别身份的一部分。论文首先梳理了“性别不一致”在国内外的诊断变更历程，从以往的“性别身份障碍”到近期被逐步去除的精神病学诊断中，表明了社会对这一群体的理解渐趋理性。
@@ -1505,7 +1505,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="性别危机何去何从_自闭症AD__性别焦虑GD_的真相" data-year="2023" data-date="2024-11-02 02:41:09">
                 <td><a href="性别危机何去何从_自闭症AD__性别焦虑GD_的真相_page" class="md-button">性别危机何去何从_自闭症AD__性别焦虑GD_的真相</a></td>
                 <td class="year-cell">2023</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件《性别危机何去何从？自闭症AD/性...</summary>
                     <div class="description">
                         本文件《性别危机何去何从？自闭症AD/性别焦虑GD的真相！》由Phillip Lowe博士撰写，探讨了自闭症(Spectrum Disorder, ASD)与性别焦虑(Gender Dysphoria, GD)之间的复杂关系，并提供了相关的统计数据、医疗资源以及性别认同的社会影响。文件开头引用了美国国家心理健康研究所(NIMH)的数据，指出自闭症的发病率在过去几十年里急剧上升。例如，2023年的调查显示，约每36名8岁儿童中有1名患有自闭症，而男孩的患病率为4.3%，女孩仅为1.1%。此现象显示出性别在自闭症领域中的重要性。
@@ -1525,7 +1525,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="性别发育异常中国专家诊疗共识" data-year="2019" data-date="2025-01-19">
                 <td><a href="性别发育异常中国专家诊疗共识_page" class="md-button">性别发育异常中国专家诊疗共识</a></td>
                 <td class="year-cell">2019</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>《性别发育异常中国专家诊疗共识》是一篇发...</summary>
                     <div class="description">
                         《性别发育异常中国专家诊疗共识》是一篇发表于《中华小儿外科杂志》2019年4月的学术论文，为中华医学会小儿外科学分会泌尿外科学纽发布的关于性别发育异常（DSD）的诊疗共识。该文件全面地总结了性别发育异常的定义、分类、病因及诊疗方法，并介绍了近年来在这一领域的重要研究成果及其临床应用。根据文件的介绍，性别发育异常是一种复杂的先天疾病，通常涉及染色体、性腺及表现型性别的不一致。文章指出，过去常用术语“两性畸形”现已被“性别发育异常”取代，这一术语更遵从于尊重患者的心理感受。自2006年芝加哥的共识会议后，DSD的命名和分类已标准化。在诊疗方面，本文详细描述了DSD的诊断流程，包括体格检查、基因学分析及各类内分泌检查，通过这些综合的诊断手段，能够准确地识别不同类型的DSD并采取适宜的治疗措施。文章还探讨了DSD相关的心理发育问题，强调人类性别心理发育的复杂性及多因素影响，提出社会习俗和环境对性别认同的潜在影响。该诊疗共识还介绍了DSM的各种分型及常见的病因，其中指出雄激素过多和染色体异常是一些典型类型的DSD。通过详细列出与DSD相关的基因突变及相关酶的缺陷，文章为临床医生提供了诊断和治疗DSD的指南和参考。文件还对现有的性别分类进行了调整，提出新的更具包容性的术语，以取代可能带有贬义的旧称。总之，这是一份综合了最新研究和临床经验的权威指南，旨在帮助医疗从业者更好地理解和管理性别发育异常患者。
@@ -1537,7 +1537,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="性别烦躁的诊断和治疗" data-year="2019" data-date="2024-11-01 08:49:26">
                 <td><a href="性别烦躁的诊断和治疗_page" class="md-button">性别烦躁的诊断和治疗</a></td>
                 <td class="year-cell">2019</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件为一篇关于性别烦躁的诊断与治疗的学...</summary>
                     <div class="description">
                         该文件为一篇关于性别烦躁的诊断与治疗的学术文献，发表于2019年。论文作者肖茜和张道龙，属于中南大学湘雅医院心理卫生中心和美国伊利诺伊大学精神医学系。文中首先明确了性别烦躁（Gender Dysphoria）的概念，指的是个体与其生理性别不符的性别认同所引发的痛苦和不适。该文强调了性别烦躁病因的复杂性，并指出这一心理健康问题的发病年龄可能从儿童期起始，延续至青春期及成年期。 
@@ -1557,7 +1557,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="性别苦恼的临床研究新进展DSM-5_新标准" data-year="2015" data-date="2024-10-29 05:51:38">
                 <td><a href="性别苦恼的临床研究新进展DSM-5_新标准_page" class="md-button">性别苦恼的临床研究新进展DSM-5_新标准</a></td>
                 <td class="year-cell">2015</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件是一篇关于性别苦恼（gender ...</summary>
                     <div class="description">
                         该文件是一篇关于性别苦恼（gender dysphoria）更新临床研究进展的学术论文，文章由邓明昱博士撰写，原载于《国际中华性学杂志》2015年第15卷第1期，发表于2015年3月。在这篇论文中，邓博士深入探讨了性别苦恼这一心理现象的最新定义及临床特征。性别苦恼是指个体在心理上无法认同出生时被指派的性别，进而希望成为另一性别的状态，这一概念在2013年发布的《精神疾病诊断与统计手册》第五版（DSM-5）中，名称从性别认同障碍（gender identity disorder）变更为性别苦恼，标志着对性别认同的“去病化”过程。 
@@ -1575,7 +1575,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="性别认同障碍" data-year="None" data-date="2025-01-18">
                 <td><a href="性别认同障碍_page" class="md-button">性别认同障碍</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件为一篇关于性别认同障碍的学术文献，...</summary>
                     <div class="description">
                         该文件为一篇关于性别认同障碍的学术文献，深入探讨了这一主题的多方面内容。尽管无法直接读取文档，但根据文件标题，可以推测其内容涉及性别认同障碍的定义、病因、临床表现以及治疗方案等相关信息。性别认同障碍是一种影响个体性别认同的心理状态，通常使个体在其出生时被指定的性别与其自身认同之间产生冲突。此次文献有可能包含针对不同性别认同障碍者的案例研究、临床分析以及对现有医疗资源的评估。文章或许还涵盖了社会背景、文化因素对性别认同的影响和与社会偏见相关的讨论。在全球范围内，性别认同障碍逐渐受到更广泛的关注，许多国家和地区正在努力改善跨性别者的医疗和法律支持，推动对这一群体的理解和接纳。这篇文献的重点可能还在于提供科学数据和实践指导，以帮助医疗卫生专业人士更好地理解和治疗性别认同障碍的个体。综合来看，这是一份旨在促进公众对性别认同障碍认知的学术文献，帮助 creóper在相关领域的研究者和医疗从业人员更好地服务于这一群体的需求。
@@ -1587,7 +1587,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="性别认同障碍_人格_心理病理及社_省略_适应水平的术前术后变化的比较研究_Iris_Monteiro" data-year="2012" data-date="2025-01-18">
                 <td><a href="性别认同障碍_人格_心理病理及社_省略_适应水平的术前术后变化的比较研究_Iris_Monteiro_page" class="md-button">性别认同障碍_人格_心理病理及社_省略_适应水平的术前术后变化的比较研究_Iris_Monteiro</a></td>
                 <td class="year-cell">2012</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件为 Iris Monteiro 博...</summary>
                     <div class="description">
                         该文件为 Iris Monteiro 博士撰写的研究论文，标题为《性别认同障碍：人格、心理病理及社会适应水平的术前术后变化的比较研究》，于2012年1月发表在《中国性科学》期刊的第21卷第1期。本文重点探讨性别认同障碍的复杂性，及其在接受变性手术前后的人格特征、心理病理症状和社会适应水平的变化。研究者认为，性别认同障碍并非孤立出现的临床实体，而是涉及更广泛的心理健康问题。本文的摘要指出，性别认同障碍是一种尚未完全理解的复杂状况，并且近年来对变性手术后患者所经历的心理和社会变化逐渐有了更多的实证研究。然而，关于人格特征变化的研究仍然相对欠缺。因此，本文旨在填补这一领域的科学数据空白。  
@@ -1605,7 +1605,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="性别重置术中阴蒂再造的临床研究_张连杰" data-year="2018" data-date="2025-01-18">
                 <td><a href="性别重置术中阴蒂再造的临床研究_张连杰_page" class="md-button">性别重置术中阴蒂再造的临床研究_张连杰</a></td>
                 <td class="year-cell">2018</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为期刊文章《性别重置术中阴蒂再造的...</summary>
                     <div class="description">
                         本文件为期刊文章《性别重置术中阴蒂再造的临床研究》的PDF文档，该文发表在《中华美容医学》上，记录了一个关于男转女（男复女）性别重置手术中阴蒂再造的新方法的临床研究。文章的作者包括张连杰等，来自上海海军军医大学附属长海医院的烧伤整形科。文中详细描述了设计和实施阴蒂再造术的过程、手术方法、结果以及随访情况。
@@ -1621,7 +1621,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="性及性身份识别障碍" data-year="None" data-date="2024-11-02 02:36:09">
                 <td><a href="性及性身份识别障碍_page" class="md-button">性及性身份识别障碍</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文档是关于性及性身份识别障碍的学术研究...</summary>
                     <div class="description">
                         该文档是关于性及性身份识别障碍的学术研究，涉及多个诊断系统对这些障碍的分类及其演变。文件介绍了不同的诊断系统所采用的名称，例如 DSM-IV 中的“性及性身份识别障碍”、ICD-10 将其列于人格与行为障碍之下、以及 CCMD-3 对同性恋的定义。文中指出，在历史上，尤其是50年代之前，同性恋被视为一种变态的性行为，但随着时间的推移，对同性恋的看法发生了显著变化：美国精神病学会在1974年开始从 DSM-II 系统中删除同性恋的诊断，而1980年的 DSM-III 也不再将其视为一种心理障碍，1992年WHO更是将同性恋归为自然现象，不再将其列为心理障碍。
@@ -1640,7 +1640,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="性发育异常儿童抚养性别再认识" data-year="2017" data-date="2025-02-05">
                 <td><a href="性发育异常儿童抚养性别再认识_page" class="md-button">性发育异常儿童抚养性别再认识</a></td>
                 <td class="year-cell">2017</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>《性发育异常儿童抚养性别再认识》这篇文章...</summary>
                     <div class="description">
                         《性发育异常儿童抚养性别再认识》这篇文章发表在2017年10月的《中华实用儿科临床杂志》上，由来自上海交通大学附属儿童医院内分泌遗传代谢科的郭盛和李嫔撰写，文章的通信作者为李嫔，电子邮箱为lipin21@126.com。文章聚焦于性发育异常（Disorders of Sex Development, DSD）儿童的抚养性别选择这一复杂的医学和社会问题。DSD是一种生物医学状况，其特征是患者的染色体核型、性腺表型或性腺解剖结构不一致，通常表现为出生时难以识别的外阴性别或不典型性别特征。文章指出，这种情况给临床医师和患者的家庭带来了巨大的挑战。文章详细讨论了不同历史时期性别确定的标准的变化，包括早期着重外生殖表型和手术可行性，到后来性腺组织病理和性染色体等成为性别确定的主要依据。目前，通过分子基因诊断和内镜技术的发展，在这一领域的认识也在不断变化。文章特别强调了多学科团队合作在确定抚养性别中的重要性，并指出了涉及性别确认的一些争议，特别是在心理、行为和社会角色方面。文章提到在近10年间，这方面的生物医学观点和技术发生了显著进步，但有关性别确认及重置的问题仍存在多方争议和缺乏共识，特别是在面临不典型外生殖器的新生儿时，如何处理其抚养性别是一个举足轻重的事情。文章还评述了在现代医学发展背景下，如何在DSD患儿的抚养性别选择中应对这些挑战，尤其是在性别传统观念难以满足新医学发现的情况下，引起医学界对这一问题的重视。
@@ -1652,7 +1652,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="性少数人群心理实践指南" data-year="2022" data-date="2025-01-18">
                 <td><a href="性少数人群心理实践指南_page" class="md-button">性少数人群心理实践指南</a></td>
                 <td class="year-cell">2022</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为《性少数人群心理实践指南》的中文...</summary>
                     <div class="description">
                         本文件为《性少数人群心理实践指南》的中文翻译版，由小悟生心理与北同文化志愿者团队共同编译，并得到美国心理学会（APA）的授权。原著由美国心理学会性少数人群心理实践特别工作组于2021年发布，旨在为从业者提供关于性少数人群（包括同性恋、双性恋、跨性别及其他性别少数认同者）的心理实践建议和理论支持。 该指南详细阐述了性少数人群的多样性和复杂性，并强调在心理咨询中对性少数来访者进行肯定性实践的重要性。 文件的引言部分提到，在过去的十年间，性与性别少数人群的心理健康问题逐渐被重视，尽管如此，当前国内心理咨询体系在处理性少数人群的咨询服务时仍显不足。文件中提到，现有的心理学从业者对性少数相关议题的知识仍十分有限，且缺乏针对性与性别少数人群的有效培训，这使得许多性少数者在寻求心理健康服务时面临重重挑战。 该指南依据性少数压力模型、多元交织性理论和肯定性咨询法编写，旨在帮助心理学从业者在实际工作中更加有效地支持性少数来访者。指南的主要内容涵盖了基本知识与意识、污名与歧视的影响、亲密关系与家庭、教育与职业问题、专业教育、培训及研究等多个方面，提供了有关心理咨询、研究和教育的指南与建议。文中强调了性别认同和性倾向去病理化的重要性，并指出了这种去病理化背景下对促进性少数者心理健康的积极作用。 该指南还附有实用的附录，详细列出了有关性少数人群心理健康领域研究的参考文献和资源，帮助心理咨询师在提供服务时能够参考和遵循最新的实践标准。文件最后呼吁未来中国心理学领域在性少数人群的心理健康服务上能有更为多元的视角和更本土化的指南，从而不断提升心理学从业者的专业能力与素养。
@@ -1664,7 +1664,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="性激素与免疫系统关系的研究进展" data-year="None" data-date="2025-01-18">
                 <td><a href="性激素与免疫系统关系的研究进展_page" class="md-button">性激素与免疫系统关系的研究进展</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这篇综述文章主要探讨了性激素对免疫系统的...</summary>
                     <div class="description">
                         这篇综述文章主要探讨了性激素对免疫系统的影响，包括雌激素和雄激素在免疫应答中的角色与机制。文章首先介绍了性激素与免疫系统的历史研究背景，指出性激素对免疫系统的调节作用已逐渐受到重视，并得到了多项实验的支持。接下来，讨论了性激素受体及其作用机制，强调雌激素在影响胸腺细胞功能、Z淋巴细胞和巨噬细胞活性方面的重要性。例如，文中提到雌激素通过三种途径改变 Z 细胞和 # 细胞的表型及功能，影响细胞因子的合成，从而增强或削弱免疫应答。文章中还指出，雌激素不仅能增加胸腺的细胞数量，还能影响胸腺的淋巴和非淋巴区域的组分，改变细胞构成。另一方面，文中提到，雄激素对免疫系统有抑制作用，特别是怀孕期间和绝经后的女性，雌激素的变化与免疫反应的关系密切。因此，通过对雄激素和雌激素的作用的研究，可以对免疫相关疾病的治疗提供新的思路和方向。文中还讨论了孕激素的作用，包括其对淋巴细胞激活的抑制，以及对脾脏和胸腺细胞的影响。最后，文章总结了目前研究的现状和未来的研究方向，呼吁更多的研究深入了解性激素如何通过复杂的免疫调节网络影响健康和疾病。
@@ -1676,7 +1676,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="性激素免疫调节效应与疾病发生的关系" data-year="None" data-date="2025-01-18">
                 <td><a href="性激素免疫调节效应与疾病发生的关系_page" class="md-button">性激素免疫调节效应与疾病发生的关系</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件来自《中华预防医学杂志》，主要探讨...</summary>
                     <div class="description">
                         本文件来自《中华预防医学杂志》，主要探讨性激素在免疫调节及疾病发生中的作用。作者包括孙凯、冯琦、窦科峰。文章首先综述了性激素的广泛作用，强调其对机体的生长、发育，以及男女在疾病发生率上的差异。具体而言，研究表明女性通常具有更高的自身免疫性疾病发病率，而男性则在肿瘤发病率方面更高，这一现象显示出性激素在免疫系统中的重要调节作用。文章进一步指出，以往的研究多集中在性激素对致病因素的影响上，而忽视了其对免疫系统的重要调节机制。针对这一现象，文章对现有文献进行了系统的回顾，特别是在神经内分泌免疫学领域，揭示了性激素与免疫系统交互的复杂关系。文献中提到，免疫细胞内也存在多种激素受体，这为性激素在免疫调节中的作用提供了物质基础。在接下来的部分，文章详细讨论了性激素对免疫应答的调节，包括不同性别小鼠在免疫功能上的表现差异。具体来说，绝经期女性的自身免疫性疾病发病率会有明显的下滑，说明性激素在免疫应答中的作用可能是双向的。文章中还提到，通过一些动物模型的研究，性激素能够影响免疫细胞凋亡，从而间接影响自身免疫性疾病的发生。文章中涉及到的实验结果显示，特定的性激素能够通过调节抗原提呈细胞的抗原呈递能力，而影响整个免疫反应，得出性激素在抗疾病中的关键作用。例如，睾丸酮在多种研究中被验证能够调节免疫细胞的活性，促进或抑制其功能，提示性激素的作用机制是复杂而多样的。文章最后通过解读多个相关领域文献，总结了性激素对疾病进展的影响，并呼吁进一步研究其机制以指导临床治疗。总之，该文献为理解性激素在免疫系统中的调节角色提供了新的视角和深入的了解。
@@ -1688,7 +1688,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="性激素对创伤-失血性休克后机体免疫功能的影响" data-year="2010" data-date="2025-01-18">
                 <td><a href="性激素对创伤-失血性休克后机体免疫功能的影响_page" class="md-button">性激素对创伤-失血性休克后机体免疫功能的影响</a></td>
                 <td class="year-cell">2010</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为一篇关于性激素对创伤-失血性休克...</summary>
                     <div class="description">
                         本文件为一篇关于性激素对创伤-失血性休克后机体免疫功能影响的研究论文。论文由刘晓东、王静和周其全三位作者撰写，发表于《西南国防医药》2010年第20卷第1期。文章主要探讨了性激素在创伤和失血性休克中的作用，尤其是其对免疫功能的影响。根据研究结果，细胞介导的免疫反应在一定程度上对机体的免疫保护功能具有重要作用，而这种免疫保护性受到性别差异的影响。研究表明在创伤-失血性休克后，宿主细胞介导的免疫功能会受到显著抑制，表现为脾细胞增殖能力的降低、巨噬细胞抗原提呈功能的减弱，以及细胞因子的释放被抑制等。这种抑制作用在男性中更为明显，与雄激素水平的变化密切相关。值得注意的是，文中提到，创伤和失血性休克后的免疫功能在恢复过程中，男性与女性的表现存在性二态性的差异。研究还提示，睾酮在创伤损伤之后，可能通过调节细胞因子的分泌来影响免疫功能，同时氟他胺等睾酮受体拮抗剂的应用可以在一定程度上维持免疫功能的稳定，从而有效预防休克后的炎症反应。总的来说，这项研究揭示了性激素在应对创伤-失血性休克期间的复杂作用，并为进一步的临床应用提供了理论支持和参考。
@@ -1700,7 +1700,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="性激素对机体免疫系统功能的影响" data-year="None" data-date="2025-01-18">
                 <td><a href="性激素对机体免疫系统功能的影响_page" class="md-button">性激素对机体免疫系统功能的影响</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本论文题为《性激素对机体免疫系统功能的影...</summary>
                     <div class="description">
                         本论文题为《性激素对机体免疫系统功能的影响》，由牛建英撰写，刘志红审校，主要探讨了性激素在复杂的免疫应答中的作用，尤其强调了在临床研究中观察到的性别差异与自身免疫性疾病之间的关系。文中指出，性别是影响免疫功能的重要因素，尤其是在类风湿性关节炎和系统性红斑狼疮等自身免疫性疾病的发病率上，表现出明显的性别差异。比如，类风湿性关节炎在男性中的发病率较低，而系统性红斑狼疮则在女性中普遍高发，显示出性激素可能在这些疾病的发病机制中扮演关键角色。文章总结了目前关于性激素影响免疫系统功能的不同机制，包括性激素对免疫细胞的发育、成熟和活化的调节作用，进而影响机体整体的免疫免疫应答。特别提到，雌激素对把控免疫反应及增强抗体生成具有重要意义，同时在女性的免疫系统中，雌激素的水平变化能通过不同的机制影响自身免疫的发生，而雄激素则表现出相对的免疫抑制作用。这一发现对于理解多元性别在跨性别群体中如何体验不同的免疫状况具有指导意义，进一步的研究可能有助于改善临床治疗和个体化医疗策略。文章详细追溯了性激素影响免疫机制的最新研究成果，展示了性激素在调节各类免疫细胞功能中的复杂动态，提供了多样的视角，覆盖从分子生物学到临床应用的不同层面。这一文献将为交叉性别与激素治疗相关的免疫反应研究提供重要的理论基础和实践指导。
@@ -1712,7 +1712,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="患者满意度测评问题与治理路径思考" data-year="None" data-date="2025-01-18">
                 <td><a href="患者满意度测评问题与治理路径思考_page" class="md-button">患者满意度测评问题与治理路径思考</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件名为《患者满意度测评问题与治理路径...</summary>
                     <div class="description">
                         本文件名为《患者满意度测评问题与治理路径思考》，是对医疗领域中特别是多元性别患者在医疗服务过程中所面临的满意度问题进行探讨的学术文献。文献从多个角度分析了影响患者满意度的因素，重点关注包括跨性别及多元性别患者在内的特殊群体的医疗体验。该论文首先明确了患者满意度的定义和重要性，指出良好的患者满意度不仅可以提高医疗服务质量，还能增强医院的社会责任感和公众形象。文中提到，尤其是在性别认同与性别表达多样化日益被社会关注的背景下，了解这些群体在医疗服务中的真实体验愈发重要。
@@ -1728,7 +1728,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="成瘾_21_世纪的流行病" data-year="2004" data-date="2024-11-02 02:28:55">
                 <td><a href="成瘾_21_世纪的流行病_page" class="md-button">成瘾_21_世纪的流行病</a></td>
                 <td class="year-cell">2004</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本书《成瘾——21世纪的流行病》由师建国...</summary>
                     <div class="description">
                         本书《成瘾——21世纪的流行病》由师建国主编，内容涉及成瘾的多个方面，广泛参考国内外最新出版的著作与研究成果，结合心理学、社会医学、精神医学以及行为医学的理论与实践，通过通俗易懂的语言向广大读者详细介绍了成瘾的原因及其对社会与个人的危害。书中提到，当今世界，成瘾疾病正在全球范围内蔓延，形成了严峻的公共卫生问题。具体数据指出，2002年底中国登记在册的毒瘾患者已超过100万，而隐性吸毒者可能是其4至5倍，显示出成瘾行为的复杂性与广泛性。与成瘾相关的其他问题，如烟瘾、酒瘾、网络成瘾等同样严峻，烟瘾患者达到3.4亿，酒瘾患者3000万，网络瘾患者不少于360万，并且这些数字仍在快速增长。
@@ -1744,7 +1744,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="易性癖外科治疗三例_李宏生" data-year="None" data-date="2025-01-18">
                 <td><a href="易性癖外科治疗三例_李宏生_page" class="md-button">易性癖外科治疗三例_李宏生</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件名为《易性癖外科治疗三例》，由李宏...</summary>
                     <div class="description">
                         本文件名为《易性癖外科治疗三例》，由李宏生撰写，属于医学领域的学术文献。虽然我们无法提取出具体的文本内容，但根据文件的主题和题目，可以推测该文档探讨了关于易性癖患者的外科治疗案例，可能包括三个具体的病例分析。文件的主要目的是通过对这三例的回顾，提供易性癖相关的医学理解以及外科治疗在实际操作中的应用案例分析。
@@ -1762,7 +1762,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="易性癖外科治疗八例_杨东" data-year="None" data-date="2025-01-18">
                 <td><a href="易性癖外科治疗八例_杨东_page" class="md-button">易性癖外科治疗八例_杨东</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>在这篇名为《易性癖外科治疗八例》的研究文...</summary>
                     <div class="description">
                         在这篇名为《易性癖外科治疗八例》的研究文件中，主要探讨了八例接受易性癖相关外科治疗的个体案例。这些案例展示了不同患者在面临性别认同与生理性别不匹配时的医疗选择与心理历程。文中详细记录了患者在选择手术前后的感受、身体变化、以及手术对生活质量的影响。
@@ -1780,7 +1780,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="易性癖的外科治疗进展_章建林" data-year="None" data-date="2025-01-18">
                 <td><a href="易性癖的外科治疗进展_章建林_page" class="md-button">易性癖的外科治疗进展_章建林</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>此文件《易性癖的外科治疗进展》由章建林撰...</summary>
                     <div class="description">
                         此文件《易性癖的外科治疗进展》由章建林撰写，深入探讨了近年来在易性癖（即跨性别）群体中的外科治疗进展。该文献主要集中在外科手术方法的演变、技术的更新、以及对手术后效果的评估等方面。虽然我们无法从PDF中直接提取文本内容，但可以推测，该文可能包含了对手术选择、术前评估的重要性，以及术后康复护理的强调。文件可能讨论了不同类型的外科手术，包括胸部重建、性别确认手术以及相关的心理评估和支持，以帮助跨性别患者顺利过渡。在全球范围内，跨性别群体对外科治疗的需求逐步提高，社会对这一话题的关注度也不断增强。此文献无疑为理解当今易性癖患者所面临的医疗挑战与希望提供了宝贵的见解。总之，此文件不仅是医疗领域的重要学术资料，更是跨性别健康政策与实践的一部分，能够为相关领域的研究者、医疗工作者及政策制定者提供重要参考。
@@ -1792,7 +1792,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="易性癖诊治前后的几点思考" data-year="2007" data-date="2025-01-14 00:09:57">
                 <td><a href="易性癖诊治前后的几点思考_page" class="md-button">易性癖诊治前后的几点思考</a></td>
                 <td class="year-cell">2007</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件为2007年发表在《医学与哲学（人...</summary>
                     <div class="description">
                         该文件为2007年发表在《医学与哲学（人文社会医学版）》的一篇研究论文，题目为《易性癖诊治前后的几点思考》。文章由梁晓琴、唐胜建、苗春雷和牟少春等人共同撰写。摘要中提到，该研究旨在探讨易性病的病因、诊断和治疗方法，以及由此引发的一些社会问题。近年来，随着易性病患者就诊数量的不断增加，如何正确处理该类患者不仅是一项医学挑战，甚至牵涉到法律和伦理等多方面的问题。
@@ -1810,7 +1810,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="本港男跨女跨性別人士艾滋病疫情回顧" data-year="None" data-date="2024-11-02 02:40:12">
                 <td><a href="本港男跨女跨性別人士艾滋病疫情回顧_page" class="md-button">本港男跨女跨性別人士艾滋病疫情回顧</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本港男跨女跨性别人士艾滋病疫情回顾是对香...</summary>
                     <div class="description">
                         本港男跨女跨性别人士艾滋病疫情回顾是对香港地区男跨女跨性别者所面临的艾滋病疫情情况的详细分析。文中首先引用世界卫生组织在2014年的一项声明，指出跨性别人士在全球范围内由于其独特的健康需求而需要受到更加关注与保护。数据显示，男跨女跨性别者，亦即跨性别女性，艾滋病病毒感染率高达17.1%至21.6%。此高感染率引发了对香港跨性别人群体的进一步研究与统计，尤其是针对这一群体的流行病学和社会行为的分析。文章提及香港大学在2011年的一项社会学调查，该调查共991名受访者中，仅有3名（0.3%）自称为跨性别人士。结合2015年的人口普查数据，计算得出香港约有8,250名男跨女跨性别人士，但其他研究则估计这一数字可能为5,900人，这显示出该人群的流动性及隐蔽性。
@@ -1828,7 +1828,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="术语英文术语及背景知识存在年龄差异的关系Age-disparate" data-year="None" data-date="2024-10-29 05:51:25">
                 <td><a href="术语英文术语及背景知识存在年龄差异的关系Age-disparate_page" class="md-button">术语英文术语及背景知识存在年龄差异的关系Age-disparate</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件为一篇关于年龄差异关系及相关医学术...</summary>
                     <div class="description">
                         该文件为一篇关于年龄差异关系及相关医学术语的学术文献，主要探讨在跨性别和性别多元领域中，一些特定英文术语的定义及其重要性。文中提到的 ‘年龄差异关系’ 通常指的是性伴侣之间至少存在五年及以上的年龄差距，这在 LGBTQ+ 社区中可能会影响两者的互动、关系建立与保持等方面。关于艾滋病（AIDS）及人类免疫缺陷病毒（HIV）的应对也被详细讨论，强调了谨慎使用战斗、斗争等词汇的重要性，以避免在对病毒侵害者的传播中引入污名化的观念。文中还明确提到抗逆转录病毒疗法及其功能，以及综合性性教育的重要性，特别是在年轻人群体中，提供有关安全性行为及其相关教育，能够有效降低性传播感染的风险。这些术语和背景知识不仅提供了医学研究中的概念框架，也为跨性别者和多元性别者在健康管理方面提供了参考。在数据统计方面，该文件还讨论了关键人群的重要性，其中包括同性恋男性、双性恋者、变性人等，他们在 HIV 的传播和防控中扮演了核心角色。文件还深入探讨了基于人权的做法以及如何积极消除对女性的歧视，确保所有群体，无论其性别和性取向，均能够平等享有健康权。这些信息的传递对政策制定者、社会工作者以及研究人员理解和改善当前的卫生政策具有重要意义。
@@ -1840,7 +1840,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="江苏省跨性别女性人群危险行_征和HIV检测影响因素分析_肖文静" data-year="2020" data-date="2025-01-18">
                 <td><a href="江苏省跨性别女性人群危险行_征和HIV检测影响因素分析_肖文静_page" class="md-button">江苏省跨性别女性人群危险行_征和HIV检测影响因素分析_肖文静</a></td>
                 <td class="year-cell">2020</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文献分析了江苏省跨性别女性人群（MTF...</summary>
                     <div class="description">
                         该文献分析了江苏省跨性别女性人群（MTF，male-to-female）的危险行行为特征及其对艾滋病病毒（HIV）检测的影响因素。本文由肖文静等人于2020年4月刊登于《中华艾滋病性病杂志》第26卷第4期，研究旨在为该人群的卫生干预提供理论依据。文中提到，研究采用了同伴推动抽样法在江苏省招募MTF人群，共招募到250名符合条件的参与者。文中详细列出参与者的社会人口学特征，包括年龄、教育水平、激素使用情况、性别重塑手术的经历及精神健康状况。
@@ -1858,7 +1858,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="生物医学研究伦理问题分析_关健_2011" data-year="2011" data-date="2024-11-23 06:46:28">
                 <td><a href="生物医学研究伦理问题分析_关健_2011_page" class="md-button">生物医学研究伦理问题分析_关健_2011</a></td>
                 <td class="year-cell">2011</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文档为《协和医学杂志》上刊登的学术论文...</summary>
                     <div class="description">
                         该文档为《协和医学杂志》上刊登的学术论文，主题集中于生物医学研究中的伦理问题及其审核要求。作者关健是中国医学科学院及北京协和医学院的科研人员。在文中，作者探讨了生物医学研究快速发展带来的伦理挑战，强调伦理争议和伦理审核的重要性，尤其在涉及性别选择和变性手术的问题上。 文章指出，随着生物医学技术如克隆技术、基因编辑等的进步，医学研究在提高人类对重大疾病的对抗能力的同时，也引发了一系列伦理问题。例如，变性手术不仅涉及医学和伦理，还挑战了家庭结构和社会关系，其中一个核心问题是是否应当赋予个体选择自己性别的权利。作者提到，在一些国家已经允许进行变性手术，但在中国，法律上并没有明确的规定。这表明在医学与伦理、法律之间，仍需更多的讨论和规范。 文章还讨论了克隆技术与安乐死的伦理争议，安乐死作为个体选择生命终结方式的权利，在医学伦理上同样存在巨大争议。作者探讨了支持与反对安乐死的不同观点，指出至今尚无一方能完全说服对方。文章强调生物医学研究在实际操作中必须进行伦理审核，以尽量避免对动物和受试者造成不应有的伤害，确保研究的科学性与伦理性。文章全面分析了伦理审核的必要性和意义，呼吁科研人员增强伦理审核意识，认识到保护受试者和自身的法律、伦理的重要性。总体来说，本篇论文不仅提供了生物医学研究中诸多伦理争议的问题探讨，也显示出在快速发展的医学科技背景下，社会对伦理问题的敏感性和关注度。
@@ -1870,7 +1870,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="男_女易性癖外科治疗中具有性感觉功能的阴蒂再造_陈焕然" data-year="2015" data-date="2025-01-18">
                 <td><a href="男_女易性癖外科治疗中具有性感觉功能的阴蒂再造_陈焕然_page" class="md-button">男_女易性癖外科治疗中具有性感觉功能的阴蒂再造_陈焕然</a></td>
                 <td class="year-cell">2015</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文选自《整形再造外科杂志》，由陈焕然和...</summary>
                     <div class="description">
                         本文选自《整形再造外科杂志》，由陈焕然和陈宗基于2015年所撰写，探讨了男-女易性癖患者阴蒂再造手术的研究与实践。文章的重点在于介绍了一种新型的阴蒂再造方法，旨在恢复再造阴蒂的良好形态与性感觉功能。研究的核心在于采用阴茎背血管及神经作为蒂的岛状部分龟头组织瓣来进行阴蒂的重建。这一方法自2013年开展以来，已成功治疗了数例男-女易性癖患者，其术后反响良好，患者在生活质量及婚姻稳定性上均显著提升。
@@ -1886,7 +1886,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="男变女阴道成形术失败再行腹腔镜下回肠代阴道成形术1例" data-year="2011" data-date="2025-01-18">
                 <td><a href="男变女阴道成形术失败再行腹腔镜下回肠代阴道成形术1例_page" class="md-button">男变女阴道成形术失败再行腹腔镜下回肠代阴道成形术1例</a></td>
                 <td class="year-cell">2011</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文档为一篇医学专业的研究论文，标题为“...</summary>
                     <div class="description">
                         该文档为一篇医学专业的研究论文，标题为“男变女阴道成形术失败再行腹腔镜下回肠代阴道成形术1例”，收录于《按摩与康复医学》。论文的主要内容聚焦于一个男变女变性手术患者的经历，该患者在2006年进行的阴道成形术后，因对手术结果不满意，再次要求进行手术，以改善其性别认同的身体状况。
@@ -1906,7 +1906,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="男声女调患者与正常男性嗓音参数的对比分析及临床意义" data-year="2018" data-date="2025-01-18">
                 <td><a href="男声女调患者与正常男性嗓音参数的对比分析及临床意义_page" class="md-button">男声女调患者与正常男性嗓音参数的对比分析及临床意义</a></td>
                 <td class="year-cell">2018</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件的标题为《男声女调患者与正常男性嗓...</summary>
                     <div class="description">
                         该文件的标题为《男声女调患者与正常男性嗓音参数的对比分析及临床意义》，发表于2018年10月，是《中华耳鼻咽喉颅底外科杂志》的第24卷第5期。本文的主要目的是探讨男声女调患者的嗓音参数与正常男性的差异，为临床诊疗提供参考依据。研究中收集了30名男声女调患者与30名正常男性的动态喉镜及嗓音资料，并对其嗓音参数进行了详细的对比分析。文章首先指出，男声女调是一种青春期变声障碍，其特点是发音音调较高，而患者通常在社交中遭遇困扰，可能导致心理健康问题。研究显示，男声女调患者在动态喉镜下大多数表现出声门闭合不全，发声时的基频显著高于正常男性。具体数据表明，男声女调患者的发音基频为243.3赫兹，明显高于正常男性的146.2赫兹。嗓音障碍指数（VHI）在男声女调患者中呈现显著的负值，相比之下，正常男性则达到正值，这说明男声女调患者在发音时存在更大的困难。根据研究结果，两组在发音响度、振幅微扰及基频微扰等参数上未发现显著差异，但男声女调患者的最长发音时间和音域范围均显著低于正常男性，分别为16.0秒和288.4赫兹，而正常男性的Longest Phonation Time约为32.0秒，音域范围约611.1赫兹。论文最终结论指出，大部分男声女调患者在发声中存在声门闭合不全的情况，且整体的声音质量与正常男性存在明显的差异。该研究为未来男声女调的临床干预提供了理论基础与实验数据，强调了在相关医疗实践中对嗓音功能的重视。
@@ -1918,7 +1918,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="男女变性手术的护理15例" data-year="None" data-date="2025-01-18">
                 <td><a href="男女变性手术的护理15例_page" class="md-button">男女变性手术的护理15例</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文档以《男女变性手术的护理15例》为主...</summary>
                     <div class="description">
                         该文档以《男女变性手术的护理15例》为主题，讨论了变性手术后患者的护理问题。文中指出，易性癖患者在心理上对自身性别的认定常常表现出强烈的渴望，而此类患者在接受男转女的变性手术后，护理工作显得尤为重要。文章的作者王大方和杨国荣来自中国医学科学院整形外科医院性别重塑中心，提供了15例患者的临床资料与护理经验。根据文中提到，所有患者在手术后平均住院时间较长，且不少患者经历了心理上的孤独与焦虑，护理人员应该增强与患者的沟通，以应对他们在手术前后的各种心理状态。
@@ -1934,7 +1934,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="男性性别认同与心理健康研究_Pink_Therapy" data-year="None" data-date="2024-11-23 04:33:56">
                 <td><a href="男性性别认同与心理健康研究_Pink_Therapy_page" class="md-button">男性性别认同与心理健康研究_Pink_Therapy</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本论文《男性性别认同与心理健康研究》由 ...</summary>
                     <div class="description">
                         本论文《男性性别认同与心理健康研究》由 Pink Therapy 发布，探讨了男性性别认同如何影响心理健康的多重因素。它首先在新近的跨性别和多元性别研究背景下审视男性身份的构建，以及这些身份如何与个人的心理健康和幸福感相互作用。该研究的重点在于了解那些自我认同为男性，但同时又面临诸多心理健康挑战的个体，特别是在当今社会复杂的性别文化中。
@@ -1954,7 +1954,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="男性易性癖的心理护理探讨" data-year="None" data-date="2025-01-18">
                 <td><a href="男性易性癖的心理护理探讨_page" class="md-button">男性易性癖的心理护理探讨</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>《男性易性癖的心理护理探讨》一文由广西医...</summary>
                     <div class="description">
                         《男性易性癖的心理护理探讨》一文由广西医科大学一附院呼吸内科的唐志敏医生撰写，探讨了男性易性癖这一少见的心理障碍，及其对患者心理状态、生活质量的深远影响。文中指出，易性癖患者往往伴随严重的自卑感和心理痛苦，这些患者常常无法接受自身的性别身份，努力寻求转换为异性身份的过程充满了困难与挫折。文献中提到，轻度的患者可能会表现出性焦虑、抑郁以及孤独感等负面情绪，而重度的患者则可能出现自残或自杀的倾向。在治疗过程中，医生强调尊重患者的自我认同和接纳自我对于心理康复的重要性，主张通过心理疏导来改善患者的心理状态，帮助患者建立自尊心和对生活的信心。
@@ -1970,7 +1970,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="男男性服务群体的性_性网络艾滋风险" data-year="2012" data-date="2025-01-18">
                 <td><a href="男男性服务群体的性_性网络艾滋风险_page" class="md-button">男男性服务群体的性_性网络艾滋风险</a></td>
                 <td class="year-cell">2012</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为2012年7月发布的学术论文，题...</summary>
                     <div class="description">
                         本文件为2012年7月发布的学术论文，题目为《男男性服务群体的性、性网络及艾滋风险——以东北地区为例》，由富晓星、Lei Zhang、Eric P.F. Chow和马铁成共同撰写。本文聚焦于近年来在中国东北地区新兴出现的男男性服务者（Money Boys, MB），研究其性身份认同、服务分层以及艾滋病传播风险等方面。文章的摘要指出，男男性服务者是近年来地下性产业中的一个复杂且重要的群体，因其性别及性身份的多元性以及在性传播疾病，尤其是艾滋病在相应人群中日益增长的背景下，他们成为了艾滋病防治工作的重点干预对象。通过参与观察、个案深入访谈和专题小组讨论等定性研究方法，作者团队对男男性服务网络的隐秘特征及其运行机制进行了调研和分析，给与了不同性取向群体和服务种类的艾滋病风险因素的社会科学干预建议。
@@ -1988,7 +1988,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="罹患前列腺癌的LGBTIQA_人群" data-year="None" data-date="2024-11-02 02:44:03">
                 <td><a href="罹患前列腺癌的LGBTIQA_人群_page" class="md-button">罹患前列腺癌的LGBTIQA_人群</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为《罹患前列腺癌的LGBTIQA+...</summary>
                     <div class="description">
                         本文件为《罹患前列腺癌的LGBTIQA+人群指南》的中文翻译，专为女同性恋者、男同性恋者、双性恋者、变性者、双性人、同性恋者、无性恋和疑性恋（LGBTIQA+）人群设计，旨在提供有关前列腺癌的最新医疗信息和心理支持。文件详细阐述了前列腺的功能、前列腺癌的基本知识、治疗方式及其副作用，以及针对LGBTIQA+人群的特定建议与经验分享。前列腺癌是指前列腺中出现异常细胞，可能导致前列腺功能衰竭，严重影响生活质量。根据统计，预计在每年可能确诊风患前列腺癌的17000名澳洲人中，约有800人属于LGBTIQA+人群。然而，该人群在癌症诊治过程中的经历极为独特，存在诸多特定挑战，包括异性恋为常规的医疗系统对非异性恋者的忽视等。文件概述了不同治疗方法（如手术治疗、放射治疗、激素疗法及化疗）的适应症与副作用，特别提到性功能变化对治疗周期后的影响，并建议患者在治疗过程中开展心理与情感支持。文件还为伴侣和家庭成员提供了相关建议，以便他们更好地理解和支持患者在对抗癌症过程中可能面临的挑战与困难。重要的是，文件强调了在医疗系统中维护自身权益的必要性，并提供了相关支持团体的信息，以供患者及其亲友寻求帮助。整体而言，该指南是对LGBTIQA+人群、前列腺癌的完整解读，有助于患者更全面地理解自身病情，减轻因医疗与社会歧视带来的负担和压力。
@@ -2000,7 +2000,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="美国心理学会性少数人群心理实践指南" data-year="None" data-date="2024-11-02 02:40:40">
                 <td><a href="美国心理学会性少数人群心理实践指南_page" class="md-button">美国心理学会性少数人群心理实践指南</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>《美国心理学会性少数人群心理实践指南》是...</summary>
                     <div class="description">
                         《美国心理学会性少数人群心理实践指南》是一本重要的学术文献，旨在为心理健康专业人士提供有关性少数人群（如跨性别人士、酷儿等）心理健康服务的指导。这本指南的编制基于对现有研究的系统性回顾，涵盖了多元性别人群的心理需求、常见的心理问题及其背景因素，以及提供帮助时的重要考虑事项。该指南强调了对多元性别个体的理解，认为心理健康服务提供者应当具备对多元性别人士的敏感性和专业知识，以便更有效地满足他们的需求。
@@ -2016,7 +2016,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="脱细胞同种异体真皮与口腔黏膜及自体皮肤混合微粒移植再造阴道" data-year="2015" data-date="2024-11-02 02:29:40">
                 <td><a href="脱细胞同种异体真皮与口腔黏膜及自体皮肤混合微粒移植再造阴道_page" class="md-button">脱细胞同种异体真皮与口腔黏膜及自体皮肤混合微粒移植再造阴道</a></td>
                 <td class="year-cell">2015</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文档为2015年6月发表在《中国修复重...</summary>
                     <div class="description">
                         该文档为2015年6月发表在《中国修复重建外科杂志》上的一篇学术论文，题目为《脱细胞同种异体真皮与口腔黏膜及自体皮肤混合微粒移植再造阴道的疗效研究》。发文的主要目的是探讨在口腔黏膜以及自体皮肤混合微粒移植的基础上，联合脱细胞同种异体真皮进行阴道再造手术的效果。论文的摘要提到，通过对2006年至2013年期间收治的67例先天性无阴道患者进行回顾性分析，对比采用单纯口腔黏膜及自体皮肤混合微粒的对照组与联合脱细胞同种异体真皮的试验组的临床数据。结果显示，两组患者在手术时间、术中出血量等方面差异无统计学意义，但试验组的术後脱离模具时间显著短于对照组，表明联合脱细胞同种异体真皮技术能够有效改善手术后的恢复体验，减少术后需要持续佩戴模具的时间。
@@ -2032,7 +2032,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="艾滋病与跨性别者及其它多元性别群体" data-year="None" data-date="2024-10-29 05:51:26">
                 <td><a href="艾滋病与跨性别者及其它多元性别群体_page" class="md-button">艾滋病与跨性别者及其它多元性别群体</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文献以艾滋病与跨性别者及其他多元性别群...</summary>
                     <div class="description">
                         该文献以艾滋病与跨性别者及其他多元性别群体为主题，早期对这一群体的关注极为有限，尤其是在医疗卫生领域。艾滋病的流行与跨性别及多元性别群体的生活方式、社会接受度以及医疗资源的可及性息息相关。这篇文献通过多方面的数据和案例分析探讨了多元性别群体在面对艾滋病时所面临的独特挑战与困境。例如，文中提到，由于跨性别者在就医过程中常遇到的歧视和偏见，不少人选择隐藏自己的性别身份，导致他们在得到必要的医疗关怀时处于劣势。文献中详细分析了报告中提到的统计数据，包括艾滋病毒感染率在跨性别者，尤其是有过性工作经历的女性跨性别者中显著高于一般人群的现象。文中也列出了一些关键的研究，强调了跨性别者的社会和心理健康状态所面临的风险因素，指出了如何通过增强医疗服务的可及性来改善这一群体的健康预后。同时，文献对各地针对跨性别者的卫生政策进行了比较，展示了一些国家在保护跨性别者健康权益方面所取得的进展和成功案例。法律政策的变化、一系列针对预防艾滋病的公共卫生干预措施，均被视作支持多元性别群体的重要举措。这篇文献不仅仅是一个医学报告，也是一份深刻的社会分析，它揭示了社会与医疗体系在服务跨性别者及多元性别者过程中的诸多不足之处。通过对案例的讨论与分析，提醒政策制定者和医学工作者需要更加关注该群体的需求，尤其是在艾滋病的预防与治疗方面。
@@ -2044,7 +2044,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="艾滋病疟疾与公共健康对策报告" data-year="None" data-date="2024-11-23 06:37:56">
                 <td><a href="艾滋病疟疾与公共健康对策报告_page" class="md-button">艾滋病疟疾与公共健康对策报告</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件名为《艾滋病疟疾与公共健康对策报告...</summary>
                     <div class="description">
                         该文件名为《艾滋病疟疾与公共健康对策报告》，其主要探讨了艾滋病与疟疾两种流行病在公共健康方面的影响以及相应的防治策略。尽管我们无法提取出该pdf文档的具体文本内容，但可以推测，该报告可能会从以下几个方面进行分析与讨论：报告将可能详细说明这两种疾病在传染过程中的生物学特点、传播途径以及受影响人群的特征，以便提供有效的预防与干预措施。报告有可能展示对艾滋病和疟疾在特定区域的流行病学数据分析，通过数据的呈现，强调目前公共卫生领域在处理这些疾病中的现状与挑战。这类统计数据通常包括感染率、发病率等，能够帮助政策制定者和公共健康机构理解疫情走向，合理配置医疗资源。
@@ -2056,7 +2056,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="论中跨性别者医疗保险保障体系的" data-year="2023" data-date="2025-01-18">
                 <td><a href="论中跨性别者医疗保险保障体系的_page" class="md-button">论中跨性别者医疗保险保障体系的</a></td>
                 <td class="year-cell">2023</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文献《论中国跨性别者医疗保险保障体系的...</summary>
                     <div class="description">
                         该文献《论中国跨性别者医疗保险保障体系的困境与对策》是刊登于《东南亚法研究》的学术文章，作者为赵鹏举和郑华。文章发表于2023年，围绕中国跨性别群体在医疗保险保障方面遇到的种种困境展开探讨。随着社会对性别多样性的认知不断深化，跨性别者的生存境况逐渐受到关注，但同时也面临着来自社会文化和法律政策的双重压迫。
@@ -2076,7 +2076,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="走出性别困境_跨性别_与_性别焦虑_的医疗援助_潘柏林_Z_Library" data-year="None" data-date="2025-01-18">
                 <td><a href="走出性别困境_跨性别_与_性别焦虑_的医疗援助_潘柏林_Z_Library_page" class="md-button">走出性别困境_跨性别_与_性别焦虑_的医疗援助_潘柏林_Z_Library</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件题为《走出性别困境：跨性别与性别焦...</summary>
                     <div class="description">
                         该文件题为《走出性别困境：跨性别与性别焦虑的医疗援助》，由潘柏林撰写，属于医学领域的一篇学术论文。本论文探讨了跨性别者和性别焦虑者在医疗援助过程中的挑战与需求，尝试为这一群体提供更为有效的医疗支持和社会保障。虽然文件的具体内容在这里未透露，但从题目可推测，这篇文章深入研究了跨性别个体在经历性别认同转变时所面临的心理和生理方面的问题。
@@ -2088,7 +2088,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="超声诊断小儿真两性畸形1例_-_中国医学影像技术" data-year="2007" data-date="2024-11-07 18:49:09">
                 <td><a href="超声诊断小儿真两性畸形1例_-_中国医学影像技术_page" class="md-button">超声诊断小儿真两性畸形1例_-_中国医学影像技术</a></td>
                 <td class="year-cell">2007</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>此文件为2007年发表在《中国医学影像技...</summary>
                     <div class="description">
                         此文件为2007年发表在《中国医学影像技术》期刊上的一篇学术论文，题为《超声诊断小儿真两性畸形1例》。文章详细介绍了一例真两性畸形的超声诊断案例，着重探讨其临床表现及影像学特征。文章开头提供了对真两性畸形的定义及其发生机制的背景资料，指出真两性畸形是一种性染色体异常综合征，其特征是同时具备男性和女性的生殖特征。作者提到在临床上，超声检查是诊断这种罕见畸形的重要工具，通过观察外生殖器、子宫、卵巢及其他生殖器官的发育状态来进行全面评估。文章中的病例报告描述了一名年仅三岁的小女孩，其外生殖器存在明显的畸形特征，具有两性化表现，如阴蒂肥大、阴毛分布异常等。文中详细列举了超声检查中观察到的各种特征，包括左侧卵巢发育不良、右侧卵巢具备一定生育功能的可能性。作者使用超声彩色多普勒技术，监测了患者的生殖系统发育状况，并结合临床病史进行综合判断。通过影像学表现，医务人员对该患儿进行了详尽的评估，并计划后续的治疗方案。文章还指出，由于患者居住在偏远山区，经济条件较为有限，因此在确诊时已是她三岁，而相较于疾病的发展，早期诊断对于后续的性别矫正和生育功能评估尤为重要。最终，该文献不仅为医学界提供了有价值的案例分析，也为研究真两性畸形的临床表现与影像学特征提供了重要参考。这种病例在小儿外科及相关领域具有较高的临床意义和研究价值。该研究强调了超声检查在两性畸形诊断中的关键作用，帮助医疗人员更好地理解和处理此类复杂的性别发育 disorders，为稀有病例的临床管理提供科学依据。
@@ -2100,7 +2100,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="跨性别与顺性别大学生的心理健康状况" data-year="None" data-date="2025-01-18">
                 <td><a href="跨性别与顺性别大学生的心理健康状况_page" class="md-button">跨性别与顺性别大学生的心理健康状况</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>《跨性别与顺性别大学生的心理健康状况》是...</summary>
                     <div class="description">
                         《跨性别与顺性别大学生的心理健康状况》是一份讨论跨性别和顺性别大学生心理健康的学术文献，尽管文件内容在此处未能清晰显示，但根据标题中的关键词可以推测出，文件可能包含对两类大学生的心理健康状况的对比研究与分析。研究通常通过问卷调查和访谈的形式，收集了跨性别大学生在校园生活中所面临的独特挑战，例如社会接受度、心理适应问题以及医疗资源的可及性等，也可能探讨顺性别大学生对跨性别同学的态度及其对校园氛围的影响。尤其是对于跨性别大学生，报告可能会重点分析他们在性别认同、社交关系以及学习环境中的心理健康问题。
@@ -2118,7 +2118,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="跨性别女性_3_未治疗或治疗后未达到病毒抑制的_感染者" data-year="None" data-date="2024-10-29 05:52:27">
                 <td><a href="跨性别女性_3_未治疗或治疗后未达到病毒抑制的_感染者_page" class="md-button">跨性别女性_3_未治疗或治疗后未达到病毒抑制的_感染者</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文档《跨性别女性_3_未治疗或治疗后未...</summary>
                     <div class="description">
                         该文档《跨性别女性_3_未治疗或治疗后未达到病毒抑制的_感染者》为研究跨性别女性在医疗过程中面临的挑战提供了深入的探讨。文中聚焦于一个重要而复杂的主题：在未接受治疗或治疗后未能达到病毒抑制状态的性别认同者群体，尤其是在跨性别女性中的发生率及其影响。文献中对该群体的生理及心理状况进行了详细分析，试图从多个角度揭示社会、文化及医学系统对这些个体的影响。因其内容尚处于医疗与社会学交汇的前沿，故需要引起研究者与社会的高度重视。
@@ -2136,7 +2136,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="跨性别女性HIV感染情况及其危险因素研究进展" data-year="None" data-date="2024-11-07 18:43:42">
                 <td><a href="跨性别女性HIV感染情况及其危险因素研究进展_page" class="md-button">跨性别女性HIV感染情况及其危险因素研究进展</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这篇文献标题为《跨性别女性HIV感染情况...</summary>
                     <div class="description">
                         这篇文献标题为《跨性别女性HIV感染情况及其危险因素研究进展》，旨在探讨跨性别女性群体在HIV感染方面的现状，以及相关的危险因素和研究进展。随着社会对多元性别群体认识的增强，跨性别女性作为一个特殊的群体，面临着一系列与性别认同及生理特征相关的健康风险，尤其是HIV感染的风险。
@@ -2154,7 +2154,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="跨性别女性人群心理特征及相关行为分析" data-year="2018" data-date="2024-11-01 08:52:51">
                 <td><a href="跨性别女性人群心理特征及相关行为分析_page" class="md-button">跨性别女性人群心理特征及相关行为分析</a></td>
                 <td class="year-cell">2018</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为《跨性别女性人群心理特征及相关行...</summary>
                     <div class="description">
                         本文件为《跨性别女性人群心理特征及相关行为分析》，发表于2018年12月的中国公共卫生杂志。本研究的目的是深入了解跨性别女性（MTF）人群的心理特征及相关行为，研究期间采用滚雪球抽样的方法，在2016年1月至2017年10月期间于山东省进行调查。研究涉及的调查对象为160名年龄在19至44岁之间的跨性别女性，其中93.1%为汉族，大部分受访者为未婚，且教育程度普遍较高，高中及以上文化程度占83.1%。
@@ -2172,7 +2172,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="跨性别女性嗓音问卷简体中文版信度和效度评价" data-year="2022" data-date="2025-01-18">
                 <td><a href="跨性别女性嗓音问卷简体中文版信度和效度评价_page" class="md-button">跨性别女性嗓音问卷简体中文版信度和效度评价</a></td>
                 <td class="year-cell">2022</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这篇论文标题为《跨性别女性嗓音问卷简体中...</summary>
                     <div class="description">
                         这篇论文标题为《跨性别女性嗓音问卷简体中文版信度和效度评价》，刊登在《中华耳鼻咽喉头颈外科杂志》，于2022年11月发布。作者包括王路、张嘉禾、王晨希等，研究主要围绕跨性别女性的嗓音评估展开。论文的目的在于汉化跨性别女性嗓音问卷（Trans Woman Voice Questionnaire，简称TWVQ）的简体中文版，并验证其信效度，以期为跨性别女性的嗓音治疗和临床评估提供有效工具。文中提到，汉化过程采用了跨文化适度法，进行了双向翻译和回译，确保问卷的科学性和文化适应性。该量表共含30个项目，旨在评估女性的嗓音功能认知、嗓音对心理社会的影响，以及嗓音对社会参与的限制程度。研究对象包括279名跨性别女性和128名顺性别女性，经过三轮调研收集了有效问卷数据。在统计分析方面，研究采用克朗巴哈系数和项总计相关系数（ITC）来检查问卷的内部一致性，结果显示TWVQ-SC的克朗巴哈系数为0.97，表明具有极高的内部一致性。采用组内相关系数（ICC）来检验重测信度，结果也显示出较好的信度。对于效度的考察，论文通过专家评判法确保内容效度，通过因子分析和斯皮尔曼等级相关性分析检验结构效度，最终结果表明该量表能够准确反映跨性别女性的嗓音特征。结论部分指出，TWVQ-SC不仅具有良好的信度和效度，能够有效作为跨性别女性嗓音自我评估工具进行临床应用，也为跨性别女性提供了更全面的嗓音治疗方案。此评估工具的成立有助于提升跨性别女性在嗓音治疗中的积极参与，使其在医疗服务中获得更多的认可和理解。
@@ -2184,7 +2184,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="跨性别女性性别确认激素治疗策略_高绿芬" data-year="2022" data-date="2025-01-18">
                 <td><a href="跨性别女性性别确认激素治疗策略_高绿芬_page" class="md-button">跨性别女性性别确认激素治疗策略_高绿芬</a></td>
                 <td class="year-cell">2022</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文的标题为《跨性别女性性别确认激素治疗...</summary>
                     <div class="description">
                         本文的标题为《跨性别女性性别确认激素治疗策略》，主要针对跨性别女性（生理性别为男性但渴望身份为女性）进行性别确认的激素治疗进行探讨。研究指出，跨性别女性存在显著的性别焦虑，这种压力可能源自生理与社会性别的不匹配。性别确认激素治疗为这些女性提供了改变外貌的手段，从而缓解其焦虑。近年来，尽管身体与心理健康领域对跨性别者的关注增加，我国关于跨性别女性性别确认激素治疗的专业共识与指南却依然匮乏，因此本文旨在填补这一空白。报告中概述了国内外研究文献，提出了治疗原则，包括药物选择、用法用量和副作用监测等。具体来说，文中提及了在激素治疗前，跨性别女性需要被确诊为性别焦虑，并在治疗过程中保持知情同意，评估可能伴随的医疗及心理健康风险。
@@ -2198,7 +2198,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="跨性别女性的特征及艾滋病相关知识行为调查" data-year="None" data-date="2024-10-29 05:51:18">
                 <td><a href="跨性别女性的特征及艾滋病相关知识行为调查_page" class="md-button">跨性别女性的特征及艾滋病相关知识行为调查</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文档《跨性别女性的特征及艾滋病相关知识...</summary>
                     <div class="description">
                         本文档《跨性别女性的特征及艾滋病相关知识行为调查》旨在探索跨性别女性这一群体在艾滋病知识、态度及相关行为方面的特征。报告的撰写基于对跨性别女性的普遍情况以及与艾滋病相关的社会健康问题的关注，特别强调了跨性别女性在面临健康和社会保障方面的困难与挑战。文中探讨了一系列调查结果，揭示了跨性别群体在接受艾滋病知识教育及医疗服务时可能遇到的障碍，旨在为制定针对性的公共卫生政策提供依据。
@@ -2216,7 +2216,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="跨性别群体抑郁、焦虑与防御机制研究" data-year="2023" data-date="2025-01-18">
                 <td><a href="跨性别群体抑郁、焦虑与防御机制研究_page" class="md-button">跨性别群体抑郁、焦虑与防御机制研究</a></td>
                 <td class="year-cell">2023</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本研究论文题为《跨性别群体抑郁、焦虑与防...</summary>
                     <div class="description">
                         本研究论文题为《跨性别群体抑郁、焦虑与防御机制研究》，由王占强等人撰写，发表于2023年5月的《预防医学》期刊。研究的主要目的是了解跨性别群体的抑郁和焦虑状况及其与防御机制的关系，为改善跨性别群体的心理健康提供依据。研究对象为首次于2020年12月至2021年12月在北京回龙观医院性心理门诊就诊的126名跨性别者，其中95名为男性（占75.40%），31名为女性（占24.60%）。通过自编的调查表、抑郁自评量表（SDS）、焦虑自评量表（SAS）及防御机制问卷（DSQ），研究收集了参与者的人口学资料、抑郁、焦虑和防御机制类型的数据。
@@ -2232,7 +2232,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="跨性别者的嗓音调整" data-year="2019" data-date="2025-01-18">
                 <td><a href="跨性别者的嗓音调整_page" class="md-button">跨性别者的嗓音调整</a></td>
                 <td class="year-cell">2019</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文为《听力学及言语疾病杂志》上发表的一...</summary>
                     <div class="description">
                         本文为《听力学及言语疾病杂志》上发表的一篇综述性文章，关注于跨性别者在性别过渡过程中所需的嗓音调整问题。文章由刘恒鑫、郝建萍和高立群共同撰写，旨在探讨跨性别者如何通过嗓音调整来实现其性别认同的表达。文献综述了跨性别群体的多样性，强调当前的社会规范主要遵循性别二元体制，对跨性别者、变性者以及非二元性别者的定义进行了详细说明。文章首先介绍了跨性别者的基本概念，指出他们可能更倾向于寻求多样化的跨性别医疗保健服务，其中嗓音调整是最为常见的选择之一。随着跨性别者对自身身份认同的追寻与日俱增，嗓音的调整被视为重要的支持性医疗措施。
@@ -2244,7 +2244,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="运用捕获_再捕获方法估计天津市跨性别女性人群规模" data-year="2023" data-date="2025-01-18">
                 <td><a href="运用捕获_再捕获方法估计天津市跨性别女性人群规模_page" class="md-button">运用捕获_再捕获方法估计天津市跨性别女性人群规模</a></td>
                 <td class="year-cell">2023</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该研究论文名为《运用捕获-再捕获方法估计...</summary>
                     <div class="description">
                         该研究论文名为《运用捕获-再捕获方法估计天津市跨性别女性人群规模》，发表在《中华流行病学杂志》的2023年第44卷第6期。这篇论文的主要目的是估计天津市跨性别女性（TGW）的人群规模，并分析该人群的性行为特征，以为性病特别是艾滋病的防控措施提供数据依据。论文由龚卉、于茂河、柳忠泉和杨杰共同撰写。研究者借助捕获-再捕获方法，通过定量调查要求收集有关跨性别女性的匿名问卷，并针对他们的性行为进行多因素分析。二者结合能够更准确地估算该人群的规模。
@@ -2260,7 +2260,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="阴囊皮瓣结合黏膜／皮肤微粒法再造阴道在男变女变性手术中的应用" data-year="2014" data-date="2025-01-18">
                 <td><a href="阴囊皮瓣结合黏膜／皮肤微粒法再造阴道在男变女变性手术中的应用_page" class="md-button">阴囊皮瓣结合黏膜／皮肤微粒法再造阴道在男变女变性手术中的应用</a></td>
                 <td class="year-cell">2014</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文档标题为《阴囊皮瓣结合黏膜／皮肤微粒...</summary>
                     <div class="description">
                         该文档标题为《阴囊皮瓣结合黏膜／皮肤微粒法再造阴道在男变女变性手术中的应用》，是关于变性手术中阴道再造技术的一篇学术文章。文章认为，变性手术作为一种有效的治疗手段，虽然具有不可逆的特征，但对易性癖患者而言，手术的必要性和积极性是显而易见的。在论文开头，作者详细引用了相关的法规与标准，并强调变性手术对于重塑患者生殖器的重要性。  
@@ -2278,7 +2278,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="阴茎阴囊皮瓣在男变女变性术中的应用" data-year="2012" data-date="2025-01-18">
                 <td><a href="阴茎阴囊皮瓣在男变女变性术中的应用_page" class="md-button">阴茎阴囊皮瓣在男变女变性术中的应用</a></td>
                 <td class="year-cell">2012</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本文件为2012年10月发表在《中国现代...</summary>
                     <div class="description">
                         本文件为2012年10月发表在《中国现代手术学杂志》上的一篇学术文章，题为《阴茎阴囊皮瓣在男变女变性术中的应用》。文章的主要目的是探讨阴茎阴囊皮瓣在男变女变性术中用于再造阴蒂、阴道和外阴的应用价值。文章的作者包括赵玉斌、赵少华、牟少春、杨彪炳及唐胜建，均来自于河南省郸城县人民医院和潍坊医学院整形外科医院。
@@ -2290,7 +2290,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="阴蒂成形术11例报告_邢新" data-year="2001" data-date="2025-01-18">
                 <td><a href="阴蒂成形术11例报告_邢新_page" class="md-button">阴蒂成形术11例报告_邢新</a></td>
                 <td class="year-cell">2001</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这篇论文标题为《阴蒂成形术11例报告》，...</summary>
                     <div class="description">
                         这篇论文标题为《阴蒂成形术11例报告》，作者是邢新、欧阳天祥、李军辉、季正伦、宋建星、陈江萍和郭恩覃，发表于2001年5月的《中华整形外科杂志》第17卷第3期。文章的主要研究目标在于为严重男性化的女性假两性畸形、误养为女性的男性假两性畸形患者、男性易性癖患者以及Klinefelter综合征患者进行高质量的阴蒂重建手术，从而满足美学和功能上的双重需求。 
@@ -2308,7 +2308,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="雌二醇成膜凝胶的制备及其药代动力学的初步研究_潘悦" data-year="2021" data-date="2025-02-05">
                 <td><a href="雌二醇成膜凝胶的制备及其药代动力学的初步研究_潘悦_page" class="md-button">雌二醇成膜凝胶的制备及其药代动力学的初步研究_潘悦</a></td>
                 <td class="year-cell">2021</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>这篇论文题为《雌二醇成膜凝胶的制备及其药...</summary>
                     <div class="description">
                         这篇论文题为《雌二醇成膜凝胶的制备及其药代动力学的初步研究》，由作者潘悦在吉林大学完成。论文研究的核心是开发一种新的雌二醇外用制剂，即成膜凝胶，并对其药代动力学进行初步探讨。雌二醇作为一种甾体激素药物，常用于缓解女性更年期综合症、预防心血管疾病及骨质疏松症，并在治疗早期老年痴呆方面也具有一定效果。传统的口服或注射给药方式存在药物吸收不佳和不便的缺点，论文提出的成膜凝胶通过外用涂抹于皮肤，不仅减少了胃肠道副作用，还避免了口服药物所引起的肝首过效应。研究的起点是开发出药效良好且外观特征优良的凝胶，并包括以下几个方面的内容：
@@ -2326,7 +2326,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="雌性与草药治疗_林从欣_Patrick_动态研究" data-year="None" data-date="2024-11-23 05:46:26">
                 <td><a href="雌性与草药治疗_林从欣_Patrick_动态研究_page" class="md-button">雌性与草药治疗_林从欣_Patrick_动态研究</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该文件为《雌性与草药治疗》的研究论文，作...</summary>
                     <div class="description">
                         该文件为《雌性与草药治疗》的研究论文，作者林从欣与Patrick Staff之间的对话记录，探讨了植物药物在跨性别和性别过渡中的作用及其文化意涵。论文开头提到史蒂芬·布纳的书《神圣的和草药疗愈的啤酒》，其中讨论了一种以啤酒花和黑升麻为成分的草药啤酒，指出其中高含量的植物雌激素可能会影响男性的身体，导致不适症状如乳房敏感。文中提到减少摄入量可减轻这些副作用。随后，P.与一位医师朋友分享了保罗·格兰特与沙敏·拉玛萨米的研究，表明“天然”化合物如何影响我们荷尔蒙的复杂性。两位作者还讨论了草药医术与性别转换之间的古代和现代性，提出了关于荷尔蒙如何改变身体以及植物成分如何与生物体和细胞的受体相互作用的科学理解。
@@ -2344,7 +2344,7 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 <tr data-name="青少年性别确认护理研究报告" data-year="None" data-date="2024-11-23 04:25:23">
                 <td><a href="青少年性别确认护理研究报告_page" class="md-button">青少年性别确认护理研究报告</a></td>
                 <td class="year-cell">None</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>《青少年性别确认护理研究报告》是关于青少...</summary>
                     <div class="description">
                         《青少年性别确认护理研究报告》是关于青少年群体在性别确认及相关医疗护理方面的研究成果。研究的主要目的是评估当前青少年性别确认的医疗实践、患者的需求，以及面临的挑战和障碍。报告内容结合了大量的临床数据，通过对不同医疗机构的案例研究，探讨了青少年在接受性别确认护理过程中所经历的重要阶段，包括心理辅导、激素治疗以及手术干预等方面。报告指出，青少年在性别确认过程中，除了生理上的适应和治疗外，心理支持和社会环境的认可同样至关重要。它强调了多学科团队合作的重要性，团队成员不仅包括医生和护士，还应有心理医生、社工以及家庭成员的参与，以提供一个全面、系统的护理方案。
@@ -2376,11 +2376,6 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
             </tr>
 </tbody>
 </table>
-
-
-## 📊 词云图 { data-search-exclude }
-
-![词云图](abstracts_wordcloud.png)
 
 
 <script>
@@ -2458,6 +2453,26 @@ function sortTable(th, isInitial = false) {
 
 </script>
  
+
+<div class="grid" markdown>
+
+=== "最多访问"
+
+    * 94 访问 [男声女调患者与正常男性嗓音参数的对比分析及临床意义](/学术文献/医学/男声女调患者与正常男性嗓音参数的对比分析及临床意义_page)
+    * 32 访问 [阴茎阴囊皮瓣在男变女变性术中的应用](/学术文献/医学/阴茎阴囊皮瓣在男变女变性术中的应用_page)
+    * 28 访问 [PDF_真两性畸形1例_-_协和医学杂志](/学术文献/医学/PDF_真两性畸形1例_-_协和医学杂志_page)
+    * 27 访问 [hormones_MTF](/学术文献/医学/hormones_MTF_page)
+    * 26 访问 [男女变性手术的护理15例](/学术文献/医学/男女变性手术的护理15例_page)
+    * 23 访问 [PDF_先天性肾上腺增生症致女性假两性畸形1例](/学术文献/医学/PDF_先天性肾上腺增生症致女性假两性畸形1例_page)
+    * 22 访问 [PDF_荷尔蒙代替疗法_KK_Women’s_and_Children’s_Hospital](/学术文献/医学/PDF_荷尔蒙代替疗法_KK_Women’s_and_Children’s_Hospital_page)
+    * 21 访问 [阴蒂成形术11例报告_邢新](/学术文献/医学/阴蒂成形术11例报告_邢新_page)
+    * 20 访问 [2024年医学与哲学_跨性别技术的伦理困境_俞玲玲](/学术文献/医学/2024年医学与哲学_跨性别技术的伦理困境_俞玲玲_page)
+    * 19 访问 [性别重置术中阴蒂再造的临床研究_张连杰](/学术文献/医学/性别重置术中阴蒂再造的临床研究_张连杰_page)
+
+
+
+</div>
+
 
 !!! note "自动生成说明"
     目录及摘要为自动生成，仅供索引和参考，请修改 .github/ 目录下的对应脚本、模板或对应文件以更正。

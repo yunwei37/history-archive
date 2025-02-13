@@ -20,6 +20,7 @@ files:
   size: 12055586
   md5: b8e4b2158c00825fcf480113707be0af
   page: 2023花地文学榜_page.md
+  visitors: 45
 - name: _其他__说好的论文，论变身小说的两种流派
   filename: _其他__说好的论文，论变身小说的两种流派.txt
   type: document
@@ -27,6 +28,7 @@ files:
   size: 24281
   md5: b18bd68300bc6a1b7cfc3040608f9f47
   page: _其他__说好的论文，论变身小说的两种流派_page.md
+  visitors: 29
 - name: 与夜共鸣-夜明珠书评
   filename: 与夜共鸣-夜明珠书评.md
   type: webpage
@@ -34,6 +36,7 @@ files:
   size: 61771
   md5: c97d8d686459ead612c570a3ec90f913
   page: 与夜共鸣-夜明珠书评.md
+  visitors: 14
 - name: 伟大小说的时间考量
   filename: 伟大小说的时间考量.pdf
   type: document
@@ -41,6 +44,7 @@ files:
   size: 4578282
   md5: 7bfaf624027b63116159d00b09b704d9
   page: 伟大小说的时间考量_page.md
+  visitors: 8
 - name: 别样的天空（上）——变身小说精品推荐
   filename: 别样的天空（上）——变身小说精品推荐.md
   type: webpage
@@ -48,6 +52,7 @@ files:
   size: 29130
   md5: 7b5a0c323c8b715d85b7022fbd4741c3
   page: 别样的天空（上）——变身小说精品推荐.md
+  visitors: 58
 - name: 别样的天空（下）——什么才是“变身小说”？
   filename: 别样的天空（下）——什么才是“变身小说”？.md
   type: webpage
@@ -55,6 +60,7 @@ files:
   size: 29919
   md5: 928e19b0c2e7b8107db43417db334923
   page: 别样的天空（下）——什么才是“变身小说”？.md
+  visitors: 17
 - name: 变文研究
   filename: 变文研究.txt
   type: document
@@ -62,6 +68,7 @@ files:
   size: 107999
   md5: e6364d3bebdf939b9f6fc4b0e6790488
   page: 变文研究_page.md
+  visitors: 43
 - name: 王安黛-中篇严肃悬疑-缺耳女_二稿修正版
   filename: 王安黛-中篇严肃悬疑-缺耳女_二稿修正版.docx
   type: document
@@ -69,6 +76,7 @@ files:
   size: 220567
   md5: 26de3327da3eb924a70d89054d69d11a
   page: 王安黛-中篇严肃悬疑-缺耳女_二稿修正版_page.md
+  visitors: 17
 - name: 維納斯_夜晚的靜_七月大暑的秘密
   filename: 維納斯_夜晚的靜_七月大暑的秘密.pdf
   type: document
@@ -76,6 +84,7 @@ files:
   size: 474123
   md5: 80c8c64af22b93bab517b9423d26ed25
   page: 維納斯_夜晚的靜_七月大暑的秘密_page.md
+  visitors: 28
 - name: 药娘的天空
   filename: 药娘的天空.pdf
   type: document
@@ -83,5 +92,6 @@ files:
   size: 22571390
   md5: 068ef1ef592f2ae5ef1561778550e40f
   page: 药娘的天空_page.md
+  visitors: 264
 subdirs:
 - 《银荆的告白》1-5卷

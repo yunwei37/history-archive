@@ -17,6 +17,7 @@ files:
   size: 11608213
   md5: 94ac3efa43abc4980e595d2f04f1754a
   page: PDF_台灣率先導入性別光譜數位身分證突破傳統性別定義_page.md
+  visitors: 10
 - name: 我不是故意的-_談跨性別青少年
   filename: 我不是故意的-_談跨性別青少年.pdf
   type: document
@@ -24,4 +25,5 @@ files:
   size: 205499
   md5: 9de75259f13c60dcfe0de3a0031ec2f2
   page: 我不是故意的-_談跨性別青少年_page.md
+  visitors: 23
 subdirs: []

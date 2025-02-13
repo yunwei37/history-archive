@@ -67,6 +67,7 @@ files:
   size: 343350
   md5: 15318a93152c43d0aa5064cfdcb01377
   page: 术语表_–_性取向、性别认同与表达以及性别特征_page.md
+  visitors: 3
 - name: 温哥华跨性别政策反思报告
   filename: 温哥华跨性别政策反思报告.pdf
   type: document
@@ -74,4 +75,5 @@ files:
   size: 482880
   md5: 282280739c3dc458907acc51fa6c8a68
   page: 温哥华跨性别政策反思报告_page.md
+  visitors: 1
 subdirs: []

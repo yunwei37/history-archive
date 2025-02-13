@@ -1,68 +1,167 @@
 # 跨性别与多元性别档案馆
 
-在信息易逝、审查日趋严格的中文数字世界里，我们希望成为跨性别与多元性别历史的见证者与守护者。  
-
 我们基于性与性别多态计划（又名“多元性别数字图书馆”）的理念，收集、整理并永久保存与中文跨性别、多元性别及酷儿社群相关的文献与资料。我们相信，无论是个人过渡经历、社群讨论记录、学术研究、法律政策还是文学艺术，都是共同构筑这片多元图景的珍贵拼图；我们希望通过保存与共享这些内容，让更多人看到被隐藏或被忽视的真实，也为未来留下见证。
 
-> 端点星计划曾试图在银河帝国崩溃后保存人类文明的火种，而我们则希望，在缓慢消亡的中文数字世界与不断加剧的审查浪潮中，守护多元性别者的记忆与经验。  
+> 端点星计划曾试图在银河帝国崩溃后保存人类文明的火种，而我们则希望，在缓慢消亡的中文数字世界中，见证并守护多元性别者的记忆与经验。  
 
-互联网没有记忆，但人和 AI 有。搜索与更多内容，请访问图书馆主页 <https://transchinese.org>
+互联网没有记忆，但人和 AI 有。
+
+搜索与更多内容，请访问 [图书馆主页](https://transchinese.org) { .md-button .md-button--primary }
 
 ---
 
 ## 目录
 
-跨性别与多元性别档案馆包含如下内容：
 
+!!! note "📊 统计信息"
 
-标签: `学术文献`, `跨性别`, `多元性别`, `文学艺术`, `社会政策`, `数据统计`, `公共资源`, `社区支持`
-
-
-总计 9088 篇内容
-
-
-### 📁 子目录
-
-- [学术文献](学术文献) (418 篇内容)
-  <details><summary>内容简介</summary>
-
-  此目录包含关于跨性别议题的学术文献，包括人文、医学、法律和社会科学领域的研究和资料，包括但不限于发表于学术期刊的论文和由大学附属出版社出版的学术书籍。采用近似于学术写作的风格创作、发布于某些期刊杂志，但不确定是否为「学术」文献的，放置于「杂志及新闻报道」分类。
-  </details>
-- [政府及官方组织文件](政府及官方组织文件) (220 篇内容)
-  <details><summary>内容简介</summary>
-
-  本目录收录了与跨性别相关的政府及官方组织文件，包括中国大陆、加拿大、港澳台、美国以及联合国等地区和组织的相关政策和文件。「官方组织」指拥有接近「政府」地位和影响力，但不属于「政府」的国际性组织，在本版块中只指代联合国及其下属机构。这些资料为跨性别群体提供了法律政策、社会环境的背景信息，帮助人们理解不同地区的现状和对跨性别者的支持程度。
-  </details>
-- [文学作品和艺术创作](文学作品和艺术创作) (193 篇内容)
-  <details><summary>内容简介</summary>
-
-  本部分收录一切形式的跨儿文学艺术创作。无论是发布于互联网某个阴暗角落的「变性人」自传，还是形式晦涩、发人深省的诗歌电影，均可收录在本版块。，涵盖了多种形式的表达，包括小说、漫画、纪实作品、自传和诗歌等。
-  </details>
-- [杂志及新闻报道](杂志及新闻报道) (59 篇内容)
-  <details><summary>内容简介</summary>
-
-  本目录包含关于中国大陆、海外及港澳台地区的跨性别相关杂志与新闻报道，二级分类按照发布的报纸杂志所在地区区分。旨在汇集各地对跨性别话题的不同视角与声音，提供相关信息和资源。此处主要收集传统媒体以及 PDF 文档或图片形式的新闻报道，例如杂志、剪报等。网页新闻报道请访问 <https://news.transchinese.org>，包含数千个相关网页。
-  </details>
-- [社群及NGO文件](社群及NGO文件) (481 篇内容)
-  <details><summary>内容简介</summary>
-
-  本部分可收录的内容较为广泛。无论是如北京同志中心、同语这样的 NGO 出具的调查报告、教程指南，还是跨儿社群某论坛上由志愿者写作的 HRT 指南、出柜指南等，甚至是「女装」或自我探索类教程，均可收录在本版块内。这一目录也包括各类医疗体系、学校和社群的相关资料。这些信息有助于了解支持跨性别人士的组织资源及环境。
-  </details>
-
-### 📚 独立档案库与网站
-
-- [新闻网页存档与资料库: https://news.transchinese.org/](https://news.transchinese.org/) (3884 篇内容)
-- [变身文学与小说存档库一（剧情向）: https://xnovel.transchinese.org](https://xnovel.transchinese.org) (1645 篇内容)
-- [变身文学与小说存档库二（变百或变嫁）: https://novel.transchinese.org](https://novel.transchinese.org) (2188 篇内容)
+    总计内容：5255 篇
+    标签：`学术文献` `跨性别` `多元性别` `文学艺术` `社会政策` `数据统计` `公共资源` `社区支持`
 
 
 
-### 词云图 { data-search-exclude }
+## 📁 子目录
 
-![.摘要词云图](abstracts_wordcloud.png)
+<table>
+<thead><tr>
+<th style="width: 30%" data-sortable="true" data-sort-direction="asc" data-sort-type="text">目录名 ▲</th>
+<th style="width: 20%" data-sortable="true" data-sort-direction="asc" data-sort-type="text">文件数量 ▲</th>
+<th style="width: 50%">简介</th>
+</tr></thead>
+<tbody>
+<tr data-name="学术文献" data-count="418" data-date="0000-00-00">
+                <td><a href="学术文献" class="md-button">学术文献</a></td>
+                <td class="count-cell">418 篇</td>
+                <td class="description-cell"><details markdown>
+                    <summary>此目录包含关于跨性别议题的学术文献，包括...</summary>
+                    <div class="description">
+                        此目录包含关于跨性别议题的学术文献，包括人文、医学、法律和社会科学领域的研究和资料，包括但不限于发表于学术期刊的论文和由大学附属出版社出版的学术书籍。采用近似于学术写作的风格创作、发布于某些期刊杂志，但不确定是否为「学术」文献的，放置于「杂志及新闻报道」分类。
+                        <br>文件数量：418 篇
+                    </div>
+                </details></td>
+            </tr>
+<tr data-name="政府及官方组织文件" data-count="220" data-date="0000-00-00">
+                <td><a href="政府及官方组织文件" class="md-button">政府及官方组织文件</a></td>
+                <td class="count-cell">220 篇</td>
+                <td class="description-cell"><details markdown>
+                    <summary>本目录收录了与跨性别相关的政府及官方组织...</summary>
+                    <div class="description">
+                        本目录收录了与跨性别相关的政府及官方组织文件，包括中国大陆、加拿大、港澳台、美国以及联合国等地区和组织的相关政策和文件。「官方组织」指拥有接近「政府」地位和影响力，但不属于「政府」的国际性组织，在本版块中只指代联合国及其下属机构。这些资料为跨性别群体提供了法律政策、社会环境的背景信息，帮助人们理解不同地区的现状和对跨性别者的支持程度。
+                        <br>文件数量：220 篇
+                    </div>
+                </details></td>
+            </tr>
+<tr data-name="文学作品和艺术创作" data-count="193" data-date="0000-00-00">
+                <td><a href="文学作品和艺术创作" class="md-button">文学作品和艺术创作</a></td>
+                <td class="count-cell">193 篇</td>
+                <td class="description-cell"><details markdown>
+                    <summary>本部分收录一切形式的跨儿文学艺术创作。无...</summary>
+                    <div class="description">
+                        本部分收录一切形式的跨儿文学艺术创作。无论是发布于互联网某个阴暗角落的「变性人」自传，还是形式晦涩、发人深省的诗歌电影，均可收录在本版块。，涵盖了多种形式的表达，包括小说、漫画、纪实作品、自传和诗歌等。
+                        <br>文件数量：193 篇
+                    </div>
+                </details></td>
+            </tr>
+<tr data-name="杂志及新闻报道" data-count="59" data-date="0000-00-00">
+                <td><a href="杂志及新闻报道" class="md-button">杂志及新闻报道</a></td>
+                <td class="count-cell">59 篇</td>
+                <td class="description-cell"><details markdown>
+                    <summary>本目录包含关于中国大陆、海外及港澳台地区...</summary>
+                    <div class="description">
+                        本目录包含关于中国大陆、海外及港澳台地区的跨性别相关杂志与新闻报道，二级分类按照发布的报纸杂志所在地区区分。旨在汇集各地对跨性别话题的不同视角与声音，提供相关信息和资源。此处主要收集传统媒体以及 PDF 文档或图片形式的新闻报道，例如杂志、剪报等。网页新闻报道请访问 <https://news.transchinese.org>，包含数千个相关网页。
+                        <br>文件数量：59 篇
+                    </div>
+                </details></td>
+            </tr>
+<tr data-name="社群及NGO文件" data-count="481" data-date="0000-00-00">
+                <td><a href="社群及NGO文件" class="md-button">社群及NGO文件</a></td>
+                <td class="count-cell">481 篇</td>
+                <td class="description-cell"><details markdown>
+                    <summary>本部分可收录的内容较为广泛。无论是如北京...</summary>
+                    <div class="description">
+                        本部分可收录的内容较为广泛。无论是如北京同志中心、同语这样的 NGO 出具的调查报告、教程指南，还是跨儿社群某论坛上由志愿者写作的 HRT 指南、出柜指南等，甚至是「女装」或自我探索类教程，均可收录在本版块内。这一目录也包括各类医疗体系、学校和社群的相关资料。这些信息有助于了解支持跨性别人士的组织资源及环境。
+                        <br>文件数量：481 篇
+                    </div>
+                </details></td>
+            </tr>
+</tbody>
+</table>
 
 
-> 目录及摘要为自动生成，仅供索引和参考，请修改 .github/ 目录下的对应脚本、模板或对应文件以更正。
+<script>
+const sortFunctions = {
+    year: (a, b, direction) => {
+        a = a === '未知' ? '0000' : a;
+        b = b === '未知' ? '0000' : b;
+        return direction === 'desc' ? b.localeCompare(a) : a.localeCompare(b);
+    },
+    count: (a, b, direction) => {
+        const aNum = parseInt(a.match(/\d+/)?.[0] || '0');
+        const bNum = parseInt(b.match(/\d+/)?.[0] || '0');
+        return direction === 'desc' ? bNum - aNum : aNum - bNum;
+    },
+    text: (a, b, direction) => {
+        return direction === 'desc' 
+            ? b.localeCompare(a, 'zh-CN') 
+            : a.localeCompare(b, 'zh-CN');
+    }
+};
+
+document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('th[data-sortable="true"]').forEach(th => {
+        th.style.cursor = 'pointer';
+        th.addEventListener('click', () => sortTable(th));
+        
+        if (th.getAttribute('data-sort-direction')) {
+            sortTable(th, true);
+        }
+    });
+});
+
+function sortTable(th, isInitial = false) {
+    const table = th.closest('table');
+    const tbody = table.querySelector('tbody');
+    const colIndex = Array.from(th.parentNode.children).indexOf(th);
+    
+    // Store original rows with their sort values
+    const rowsWithValues = Array.from(tbody.querySelectorAll('tr')).map(row => ({
+        element: row,
+        value: row.children[colIndex].textContent.trim(),
+        html: row.innerHTML
+    }));
+    
+    // Toggle or set initial sort direction
+    const currentDirection = th.getAttribute('data-sort-direction');
+    const direction = isInitial ? currentDirection : (currentDirection === 'desc' ? 'asc' : 'desc');
+    
+    // Update sort indicators
+    th.closest('tr').querySelectorAll('th').forEach(header => {
+        if (header !== th) {
+            header.textContent = header.textContent.replace(/ [▼▲]$/, '');
+            header.removeAttribute('data-sort-direction');
+        }
+    });
+    
+    th.textContent = th.textContent.replace(/ [▼▲]$/, '') + (direction === 'desc' ? ' ▼' : ' ▲');
+    th.setAttribute('data-sort-direction', direction);
+    
+    // Get sort function based on column type
+    const sortType = th.getAttribute('data-sort-type') || 'text';
+    const sortFn = sortFunctions[sortType] || sortFunctions.text;
+    
+    // Sort rows
+    rowsWithValues.sort((a, b) => sortFn(a.value, b.value, direction));
+    
+    // Clear and rebuild tbody
+    tbody.innerHTML = '';
+    rowsWithValues.forEach(row => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = row.html;
+        tbody.appendChild(tr);
+    });
+}
+
+</script>
 
 
 ---

@@ -31,7 +31,7 @@ search:
 <tr data-name="人文社科" data-count="227" data-date="0000-00-00">
                 <td><a href="人文社科" class="md-button">人文社科</a></td>
                 <td class="count-cell">227 篇</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该目录下收录了与跨性别相关的社会科学研究...</summary>
                     <div class="description">
                         该目录下收录了与跨性别相关的社会科学研究文献，包括对跨性别群体的社会分析、文化研究以及相关的理论探讨。这些文献旨在提升对跨性别群体生活现状的理解与关注。
@@ -42,7 +42,7 @@ search:
 <tr data-name="医学" data-count="145" data-date="0000-00-00">
                 <td><a href="医学" class="md-button">医学</a></td>
                 <td class="count-cell">145 篇</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该目录包含了多篇与跨性别和变性医疗相关的...</summary>
                     <div class="description">
                         该目录包含了多篇与跨性别和变性医疗相关的学术文献，主要涉及变性人与其所在社会的医疗、法律、伦理等多方面的互动与现状。这些研究揭示了跨性别群体在医疗过程中所遭遇的诸多挑战，包括医疗服务的质量、社会歧视、法律支持缺失等问题，强调了人性化医疗的重要性与必要性。
@@ -59,7 +59,7 @@ search:
 <tr data-name="法律" data-count="46" data-date="0000-00-00">
                 <td><a href="法律" class="md-button">法律</a></td>
                 <td class="count-cell">46 篇</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本目录主要收录与中国多元性别及法律相关的...</summary>
                     <div class="description">
                         本目录主要收录与中国多元性别及法律相关的学术文献，涵盖变性人群体的法律地位、婚姻权利及社会保护等多方面议题。例如，其中包括陆俊杰的《性别选择与法律的回应》，该文章探讨了性别选择权的法律保护及变性人权益的确认；官晓薇的论文则分析了台湾在同志人权保障方面的发展与法律变迁，特别是在婚姻平权方面的重要进展；同时《2021年中国跨性别权利公众舆论报告》提供了中国跨性别者在公众认知与社会接受度方面的具体数据，揭示了跨性别者在职场及家庭中的现状及挑战。这部分资料不仅为研究多元性别提供了法律视角，同时也反映了社会对性别认同及权利保障的变化与期待。通过对跨性别者的生存现状进行深入分析，这些文献强调了法律与政策制定的必要性，以促进更广泛的性别认同与社会接纳。
@@ -69,11 +69,6 @@ search:
             </tr>
 </tbody>
 </table>
-
-
-## 📊 词云图 { data-search-exclude }
-
-![词云图](abstracts_wordcloud.png)
 
 
 <script>
@@ -151,6 +146,26 @@ function sortTable(th, isInitial = false) {
 
 </script>
  
+
+<div class="grid" markdown>
+
+=== "最多访问"
+
+    * 11 访问 [2021年中国跨性别权利公众舆论报告](/学术文献/法律/2021年中国跨性别权利公众舆论报告_page)
+    * 7 访问 [论变性人的性别判定——附一例变性人离婚案件报告_潘永久](/学术文献/法律/论变性人的性别判定——附一例变性人离婚案件报告_潘永久_page)
+    * 5 访问 [The_Protection_of_Transgender_Workers_in_China](/学术文献/法律/The_Protection_of_Transgender_Workers_in_China_page)
+    * 4 访问 [中国男女同性恋双性恋和跨性别群体的法律法律地位和法律状态](/学术文献/法律/中国男女同性恋双性恋和跨性别群体的法律法律地位和法律状态_page)
+    * 3 访问 [2019中研院法學期刊特刊_臺灣民主化後同志人權保障之變遷_官曉薇](/学术文献/法律/2019中研院法學期刊特刊_臺灣民主化後同志人權保障之變遷_官曉薇_page)
+    * 3 访问 [PDF_三個不利跨性身分的迷思_-_Dean_Spade](/学术文献/法律/PDF_三個不利跨性身分的迷思_-_Dean_Spade_page)
+    * 3 访问 [SILENT_CHANGES_TRANSSEXUALS'_-郭晓飞](/学术文献/法律/SILENT_CHANGES_TRANSSEXUALS'_-郭晓飞_page)
+    * 3 访问 [transgender_peoples_right_to_marry_in_vietnam_and_other](/学术文献/法律/transgender_peoples_right_to_marry_in_vietnam_and_other_page)
+    * 3 访问 [罪犯变性了怎么办_贾振华](/学术文献/法律/罪犯变性了怎么办_贾振华_page)
+    * 2 访问 [保障性少数群体平等就业权法律政策研究报告_刘明辉_2019.pdf](/学术文献/法律/保障性少数群体平等就业权法律政策研究报告_刘明辉_2019.pdf_page)
+
+
+
+</div>
+
 
 !!! note "自动生成说明"
     目录及摘要为自动生成，仅供索引和参考，请修改 .github/ 目录下的对应脚本、模板或对应文件以更正。

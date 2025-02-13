@@ -17,6 +17,7 @@ files:
   size: 4375384
   md5: 07b6a01be2109a56412e2dca2df9774a
   page: 2013年联合国人权事务高级专员报告-生而自由一律平等_page.md
+  visitors: 1
 - name: 2014年圭亚那普遍定期审议报告
   filename: 2014年圭亚那普遍定期审议报告.pdf
   type: document
@@ -24,6 +25,7 @@ files:
   size: 435605
   md5: efb2cf21270b4797e1fb987fd86d5ca3
   page: 2014年圭亚那普遍定期审议报告_page.md
+  visitors: 1
 - name: 2015年联合国人权理事会蒙古普遍定期审议报告
   filename: 2015年联合国人权理事会蒙古普遍定期审议报告.pdf
   type: document
@@ -73,6 +75,7 @@ files:
   size: 1449316
   md5: fc97fff69977ddae871b444232e87b4a
   page: 2017年南非人权理事会普遍定期审议报告_page.md
+  visitors: 1
 - name: 2017年联合国人权理事会第三十六届会议增编报告
   filename: 2017年联合国人权理事会第三十六届会议增编报告.pdf
   type: document
@@ -87,6 +90,7 @@ files:
   size: 304073
   md5: 1bd8cfcf179ced669d5832b2fc3c3837
   page: 2019_年社会概览_OECD经合组织社会指标_page.md
+  visitors: 3
 - name: 2022_世界艾滋病大会强调科学创新与合作吉利德为终结HIV_全球
   filename: 2022_世界艾滋病大会强调科学创新与合作吉利德为终结HIV_全球.pdf
   type: document
@@ -101,6 +105,7 @@ files:
   size: 1793597
   md5: e2dd09a24aadd299979461339905c64f
   page: 2023_联合国_LGBTI企业行为准则_page.md
+  visitors: 1
 - name: PDF_20112015_年世界卫生组织艾滋病毒战略草案
   filename: PDF_20112015_年世界卫生组织艾滋病毒战略草案.pdf
   type: document
@@ -115,6 +120,7 @@ files:
   size: 5891195
   md5: 49fed5b951456f329b8c2f5385e385ff
   page: PDF_BEING_LGBT_IN_ASIA_CHINA_COUNTRY_REPORT_-_亚洲同志项目_page.md
+  visitors: 6
 - name: PDF_LGBTI_包容指数拟议指标
   filename: PDF_LGBTI_包容指数拟议指标.pdf
   type: document
@@ -136,6 +142,7 @@ files:
   size: 3043590
   md5: 7958613d21381f63c0f505baa0572ed3
   page: PDF_促进LGBTI人权和包容_议员手册_page.md
+  visitors: 1
 - name: PDF_农村和城市活动家改变__女性__生活
   filename: PDF_农村和城市活动家改变__女性__生活.pdf
   type: document
@@ -150,6 +157,7 @@ files:
   size: 401491
   md5: e9cccef565af54b1f2dd0de5d989337d
   page: PDF_双性INTERSEX_-_ohchr_概况介绍_联合国_page.md
+  visitors: 3
 - name: PDF_双性INTERSEX_联合国
   filename: PDF_双性INTERSEX_联合国.pdf
   type: document
@@ -157,6 +165,7 @@ files:
   size: 268082
   md5: fee1e44736ab42a2a95282fc01fad71e
   page: PDF_双性INTERSEX_联合国_page.md
+  visitors: 2
 - name: PDF_国际不再恐同日_联合国教科文组织新闻稿
   filename: PDF_国际不再恐同日_联合国教科文组织新闻稿.pdf
   type: document
@@ -220,6 +229,7 @@ files:
   size: 7496454
   md5: bd7cedbbe37dab9cba1c501387366c0e
   page: PDF_联合国艾滋病防治重要政策文件汇编_page.md
+  visitors: 1
 - name: PDF_艾滋病预防路线图2025
   filename: PDF_艾滋病预防路线图2025.pdf
   type: document
@@ -248,6 +258,7 @@ files:
   size: 515034
   md5: caf9cca6159f3e3aee5dafa8e06bc2a2
   page: PDF_预防和解决与猴痘有关的污名和歧视的公共卫生指导建议_page.md
+  visitors: 1
 - name: TRANS_PEOPLE_AND_TRANS_COMMUNITIES_IN_ASIA
   filename: TRANS_PEOPLE_AND_TRANS_COMMUNITIES_IN_ASIA.pdf
   type: document
@@ -276,6 +287,7 @@ files:
   size: 1547451
   md5: 50b23a73cb867d608b52d26b0b0f7f95
   page: 中国性少数群体生存状况调查报告_2016_page.md
+  visitors: 1
 - name: 厄瓜多尔人权状况国家报告_2008
   filename: 厄瓜多尔人权状况国家报告_2008.pdf
   type: document
@@ -290,6 +302,7 @@ files:
   size: 2574613
   md5: 647a1b770c2bb6d5e3c65a1ac79db52c
   page: 国际劳工组织_跨性别者间性人和酷儿LGBTIQ融入劳动世界_page.md
+  visitors: 1
 - name: 土耳其人权状况报告_联合国人权理事会_2010年
   filename: 土耳其人权状况报告_联合国人权理事会_2010年.pdf
   type: document
@@ -388,6 +401,7 @@ files:
   size: 506352
   md5: 6632a0afdb542031b29ddd9136aac91a
   page: 联合国人权理事会普遍定期审议关于日本的报告_2017_page.md
+  visitors: 1
 - name: 联合国人权理事会毛里求斯第三十一届普遍定期审议报告
   filename: 联合国人权理事会毛里求斯第三十一届普遍定期审议报告.pdf
   type: document
@@ -416,6 +430,7 @@ files:
   size: 874769
   md5: 25f8e1b7ee8bc4ec46831a902daa0c14
   page: 联合国任意拘留问题工作组概况介绍_修订版_2024_page.md
+  visitors: 2
 - name: 联合国全球契约组织_加速前进_推进性别平等行动指南
   filename: 联合国全球契约组织_加速前进_推进性别平等行动指南.pdf
   type: document
@@ -423,6 +438,7 @@ files:
   size: 419794
   md5: 62433619a07a4b512d7ba920e2daacd2
   page: 联合国全球契约组织_加速前进_推进性别平等行动指南_page.md
+  visitors: 1
 - name: 联合国大会_性取向和性别认同而受歧视和暴力影响
   filename: 联合国大会_性取向和性别认同而受歧视和暴力影响.pdf
   type: document
@@ -465,6 +481,7 @@ files:
   size: 1443096
   md5: cca28f4ecb453e029bcf2bc83afe453d
   page: 联合国自由和平等_LGBTIQ+女性基本知识与现状报告_page.md
+  visitors: 1
 - name: 联合国自由和平等_LGBTIQ青少年_学校中的欺凌与暴力
   filename: 联合国自由和平等_LGBTIQ青少年_学校中的欺凌与暴力.pdf
   type: document
@@ -472,6 +489,7 @@ files:
   size: 1104889
   md5: 2b5c5af8dd38db6e42d045b8b0ab169f
   page: 联合国自由和平等_LGBTIQ青少年_学校中的欺凌与暴力_page.md
+  visitors: 1
 - name: 联合国自由和平等_跨性别者
   filename: 联合国自由和平等_跨性别者.pdf
   type: document
@@ -500,6 +518,7 @@ files:
   size: 1276057
   md5: 0b12d860fb2c5919f7f05ef34130a607
   page: 难民与庇护：LGBTIQ+身份面临的挑战与应对_page.md
+  visitors: 8
 - name: 面向性别不平等的举措全球城市将团结临时的翻译
   filename: 面向性别不平等的举措全球城市将团结临时的翻译.pdf
   type: document
@@ -507,4 +526,5 @@ files:
   size: 274192
   md5: 3b3d8432a32620cbad9ea20cbe359451
   page: 面向性别不平等的举措全球城市将团结临时的翻译_page.md
+  visitors: 1
 subdirs: []

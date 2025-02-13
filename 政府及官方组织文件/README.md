@@ -31,7 +31,7 @@ search:
 <tr data-name="中国大陆" data-count="42" data-date="0000-00-00">
                 <td><a href="中国大陆" class="md-button">中国大陆</a></td>
                 <td class="count-cell">42 篇</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>目录路径为“./政府及官方组织文件/中国...</summary>
                     <div class="description">
                         目录路径为“./政府及官方组织文件/中国大陆”的档案汇集了一系列与中国大陆的法律法规、政策规范和管理文件有关的内容。这些文件中涉及的主题多样，包括婚姻法在跨性别议题上的适用性、精神卫生管理规范、中国精神卫生法的具体内容、多学科诊疗共识及标准、中国大陆的精神障碍分类与诊断标准、以及公安机关在居民身份证与户籍管理中的操作规范。这些内容揭示了跨性别者在家庭和法律背景下遭遇的复杂挑战，也展示了中国在精神卫生、医疗管理和户籍政策方面的制度演变。一个重要的讨论点是跨性别者在面对婚姻法局限性的故事记录。一位女性发现丈夫未经同意进行了变性手术，引发了对婚姻关系法律地位的质疑，这反映了性别认同对婚姻制度的冲击和法律的局限性。另一份文件，则是公安部关于如何变更公民性别登记的文件，根据手术后的性别变更要求提供法律路径，标志着在中国大陆政策层面变性人的地位变迁。
@@ -43,7 +43,7 @@ search:
 <tr data-name="其他地区" data-count="23" data-date="0000-00-00">
                 <td><a href="其他地区" class="md-button">其他地区</a></td>
                 <td class="count-cell">23 篇</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该目录包含与跨性别政策和法律相关的政府及...</summary>
                     <div class="description">
                         该目录包含与跨性别政策和法律相关的政府及官方组织文件，旨在为跨性别者提供合法权益方面的指导和支持，特别是在其他地区的实施情况和伴侣制度的适用性。
@@ -54,7 +54,7 @@ search:
 <tr data-name="加拿大" data-count="9" data-date="0000-00-00">
                 <td><a href="加拿大" class="md-button">加拿大</a></td>
                 <td class="count-cell">9 篇</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本目录收录有关加拿大的政府及官方组织对跨...</summary>
                     <div class="description">
                         本目录收录有关加拿大的政府及官方组织对跨性别者的政策、法律及其相关文件，旨在提供关于跨性别者权益保障、健康医疗服务以及社会支持等方面的官方信息和资源。
@@ -65,7 +65,7 @@ search:
 <tr data-name="港澳台" data-count="21" data-date="0000-00-00">
                 <td><a href="港澳台" class="md-button">港澳台</a></td>
                 <td class="count-cell">21 篇</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>该目录收录了来自香港与多元性别相关的政府...</summary>
                     <div class="description">
                         该目录收录了来自香港与多元性别相关的政府及官方文件，其内容涉及跨性别者的权利、法律政策、医疗资源及社会环境记录。在《性别承认咨询文件》的意见书中，关注女性暴力协会提出性别承认应该是一项基本人权，强调跨性别者的选择权应当受到尊重，并详细讨论香港是否应设立性别承认制度。文中提到香港的性别问题并非二元对立，亟需关注性别少数群体的权利。该文件中提出的在法律上保护跨性别者的建议，强调应当设立新法规以确保其权利被充分保障，并提出了对性别认可的多样性的理解。
@@ -83,7 +83,7 @@ search:
 <tr data-name="美国" data-count="54" data-date="0000-00-00">
                 <td><a href="美国" class="md-button">美国</a></td>
                 <td class="count-cell">54 篇</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本目录收录了来自美国的政府及官方组织关于...</summary>
                     <div class="description">
                         本目录收录了来自美国的政府及官方组织关于跨性别相关政策和法律的文件，旨在提供对跨性别者权益和法律保护的官方信息和指南。
@@ -94,7 +94,7 @@ search:
 <tr data-name="联合国" data-count="71" data-date="0000-00-00">
                 <td><a href="联合国" class="md-button">联合国</a></td>
                 <td class="count-cell">71 篇</td>
-                <td class="description-cell"><details>
+                <td class="description-cell"><details markdown>
                     <summary>本目录收录了与联合国相关的官方文件，旨在...</summary>
                     <div class="description">
                         本目录收录了与联合国相关的官方文件，旨在提供跨性别人士在全球范围内受到的法律保护和人权关注的资讯。这些文件将有助于了解各国在跨性别相关议题上的政策和承诺。
@@ -104,11 +104,6 @@ search:
             </tr>
 </tbody>
 </table>
-
-
-## 📊 词云图 { data-search-exclude }
-
-![词云图](abstracts_wordcloud.png)
 
 
 <script>
@@ -186,6 +181,26 @@ function sortTable(th, isInitial = false) {
 
 </script>
  
+
+<div class="grid" markdown>
+
+=== "最多访问"
+
+    * 8 访问 [难民与庇护：LGBTIQ+身份面临的挑战与应对](/政府及官方组织文件/联合国/难民与庇护：LGBTIQ+身份面临的挑战与应对_page)
+    * 6 访问 [PDF_BEING_LGBT_IN_ASIA_CHINA_COUNTRY_REPORT_-_亚洲同志项目](/政府及官方组织文件/联合国/PDF_BEING_LGBT_IN_ASIA_CHINA_COUNTRY_REPORT_-_亚洲同志项目_page)
+    * 3 访问 [2019_年社会概览_OECD经合组织社会指标](/政府及官方组织文件/联合国/2019_年社会概览_OECD经合组织社会指标_page)
+    * 3 访问 [PDF_双性INTERSEX_-_ohchr_概况介绍_联合国](/政府及官方组织文件/联合国/PDF_双性INTERSEX_-_ohchr_概况介绍_联合国_page)
+    * 2 访问 [PDF_双性INTERSEX_联合国](/政府及官方组织文件/联合国/PDF_双性INTERSEX_联合国_page)
+    * 2 访问 [联合国任意拘留问题工作组概况介绍_修订版_2024](/政府及官方组织文件/联合国/联合国任意拘留问题工作组概况介绍_修订版_2024_page)
+    * 1 访问 [2013年联合国人权事务高级专员报告-生而自由一律平等](/政府及官方组织文件/联合国/2013年联合国人权事务高级专员报告-生而自由一律平等_page)
+    * 1 访问 [2014年圭亚那普遍定期审议报告](/政府及官方组织文件/联合国/2014年圭亚那普遍定期审议报告_page)
+    * 1 访问 [2017年南非人权理事会普遍定期审议报告](/政府及官方组织文件/联合国/2017年南非人权理事会普遍定期审议报告_page)
+    * 1 访问 [2023_联合国_LGBTI企业行为准则](/政府及官方组织文件/联合国/2023_联合国_LGBTI企业行为准则_page)
+
+
+
+</div>
+
 
 !!! note "自动生成说明"
     目录及摘要为自动生成，仅供索引和参考，请修改 .github/ 目录下的对应脚本、模板或对应文件以更正。
