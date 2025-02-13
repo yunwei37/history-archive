@@ -2,6 +2,8 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../相约自杀、囤积药物、计划搬家…川普胜选令LGBTQ+群体焦虑，担心权利被剥夺.pdf" download>相约自杀、囤积药物、计划搬家…川普胜选令LGBTQ+群体焦虑，担心权利被剥夺.pdf</a>
+
+
 <!-- tcd_download_link_end -->
 
 ## 摘要

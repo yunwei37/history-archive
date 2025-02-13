@@ -2,6 +2,8 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../加泰罗尼亚政府关于2024年国际LGBTI骄傲日的声明.pdf" download>加泰罗尼亚政府关于2024年国际LGBTI骄傲日的声明.pdf</a>
+
+
 <!-- tcd_download_link_end -->
 
 ## 摘要

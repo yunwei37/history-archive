@@ -2,6 +2,9 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../_其他__说好的论文，论变身小说的两种流派.txt" download>_其他__说好的论文，论变身小说的两种流派.txt</a>
+
+
+<a href="../_其他__说好的论文，论变身小说的两种流派.txt" download onclick="this.href='https://app.webnovel.win/?add='+encodeURIComponent(this.getAttribute('href'))">在线阅读 _其他__说好的论文，论变身小说的两种流派.txt</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

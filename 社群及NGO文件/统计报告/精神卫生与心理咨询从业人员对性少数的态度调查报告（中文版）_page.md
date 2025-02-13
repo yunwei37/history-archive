@@ -2,6 +2,8 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../精神卫生与心理咨询从业人员对性少数的态度调查报告（中文版）.pdf" download>精神卫生与心理咨询从业人员对性少数的态度调查报告（中文版）.pdf</a>
+
+
 <!-- tcd_download_link_end -->
 
 ## 摘要

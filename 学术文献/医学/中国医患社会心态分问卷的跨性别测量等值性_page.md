@@ -2,6 +2,8 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../中国医患社会心态分问卷的跨性别测量等值性.pdf" download>中国医患社会心态分问卷的跨性别测量等值性.pdf</a>
+
+
 <!-- tcd_download_link_end -->
 
 ## 摘要

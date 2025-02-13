@@ -2,6 +2,8 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../PDF_预防和解决与猴痘有关的污名和歧视的公共卫生指导建议.pdf" download>PDF_预防和解决与猴痘有关的污名和歧视的公共卫生指导建议.pdf</a>
+
+
 <!-- tcd_download_link_end -->
 
 ## 摘要

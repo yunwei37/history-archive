@@ -2,6 +2,9 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../变文研究.txt" download>变文研究.txt</a>
+
+
+<a href="../变文研究.txt" download onclick="this.href='https://app.webnovel.win/?add='+encodeURIComponent(this.getAttribute('href'))">在线阅读 变文研究.txt</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

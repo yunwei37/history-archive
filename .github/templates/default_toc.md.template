@@ -1,0 +1,15 @@
+---
+search:
+  exclude: true
+---
+
+# {{TITLE}}
+
+{{INFO_SECTION}}
+
+{{TAGS_SECTION}}
+
+{{TABLE_OF_CONTENTS}} 
+
+!!! note "自动生成说明"
+    目录及摘要为自动生成，仅供索引和参考，请修改 .github/ 目录下的对应脚本、模板或对应文件以更正。

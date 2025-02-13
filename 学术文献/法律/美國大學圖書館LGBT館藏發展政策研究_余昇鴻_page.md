@@ -2,6 +2,8 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../美國大學圖書館LGBT館藏發展政策研究_余昇鴻.pdf" download>美國大學圖書館LGBT館藏發展政策研究_余昇鴻.pdf</a>
+
+
 <!-- tcd_download_link_end -->
 
 ## 摘要

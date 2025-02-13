@@ -2,6 +2,8 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../年度无限酷儿时装秀创始人阿雅娜·雅尼·布鲁姆菲尔德访谈.pdf" download>年度无限酷儿时装秀创始人阿雅娜·雅尼·布鲁姆菲尔德访谈.pdf</a>
+
+
 <!-- tcd_download_link_end -->
 
 ## 摘要

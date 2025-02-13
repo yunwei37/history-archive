@@ -2,6 +2,9 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../个人前高经历.txt" download>个人前高经历.txt</a>
+
+
+<a href="../个人前高经历.txt" download onclick="this.href='https://app.webnovel.win/?add='+encodeURIComponent(this.getAttribute('href'))">在线阅读 个人前高经历.txt</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

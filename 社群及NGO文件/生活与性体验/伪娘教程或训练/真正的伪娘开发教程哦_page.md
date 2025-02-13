@@ -2,6 +2,9 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../真正的伪娘开发教程哦.txt" download>真正的伪娘开发教程哦.txt</a>
+
+
+<a href="../真正的伪娘开发教程哦.txt" download onclick="this.href='https://app.webnovel.win/?add='+encodeURIComponent(this.getAttribute('href'))">在线阅读 真正的伪娘开发教程哦.txt</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

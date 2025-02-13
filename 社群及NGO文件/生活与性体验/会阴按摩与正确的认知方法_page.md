@@ -2,6 +2,9 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../会阴按摩与正确的认知方法.txt" download>会阴按摩与正确的认知方法.txt</a>
+
+
+<a href="../会阴按摩与正确的认知方法.txt" download onclick="this.href='https://app.webnovel.win/?add='+encodeURIComponent(this.getAttribute('href'))">在线阅读 会阴按摩与正确的认知方法.txt</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

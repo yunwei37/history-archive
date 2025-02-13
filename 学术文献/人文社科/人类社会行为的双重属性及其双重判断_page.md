@@ -2,6 +2,8 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../人类社会行为的双重属性及其双重判断.pdf" download>人类社会行为的双重属性及其双重判断.pdf</a>
+
+
 <!-- tcd_download_link_end -->
 
 ## 摘要

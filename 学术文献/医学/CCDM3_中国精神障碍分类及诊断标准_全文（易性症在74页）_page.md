@@ -2,6 +2,8 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../CCDM3_中国精神障碍分类及诊断标准_全文（易性症在74页）.pdf" download>CCDM3_中国精神障碍分类及诊断标准_全文（易性症在74页）.pdf</a>
+
+
 <!-- tcd_download_link_end -->
 
 ## 摘要

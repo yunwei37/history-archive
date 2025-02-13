@@ -2,6 +2,9 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../从变装到变性_-_他（她）的真实自述.txt" download>从变装到变性_-_他（她）的真实自述.txt</a>
+
+
+<a href="../从变装到变性_-_他（她）的真实自述.txt" download onclick="this.href='https://app.webnovel.win/?add='+encodeURIComponent(this.getAttribute('href'))">在线阅读 从变装到变性_-_他（她）的真实自述.txt</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

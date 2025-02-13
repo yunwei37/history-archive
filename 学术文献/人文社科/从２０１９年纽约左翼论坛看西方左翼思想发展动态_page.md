@@ -2,6 +2,8 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../从２０１９年纽约左翼论坛看西方左翼思想发展动态.pdf" download>从２０１９年纽约左翼论坛看西方左翼思想发展动态.pdf</a>
+
+
 <!-- tcd_download_link_end -->
 
 ## 摘要

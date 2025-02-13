@@ -2,6 +2,8 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../Recommendations_for_Revision_of_the_DSM_Diagnoses_of_Gender_Identity_Disorders_Consensus_Statement_of_the_World_Professional_Association_for.pdf" download>Recommendations_for_Revision_of_the_DSM_Diagnoses_of_Gender_Identity_Disorders_Consensus_Statement_of_the_World_Professional_Association_for.pdf</a>
+
+
 <!-- tcd_download_link_end -->
 
 ## 摘要

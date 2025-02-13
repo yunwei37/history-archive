@@ -2,6 +2,8 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../PDF_BEING_LGBT_IN_ASIA_CHINA_COUNTRY_REPORT_-_亚洲同志项目.pdf" download>PDF_BEING_LGBT_IN_ASIA_CHINA_COUNTRY_REPORT_-_亚洲同志项目.pdf</a>
+
+
 <!-- tcd_download_link_end -->
 
 ## 摘要

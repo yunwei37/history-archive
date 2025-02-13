@@ -2,6 +2,8 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../致函于贵院，关于一位患者在贵院西城院区住院期间的举报_北京友谊医院.pdf" download>致函于贵院，关于一位患者在贵院西城院区住院期间的举报_北京友谊医院.pdf</a>
+
+
 <!-- tcd_download_link_end -->
 
 ## 摘要

@@ -2,6 +2,9 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../变性后欲望唤起.txt" download>变性后欲望唤起.txt</a>
+
+
+<a href="../变性后欲望唤起.txt" download onclick="this.href='https://app.webnovel.win/?add='+encodeURIComponent(this.getAttribute('href'))">在线阅读 变性后欲望唤起.txt</a>
 <!-- tcd_download_link_end -->
 
 ## 摘要

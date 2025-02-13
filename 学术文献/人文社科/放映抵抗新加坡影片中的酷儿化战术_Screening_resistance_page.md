@@ -2,6 +2,8 @@
 
 <!-- tcd_download_link -->
 下载: <a href="../放映抵抗新加坡影片中的酷儿化战术_Screening_resistance.pdf" download>放映抵抗新加坡影片中的酷儿化战术_Screening_resistance.pdf</a>
+
+
 <!-- tcd_download_link_end -->
 
 ## 摘要
