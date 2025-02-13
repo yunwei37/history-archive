@@ -3348,6 +3348,11 @@ Ryan博士以及她的研究团队，如Rafael Diaz博士和Jorge Sanchez，积�
 </table>
 
 
+## 📊 词云图 { data-search-exclude }
+
+![词云图](abstracts_wordcloud.png)
+
+
 <script>
 const sortFunctions = {
     year: (a, b, direction) => {

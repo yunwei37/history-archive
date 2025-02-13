@@ -110,6 +110,11 @@ Alternative name: 女装入门到精通
 </table>
 
 
+## 📊 词云图 { data-search-exclude }
+
+![词云图](abstracts_wordcloud.png)
+
+
 <script>
 const sortFunctions = {
     year: (a, b, direction) => {

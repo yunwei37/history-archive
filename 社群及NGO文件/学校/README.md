@@ -370,6 +370,11 @@ FAP海报的内容通过研究证实，有助于提升社会对同志群体的�
 </table>
 
 
+## 📊 词云图 { data-search-exclude }
+
+![词云图](abstracts_wordcloud.png)
+
+
 <script>
 const sortFunctions = {
     year: (a, b, direction) => {

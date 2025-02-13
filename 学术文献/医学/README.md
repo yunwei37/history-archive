@@ -2378,6 +2378,11 @@ UCSF环境调查不仅展现了校园对多元化和包容性发展的努力，�
 </table>
 
 
+## 📊 词云图 { data-search-exclude }
+
+![词云图](abstracts_wordcloud.png)
+
+
 <script>
 const sortFunctions = {
     year: (a, b, direction) => {

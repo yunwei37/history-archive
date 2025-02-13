@@ -335,6 +335,11 @@ search:
 </table>
 
 
+## 📊 词云图 { data-search-exclude }
+
+![词云图](abstracts_wordcloud.png)
+
+
 <script>
 const sortFunctions = {
     year: (a, b, direction) => {
