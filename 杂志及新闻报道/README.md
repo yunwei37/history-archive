@@ -32,7 +32,7 @@ search:
                 <td><a href="中国大陆" class="md-button">中国大陆</a></td>
                 <td class="count-cell">42 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>这一目录收录了来自中国大陆的杂志和新闻报...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         这一目录收录了来自中国大陆的杂志和新闻报道，涵盖了跨性别群体的各种生活与社会现象，提供了真实的视角和声音，展示了跨性别者在社会中所面临的挑战与成就。
                         <br>文件数量：42 篇
@@ -43,7 +43,7 @@ search:
                 <td><a href="海外" class="md-button">海外</a></td>
                 <td class="count-cell">6 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>此目录包含与跨性别相关的国际杂志和新闻报...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         此目录包含与跨性别相关的国际杂志和新闻报道，旨在分享海外跨性别群体的生活、挑战和成就。这些报道和文章提供了宝贵的视角，加深公众对跨性别议题的理解，促进社会包容。
                         <br>文件数量：6 篇
@@ -54,7 +54,7 @@ search:
                 <td><a href="港澳台" class="md-button">港澳台</a></td>
                 <td class="count-cell">11 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>本目录收录与港澳台地区相关的跨性别报道与...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         本目录收录与港澳台地区相关的跨性别报道与杂志内容，包括对跨性别者的生活、法律、医疗等多方面的报道，旨在宣传和提高社会对跨性别问题的认知与理解。
                         <br>文件数量：11 篇

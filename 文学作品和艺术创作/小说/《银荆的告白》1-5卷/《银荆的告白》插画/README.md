@@ -32,7 +32,7 @@ search:
                 <td><a href="第一卷" class="md-button">第一卷</a></td>
                 <td class="count-cell">18 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>这一目录包含了《银荆的告白》第一卷的插画...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         这一目录包含了《银荆的告白》第一卷的插画，这部作品通过生动的图像和故事情节，展现了跨性别群体的情感与生活体验。这些插画不仅丰富了小说的叙事，也为读者提供了深入理解角色内心世界的可能。
                         <br>文件数量：18 篇
@@ -43,7 +43,7 @@ search:
                 <td><a href="第三卷" class="md-button">第三卷</a></td>
                 <td class="count-cell">16 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>本目录收录了《银荆的告白》第三卷的插画作...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         本目录收录了《银荆的告白》第三卷的插画作品，展现了跨性别主题在文学艺术创作中的表达。插画作品通过艺术形式传递了生存体验与情感，鼓励公众对跨性别群体的理解与尊重。
                         <br>文件数量：16 篇
@@ -54,7 +54,7 @@ search:
                 <td><a href="第二卷" class="md-button">第二卷</a></td>
                 <td class="count-cell">18 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>这一目录包含了《银荆的告白》第二卷的插画...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         这一目录包含了《银荆的告白》第二卷的插画，展现了作品中的跨性别主题与艺术表现。
                         <br>文件数量：18 篇
@@ -65,7 +65,7 @@ search:
                 <td><a href="第五卷" class="md-button">第五卷</a></td>
                 <td class="count-cell">13 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>此目录包含《银荆的告白》第五卷的插画，展...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         此目录包含《银荆的告白》第五卷的插画，展现了小说中的角色与情节，强调了跨性别主题的艺术表现和文学创作。
                         <br>文件数量：13 篇
@@ -76,7 +76,7 @@ search:
                 <td><a href="第四卷" class="md-button">第四卷</a></td>
                 <td class="count-cell">15 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>本目录收录了《银荆的告白》第四卷的插画作...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         本目录收录了《银荆的告白》第四卷的插画作品，展示了跨性别主题下的文学艺术创作，体现了跨性别群体的情感与身份探索。
                         <br>文件数量：15 篇

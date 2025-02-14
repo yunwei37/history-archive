@@ -6,7 +6,9 @@
 
 互联网没有记忆，但人和 AI 有。
 
-搜索与更多内容，请访问 [图书馆主页](https://transchinese.org) { .md-button .md-button--primary }
+搜索与更多内容，请访问 
+
+[图书馆主页](https://transchinese.org){ .md-button .md-button--primary }
 
 ---
 
@@ -33,7 +35,7 @@
                 <td><a href="学术文献" class="md-button">学术文献</a></td>
                 <td class="count-cell">418 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>此目录包含关于跨性别议题的学术文献，包括...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         此目录包含关于跨性别议题的学术文献，包括人文、医学、法律和社会科学领域的研究和资料，包括但不限于发表于学术期刊的论文和由大学附属出版社出版的学术书籍。采用近似于学术写作的风格创作、发布于某些期刊杂志，但不确定是否为「学术」文献的，放置于「杂志及新闻报道」分类。
                         <br>文件数量：418 篇
@@ -44,7 +46,7 @@
                 <td><a href="政府及官方组织文件" class="md-button">政府及官方组织文件</a></td>
                 <td class="count-cell">220 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>本目录收录了与跨性别相关的政府及官方组织...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         本目录收录了与跨性别相关的政府及官方组织文件，包括中国大陆、加拿大、港澳台、美国以及联合国等地区和组织的相关政策和文件。「官方组织」指拥有接近「政府」地位和影响力，但不属于「政府」的国际性组织，在本版块中只指代联合国及其下属机构。这些资料为跨性别群体提供了法律政策、社会环境的背景信息，帮助人们理解不同地区的现状和对跨性别者的支持程度。
                         <br>文件数量：220 篇
@@ -55,7 +57,7 @@
                 <td><a href="文学作品和艺术创作" class="md-button">文学作品和艺术创作</a></td>
                 <td class="count-cell">193 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>本部分收录一切形式的跨儿文学艺术创作。无...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         本部分收录一切形式的跨儿文学艺术创作。无论是发布于互联网某个阴暗角落的「变性人」自传，还是形式晦涩、发人深省的诗歌电影，均可收录在本版块。，涵盖了多种形式的表达，包括小说、漫画、纪实作品、自传和诗歌等。
                         <br>文件数量：193 篇
@@ -66,7 +68,7 @@
                 <td><a href="杂志及新闻报道" class="md-button">杂志及新闻报道</a></td>
                 <td class="count-cell">59 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>本目录包含关于中国大陆、海外及港澳台地区...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         本目录包含关于中国大陆、海外及港澳台地区的跨性别相关杂志与新闻报道，二级分类按照发布的报纸杂志所在地区区分。旨在汇集各地对跨性别话题的不同视角与声音，提供相关信息和资源。此处主要收集传统媒体以及 PDF 文档或图片形式的新闻报道，例如杂志、剪报等。网页新闻报道请访问 <https://news.transchinese.org>，包含数千个相关网页。
                         <br>文件数量：59 篇
@@ -77,7 +79,7 @@
                 <td><a href="社群及NGO文件" class="md-button">社群及NGO文件</a></td>
                 <td class="count-cell">481 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>本部分可收录的内容较为广泛。无论是如北京...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         本部分可收录的内容较为广泛。无论是如北京同志中心、同语这样的 NGO 出具的调查报告、教程指南，还是跨儿社群某论坛上由志愿者写作的 HRT 指南、出柜指南等，甚至是「女装」或自我探索类教程，均可收录在本版块内。这一目录也包括各类医疗体系、学校和社群的相关资料。这些信息有助于了解支持跨性别人士的组织资源及环境。
                         <br>文件数量：481 篇

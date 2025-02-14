@@ -32,7 +32,7 @@ search:
                 <td><a href="女の子の声になろう!" class="md-button">女の子の声になろう!</a></td>
                 <td class="count-cell">11 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>该目录包含与变声训练相关的资源，旨在帮助...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         该目录包含与变声训练相关的资源，旨在帮助跨性别女性在声音转变过程中获得技巧和指导。内容涵盖声音改造的各个步骤，包括地声和裏声的训练，适合希望提升声音女性化的个体。
                         <br>文件数量：11 篇

@@ -32,7 +32,7 @@ search:
                 <td><a href="其他组织文件" class="md-button">其他组织文件</a></td>
                 <td class="count-cell">39 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>这一目录包含关于跨性别群体的统计报告和资...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         这一目录包含关于跨性别群体的统计报告和资料指南，旨在提供有效的资源和数据支持，帮助人们更好地理解和关注跨性别群体的需求与现状。
                         <br>文件数量：39 篇
@@ -43,7 +43,7 @@ search:
                 <td><a href="医院和医疗体系" class="md-button">医院和医疗体系</a></td>
                 <td class="count-cell">64 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>此目录收录了与跨性别相关的医院及医疗体系...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         此目录收录了与跨性别相关的医院及医疗体系信息，例如医疗资源、医院政策及医疗经验分享等。这些资料可帮助跨性别者了解医疗服务的可获得性和具体体验。
                         <br>文件数量：64 篇
@@ -54,7 +54,7 @@ search:
                 <td><a href="学校" class="md-button">学校</a></td>
                 <td class="count-cell">27 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>该目录包含与学校及教育相关的跨性别社群和...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         该目录包含与学校及教育相关的跨性别社群和非政府组织的文件。这些文件可能涵盖学校内的支持资源、跨性别学生的权益保护信息、教育政策的变革等内容，以推动对跨性别群体的理解和接纳。
                         <br>文件数量：27 篇
@@ -65,7 +65,7 @@ search:
                 <td><a href="手册指南" class="md-button">手册指南</a></td>
                 <td class="count-cell">58 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>该目录下收录的资料主要是关于跨性别医疗照...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         该目录下收录的资料主要是关于跨性别医疗照护、法律政策和社会环境的内容，致力于为跨性别群体提供实用信息与支持。，《2022版跨性别医疗照护手册》是一份综合性的指南，为跨性别个体在医疗体系中的经历提供了详细的理解，并涵盖激素治疗、手术选择及法律权益等方面的重要信息。手册通过多位跨性别人士的真实故事，揭示了他们可能面临的现实挑战，借此希望提高医疗界的敏感性和包容性。该手册汇集了多个医疗资源链接，帮助跨性别个体更好地获得所需的支持与服务。
 
@@ -82,7 +82,7 @@ search:
                 <td><a href="生活与性体验" class="md-button">生活与性体验</a></td>
                 <td class="count-cell">192 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>该目录包含关于生活与性体验的多个文件，旨...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         该目录包含关于生活与性体验的多个文件，旨在为跨性别者提供实用的知识与技能，促进性健康与身体认知。文件内容涵盖了肌肉控制、性愉悦技巧、身体认知、心理适应等方面。具体来说，包括PC肌的收缩分解、如何进行会阴按摩、乳首的开发技巧以及伪声与伪娘训练的方法。这些内容不仅帮助跨性别者了解和掌控自己的身体，还提供了一系列实践指导，旨在支持他们的生活质量与性体验。其中还涉及如何理解和参与性愉悦的多样性实践，秉持对个人身体和性别身份的尊重与认同。
                         <br>文件数量：192 篇
@@ -93,7 +93,7 @@ search:
                 <td><a href="社群讨论" class="md-button">社群讨论</a></td>
                 <td class="count-cell">50 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>该目录包含了与跨性别社群相关的组织和非政...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         该目录包含了与跨性别社群相关的组织和非政府组织（NGO）的信息，包括中国大陆及海外的社群动态和资源。
                         <br>文件数量：50 篇
@@ -104,7 +104,7 @@ search:
                 <td><a href="统计报告" class="md-button">统计报告</a></td>
                 <td class="count-cell">51 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>本目录包含关于跨性别群体及多元性别相关统...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         本目录包含关于跨性别群体及多元性别相关统计报告和研究的文件，旨在提供深入分析和数据支持，以帮助了解跨性别及多元性别者在各种社会环境下的生活和面临的挑战。，《2012年父母对跨性别青少年的支持影响报告》探讨了家庭支持如何影响跨性别青少年的心理健康和生活满意度，强调了接纳对青少年情绪与社会适应的重要性。《2013年扭转治疗调查报告》深入分析了扭转治疗对同志群体的心理社会影响，强调这种治疗的无效性和潜在危害，引发对该治疗必要性的质疑。《2015年亚太催化剂-北京上海跨性别女性性工作者生活状况调查》和《2016年愛滋病預防項目指標調查報告-男跨女跨性别人士》则着重揭示了跨性别性工作者和男跨女跨性别者面对的法律、医疗和社会支持挑战，尤其在健康服务和生活条件方面的困境。《2017年中国跨性别人口综合调查报告》则是全国性统计调查，旨在通过数据分析促进针对跨性别者权利的社会认识与政策倡导。接下来的报告如《2020年跨性别就业与职场调查报告》和《2021全国跨性别健康调研报告》，聚焦于跨性别者在职场以及健康方面的状况，揭示了就业歧视和医疗服务不足的问题，从而为更包容的社会政策提供建议。《2023年行政院多元性别生活状况调查研究报告》分析了多元性别群体在台湾的生活现状，强调了社会支持的重要性以及对歧视的应对机制。《我想保留天生的模样_美国双性儿童遭受的非医疗必要手术》和《跨性别人士在保安部门遇到的性骚扰》强调了特定人群（如双性儿童和跨性别者）在社会与法律环境中的特定挑战，提出了对改善政策和社会认知的需求。这些报告对理解跨性别与多元性别群体的现状至关重要。
                         <br>文件数量：51 篇

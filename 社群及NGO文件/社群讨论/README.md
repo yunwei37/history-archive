@@ -53,7 +53,7 @@ search:
                 <td><a href="Limelights社区" class="md-button">Limelights社区</a></td>
                 <td class="count-cell">12 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>Limelights社区是一个以跨性别者...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         Limelights社区是一个以跨性别者及多元性别群体为核心的在线社群，在这一目录下，记录了多个关于社群内部事务的讨论和故事，这些文档反映了社区在发展过程中的各种挑战和成长：
 
@@ -70,7 +70,7 @@ search:
                 <td><a href="中国大陆" class="md-button">中国大陆</a></td>
                 <td class="count-cell">34 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>这一目录包含了有关中国大陆的跨性别社群及...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         这一目录包含了有关中国大陆的跨性别社群及非政府组织（NGO）的信息和资源，旨在为跨性别者提供一个互助与支持的平台。
                         <br>文件数量：34 篇
@@ -81,7 +81,7 @@ search:
                 <td><a href="海外" class="md-button">海外</a></td>
                 <td class="count-cell">1 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>该目录包含海外跨性别社群与非政府组织（N...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         该目录包含海外跨性别社群与非政府组织（NGO）的相关文件和信息，旨在介绍和记录这些社群如何支持跨性别人士及其所面临的挑战与机遇。
                         <br>文件数量：1 篇
@@ -92,7 +92,7 @@ search:
                 <td><a href="港澳台" class="md-button">港澳台</a></td>
                 <td class="count-cell">2 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>该目录收录有关港澳台地区跨性别社群及非政...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         该目录收录有关港澳台地区跨性别社群及非政府组织的信息和资源，旨在为研究和了解这一人群的现状和需求提供支持。
                         <br>文件数量：2 篇

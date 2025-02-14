@@ -32,7 +32,7 @@ search:
                 <td><a href="变成女孩子声音（汉化文本）_page" class="md-button">变成女孩子声音（汉化文本）</a></td>
                 <td class="year-cell">None</td>
                 <td class="description-cell"><details markdown>
-                    <summary>本文件是关于如何变得更像女性的声音训练手...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         本文件是关于如何变得更像女性的声音训练手册，涵盖了多种阶段性练习的方法和技巧，旨在帮助跨性别女性在声音上实现更好的过渡。文件的内容从基础的练习程序开始，包括地声和里声的基础发声，逐步过渡到更复杂的技巧，如声音的混音、创造特定类型的女声，甚至包括颤音与汉声的练习。每个阶段都有具体的操作步骤、注意事项和练习建议，强调发声技巧的正确性和安全性。
 
@@ -61,7 +61,7 @@ search:
                 <td><a href="《女の子の声になろう!》CD" class="md-button">《女の子の声になろう!》CD</a></td>
                 <td class="count-cell">11 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>这是一个介绍如何通过声音训练变成女孩子声...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         这是一个介绍如何通过声音训练变成女孩子声音的音频资料，包含了一张名为《女の子の声になろう!》的CD，主要针对希望在声音上进行过渡的跨性别者，提供相关的练习和指导。
                         <br>文件数量：11 篇
@@ -72,7 +72,7 @@ search:
                 <td><a href="女の子の声になろう!" class="md-button">女の子の声になろう!</a></td>
                 <td class="count-cell">66 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>本目录收录了关于跨性别者声音转变的资源，...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         本目录收录了关于跨性别者声音转变的资源，尤其是提升女性化声音的技巧与经验分享。这些文件包括各种阶段的声音练习和技巧，以帮助跨性别女性实现声音上的过渡。
                         <br>文件数量：66 篇

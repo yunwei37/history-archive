@@ -32,7 +32,7 @@ search:
                 <td><a href="其他" class="md-button">其他</a></td>
                 <td class="count-cell">8 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>该目录收录了一系列与多元性别相关的文学作...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         该目录收录了一系列与多元性别相关的文学作品和艺术创作，旨在展现酷儿文化和跨性别议题在当代艺术中的重要性。目录中的作品涵盖了多个方面，包括2024年威尼斯双年展上素人艺术家的展评，此展评关注了未经主流认可的艺术创作，探索了身份和表现的多重性。吴曾的《镜头切开身份》作品也在其中，深入剖析了艺术创作如何与酷儿文化交织，提出了对身份认同和表达的反思。报告涉及的巴特勒作品集则引发对性别和权力关系的深刻探讨，鼓励观众在艺术中寻找自我认知。海伦·马尔滕与亚力汉德罗·西塞科的作品，通过艺术介入的方式揭示了社会问题的复杂性，展示了艺术在推动社会变革中的力量。总之，该目录不仅仅是艺术作品的合集，也是对多元性别现象的深刻洞察与探索。
                         <br>文件数量：8 篇
@@ -43,7 +43,7 @@ search:
                 <td><a href="图像" class="md-button">图像</a></td>
                 <td class="count-cell">2 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>该目录收录了与跨性别主题相关的摄影、绘画...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         该目录收录了与跨性别主题相关的摄影、绘画等图片作品。
                         <br>文件数量：2 篇
@@ -54,7 +54,7 @@ search:
                 <td><a href="小说" class="md-button">小说</a></td>
                 <td class="count-cell">96 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>本目录收录与跨性别相关的小说作品，涵盖了...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         本目录收录与跨性别相关的小说作品，涵盖了跨性别者的生活经历、情感纠葛及自我认同等主题。作品通过文学的方式，表达了跨性别者的独特声音与故事，旨在提高社会对这一群体的理解与关注。注：本目录收录的文档仅为部分小说以及评论，更多请访问 性转小说档案 <https://novel.transchinese.org/>、 <https://xnovel.transchinese.org/> 和 <https://unovel.transchinese.org/> 获取。
                         <br>文件数量：96 篇
@@ -65,7 +65,7 @@ search:
                 <td><a href="纪实作品" class="md-button">纪实作品</a></td>
                 <td class="count-cell">24 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>该目录收录与跨性别相关的纪实作品，展现跨...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         该目录收录与跨性别相关的纪实作品，展现跨性别者的真实生活与经历。这些作品不仅反映了个人故事，还呈现了对于社会现象的深刻洞察，包括对身份认同、过渡过程及社会接受度等话题的探索。
                         <br>文件数量：24 篇
@@ -76,7 +76,7 @@ search:
                 <td><a href="自传" class="md-button">自传</a></td>
                 <td class="count-cell">55 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>该目录收录与跨性别相关的自传性文学作品，...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         该目录收录与跨性别相关的自传性文学作品，展示跨性别者的生命故事与过渡经历。自传不仅反映个人的成长与探索，还记录了在社会环境中的真实挑战与心路历程，具有重要的文学价值和社会意义。
                         <br>文件数量：55 篇
@@ -87,7 +87,7 @@ search:
                 <td><a href="诗歌" class="md-button">诗歌</a></td>
                 <td class="count-cell">3 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>本目录收录与跨性别主题相关的诗歌作品，旨...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         本目录收录与跨性别主题相关的诗歌作品，旨在通过文学的方式表达跨性别人群的内心世界与情感历程。这些作品反映了跨性别个体在社会、文化背景下的经历和感受，展示了多样的艺术表现形式。
                         <br>文件数量：3 篇
@@ -98,7 +98,7 @@ search:
                 <td><a href="音频影像" class="md-button">音频影像</a></td>
                 <td class="count-cell">5 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>本目录收录了与跨性别相关的音频影像作品，...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         本目录收录了与跨性别相关的音频影像作品，包括艺术中心与国际美术馆合作的项目。这些作品展示了跨性别艺术家的创作，反映了其独特的视角和经历。
                         <br>文件数量：5 篇

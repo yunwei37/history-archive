@@ -32,7 +32,7 @@ search:
                 <td><a href="银荆的告白_全卷_page" class="md-button">银荆的告白_全卷</a></td>
                 <td class="year-cell">None</td>
                 <td class="description-cell"><details markdown>
-                    <summary>本文件是《银荆的告白》的第一到第五卷的完...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         本文件是《银荆的告白》的第一到第五卷的完整文本，讲述了一位名叫槻木汐的高中生的成长故事。故事围绕汐的生活与内心挣扎展开，特别是在性别认同方面所面临的挑战和变化。汐在学校里是一位备受欢迎的学生，但在与同学们的相处中，背负着无法展现真实自我的重担。随着汐决定以女性身份生活，教室里的气氛变得复杂，许多同学的反应生动地展现了他们对这一变化的困惑与接受。汐在这段旅程中也重新审视了与青梅竹马纸木的关系，并在友谊与爱情的边界上掙扎。通过汐的视角，读者能够窥见年轻人在寻求自我认同时所经历的痛苦与探索。
                         <br>年份：None
@@ -95,7 +95,7 @@ search:
                 <td><a href="《银荆的告白》插画" class="md-button">《银荆的告白》插画</a></td>
                 <td class="count-cell">80 篇</td>
                 <td class="description-cell"><details markdown>
-                    <summary>本目录包含《银荆的告白》系列插画，展示了...</summary>
+                    <summary>展开</summary>
                     <div class="description">
                         本目录包含《银荆的告白》系列插画，展示了跨性别主题下的文学创作与艺术表现。该系列小说通过生动的插图补充了故事内容，增强了读者对角色与情节的理解。
                         <br>文件数量：80 篇
