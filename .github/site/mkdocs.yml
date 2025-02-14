@@ -19,7 +19,7 @@ theme:
     - navigation.instant.progress
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.expand
+    - navigation.prune
     - navigation.path
     - navigation.top
     - content.tabs.link
