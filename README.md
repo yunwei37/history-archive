@@ -6,9 +6,7 @@
 
 互联网没有记忆，但人和 AI 有。
 
-搜索与更多内容，请访问 
-
-[图书馆主页](https://transchinese.org){ .md-button .md-button--primary }
+搜索与更多内容，请访问 [图书馆主页](https://transchinese.org) { .md-button .md-button--primary }
 
 ---
 
