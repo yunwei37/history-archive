@@ -212,6 +212,17 @@ function sortTable(th, isInitial = false) {
 
 ---
 
+## 相关网站导航
+
+- [变身文学与性转小说档案馆 1](https://novel.transchinese.org)（剧情向，非限制级）
+- [变身文学与性转小说档案馆 2](https://xnovel.transchinese.org)（本馆，变嫁或变百主题）
+- [变身文学与性转小说档案馆 3](https://unovel.transchinese.org)（逐步更新）
+- [成人性转小说档案](https://snovel.cdtsf.com)
+- [跨性别与多元性别新闻档案](https://news.transchinese.org)
+- [性转相关漫画档案](https://comic.transchinese.org)
+
+---
+
 ## 如何提交内容？
 
 1. **GitHub Pull Request** 在 [GitHub 仓库](https://github.com/cdtsf-library) 上直接上传文件，并将内容放至对应目录，所有目录与信息会自动更新。  
