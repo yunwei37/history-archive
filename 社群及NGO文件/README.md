@@ -14,7 +14,7 @@ search:
 
 !!! note "📊 统计信息"
 
-    总计内容：481 篇
+    总计内容：482 篇
     标签：`跨性别` `社群` `NGO` `医疗资源` `教育` `组织`
 
 
@@ -28,14 +28,14 @@ search:
 <th style="width: 50%">简介</th>
 </tr></thead>
 <tbody>
-<tr data-name="其他组织文件" data-count="39" data-date="0000-00-00">
+<tr data-name="其他组织文件" data-count="40" data-date="0000-00-00">
                 <td><a href="其他组织文件" class="md-button">其他组织文件</a></td>
-                <td class="count-cell">39 篇</td>
+                <td class="count-cell">40 篇</td>
                 <td class="description-cell"><details markdown>
                     <summary>展开</summary>
                     <div class="description">
                         这一目录包含关于跨性别群体的统计报告和资料指南，旨在提供有效的资源和数据支持，帮助人们更好地理解和关注跨性别群体的需求与现状。
-                        <br>文件数量：39 篇
+                        <br>文件数量：40 篇
                     </div>
                 </details></td>
             </tr>

@@ -17,7 +17,7 @@
 
 !!! note "📊 统计信息"
 
-    总计内容：5255 篇
+    总计内容：5256 篇
     标签：`学术文献` `跨性别` `多元性别` `文学艺术` `社会政策` `数据统计` `公共资源` `社区支持`
 
 
@@ -75,14 +75,14 @@
                     </div>
                 </details></td>
             </tr>
-<tr data-name="社群及NGO文件" data-count="481" data-date="0000-00-00">
+<tr data-name="社群及NGO文件" data-count="482" data-date="0000-00-00">
                 <td><a href="社群及NGO文件" class="md-button">社群及NGO文件</a></td>
-                <td class="count-cell">481 篇</td>
+                <td class="count-cell">482 篇</td>
                 <td class="description-cell"><details markdown>
                     <summary>展开</summary>
                     <div class="description">
                         本部分可收录的内容较为广泛。无论是如北京同志中心、同语这样的 NGO 出具的调查报告、教程指南，还是跨儿社群某论坛上由志愿者写作的 HRT 指南、出柜指南等，甚至是「女装」或自我探索类教程，均可收录在本版块内。这一目录也包括各类医疗体系、学校和社群的相关资料。这些信息有助于了解支持跨性别人士的组织资源及环境。
-                        <br>文件数量：481 篇
+                        <br>文件数量：482 篇
                     </div>
                 </details></td>
             </tr>

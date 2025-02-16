@@ -224,6 +224,13 @@ files:
   md5: 7c786689aac42bfe912165d5491556bd
   page: 我骄傲我奉献真色彩_麦肯锡_page.md
   visitors: 1
+- name: 戒网瘾学校关联机构名单
+  filename: 戒网瘾学校关联机构名单.docx
+  type: document
+  format: Microsoft Word Document (OpenXML)
+  size: 58946
+  md5: cc84a2b79cc32f425bbe0a0d07783168
+  page: 戒网瘾学校关联机构名单_page.md
 - name: 种族平等和多元化声明
   filename: 种族平等和多元化声明.pdf
   type: document
