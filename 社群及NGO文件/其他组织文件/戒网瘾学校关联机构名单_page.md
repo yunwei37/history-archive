@@ -1,7 +1,9 @@
 # 戒网瘾学校关联机构名单
 
 <!-- tcd_download_link -->
-下载: [戒网瘾学校关联机构名单.docx](戒网瘾学校关联机构名单.docx)
+下载: <a href="../戒网瘾学校关联机构名单.docx" download>戒网瘾学校关联机构名单.docx</a>
+
+
 <!-- tcd_download_link_end -->
 
 ## 摘要
