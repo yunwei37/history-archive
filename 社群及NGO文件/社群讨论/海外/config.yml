@@ -1,0 +1,21 @@
+name: 海外
+description: 该目录包含海外跨性别社群与非政府组织（NGO）的相关文件和信息，旨在介绍和记录这些社群如何支持跨性别人士及其所面临的挑战与机遇。
+curator: ''
+source: ''
+tags:
+- 跨性别
+- 社群
+- 非政府组织
+- 海外
+- 支持与资源
+license: ''
+files:
+- name: 幼兒成長發育_性別認同
+  filename: 幼兒成長發育_性別認同.pdf
+  type: document
+  format: PDF Document
+  size: 2078952
+  md5: 9f9d88f7a43b691131318e873ed557a4
+  page: 幼兒成長發育_性別認同_page.md
+  visitors: 42
+subdirs: []

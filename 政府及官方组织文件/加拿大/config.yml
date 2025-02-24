@@ -1,0 +1,79 @@
+name: 加拿大
+description: 本目录收录有关加拿大的政府及官方组织对跨性别者的政策、法律及其相关文件，旨在提供关于跨性别者权益保障、健康医疗服务以及社会支持等方面的官方信息和资源。
+curator: ''
+source: ''
+tags:
+- 加拿大
+- 政府文件
+- 法律政策
+- 跨性别
+- 官方组织
+- 权益保障
+license: ''
+files:
+- name: PDF_心理健康及福祉资源和支持_-_Govbcca
+  filename: PDF_心理健康及福祉资源和支持_-_Govbcca.pdf
+  type: document
+  format: PDF Document
+  size: 7020137
+  md5: 41435bbb987ad84e9907faaf74145bc7
+  page: PDF_心理健康及福祉资源和支持_-_Govbcca_page.md
+- name: PDF_性取向和性别认同SOGI_事实是什么_-_Govbcca
+  filename: PDF_性取向和性别认同SOGI_事实是什么_-_Govbcca.pdf
+  type: document
+  format: PDF Document
+  size: 423216
+  md5: 7cf1531aed2e91709dc6c1ee4c31da71
+  page: PDF_性取向和性别认同SOGI_事实是什么_-_Govbcca_page.md
+- name: PDF_透过联邦临时医疗保险项目Interim_-_Trans_Care_BC
+  filename: PDF_透过联邦临时医疗保险项目Interim_-_Trans_Care_BC.pdf
+  type: document
+  format: PDF Document
+  size: 632103
+  md5: 94fac8388e484eb5688b5e68b8a95204
+  page: PDF_透过联邦临时医疗保险项目Interim_-_Trans_Care_BC_page.md
+- name: 不列颠哥伦比亚省跨性别护理提供的服务
+  filename: 不列颠哥伦比亚省跨性别护理提供的服务.pdf
+  type: document
+  format: PDF Document
+  size: 1267328
+  md5: 2dea442d250d74a1cb9434cee9a1e9cb
+  page: 不列颠哥伦比亚省跨性别护理提供的服务_page.md
+- name: 卑诗公园局包容性承诺报告
+  filename: 卑诗公园局包容性承诺报告.pdf
+  type: document
+  format: PDF Document
+  size: 653489
+  md5: 63056f1c09a7f9fbf0c820e6faeeae3f
+  page: 卑诗公园局包容性承诺报告_page.md
+- name: 年长妇女生活改善策略报告_2017
+  filename: 年长妇女生活改善策略报告_2017.pdf
+  type: document
+  format: PDF Document
+  size: 318428
+  md5: e80866ba41f7db992000c019040dd515
+  page: 年长妇女生活改善策略报告_2017_page.md
+- name: 性别变异和跨性别青少年父母和家人的疑问解答_-_VSB_BLOGS
+  filename: 性别变异和跨性别青少年父母和家人的疑问解答_-_VSB_BLOGS.pdf
+  type: document
+  format: PDF Document
+  size: 2468964
+  md5: ef1f971d230639815807e2a5f9bf9504
+  page: 性别变异和跨性别青少年父母和家人的疑问解答_-_VSB_BLOGS_page.md
+- name: 术语表_–_性取向、性别认同与表达以及性别特征
+  filename: 术语表_–_性取向、性别认同与表达以及性别特征.pdf
+  type: document
+  format: PDF Document
+  size: 343350
+  md5: 15318a93152c43d0aa5064cfdcb01377
+  page: 术语表_–_性取向、性别认同与表达以及性别特征_page.md
+  visitors: 3
+- name: 温哥华跨性别政策反思报告
+  filename: 温哥华跨性别政策反思报告.pdf
+  type: document
+  format: PDF Document
+  size: 482880
+  md5: 282280739c3dc458907acc51fa6c8a68
+  page: 温哥华跨性别政策反思报告_page.md
+  visitors: 1
+subdirs: []

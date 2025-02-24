@@ -1,0 +1,42 @@
+name: 雌二醇凝胶自制方法
+description: 本目录提供了雌二醇凝胶的自制方法，帮助跨性别者获取激素治疗的知识与资源，促进自我过渡。
+curator: ''
+source: ''
+tags:
+- 激素治疗
+- 跨性别护理
+- 自制药物
+- 雌二醇凝胶
+- 健康资源
+license: ''
+files:
+- name: COA
+  filename: COA.webp
+  type: image
+  format: WebP Image
+  size: 59502
+  md5: 5f49b9dbdd963213f0e9e64ef35560c2
+  page: COA.webp
+- name: 溶解完成
+  filename: 溶解完成.jpg
+  type: image
+  format: JPEG Image
+  size: 3358028
+  md5: 8d7fcdc8d1b7493fcb982cfb32bab0ac
+  page: 溶解完成.jpg
+- name: 溶解完成带灯光
+  filename: 溶解完成带灯光.jpg
+  type: image
+  format: JPEG Image
+  size: 4070823
+  md5: 5364bb5cf32b287e85ee477f2ca29f87
+  page: 溶解完成带灯光.jpg
+- name: 雌二醇凝胶自制方法
+  filename: 雌二醇凝胶自制方法.md
+  type: webpage
+  format: Markdown
+  size: 13057
+  md5: 8924c20ba078bddef3eb25d3756166e3
+  page: 雌二醇凝胶自制方法.md
+  visitors: 166
+subdirs: []

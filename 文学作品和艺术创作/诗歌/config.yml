@@ -1,0 +1,37 @@
+name: 诗歌
+description: 本目录收录与跨性别主题相关的诗歌作品，旨在通过文学的方式表达跨性别人群的内心世界与情感历程。这些作品反映了跨性别个体在社会、文化背景下的经历和感受，展示了多样的艺术表现形式。
+curator: ''
+source: ''
+tags:
+- 文学
+- 艺术
+- 诗歌
+- 跨性别
+- 情感表达
+license: ''
+files:
+- name: 2024年8月田小野文集
+  filename: 2024年8月田小野文集.pdf
+  type: document
+  format: PDF Document
+  size: 14513526
+  md5: fe2f4b3b9a91c34d791f463bcf623f83
+  page: 2024年8月田小野文集_page.md
+  visitors: 10
+- name: PDF_T婆的跨性別藍調詩
+  filename: PDF_T婆的跨性別藍調詩.pdf
+  type: document
+  format: PDF Document
+  size: 2706557
+  md5: a6a7d1a551609aec9990ebea52ee9a09
+  page: PDF_T婆的跨性別藍調詩_page.md
+  visitors: 13
+- name: 陶宗旺_文坛奇兵_先锋诗人_创建年份
+  filename: 陶宗旺_文坛奇兵_先锋诗人_创建年份.pdf
+  type: document
+  format: PDF Document
+  size: 3557785
+  md5: faa58cf94ff643cc50fffa1c63c9798f
+  page: 陶宗旺_文坛奇兵_先锋诗人_创建年份_page.md
+  visitors: 5
+subdirs: []

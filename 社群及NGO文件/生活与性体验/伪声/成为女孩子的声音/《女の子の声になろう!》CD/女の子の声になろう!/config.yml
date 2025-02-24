@@ -1,0 +1,90 @@
+name: 女の子の声になろう!
+description: 该目录包含与变声训练相关的资源，旨在帮助跨性别女性在声音转变过程中获得技巧和指导。内容涵盖声音改造的各个步骤，包括地声和裏声的训练，适合希望提升声音女性化的个体。
+curator: ''
+source: ''
+tags:
+- 变声训练
+- 跨性别
+- 声音转变
+- 女性化声音
+- 自我提升
+license: ''
+files:
+- name: 01_はじめに
+  filename: 01_はじめに.wma
+  type: other
+  format: Unknown Format
+  size: 621166
+  md5: a4e71fbdeef590db2a974ac35d7c45d0
+  page: 01_はじめに.wma
+- name: 02_紹介
+  filename: 02_紹介.wma
+  type: other
+  format: Unknown Format
+  size: 334314
+  md5: f58ee91a004d4fde5e064cde1755e912
+  page: 02_紹介.wma
+- name: 03_VIP店長の台詞読み上げ
+  filename: 03_VIP店長の台詞読み上げ.wma
+  type: other
+  format: Unknown Format
+  size: 447878
+  md5: e8b99bb00c42eb380bb936142d234335
+  page: 03_VIP店長の台詞読み上げ.wma
+- name: 04_地声を鍛える
+  filename: 04_地声を鍛える.wma
+  type: other
+  format: Unknown Format
+  size: 1469762
+  md5: df37d72464095d46c25defa605ff793a
+  page: 04_地声を鍛える.wma
+- name: 05_裏声の練習
+  filename: 05_裏声の練習.wma
+  type: other
+  format: Unknown Format
+  size: 2354208
+  md5: a180b9e76707685ae3bdefcaa74147fe
+  page: 05_裏声の練習.wma
+- name: 06_ステップ2-裏声を鍛える
+  filename: 06_ステップ2-裏声を鍛える.wma
+  type: other
+  format: Unknown Format
+  size: 1798454
+  md5: a645f8c3d3001c2f4f2e6756e13b1d0c
+  page: 06_ステップ2-裏声を鍛える.wma
+- name: 07_ステップ3-地声と裏声を滑らかに繋げる
+  filename: 07_ステップ3-地声と裏声を滑らかに繋げる.wma
+  type: other
+  format: Unknown Format
+  size: 1374172
+  md5: 6f3d37df41305bc82758a9b8e4b42266
+  page: 07_ステップ3-地声と裏声を滑らかに繋げる.wma
+- name: 08_ステップ4-女声を習得しよう
+  filename: 08_ステップ4-女声を習得しよう.wma
+  type: other
+  format: Unknown Format
+  size: 3322338
+  md5: e19245ea4ac75255bf1575c154b25d7b
+  page: 08_ステップ4-女声を習得しよう.wma
+- name: 09_ビブラートを使いこなそう
+  filename: 09_ビブラートを使いこなそう.wma
+  type: other
+  format: Unknown Format
+  size: 1929926
+  md5: 83e3363392af611c28d9c9a605f32654
+  page: 09_ビブラートを使いこなそう.wma
+- name: 10_ホイッスルボイスを習得する
+  filename: 10_ホイッスルボイスを習得する.wma
+  type: other
+  format: Unknown Format
+  size: 657040
+  md5: 0446695ab3f2f1f3b98c2140707d9270
+  page: 10_ホイッスルボイスを習得する.wma
+- name: 11_男声を習得しよう
+  filename: 11_男声を習得しよう.wma
+  type: other
+  format: Unknown Format
+  size: 931926
+  md5: f348956109abafe1880f9ba8c5a11a55
+  page: 11_男声を習得しよう.wma
+subdirs: []

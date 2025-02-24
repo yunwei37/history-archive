@@ -1,0 +1,363 @@
+name: 法律
+description: 本目录主要收录与中国多元性别及法律相关的学术文献，涵盖变性人群体的法律地位、婚姻权利及社会保护等多方面议题。例如，其中包括陆俊杰的《性别选择与法律的回应》，该文章探讨了性别选择权的法律保护及变性人权益的确认；官晓薇的论文则分析了台湾在同志人权保障方面的发展与法律变迁，特别是在婚姻平权方面的重要进展；同时《2021年中国跨性别权利公众舆论报告》提供了中国跨性别者在公众认知与社会接受度方面的具体数据，揭示了跨性别者在职场及家庭中的现状及挑战。这部分资料不仅为研究多元性别提供了法律视角，同时也反映了社会对性别认同及权利保障的变化与期待。通过对跨性别者的生存现状进行深入分析，这些文献强调了法律与政策制定的必要性，以促进更广泛的性别认同与社会接纳。
+curator: ''
+source: ''
+tags:
+- 多元性别
+- 法律保护
+- 变性人权利
+- 跨性别
+- 婚姻平权
+- 同志人权
+- 社会态度
+- 性别选择权
+- 法律政策
+- 社会运动
+license: ''
+files:
+- name: 2007年4月_陆俊杰_性别选择与法律的回应
+  filename: 2007年4月_陆俊杰_性别选择与法律的回应.pdf
+  type: document
+  format: PDF Document
+  size: 89360
+  md5: a265ff8361560eff7ed4979761f45450
+  page: 2007年4月_陆俊杰_性别选择与法律的回应_page.md
+  visitors: 1
+- name: 2019中研院法學期刊特刊_臺灣民主化後同志人權保障之變遷_官曉薇
+  filename: 2019中研院法學期刊特刊_臺灣民主化後同志人權保障之變遷_官曉薇.pdf
+  type: document
+  format: PDF Document
+  size: 1082346
+  md5: effd2b3fea3d83dfef45d1d4a59c3b53
+  page: 2019中研院法學期刊特刊_臺灣民主化後同志人權保障之變遷_官曉薇_page.md
+  visitors: 3
+- name: 2021年中国跨性别权利公众舆论报告
+  filename: 2021年中国跨性别权利公众舆论报告.pdf
+  type: document
+  format: PDF Document
+  size: 3120548
+  md5: a1e82a1c7df9f780ebeae3ef1ce06a8f
+  page: 2021年中国跨性别权利公众舆论报告_page.md
+  visitors: 11
+- name: LEGAL_GENDER_RECOGNITION_IN_CHINA_A_Legal_and_Policy_Review
+  filename: LEGAL_GENDER_RECOGNITION_IN_CHINA_A_Legal_and_Policy_Review.pdf
+  type: document
+  format: PDF Document
+  size: 1186724
+  md5: dc91e02be76e39ea9cbb6299bf8d6353
+  page: LEGAL_GENDER_RECOGNITION_IN_CHINA_A_Legal_and_Policy_Review_page.md
+- name: PANDEMIC_OR_NOT_WE_HAVE_THE_RIGHT_TO_LIVE
+  filename: PANDEMIC_OR_NOT_WE_HAVE_THE_RIGHT_TO_LIVE.pdf
+  type: document
+  format: PDF Document
+  size: 2741181
+  md5: 086c569e140af0c867a5de8d18052266
+  page: PANDEMIC_OR_NOT_WE_HAVE_THE_RIGHT_TO_LIVE_page.md
+- name: PDF_三個不利跨性身分的迷思_-_Dean_Spade
+  filename: PDF_三個不利跨性身分的迷思_-_Dean_Spade.pdf
+  type: document
+  format: PDF Document
+  size: 213615
+  md5: caa9d96dc54d2f0f8b50a20d8e82c56c
+  page: PDF_三個不利跨性身分的迷思_-_Dean_Spade_page.md
+  visitors: 3
+- name: PDF_司法的跃进与越界_-_反思香港终审法院之变性人结婚权案W_判例
+  filename: PDF_司法的跃进与越界_-_反思香港终审法院之变性人结婚权案W_判例.pdf
+  type: document
+  format: PDF Document
+  size: 1385582
+  md5: c049bf43e39904c3bf40390b65fd09f5
+  page: PDF_司法的跃进与越界_-_反思香港终审法院之变性人结婚权案W_判例_page.md
+- name: PDF_國立臺灣大學法律學院法律學研究所碩士論文跨性別族群之性別自主
+  filename: PDF_國立臺灣大學法律學院法律學研究所碩士論文跨性別族群之性別自主.pdf
+  type: document
+  format: PDF Document
+  size: 2044891
+  md5: 9f407f5dce2bec457f0a65b2fffef188
+  page: PDF_國立臺灣大學法律學院法律學研究所碩士論文跨性別族群之性別自主_page.md
+- name: PDF_法律中性别二元范式的批判及重构
+  filename: PDF_法律中性别二元范式的批判及重构.pdf
+  type: document
+  format: PDF Document
+  size: 403295
+  md5: 344bdda31cb5eff34ae73f3efc00d771
+  page: PDF_法律中性别二元范式的批判及重构_page.md
+- name: PDF_由兩性到性別多元平等
+  filename: PDF_由兩性到性別多元平等.pdf
+  type: document
+  format: PDF Document
+  size: 3848925
+  md5: c2acad6091cae02fba901adbccb5443c
+  page: PDF_由兩性到性別多元平等_page.md
+- name: PDF_跨性别性工作者的需求与权利摘要简报09
+  filename: PDF_跨性别性工作者的需求与权利摘要简报09.pdf
+  type: document
+  format: PDF Document
+  size: 785443
+  md5: 0df5061a4ef88c5ba3809b9c249273e0
+  page: PDF_跨性别性工作者的需求与权利摘要简报09_page.md
+- name: SILENT_CHANGES_TRANSSEXUALS'_-郭晓飞
+  filename: SILENT_CHANGES_TRANSSEXUALS'_-郭晓飞.pdf
+  type: document
+  format: PDF Document
+  size: 304255
+  md5: 47765d504e20e408ac1c2fbadd9e4c8a
+  page: SILENT_CHANGES_TRANSSEXUALS'_-郭晓飞_page.md
+  visitors: 3
+- name: The_Protection_of_Transgender_Workers_in_China
+  filename: The_Protection_of_Transgender_Workers_in_China.pdf
+  type: document
+  format: PDF Document
+  size: 596532
+  md5: aeb2c53afd55c8f9761fa5d593f362c8
+  page: The_Protection_of_Transgender_Workers_in_China_page.md
+  visitors: 5
+- name: transgender_peoples_right_to_marry_in_vietnam_and_other
+  filename: transgender_peoples_right_to_marry_in_vietnam_and_other.pdf
+  type: document
+  format: PDF Document
+  size: 283855
+  md5: 52712977340b4f80284e8fd7a5e967ee
+  page: transgender_peoples_right_to_marry_in_vietnam_and_other_page.md
+  visitors: 3
+- name: 上政法律評論
+  filename: 上政法律評論.pdf
+  type: document
+  format: PDF Document
+  size: 1481182
+  md5: 2c7180f5977929f0a40d52a67692ccb6
+  page: 上政法律評論_page.md
+- name: 中国男女同性恋双性恋和跨性别群体的法律法律地位和法律状态
+  filename: 中国男女同性恋双性恋和跨性别群体的法律法律地位和法律状态.pdf
+  type: document
+  format: PDF Document
+  size: 3732221
+  md5: 95ae9dd112f7b34e447b76717a922790
+  page: 中国男女同性恋双性恋和跨性别群体的法律法律地位和法律状态_page.md
+  visitors: 4
+- name: 中国跨性别者受教育权实现状况及法律对策_刘小楠
+  filename: 中国跨性别者受教育权实现状况及法律对策_刘小楠.pdf
+  type: document
+  format: PDF Document
+  size: 4417739
+  md5: f2389c3af632d5cf061848e78aaeae2b
+  page: 中国跨性别者受教育权实现状况及法律对策_刘小楠_page.md
+  visitors: 1
+- name: 从刻板印象到关系型歧视
+  filename: 从刻板印象到关系型歧视.pdf
+  type: document
+  format: PDF Document
+  size: 1653583
+  md5: aa6fedd94a7b163d1286943917cc700b
+  page: 从刻板印象到关系型歧视_page.md
+  visitors: 1
+- name: 保障性少数群体平等就业权法律政策研究报告_刘明辉_2019.pdf
+  filename: 保障性少数群体平等就业权法律政策研究报告_刘明辉_2019.pdf.pdf
+  type: document
+  format: PDF Document
+  size: 789310
+  md5: ea294345f6265f1b26c8e49fa868f017
+  page: 保障性少数群体平等就业权法律政策研究报告_刘明辉_2019.pdf_page.md
+  visitors: 2
+- name: 关于代孕爸爸事件的生命伦理与法律问题思考
+  filename: 关于代孕爸爸事件的生命伦理与法律问题思考.pdf
+  type: document
+  format: PDF Document
+  size: 98778
+  md5: d1ebfa6d55a58dd502ae44e49fcaaa6b
+  page: 关于代孕爸爸事件的生命伦理与法律问题思考_page.md
+  visitors: 1
+- name: 办理一则特殊公证的心得_陆岗松
+  filename: 办理一则特殊公证的心得_陆岗松.pdf
+  type: document
+  format: PDF Document
+  size: 118247
+  md5: 4823e5ccf25fd084df145c72fa435c86
+  page: 办理一则特殊公证的心得_陆岗松_page.md
+- name: 变性手术算病假_整容手术算病假吗
+  filename: 变性手术算病假_整容手术算病假吗.pdf
+  type: document
+  format: PDF Document
+  size: 316588
+  md5: 3e3d6fe2c9a5dfe23757539272240c57
+  page: 变性手术算病假_整容手术算病假吗_page.md
+- name: 各國跨性別登記制度_中华民国內政部委託研究報告
+  filename: 各國跨性別登記制度_中华民国內政部委託研究報告.pdf
+  type: document
+  format: PDF Document
+  size: 2019808
+  md5: 8b0617cf0a6358de0cb4929aaf7b2d9d
+  page: 各國跨性別登記制度_中华民国內政部委託研究報告_page.md
+- name: 同性婚姻权的性理论分析_熊金才
+  filename: 同性婚姻权的性理论分析_熊金才.pdf
+  type: document
+  format: PDF Document
+  size: 204201
+  md5: c01fbc667c188253bf077ed13f57b30b
+  page: 同性婚姻权的性理论分析_熊金才_page.md
+- name: 器官鹤植硇人身权问题研夯
+  filename: 器官鹤植硇人身权问题研夯.pdf
+  type: document
+  format: PDF Document
+  size: 456427
+  md5: d02042e96c89e15f850e725796ced18e
+  page: 器官鹤植硇人身权问题研夯_page.md
+  visitors: 2
+- name: 国际人权法与性别认同研究报告
+  filename: 国际人权法与性别认同研究报告.pdf
+  type: document
+  format: PDF Document
+  size: 369233
+  md5: 556dc722f2c1cae514113a2570557e78
+  page: 国际人权法与性别认同研究报告_page.md
+  visitors: 1
+- name: 多元与包容倡议报告_高博金_2015
+  filename: 多元与包容倡议报告_高博金_2015.pdf
+  type: document
+  format: PDF Document
+  size: 250749
+  md5: 352909341041828b51c1158e6cce5a51
+  page: 多元与包容倡议报告_高博金_2015_page.md
+- name: 实施变性手术应以法定程序的审理为前提_汤啸天
+  filename: 实施变性手术应以法定程序的审理为前提_汤啸天.pdf
+  type: document
+  format: PDF Document
+  size: 1082794
+  md5: 7b585517f8a86d0d5f5a7b1122e775d0
+  page: 实施变性手术应以法定程序的审理为前提_汤啸天_page.md
+- name: 性_别少数群体平等保护研究_14533241
+  filename: 性_别少数群体平等保护研究_14533241.pdf
+  type: document
+  format: PDF Document
+  size: 35768581
+  md5: 05ac76d0961e4fda724367f32f699d2a
+  page: 性_别少数群体平等保护研究_14533241_page.md
+  visitors: 1
+- name: 性別承認制度的影響與隱憂_龍笑娟_2017
+  filename: 性別承認制度的影響與隱憂_龍笑娟_2017.pdf
+  type: document
+  format: PDF Document
+  size: 130415
+  md5: 0621af6855593b106ec203823d553980
+  page: 性別承認制度的影響與隱憂_龍笑娟_2017_page.md
+- name: 性別認同及雙性人身份歧視的研究報告
+  filename: 性別認同及雙性人身份歧視的研究報告.pdf
+  type: document
+  format: PDF Document
+  size: 4014302
+  md5: 7890d14027256444f7e33a327bc34e59
+  page: 性別認同及雙性人身份歧視的研究報告_page.md
+- name: 性别认同的法律承认
+  filename: 性别认同的法律承认.pdf
+  type: document
+  format: PDF Document
+  size: 596280
+  md5: 621a815d95a0f62f9bddb3345fac88ed
+  page: 性别认同的法律承认_page.md
+  visitors: 1
+- name: 性别选择权性质界定与法权塑造
+  filename: 性别选择权性质界定与法权塑造.pdf
+  type: document
+  format: PDF Document
+  size: 407696
+  md5: d90b25c38feb91d7e8248f89dac4be2c
+  page: 性别选择权性质界定与法权塑造_page.md
+  visitors: 1
+- name: 有關立法禁止性傾向性別認同及雙性人身份歧視的研究報告
+  filename: 有關立法禁止性傾向性別認同及雙性人身份歧視的研究報告.pdf
+  type: document
+  format: PDF Document
+  size: 7652397
+  md5: 3c3581350f8f2370b64bdcce5f22bc93
+  page: 有關立法禁止性傾向性別認同及雙性人身份歧視的研究報告_page.md
+- name: 武装冲突性暴力的法律影响与应对策略_格洛丽亚·加焦利_李强
+  filename: 武装冲突性暴力的法律影响与应对策略_格洛丽亚·加焦利_李强.pdf
+  type: document
+  format: PDF Document
+  size: 1237504
+  md5: d703f40d4580cc105d2acf411abd3d09
+  page: 武装冲突性暴力的法律影响与应对策略_格洛丽亚·加焦利_李强_page.md
+  visitors: 2
+- name: 法律对“变性”的回应_《我国现行法律中性法律的理论与现实盲点研究》课题组
+  filename: 法律对“变性”的回应_《我国现行法律中性法律的理论与现实盲点研究》课题组.pdf
+  type: document
+  format: PDF Document
+  size: 274601
+  md5: 9f8bb50b7825564a97ec99f3b2c5c540
+  page: 法律对“变性”的回应_《我国现行法律中性法律的理论与现实盲点研究》课题组_page.md
+- name: 瑞典性工作法律与废娼主义影响研究_Jay_Levy
+  filename: 瑞典性工作法律与废娼主义影响研究_Jay_Levy.pdf
+  type: document
+  format: PDF Document
+  size: 828017
+  md5: dcba096f615b832f9f8072141a677a34
+  page: 瑞典性工作法律与废娼主义影响研究_Jay_Levy_page.md
+- name: 经济与法律学院
+  filename: 经济与法律学院.pdf
+  type: document
+  format: PDF Document
+  size: 8839718
+  md5: ec93f3c177e89a217219dc47c0340bea
+  page: 经济与法律学院_page.md
+  visitors: 1
+- name: 罪犯变性了怎么办_贾振华
+  filename: 罪犯变性了怎么办_贾振华.pdf
+  type: document
+  format: PDF Document
+  size: 512066
+  md5: abba31a8d03987c51e26191c30978bb1
+  page: 罪犯变性了怎么办_贾振华_page.md
+  visitors: 3
+- name: 美國大學圖書館LGBT館藏發展政策研究_余昇鴻
+  filename: 美國大學圖書館LGBT館藏發展政策研究_余昇鴻.pdf
+  type: document
+  format: PDF Document
+  size: 1089674
+  md5: ff600e0d8a1c14e2f40290b5a3741d89
+  page: 美國大學圖書館LGBT館藏發展政策研究_余昇鴻_page.md
+- name: 聖經對同性戀的立場分析_護教與宣教_2023
+  filename: 聖經對同性戀的立場分析_護教與宣教_2023.pdf
+  type: document
+  format: PDF Document
+  size: 8312731
+  md5: 80da86a35debba00de2539eec10bd234
+  page: 聖經對同性戀的立場分析_護教與宣教_2023_page.md
+  visitors: 1
+- name: 英国反就业歧视法与我国立法之完善
+  filename: 英国反就业歧视法与我国立法之完善.pdf
+  type: document
+  format: PDF Document
+  size: 162
+  md5: bc56979a0b381a791dd59713198a87fb
+  page: 英国反就业歧视法与我国立法之完善_page.md
+- name: 西方国家变性人越来越多众法官束手无策_齐书学
+  filename: 西方国家变性人越来越多众法官束手无策_齐书学.pdf
+  type: document
+  format: PDF Document
+  size: 200720
+  md5: bcd255f7cb3c8a21999a993370bb9803
+  page: 西方国家变性人越来越多众法官束手无策_齐书学_page.md
+  visitors: 1
+- name: 论变性人的性别判定——附一例变性人离婚案件报告_潘永久
+  filename: 论变性人的性别判定——附一例变性人离婚案件报告_潘永久.pdf
+  type: document
+  format: PDF Document
+  size: 169620
+  md5: b82993e0178320ac7d8c8440ec2f2500
+  page: 论变性人的性别判定——附一例变性人离婚案件报告_潘永久_page.md
+  visitors: 7
+- name: 论建立变性人婚姻家庭之特别制度_王正苍
+  filename: 论建立变性人婚姻家庭之特别制度_王正苍.pdf
+  type: document
+  format: PDF Document
+  size: 253933
+  md5: 4c9e4aa1158569743091ab73aa5f54f0
+  page: 论建立变性人婚姻家庭之特别制度_王正苍_page.md
+- name: 谈大正_色情信息法律规制与性权利保护研究
+  filename: 谈大正_色情信息法律规制与性权利保护研究.pdf
+  type: document
+  format: PDF Document
+  size: 171904
+  md5: 1b234b9b2610c78f1bc083b15662de1d
+  page: 谈大正_色情信息法律规制与性权利保护研究_page.md
+subdirs: []

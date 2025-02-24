@@ -1,0 +1,133 @@
+name: 自传
+description: 该目录收录与跨性别相关的自传性文学作品，展示跨性别者的生命故事与过渡经历。自传不仅反映个人的成长与探索，还记录了在社会环境中的真实挑战与心路历程，具有重要的文学价值和社会意义。
+curator: ''
+source: ''
+tags:
+- 跨性别
+- 自传
+- 文学
+- 生命故事
+- 过渡经历
+license: ''
+files:
+- name: 2012年10月_Lesplus杂志_生命故事与跨性别经历
+  filename: 2012年10月_Lesplus杂志_生命故事与跨性别经历.pdf
+  type: document
+  format: PDF Document
+  size: 4549424
+  md5: b09fe55913ffce86e18904717a235385
+  page: 2012年10月_Lesplus杂志_生命故事与跨性别经历_page.md
+  visitors: 35
+- name: 2017_林可欣_孤獨平權路：還雙性孩子自主性別權
+  filename: 2017_林可欣_孤獨平權路：還雙性孩子自主性別權.pdf
+  type: document
+  format: PDF Document
+  size: 527143
+  md5: 27844e06069d222e22b29728a47e2add
+  page: 2017_林可欣_孤獨平權路：還雙性孩子自主性別權_page.md
+  visitors: 32
+- name: 2023年5月多元性别生命故事与过渡经历
+  filename: 2023年5月多元性别生命故事与过渡经历.pdf
+  type: document
+  format: PDF Document
+  size: 754095
+  md5: 18362d4475bdb23f7d0ee1e64e51c5ce
+  page: 2023年5月多元性别生命故事与过渡经历_page.md
+  visitors: 15
+- name: AG手术后悔-网络害人
+  filename: AG手术后悔-网络害人.jpg
+  type: image
+  format: JPEG Image
+  size: 224817
+  md5: 15199ebc5eed9283733bbbb26da4a47e
+  page: AG手术后悔-网络害人.jpg
+- name: PDF_我的雙性人生_-_OII_Europe_歐洲雙性人自我敘說
+  filename: PDF_我的雙性人生_-_OII_Europe_歐洲雙性人自我敘說.pdf
+  type: document
+  format: PDF Document
+  size: 9066765
+  md5: bb61fd329620b1377545be31ed479542
+  page: PDF_我的雙性人生_-_OII_Europe_歐洲雙性人自我敘說_page.md
+  visitors: 58
+- name: PDF_跨性別學生母親的心路歷程與對性平教育的期許
+  filename: PDF_跨性別學生母親的心路歷程與對性平教育的期許.pdf
+  type: document
+  format: PDF Document
+  size: 888496
+  md5: cc990b1faa8a8aa504dd4ae66d448265
+  page: PDF_跨性別學生母親的心路歷程與對性平教育的期許_page.md
+  visitors: 20
+- name: 一个阉人的真实故事
+  filename: 一个阉人的真实故事.pdf
+  type: document
+  format: PDF Document
+  size: 14866511
+  md5: a539d7e7d3d0fc876d00f06ae13a0e37
+  page: 一个阉人的真实故事_page.md
+  visitors: 177
+- name: 从变装到变性_-_他（她）的真实自述
+  filename: 从变装到变性_-_他（她）的真实自述.txt
+  type: document
+  format: Plain Text
+  size: 29100
+  md5: a3b5784e055742edc39f694fff16a9e3
+  page: 从变装到变性_-_他（她）的真实自述_page.md
+  visitors: 599
+- name: 女人梦——中国变性第一人
+  filename: 女人梦——中国变性第一人.pdf
+  type: document
+  format: PDF Document
+  size: 63952472
+  md5: 420882df1ea11f08490be296c1467d2c
+  page: 女人梦——中国变性第一人_page.md
+  visitors: 67
+- name: 我在泰国做“人妖”_尼莎
+  filename: 我在泰国做“人妖”_尼莎.pdf
+  type: document
+  format: PDF Document
+  size: 235626
+  md5: 839f7c0a62dbc921301e9b537b3b9def
+  page: 我在泰国做“人妖”_尼莎_page.md
+  visitors: 131
+- name: 我的一生_刘培麟日记_-_刘培麟_唐冠华_-_2019
+  filename: 我的一生_刘培麟日记_-_刘培麟_唐冠华_-_2019.pdf
+  type: document
+  format: PDF Document
+  size: 12471353
+  md5: 76c60b0a18a36865f4ff6ae4592b3210
+  page: 我的一生_刘培麟日记_-_刘培麟_唐冠华_-_2019_page.md
+  visitors: 40
+- name: 我认为我可能会是跨性别者
+  filename: 我认为我可能会是跨性别者.pdf
+  type: document
+  format: PDF Document
+  size: 1094512
+  md5: e5362a445ea9473840448370527aad34
+  page: 我认为我可能会是跨性别者_page.md
+  visitors: 25
+- name: 拉拉的故事与经历
+  filename: 拉拉的故事与经历.pdf
+  type: document
+  format: PDF Document
+  size: 54830080
+  md5: 8dae726d027069aacd373a2b620c7a63
+  page: 拉拉的故事与经历_page.md
+  visitors: 34
+- name: 泰国“人妖”是这样“炼”成_子——一名广西男青年的自述_杜启荣
+  filename: 泰国“人妖”是这样“炼”成_子——一名广西男青年的自述_杜启荣.pdf
+  type: document
+  format: PDF Document
+  size: 3392142
+  md5: db01be0b858b55c31a645048835e6f1b
+  page: 泰国“人妖”是这样“炼”成_子——一名广西男青年的自述_杜启荣_page.md
+  visitors: 71
+- name: 王均_腐女子的彩虹长征_生命故事分享
+  filename: 王均_腐女子的彩虹长征_生命故事分享.pdf
+  type: document
+  format: PDF Document
+  size: 1697265
+  md5: e360d95b3114d85d0ac7395f46dd3bdc
+  page: 王均_腐女子的彩虹长征_生命故事分享_page.md
+  visitors: 22
+subdirs:
+- 一个阉人的真实故事
